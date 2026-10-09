@@ -1,0 +1,48 @@
+type,hamming,tgt_path,tgt_split,tgt_label,src_path,src_split,src_label
+phash,4,data/release_v0/images/Fil/Fil003.jpg,clinic,melanoma (in situ),data/Atlas dan ISIC2019 (31 classes)/train/Actinic keratosis/ISIC_0029141.jpg,train,Actinic keratosis
+phash,4,data/release_v0/images/Fil/Fil003.jpg,clinic,melanoma (in situ),data/Atlas dan ISIC2019 (31 classes)/train/Nevus/ISIC_0029141.jpg,train,Nevus
+phash,4,data/release_v0/images/Ggl/Ggl010.jpg,derm,reed or spitz nevus,data/Atlas dan ISIC2019 (31 classes)/train/Vascular lesion/ISIC_0025599.jpg,train,Vascular lesion
+phash,4,data/release_v0/images/Ggl/Ggl012.jpg,derm,vascular lesion,data/Atlas dan ISIC2019 (31 classes)/test/Vascular lesion/ISIC_0032409.jpg,test,Vascular lesion
+phash,6,data/release_v0/images/Gzl/gzl42.jpg,derm,blue nevus,data/Atlas dan ISIC2019 (31 classes)/train/Basal Cell Carcinoma/620.jpg,train,Basal Cell Carcinoma
+phash,6,data/release_v0/images/Gzl/gzl42.jpg,derm,blue nevus,data/Atlas dan ISIC2019 (31 classes)/test/Nevus/ISIC_0000384.jpg,test,Nevus
+phash,6,data/release_v0/images/Gzl/gzl42.jpg,derm,blue nevus,data/Atlas dan ISIC2019 (31 classes)/test/Nevus/ISIC_0000523.jpg,test,Nevus
+phash,6,data/release_v0/images/Gzl/gzl70.jpg,derm,clark nevus,data/Atlas dan ISIC2019 (31 classes)/train/Squamous cell carcinoma/ISIC_0026203.jpg,train,Squamous cell carcinoma
+phash,6,data/release_v0/images/Gzl/gzl35.jpg,clinic,clark nevus,data/Atlas dan ISIC2019 (31 classes)/train/Nevus/ISIC_0000271.jpg,train,Nevus
+phash,6,data/release_v0/images/Gzl/gzl36.jpg,derm,clark nevus,data/Atlas dan ISIC2019 (31 classes)/train/Nevus/ISIC_0000227.jpg,train,Nevus
+phash,6,data/release_v0/images/NBL/Nbl088.jpg,derm,reed or spitz nevus,data/Atlas dan ISIC2019 (31 classes)/train/Nevus/ISIC_0000097.jpg,train,Nevus
+phash,6,data/release_v0/images/NDL/Ndl056.jpg,derm,reed or spitz nevus,data/Atlas dan ISIC2019 (31 classes)/train/Nevus/ISIC_0000376.jpg,train,Nevus
+phash,8,data/release_v0/images/Gzl/gzl41.jpg,clinic,blue nevus,data/Atlas dan ISIC2019 (31 classes)/test/Tungiasis/7644.jpg,test,Tungiasis
+phash,8,data/release_v0/images/Gzl/gzl42.jpg,derm,blue nevus,data/Atlas dan ISIC2019 (31 classes)/train/Basal Cell Carcinoma/639.jpg,train,Basal Cell Carcinoma
+phash,8,data/release_v0/images/Gzl/gzl42.jpg,derm,blue nevus,data/Atlas dan ISIC2019 (31 classes)/test/Tungiasis/7644.jpg,test,Tungiasis
+phash,8,data/release_v0/images/NLL/Nll017.jpg,clinic,clark nevus,data/Atlas dan ISIC2019 (31 classes)/train/Vascular lesion/ISIC_0030104.jpg,train,Vascular lesion
+phash,8,data/release_v0/images/NLL/Nll017.jpg,clinic,clark nevus,data/Atlas dan ISIC2019 (31 classes)/test/Vascular lesion/ISIC_0032409.jpg,test,Vascular lesion
+phash,8,data/release_v0/images/Ael/Ael523.jpg,derm,clark nevus,data/Atlas dan ISIC2019 (31 classes)/train/Nevus/ISIC_0000025.jpg,train,Nevus
+phash,8,data/release_v0/images/Gzl/gzl83.jpg,clinic,clark nevus,data/Atlas dan ISIC2019 (31 classes)/train/Basal Cell Carcinoma/img_373.jpg,train,Basal Cell Carcinoma
+phash,8,data/release_v0/images/Gzl/gzl84.jpg,derm,clark nevus,data/Atlas dan ISIC2019 (31 classes)/train/Nevus/ISIC_0000376.jpg,train,Nevus
+phash,8,data/release_v0/images/Gzl/gzl34.jpg,derm,clark nevus,data/Atlas dan ISIC2019 (31 classes)/test/Nevus/ISIC_0000544.jpg,test,Nevus
+phash,8,data/release_v0/images/Gzl/gzl35.jpg,clinic,clark nevus,data/Atlas dan ISIC2019 (31 classes)/train/Nevus/ISIC_0000263.jpg,train,Nevus
+phash,8,data/release_v0/images/Gzl/gzl35.jpg,clinic,clark nevus,data/Atlas dan ISIC2019 (31 classes)/train/Vascular lesion/ISIC_0031719.jpg,train,Vascular lesion
+phash,8,data/release_v0/images/FAL/FAL038.JPG,derm,clark nevus,data/Atlas dan ISIC2019 (31 classes)/test/Vascular lesion/ISIC_0032409.jpg,test,Vascular lesion
+phash,8,data/release_v0/images/FCL/Fcl012.jpg,derm,clark nevus,data/Atlas dan ISIC2019 (31 classes)/train/Actinic keratosis/ISIC_0029141.jpg,train,Actinic keratosis
+phash,8,data/release_v0/images/FCL/Fcl012.jpg,derm,clark nevus,data/Atlas dan ISIC2019 (31 classes)/train/Nevus/ISIC_0029141.jpg,train,Nevus
+phash,8,data/release_v0/images/FCL/Fcl012.jpg,derm,clark nevus,data/Atlas dan ISIC2019 (31 classes)/test/Nevus/ISIC_0000384.jpg,test,Nevus
+phash,8,data/release_v0/images/FCL/Fcl014.jpg,derm,clark nevus,data/Atlas dan ISIC2019 (31 classes)/train/Nevus/ISIC_0000263.jpg,train,Nevus
+phash,8,data/release_v0/images/FEL/Fel067.jpg,clinic,clark nevus,data/Atlas dan ISIC2019 (31 classes)/train/Tungiasis/7655.jpg,train,Tungiasis
+phash,8,data/release_v0/images/FFL/Ffl031.jpg,clinic,clark nevus,data/Atlas dan ISIC2019 (31 classes)/train/Nevus/ISIC_0000449.jpg,train,Nevus
+phash,8,data/release_v0/images/FFL/Ffl100.jpg,derm,clark nevus,data/Atlas dan ISIC2019 (31 classes)/train/Nevus/ISIC_0000376.jpg,train,Nevus
+phash,8,data/release_v0/images/Adl/Adl387bis.jpg,derm,lentigo,data/Atlas dan ISIC2019 (31 classes)/test/Nevus/ISIC_0000384.jpg,test,Nevus
+phash,8,data/release_v0/images/FCL/Fcl039.jpg,clinic,melanoma (in situ),data/Atlas dan ISIC2019 (31 classes)/train/Vascular lesion/ISIC_0031950.jpg,train,Vascular lesion
+phash,8,data/release_v0/images/Fil/Fil031.jpg,clinic,melanoma (less than 0.76 mm),data/Atlas dan ISIC2019 (31 classes)/train/Actinic keratosis/ISIC_0029141.jpg,train,Actinic keratosis
+phash,8,data/release_v0/images/Fil/Fil031.jpg,clinic,melanoma (less than 0.76 mm),data/Atlas dan ISIC2019 (31 classes)/train/Nevus/ISIC_0029141.jpg,train,Nevus
+phash,8,data/release_v0/images/NDL/Ndl056.jpg,derm,reed or spitz nevus,data/Atlas dan ISIC2019 (31 classes)/train/Pigmented Benign Keratosis/ISIC_0025986.jpg,train,Pigmented Benign Keratosis
+phash,8,data/release_v0/images/NDL/Ndl056.jpg,derm,reed or spitz nevus,data/Atlas dan ISIC2019 (31 classes)/train/Seborrheic keratosis/ISIC_0011132.jpg,train,Seborrheic keratosis
+phash,8,data/release_v0/images/NML/NML092.jpg,derm,reed or spitz nevus,data/Atlas dan ISIC2019 (31 classes)/test/Vascular lesion/ISIC_0032409.jpg,test,Vascular lesion
+phash,8,data/release_v0/images/NML/Nml094.jpg,derm,reed or spitz nevus,data/Atlas dan ISIC2019 (31 classes)/train/Seborrheic keratosis/ISIC_0010852.jpg,train,Seborrheic keratosis
+phash,8,data/release_v0/images/Ael/Ael404.jpg,clinic,reed or spitz nevus,data/Atlas dan ISIC2019 (31 classes)/test/Nevus/ISIC_0000384.jpg,test,Nevus
+phash,8,data/release_v0/images/FAL/FAL070.JPG,derm,reed or spitz nevus,data/Atlas dan ISIC2019 (31 classes)/train/Vascular lesion/ISIC_0025599.jpg,train,Vascular lesion
+phash,8,data/release_v0/images/Gzl/gzl18.jpg,derm,seborrheic keratosis,data/Atlas dan ISIC2019 (31 classes)/train/Vascular lesion/ISIC_0030104.jpg,train,Vascular lesion
+phash,8,data/release_v0/images/Fll/Fll104.jpg,derm,seborrheic keratosis,data/Atlas dan ISIC2019 (31 classes)/train/Nevus/ISIC_0000457.jpg,train,Nevus
+phash,8,data/release_v0/images/Ggl/Ggl012.jpg,derm,vascular lesion,data/Atlas dan ISIC2019 (31 classes)/train/Seborrheic keratosis/ISIC_0011030.jpg,train,Seborrheic keratosis
+phash,8,data/release_v0/images/Ggl/Ggl012.jpg,derm,vascular lesion,data/Atlas dan ISIC2019 (31 classes)/train/Vascular lesion/ISIC_0030104.jpg,train,Vascular lesion
+phash,8,data/release_v0/images/Ggl/Ggl014.jpg,derm,vascular lesion,data/Atlas dan ISIC2019 (31 classes)/train/Vascular lesion/ISIC_0029608.jpg,train,Vascular lesion
+phash,8,data/release_v0/images/Ggl/Ggl016.jpg,derm,vascular lesion,data/Atlas dan ISIC2019 (31 classes)/train/Nevus/ISIC_0000376.jpg,train,Nevus

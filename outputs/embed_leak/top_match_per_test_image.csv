@@ -1,0 +1,864 @@
+test,test_class,train,train_class,cosine,source
+data/skin31_clean/test/Herpes Simplex/8789.jpg,Herpes Simplex,data/skin31_clean/train/Herpes Simplex/8788.jpg,Herpes Simplex,0.9820231,Atlas
+data/skin31_clean/test/Porokeratosis Actinic/img_122.jpg,Porokeratosis Actinic,data/skin31_clean/train/Porokeratosis Actinic/img_123.jpg,Porokeratosis Actinic,0.98028064,Atlas
+data/skin31_clean/test/Pityriasis Rosea/5554.jpg,Pityriasis Rosea,data/skin31_clean/train/Pityriasis Rosea/5612.jpg,Pityriasis Rosea,0.9795569,Atlas
+data/skin31_clean/test/Porokeratosis Actinic/img_124.jpg,Porokeratosis Actinic,data/skin31_clean/train/Porokeratosis Actinic/img_123.jpg,Porokeratosis Actinic,0.9729841,Atlas
+data/skin31_clean/test/Porokeratosis Actinic/5923.jpg,Porokeratosis Actinic,data/skin31_clean/train/Porokeratosis Actinic/5922.jpg,Porokeratosis Actinic,0.9702327,Atlas
+data/skin31_clean/test/Lupus Erythematosus Chronicus Discoides/4050.jpg,Lupus Erythematosus Chronicus Discoides,data/skin31_clean/train/Lupus Erythematosus Chronicus Discoides/4058.jpg,Lupus Erythematosus Chronicus Discoides,0.96876013,Atlas
+data/skin31_clean/test/Porokeratosis Actinic/5944.jpg,Porokeratosis Actinic,data/skin31_clean/train/Porokeratosis Actinic/5946.jpg,Porokeratosis Actinic,0.96863246,Atlas
+data/skin31_clean/test/Lupus Erythematosus Chronicus Discoides/8512.jpg,Lupus Erythematosus Chronicus Discoides,data/skin31_clean/train/Lupus Erythematosus Chronicus Discoides/8513.jpg,Lupus Erythematosus Chronicus Discoides,0.9661906,Atlas
+data/skin31_clean/test/Larva Migrans/img_108.jpg,Larva Migrans,data/skin31_clean/train/Larva Migrans/img_106.jpg,Larva Migrans,0.9632187,Atlas
+data/skin31_clean/test/Porokeratosis Actinic/5951.jpg,Porokeratosis Actinic,data/skin31_clean/train/Porokeratosis Actinic/5946.jpg,Porokeratosis Actinic,0.96276355,Atlas
+data/skin31_clean/test/Porokeratosis Actinic/5948.jpg,Porokeratosis Actinic,data/skin31_clean/train/Porokeratosis Actinic/5947.jpg,Porokeratosis Actinic,0.9612019,Atlas
+data/skin31_clean/test/Leprosy Lepromatous/3390.jpg,Leprosy Lepromatous,data/skin31_clean/train/Leprosy Lepromatous/3380.jpg,Leprosy Lepromatous,0.9603169,Atlas
+data/skin31_clean/test/Leprosy Tuberculoid/3606.jpg,Leprosy Tuberculoid,data/skin31_clean/train/Leprosy Tuberculoid/3607.jpg,Leprosy Tuberculoid,0.959154,Atlas
+data/skin31_clean/test/Molluscum Contagiosum/img_97.jpg,Molluscum Contagiosum,data/skin31_clean/train/Molluscum Contagiosum/img_98.jpg,Molluscum Contagiosum,0.9579825,Atlas
+data/skin31_clean/test/Leprosy Lepromatous/img_172.jpg,Leprosy Lepromatous,data/skin31_clean/train/Leprosy Lepromatous/img_174.jpg,Leprosy Lepromatous,0.9577136,Atlas
+data/skin31_clean/test/Melanoma/4270.jpg,Melanoma,data/skin31_clean/train/Melanoma/4271.jpg,Melanoma,0.95751315,Atlas
+data/skin31_clean/test/Leprosy Lepromatous/img_255.jpg,Leprosy Lepromatous,data/skin31_clean/train/Leprosy Lepromatous/img_256.jpg,Leprosy Lepromatous,0.95710087,Atlas
+data/skin31_clean/test/Porokeratosis Actinic/img_86.jpg,Porokeratosis Actinic,data/skin31_clean/train/Porokeratosis Actinic/img_80.jpg,Porokeratosis Actinic,0.95691633,Atlas
+data/skin31_clean/test/Tinea Corporis/8518.jpg,Tinea Corporis,data/skin31_clean/train/Tinea Corporis/8521.jpg,Tinea Corporis,0.95635885,Atlas
+data/skin31_clean/test/Melanoma/11823.jpg,Melanoma,data/skin31_clean/train/Melanoma/11824.jpg,Melanoma,0.95632684,Atlas
+data/skin31_clean/test/Tinea Nigra/7422.jpg,Tinea Nigra,data/skin31_clean/train/Tinea Nigra/7423.jpg,Tinea Nigra,0.95568204,Atlas
+data/skin31_clean/test/Darier_s Disease/8594.jpg,Darier_s Disease,data/skin31_clean/train/Darier_s Disease/8593.jpg,Darier_s Disease,0.9538982,Atlas
+data/skin31_clean/test/Leprosy Tuberculoid/img_182_2.jpg,Leprosy Tuberculoid,data/skin31_clean/train/Leprosy Tuberculoid/img_181_2.jpg,Leprosy Tuberculoid,0.9537392,Atlas
+data/skin31_clean/test/Impetigo/11712.jpg,Impetigo,data/skin31_clean/train/Impetigo/11717.jpg,Impetigo,0.9533237,Atlas
+data/skin31_clean/test/Epidermolysis Bullosa Pruriginosa/1820.jpg,Epidermolysis Bullosa Pruriginosa,data/skin31_clean/train/Epidermolysis Bullosa Pruriginosa/1796.jpg,Epidermolysis Bullosa Pruriginosa,0.95330167,Atlas
+data/skin31_clean/test/Tinea Nigra/10810.jpg,Tinea Nigra,data/skin31_clean/train/Tinea Nigra/10388.jpg,Tinea Nigra,0.95327806,Atlas
+data/skin31_clean/test/Pityriasis Rosea/img_107.jpg,Pityriasis Rosea,data/skin31_clean/train/Pityriasis Rosea/img_106.jpg,Pityriasis Rosea,0.9528855,Atlas
+data/skin31_clean/test/Pigmented Benign Keratosis/ISIC_0028209.jpg,Pigmented Benign Keratosis,data/skin31_clean/train/Pigmented Benign Keratosis/ISIC_0027820.jpg,Pigmented Benign Keratosis,0.9527873,ISIC
+data/skin31_clean/test/Melanoma/4320.jpg,Melanoma,data/skin31_clean/train/Melanoma/4319.jpg,Melanoma,0.9527505,Atlas
+data/skin31_clean/test/Hailey-Hailey Disease/2451.jpg,Hailey-Hailey Disease,data/skin31_clean/train/Hailey-Hailey Disease/2452.jpg,Hailey-Hailey Disease,0.9520861,Atlas
+data/skin31_clean/test/Psoriasis/6310.jpg,Psoriasis,data/skin31_clean/train/Psoriasis/6309.jpg,Psoriasis,0.951754,Atlas
+data/skin31_clean/test/Melanoma/4314.jpg,Melanoma,data/skin31_clean/train/Melanoma/4315.jpg,Melanoma,0.95044464,Atlas
+data/skin31_clean/test/Epidermolysis Bullosa Pruriginosa/1769.jpg,Epidermolysis Bullosa Pruriginosa,data/skin31_clean/train/Epidermolysis Bullosa Pruriginosa/1771.jpg,Epidermolysis Bullosa Pruriginosa,0.94967467,Atlas
+data/skin31_clean/test/Leprosy Tuberculoid/img_221_2.jpg,Leprosy Tuberculoid,data/skin31_clean/train/Leprosy Tuberculoid/img_220_2.jpg,Leprosy Tuberculoid,0.94958574,Atlas
+data/skin31_clean/test/Leprosy Lepromatous/img_216.jpg,Leprosy Lepromatous,data/skin31_clean/train/Leprosy Lepromatous/img_217.jpg,Leprosy Lepromatous,0.9493048,Atlas
+data/skin31_clean/test/Porokeratosis Actinic/5970.jpg,Porokeratosis Actinic,data/skin31_clean/train/Porokeratosis Actinic/5972.jpg,Porokeratosis Actinic,0.94816786,Atlas
+data/skin31_clean/test/Molluscum Contagiosum/img_131.jpg,Molluscum Contagiosum,data/skin31_clean/train/Molluscum Contagiosum/img_133.jpg,Molluscum Contagiosum,0.94806194,Atlas
+data/skin31_clean/test/Leprosy Tuberculoid/img_231_2.jpg,Leprosy Tuberculoid,data/skin31_clean/train/Leprosy Tuberculoid/img_181_2.jpg,Leprosy Tuberculoid,0.94801104,Atlas
+data/skin31_clean/test/Tinea Nigra/img_106.jpg,Tinea Nigra,data/skin31_clean/train/Tinea Nigra/10302.jpg,Tinea Nigra,0.94754034,Atlas
+data/skin31_clean/test/Lichen Planus/3834.jpg,Lichen Planus,data/skin31_clean/train/Lichen Planus/3833.jpg,Lichen Planus,0.9466583,Atlas
+data/skin31_clean/test/Lichen Planus/3793.jpg,Lichen Planus,data/skin31_clean/train/Lichen Planus/3791.jpg,Lichen Planus,0.9464372,Atlas
+data/skin31_clean/test/Larva Migrans/img_112.jpg,Larva Migrans,data/skin31_clean/train/Larva Migrans/img_113.jpg,Larva Migrans,0.9462476,Atlas
+data/skin31_clean/test/Tinea Corporis/7261.jpg,Tinea Corporis,data/skin31_clean/train/Tinea Corporis/7235.jpg,Tinea Corporis,0.9459735,Atlas
+data/skin31_clean/test/Papilomatosis Confluentes And Reticulate/5058.jpg,Papilomatosis Confluentes And Reticulate,data/skin31_clean/train/Papilomatosis Confluentes And Reticulate/5060.jpg,Papilomatosis Confluentes And Reticulate,0.9454018,Atlas
+data/skin31_clean/test/Hailey-Hailey Disease/img_109.jpg,Hailey-Hailey Disease,data/skin31_clean/train/Hailey-Hailey Disease/img_116.jpg,Hailey-Hailey Disease,0.9450021,Atlas
+data/skin31_clean/test/Papilomatosis Confluentes And Reticulate/9156.jpg,Papilomatosis Confluentes And Reticulate,data/skin31_clean/train/Papilomatosis Confluentes And Reticulate/9157.jpg,Papilomatosis Confluentes And Reticulate,0.94462526,Atlas
+data/skin31_clean/test/Lichen Planus/3806.jpg,Lichen Planus,data/skin31_clean/train/Lichen Planus/3804.jpg,Lichen Planus,0.9446075,Atlas
+data/skin31_clean/test/Darier_s Disease/8587.jpg,Darier_s Disease,data/skin31_clean/train/Darier_s Disease/8590.jpg,Darier_s Disease,0.9441294,Atlas
+data/skin31_clean/test/Hailey-Hailey Disease/2450.jpg,Hailey-Hailey Disease,data/skin31_clean/train/Hailey-Hailey Disease/2448.jpg,Hailey-Hailey Disease,0.94281924,Atlas
+data/skin31_clean/test/Leprosy Lepromatous/img_218.jpg,Leprosy Lepromatous,data/skin31_clean/train/Leprosy Lepromatous/img_217.jpg,Leprosy Lepromatous,0.9414203,Atlas
+data/skin31_clean/test/Lichen Planus/img_117.jpg,Lichen Planus,data/skin31_clean/train/Lichen Planus/img_115.jpg,Lichen Planus,0.9410628,Atlas
+data/skin31_clean/test/Leprosy Borderline/img_118_2.jpg,Leprosy Borderline,data/skin31_clean/train/Leprosy Borderline/img_117_2.jpg,Leprosy Borderline,0.9410329,Atlas
+data/skin31_clean/test/Epidermolysis Bullosa Pruriginosa/1824.jpg,Epidermolysis Bullosa Pruriginosa,data/skin31_clean/train/Epidermolysis Bullosa Pruriginosa/1814.jpg,Epidermolysis Bullosa Pruriginosa,0.94059676,Atlas
+data/skin31_clean/test/Hailey-Hailey Disease/2393.jpg,Hailey-Hailey Disease,data/skin31_clean/train/Hailey-Hailey Disease/2392.jpg,Hailey-Hailey Disease,0.94052315,Atlas
+data/skin31_clean/test/Leprosy Tuberculoid/3569.jpg,Leprosy Tuberculoid,data/skin31_clean/train/Leprosy Tuberculoid/img_230_2.jpg,Leprosy Tuberculoid,0.9402029,Atlas
+data/skin31_clean/test/Basal Cell Carcinoma/img_395.jpg,Basal Cell Carcinoma,data/skin31_clean/train/Molluscum Contagiosum/4408.jpg,Molluscum Contagiosum,0.94011295,Atlas
+data/skin31_clean/test/Tinea Nigra/7444.jpg,Tinea Nigra,data/skin31_clean/train/Tinea Nigra/7445.jpg,Tinea Nigra,0.9399123,Atlas
+data/skin31_clean/test/Basal Cell Carcinoma/589.jpg,Basal Cell Carcinoma,data/skin31_clean/train/Basal Cell Carcinoma/588.jpg,Basal Cell Carcinoma,0.9396619,Atlas
+data/skin31_clean/test/Porokeratosis Actinic/5941.jpg,Porokeratosis Actinic,data/skin31_clean/train/Porokeratosis Actinic/5937.jpg,Porokeratosis Actinic,0.93918383,Atlas
+data/skin31_clean/test/Basal Cell Carcinoma/img_270.jpg,Basal Cell Carcinoma,data/skin31_clean/train/Basal Cell Carcinoma/img_271.jpg,Basal Cell Carcinoma,0.9386108,Atlas
+data/skin31_clean/test/Hailey-Hailey Disease/2418.jpg,Hailey-Hailey Disease,data/skin31_clean/train/Hailey-Hailey Disease/2417.jpg,Hailey-Hailey Disease,0.93823326,Atlas
+data/skin31_clean/test/Tinea Corporis/7286.jpg,Tinea Corporis,data/skin31_clean/train/Tinea Corporis/7282.jpg,Tinea Corporis,0.9380552,Atlas
+data/skin31_clean/test/Hailey-Hailey Disease/img_101.jpg,Hailey-Hailey Disease,data/skin31_clean/train/Hailey-Hailey Disease/2419.jpg,Hailey-Hailey Disease,0.9377337,Atlas
+data/skin31_clean/test/Pigmented Benign Keratosis/ISIC_0024383.jpg,Pigmented Benign Keratosis,data/skin31_clean/train/Pigmented Benign Keratosis/ISIC_0026566.jpg,Pigmented Benign Keratosis,0.9374599,ISIC
+data/skin31_clean/test/Epidermolysis Bullosa Pruriginosa/1782.jpg,Epidermolysis Bullosa Pruriginosa,data/skin31_clean/train/Epidermolysis Bullosa Pruriginosa/1776.jpg,Epidermolysis Bullosa Pruriginosa,0.937374,Atlas
+data/skin31_clean/test/Basal Cell Carcinoma/img_161.jpg,Basal Cell Carcinoma,data/skin31_clean/train/Leprosy Tuberculoid/3590.jpg,Leprosy Tuberculoid,0.9369122,Atlas
+data/skin31_clean/test/Porokeratosis Actinic/5952.jpg,Porokeratosis Actinic,data/skin31_clean/train/Porokeratosis Actinic/5953.jpg,Porokeratosis Actinic,0.9362053,Atlas
+data/skin31_clean/test/Larva Migrans/3194.jpg,Larva Migrans,data/skin31_clean/train/Larva Migrans/3193.jpg,Larva Migrans,0.93580866,Atlas
+data/skin31_clean/test/Pigmented Benign Keratosis/ISIC_0027388.jpg,Pigmented Benign Keratosis,data/skin31_clean/train/Squamous cell carcinoma/ISIC_0026327.jpg,Squamous cell carcinoma,0.9357009,ISIC
+data/skin31_clean/test/Porokeratosis Actinic/img_84.jpg,Porokeratosis Actinic,data/skin31_clean/train/Porokeratosis Actinic/img_90.jpg,Porokeratosis Actinic,0.935638,Atlas
+data/skin31_clean/test/Tinea Nigra/10306.jpg,Tinea Nigra,data/skin31_clean/train/Tinea Nigra/10303.jpg,Tinea Nigra,0.9353806,Atlas
+data/skin31_clean/test/Molluscum Contagiosum/4430.jpg,Molluscum Contagiosum,data/skin31_clean/train/Molluscum Contagiosum/4431.jpg,Molluscum Contagiosum,0.935374,Atlas
+data/skin31_clean/test/Hailey-Hailey Disease/img_105.jpg,Hailey-Hailey Disease,data/skin31_clean/train/Hailey-Hailey Disease/img_114.jpg,Hailey-Hailey Disease,0.9350815,Atlas
+data/skin31_clean/test/Basal Cell Carcinoma/img_305.jpg,Basal Cell Carcinoma,data/skin31_clean/train/Basal Cell Carcinoma/639.jpg,Basal Cell Carcinoma,0.9350807,Atlas
+data/skin31_clean/test/Hailey-Hailey Disease/img_135.jpg,Hailey-Hailey Disease,data/skin31_clean/train/Hailey-Hailey Disease/img_134.jpg,Hailey-Hailey Disease,0.93480694,Atlas
+data/skin31_clean/test/Lichen Planus/img_120.jpg,Lichen Planus,data/skin31_clean/train/Lichen Planus/img_123.jpg,Lichen Planus,0.93457425,Atlas
+data/skin31_clean/test/Psoriasis/11854.jpg,Psoriasis,data/skin31_clean/train/Psoriasis/11852.jpg,Psoriasis,0.9343765,Atlas
+data/skin31_clean/test/Leprosy Lepromatous/img_224.jpg,Leprosy Lepromatous,data/skin31_clean/train/Leprosy Borderline/img_135_2.jpg,Leprosy Borderline,0.9343109,Atlas
+data/skin31_clean/test/Melanoma/10968.jpg,Melanoma,data/skin31_clean/train/Melanoma/10967.jpg,Melanoma,0.9341041,Atlas
+data/skin31_clean/test/Pigmented Benign Keratosis/ISIC_0028201.jpg,Pigmented Benign Keratosis,data/skin31_clean/train/Pigmented Benign Keratosis/ISIC_0026298.jpg,Pigmented Benign Keratosis,0.93346715,ISIC
+data/skin31_clean/test/Epidermolysis Bullosa Pruriginosa/9921.jpg,Epidermolysis Bullosa Pruriginosa,data/skin31_clean/train/Epidermolysis Bullosa Pruriginosa/9923.jpg,Epidermolysis Bullosa Pruriginosa,0.9328753,Atlas
+data/skin31_clean/test/Hailey-Hailey Disease/img_139.jpg,Hailey-Hailey Disease,data/skin31_clean/train/Hailey-Hailey Disease/img_137.jpg,Hailey-Hailey Disease,0.9328595,Atlas
+data/skin31_clean/test/Melanoma/4281.jpg,Melanoma,data/skin31_clean/train/Melanoma/4282.jpg,Melanoma,0.9325751,Atlas
+data/skin31_clean/test/Leprosy Lepromatous/img_214.jpg,Leprosy Lepromatous,data/skin31_clean/train/Leprosy Lepromatous/img_213.jpg,Leprosy Lepromatous,0.9322134,Atlas
+data/skin31_clean/test/Hailey-Hailey Disease/img_103.jpg,Hailey-Hailey Disease,data/skin31_clean/train/Hailey-Hailey Disease/img_99.jpg,Hailey-Hailey Disease,0.9320072,Atlas
+data/skin31_clean/test/Porokeratosis Actinic/img_95.jpg,Porokeratosis Actinic,data/skin31_clean/train/Porokeratosis Actinic/5962.jpg,Porokeratosis Actinic,0.93179905,Atlas
+data/skin31_clean/test/Dermatofibroma/ISIC_0025594.jpg,Dermatofibroma,data/skin31_clean/train/Dermatofibroma/ISIC_0025314.jpg,Dermatofibroma,0.93179727,ISIC
+data/skin31_clean/test/Leprosy Tuberculoid/img_174_2.jpg,Leprosy Tuberculoid,data/skin31_clean/train/Leprosy Tuberculoid/img_175_2.jpg,Leprosy Tuberculoid,0.9308953,Atlas
+data/skin31_clean/test/Pigmented Benign Keratosis/ISIC_0024505.jpg,Pigmented Benign Keratosis,data/skin31_clean/train/Nevus/ISIC_0000272.jpg,Nevus,0.9305841,ISIC
+data/skin31_clean/test/Darier_s Disease/11599.jpg,Darier_s Disease,data/skin31_clean/train/Darier_s Disease/11597.jpg,Darier_s Disease,0.93001354,Atlas
+data/skin31_clean/test/Larva Migrans/img_131.jpg,Larva Migrans,data/skin31_clean/train/Hailey-Hailey Disease/2398.jpg,Hailey-Hailey Disease,0.9297453,Atlas
+data/skin31_clean/test/Nevus/ISIC_0000378.jpg,Nevus,data/skin31_clean/train/Nevus/ISIC_0000455.jpg,Nevus,0.9296669,ISIC
+data/skin31_clean/test/Impetigo/2800.jpg,Impetigo,data/skin31_clean/train/Impetigo/2801.jpg,Impetigo,0.9295824,Atlas
+data/skin31_clean/test/Impetigo/2781.jpg,Impetigo,data/skin31_clean/train/Impetigo/2784.jpg,Impetigo,0.9295597,Atlas
+data/skin31_clean/test/Neurofibromatosis/4818.jpg,Neurofibromatosis,data/skin31_clean/train/Neurofibromatosis/4811.jpg,Neurofibromatosis,0.9295391,Atlas
+data/skin31_clean/test/Vascular lesion/ISIC_0031276.jpg,Vascular lesion,data/skin31_clean/train/Vascular lesion/ISIC_0030104.jpg,Vascular lesion,0.9293617,ISIC
+data/skin31_clean/test/Tungiasis/img_101.jpg,Tungiasis,data/skin31_clean/train/Tungiasis/img_103.jpg,Tungiasis,0.9283306,Atlas
+data/skin31_clean/test/Pityriasis Rosea/5572.jpg,Pityriasis Rosea,data/skin31_clean/train/Larva Migrans/3171.jpg,Larva Migrans,0.9282651,Atlas
+data/skin31_clean/test/Tungiasis/7714.jpg,Tungiasis,data/skin31_clean/train/Tungiasis/7711.jpg,Tungiasis,0.92767656,Atlas
+data/skin31_clean/test/Leprosy Lepromatous/3437.jpg,Leprosy Lepromatous,data/skin31_clean/train/Leprosy Lepromatous/3436.jpg,Leprosy Lepromatous,0.9274998,Atlas
+data/skin31_clean/test/Larva Migrans/3145.jpg,Larva Migrans,data/skin31_clean/train/Molluscum Contagiosum/4408.jpg,Molluscum Contagiosum,0.92733246,Atlas
+data/skin31_clean/test/Impetigo/2831.jpg,Impetigo,data/skin31_clean/train/Impetigo/2832.jpg,Impetigo,0.9271295,Atlas
+data/skin31_clean/test/Squamous cell carcinoma/ISIC_0028335.jpg,Squamous cell carcinoma,data/skin31_clean/train/Pigmented Benign Keratosis/ISIC_0026961.jpg,Pigmented Benign Keratosis,0.926625,ISIC
+data/skin31_clean/test/Pigmented Benign Keratosis/ISIC_0026280.jpg,Pigmented Benign Keratosis,data/skin31_clean/train/Pigmented Benign Keratosis/ISIC_0028258.jpg,Pigmented Benign Keratosis,0.9264129,ISIC
+data/skin31_clean/test/Pityriasis Rosea/img_98.jpg,Pityriasis Rosea,data/skin31_clean/train/Pityriasis Rosea/img_99.jpg,Pityriasis Rosea,0.92634416,Atlas
+data/skin31_clean/test/Neurofibromatosis/img_84_2.jpg,Neurofibromatosis,data/skin31_clean/train/Neurofibromatosis/img_83_2.jpg,Neurofibromatosis,0.9259831,Atlas
+data/skin31_clean/test/Tinea Corporis/7225.jpg,Tinea Corporis,data/skin31_clean/train/Darier_s Disease/1315.jpg,Darier_s Disease,0.925964,Atlas
+data/skin31_clean/test/Tinea Nigra/9877.jpg,Tinea Nigra,data/skin31_clean/train/Tinea Nigra/7419.jpg,Tinea Nigra,0.92585826,Atlas
+data/skin31_clean/test/Psoriasis/11818.jpg,Psoriasis,data/skin31_clean/train/Psoriasis/11822.jpg,Psoriasis,0.925473,Atlas
+data/skin31_clean/test/Porokeratosis Actinic/img_91.jpg,Porokeratosis Actinic,data/skin31_clean/train/Porokeratosis Actinic/img_90.jpg,Porokeratosis Actinic,0.92478013,Atlas
+data/skin31_clean/test/Melanoma/4312.jpg,Melanoma,data/skin31_clean/train/Melanoma/4313.jpg,Melanoma,0.9242799,Atlas
+data/skin31_clean/test/Pityriasis Rosea/5596.jpg,Pityriasis Rosea,data/skin31_clean/train/Pityriasis Rosea/5599.jpg,Pityriasis Rosea,0.9241107,Atlas
+data/skin31_clean/test/Papilomatosis Confluentes And Reticulate/9153.jpg,Papilomatosis Confluentes And Reticulate,data/skin31_clean/train/Papilomatosis Confluentes And Reticulate/9151.jpg,Papilomatosis Confluentes And Reticulate,0.92385507,Atlas
+data/skin31_clean/test/Basal Cell Carcinoma/img_418.jpg,Basal Cell Carcinoma,data/skin31_clean/train/Basal Cell Carcinoma/img_417.jpg,Basal Cell Carcinoma,0.9234791,Atlas
+data/skin31_clean/test/Squamous cell carcinoma/ISIC_0030821.jpg,Squamous cell carcinoma,data/skin31_clean/train/Pigmented Benign Keratosis/ISIC_0025575.jpg,Pigmented Benign Keratosis,0.92343223,ISIC
+data/skin31_clean/test/Dermatofibroma/ISIC_0025911.jpg,Dermatofibroma,data/skin31_clean/train/Dermatofibroma/ISIC_0030665.jpg,Dermatofibroma,0.9233336,ISIC
+data/skin31_clean/test/Pityriasis Rosea/5585.jpg,Pityriasis Rosea,data/skin31_clean/train/Leprosy Lepromatous/img_134.jpg,Leprosy Lepromatous,0.9231665,Atlas
+data/skin31_clean/test/Larva Migrans/img_121.jpg,Larva Migrans,data/skin31_clean/train/Larva Migrans/img_122.jpg,Larva Migrans,0.923141,Atlas
+data/skin31_clean/test/Basal Cell Carcinoma/img_296.jpg,Basal Cell Carcinoma,data/skin31_clean/train/Basal Cell Carcinoma/img_302.jpg,Basal Cell Carcinoma,0.923051,Atlas
+data/skin31_clean/test/Leprosy Lepromatous/img_156.jpg,Leprosy Lepromatous,data/skin31_clean/train/Leprosy Lepromatous/img_157.jpg,Leprosy Lepromatous,0.92303526,Atlas
+data/skin31_clean/test/Epidermolysis Bullosa Pruriginosa/1764.jpg,Epidermolysis Bullosa Pruriginosa,data/skin31_clean/train/Epidermolysis Bullosa Pruriginosa/9802.jpg,Epidermolysis Bullosa Pruriginosa,0.9229672,Atlas
+data/skin31_clean/test/Epidermolysis Bullosa Pruriginosa/1798.jpg,Epidermolysis Bullosa Pruriginosa,data/skin31_clean/train/Epidermolysis Bullosa Pruriginosa/1804.jpg,Epidermolysis Bullosa Pruriginosa,0.9227232,Atlas
+data/skin31_clean/test/Leprosy Borderline/3322.jpg,Leprosy Borderline,data/skin31_clean/train/Leprosy Borderline/3323.jpg,Leprosy Borderline,0.9226326,Atlas
+data/skin31_clean/test/Pityriasis Rosea/5627.jpg,Pityriasis Rosea,data/skin31_clean/train/Pityriasis Rosea/5626.jpg,Pityriasis Rosea,0.92204237,Atlas
+data/skin31_clean/test/Hailey-Hailey Disease/img_132.jpg,Hailey-Hailey Disease,data/skin31_clean/train/Hailey-Hailey Disease/2448.jpg,Hailey-Hailey Disease,0.9214244,Atlas
+data/skin31_clean/test/Porokeratosis Actinic/img_106.jpg,Porokeratosis Actinic,data/skin31_clean/train/Porokeratosis Actinic/img_103.jpg,Porokeratosis Actinic,0.9211298,Atlas
+data/skin31_clean/test/Pityriasis Rosea/5559.jpg,Pityriasis Rosea,data/skin31_clean/train/Leprosy Lepromatous/img_243.jpg,Leprosy Lepromatous,0.9209149,Atlas
+data/skin31_clean/test/Tinea Nigra/7418.jpg,Tinea Nigra,data/skin31_clean/train/Tinea Nigra/7419.jpg,Tinea Nigra,0.9208623,Atlas
+data/skin31_clean/test/Darier_s Disease/1312.jpg,Darier_s Disease,data/skin31_clean/train/Darier_s Disease/1315.jpg,Darier_s Disease,0.9202053,Atlas
+data/skin31_clean/test/Larva Migrans/img_79.jpg,Larva Migrans,data/skin31_clean/train/Larva Migrans/img_81.jpg,Larva Migrans,0.9201519,Atlas
+data/skin31_clean/test/Tungiasis/img_109.jpg,Tungiasis,data/skin31_clean/train/Tungiasis/img_110.jpg,Tungiasis,0.9201114,Atlas
+data/skin31_clean/test/Leprosy Tuberculoid/img_130_2.jpg,Leprosy Tuberculoid,data/skin31_clean/train/Leprosy Tuberculoid/img_131_2.jpg,Leprosy Tuberculoid,0.9197588,Atlas
+data/skin31_clean/test/Basal Cell Carcinoma/img_343.jpg,Basal Cell Carcinoma,data/skin31_clean/train/Basal Cell Carcinoma/img_284.jpg,Basal Cell Carcinoma,0.91967726,Atlas
+data/skin31_clean/test/Impetigo/12295.jpg,Impetigo,data/skin31_clean/train/Impetigo/12296.jpg,Impetigo,0.91943824,Atlas
+data/skin31_clean/test/Lupus Erythematosus Chronicus Discoides/9683.jpg,Lupus Erythematosus Chronicus Discoides,data/skin31_clean/train/Lupus Erythematosus Chronicus Discoides/9682.jpg,Lupus Erythematosus Chronicus Discoides,0.91938806,Atlas
+data/skin31_clean/test/Papilomatosis Confluentes And Reticulate/8435.jpg,Papilomatosis Confluentes And Reticulate,data/skin31_clean/train/Papilomatosis Confluentes And Reticulate/5085.jpg,Papilomatosis Confluentes And Reticulate,0.919366,Atlas
+data/skin31_clean/test/Epidermolysis Bullosa Pruriginosa/1805.jpg,Epidermolysis Bullosa Pruriginosa,data/skin31_clean/train/Epidermolysis Bullosa Pruriginosa/1825.jpg,Epidermolysis Bullosa Pruriginosa,0.9190835,Atlas
+data/skin31_clean/test/Tinea Nigra/9881.jpg,Tinea Nigra,data/skin31_clean/train/Tinea Nigra/10389.jpg,Tinea Nigra,0.9190449,Atlas
+data/skin31_clean/test/Porokeratosis Actinic/5977.jpg,Porokeratosis Actinic,data/skin31_clean/train/Porokeratosis Actinic/img_94.jpg,Porokeratosis Actinic,0.91903406,Atlas
+data/skin31_clean/test/Epidermolysis Bullosa Pruriginosa/1777.jpg,Epidermolysis Bullosa Pruriginosa,data/skin31_clean/train/Epidermolysis Bullosa Pruriginosa/1780.jpg,Epidermolysis Bullosa Pruriginosa,0.91900647,Atlas
+data/skin31_clean/test/Nevus/ISIC_0000037.jpg,Nevus,data/skin31_clean/train/Nevus/ISIC_0000000.jpg,Nevus,0.9189804,ISIC
+data/skin31_clean/test/Leprosy Tuberculoid/3589.jpg,Leprosy Tuberculoid,data/skin31_clean/train/Porokeratosis Actinic/5946.jpg,Porokeratosis Actinic,0.91893935,Atlas
+data/skin31_clean/test/Lichen Planus/img_112.jpg,Lichen Planus,data/skin31_clean/train/Psoriasis/11855.jpg,Psoriasis,0.9185381,Atlas
+data/skin31_clean/test/Hailey-Hailey Disease/2455.jpg,Hailey-Hailey Disease,data/skin31_clean/train/Hailey-Hailey Disease/2395.jpg,Hailey-Hailey Disease,0.9182168,Atlas
+data/skin31_clean/test/Hailey-Hailey Disease/img_129.jpg,Hailey-Hailey Disease,data/skin31_clean/train/Hailey-Hailey Disease/img_130.jpg,Hailey-Hailey Disease,0.91814554,Atlas
+data/skin31_clean/test/Leprosy Tuberculoid/img_199_2.jpg,Leprosy Tuberculoid,data/skin31_clean/train/Leprosy Tuberculoid/3562.jpg,Leprosy Tuberculoid,0.9178698,Atlas
+data/skin31_clean/test/Psoriasis/11800.jpg,Psoriasis,data/skin31_clean/train/Psoriasis/11799.jpg,Psoriasis,0.91780174,Atlas
+data/skin31_clean/test/Tungiasis/img_128.jpg,Tungiasis,data/skin31_clean/train/Tungiasis/img_129.jpg,Tungiasis,0.9175195,Atlas
+data/skin31_clean/test/Mycosis Fungoides/8414.jpg,Mycosis Fungoides,data/skin31_clean/train/Mycosis Fungoides/8416.jpg,Mycosis Fungoides,0.91738826,Atlas
+data/skin31_clean/test/Herpes Simplex/2570.jpg,Herpes Simplex,data/skin31_clean/train/Herpes Simplex/2571.jpg,Herpes Simplex,0.9172772,Atlas
+data/skin31_clean/test/Leprosy Lepromatous/img_151.jpg,Leprosy Lepromatous,data/skin31_clean/train/Leprosy Lepromatous/img_152.jpg,Leprosy Lepromatous,0.91722274,Atlas
+data/skin31_clean/test/Epidermolysis Bullosa Pruriginosa/1795.jpg,Epidermolysis Bullosa Pruriginosa,data/skin31_clean/train/Epidermolysis Bullosa Pruriginosa/1812.jpg,Epidermolysis Bullosa Pruriginosa,0.91715467,Atlas
+data/skin31_clean/test/Epidermolysis Bullosa Pruriginosa/1810.jpg,Epidermolysis Bullosa Pruriginosa,data/skin31_clean/train/Epidermolysis Bullosa Pruriginosa/1801.jpg,Epidermolysis Bullosa Pruriginosa,0.9169263,Atlas
+data/skin31_clean/test/Leprosy Tuberculoid/img_203_2.jpg,Leprosy Tuberculoid,data/skin31_clean/train/Leprosy Tuberculoid/img_141_2.jpg,Leprosy Tuberculoid,0.9167518,Atlas
+data/skin31_clean/test/Basal Cell Carcinoma/img_259.jpg,Basal Cell Carcinoma,data/skin31_clean/train/Basal Cell Carcinoma/img_260.jpg,Basal Cell Carcinoma,0.9165189,Atlas
+data/skin31_clean/test/Papilomatosis Confluentes And Reticulate/5079.jpg,Papilomatosis Confluentes And Reticulate,data/skin31_clean/train/Papilomatosis Confluentes And Reticulate/5078.jpg,Papilomatosis Confluentes And Reticulate,0.91591364,Atlas
+data/skin31_clean/test/Neurofibromatosis/4814.jpg,Neurofibromatosis,data/skin31_clean/train/Neurofibromatosis/4812.jpg,Neurofibromatosis,0.9157629,Atlas
+data/skin31_clean/test/Nevus/ISIC_0000011.jpg,Nevus,data/skin31_clean/train/Nevus/ISIC_0000015.jpg,Nevus,0.9156889,ISIC
+data/skin31_clean/test/Pigmented Benign Keratosis/ISIC_0028525.jpg,Pigmented Benign Keratosis,data/skin31_clean/train/Actinic keratosis/ISIC_0029830.jpg,Actinic keratosis,0.9156022,ISIC
+data/skin31_clean/test/Basal Cell Carcinoma/img_337.jpg,Basal Cell Carcinoma,data/skin31_clean/train/Basal Cell Carcinoma/img_342.jpg,Basal Cell Carcinoma,0.91525674,Atlas
+data/skin31_clean/test/Larva Migrans/img_107.jpg,Larva Migrans,data/skin31_clean/train/Herpes Simplex/2588.jpg,Herpes Simplex,0.9152295,Atlas
+data/skin31_clean/test/Pityriasis Rosea/5597.jpg,Pityriasis Rosea,data/skin31_clean/train/Pityriasis Rosea/5598.jpg,Pityriasis Rosea,0.915129,Atlas
+data/skin31_clean/test/Leprosy Tuberculoid/3605.jpg,Leprosy Tuberculoid,data/skin31_clean/train/Pityriasis Rosea/img_125.jpg,Pityriasis Rosea,0.9147166,Atlas
+data/skin31_clean/test/Mycosis Fungoides/img_96_2.jpg,Mycosis Fungoides,data/skin31_clean/train/Mycosis Fungoides/img_97_2.jpg,Mycosis Fungoides,0.9145994,Atlas
+data/skin31_clean/test/Melanoma/4256.jpg,Melanoma,data/skin31_clean/train/Melanoma/4317.jpg,Melanoma,0.9144814,Atlas
+data/skin31_clean/test/Tinea Nigra/7457.jpg,Tinea Nigra,data/skin31_clean/train/Tinea Nigra/7447.jpg,Tinea Nigra,0.9144362,Atlas
+data/skin31_clean/test/Leprosy Tuberculoid/3549.jpg,Leprosy Tuberculoid,data/skin31_clean/train/Hailey-Hailey Disease/2400.jpg,Hailey-Hailey Disease,0.9142932,Atlas
+data/skin31_clean/test/Basal Cell Carcinoma/img_201.jpg,Basal Cell Carcinoma,data/skin31_clean/train/Basal Cell Carcinoma/img_202.jpg,Basal Cell Carcinoma,0.91413045,Atlas
+data/skin31_clean/test/Tinea Corporis/7302.jpg,Tinea Corporis,data/skin31_clean/train/Tinea Corporis/7307.jpg,Tinea Corporis,0.91351795,Atlas
+data/skin31_clean/test/Epidermolysis Bullosa Pruriginosa/1829.jpg,Epidermolysis Bullosa Pruriginosa,data/skin31_clean/train/Epidermolysis Bullosa Pruriginosa/1823.jpg,Epidermolysis Bullosa Pruriginosa,0.9130854,Atlas
+data/skin31_clean/test/Pityriasis Rosea/img_87.jpg,Pityriasis Rosea,data/skin31_clean/train/Pityriasis Rosea/5631.jpg,Pityriasis Rosea,0.9129899,Atlas
+data/skin31_clean/test/Epidermolysis Bullosa Pruriginosa/9919.jpg,Epidermolysis Bullosa Pruriginosa,data/skin31_clean/train/Epidermolysis Bullosa Pruriginosa/9922.jpg,Epidermolysis Bullosa Pruriginosa,0.91280663,Atlas
+data/skin31_clean/test/Squamous cell carcinoma/ISIC_0027678.jpg,Squamous cell carcinoma,data/skin31_clean/train/Pigmented Benign Keratosis/ISIC_0026634.jpg,Pigmented Benign Keratosis,0.9125856,ISIC
+data/skin31_clean/test/Leprosy Lepromatous/img_212.jpg,Leprosy Lepromatous,data/skin31_clean/train/Leprosy Lepromatous/img_217.jpg,Leprosy Lepromatous,0.91253376,Atlas
+data/skin31_clean/test/Actinic keratosis/ISIC_0027172.jpg,Actinic keratosis,data/skin31_clean/train/Actinic keratosis/ISIC_0032135.jpg,Actinic keratosis,0.91169333,ISIC
+data/skin31_clean/test/Lupus Erythematosus Chronicus Discoides/4090.jpg,Lupus Erythematosus Chronicus Discoides,data/skin31_clean/train/Lupus Erythematosus Chronicus Discoides/4089.jpg,Lupus Erythematosus Chronicus Discoides,0.9111092,Atlas
+data/skin31_clean/test/Pigmented Benign Keratosis/ISIC_0027239.jpg,Pigmented Benign Keratosis,data/skin31_clean/train/Dermatofibroma/ISIC_0031344.jpg,Dermatofibroma,0.9108826,ISIC
+data/skin31_clean/test/Leprosy Tuberculoid/8746.jpg,Leprosy Tuberculoid,data/skin31_clean/train/Leprosy Tuberculoid/8744.jpg,Leprosy Tuberculoid,0.9107902,Atlas
+data/skin31_clean/test/Melanoma/4248.jpg,Melanoma,data/skin31_clean/train/Melanoma/4247.jpg,Melanoma,0.91074294,Atlas
+data/skin31_clean/test/Nevus/ISIC_0000051.jpg,Nevus,data/skin31_clean/train/Nevus/ISIC_0000375.jpg,Nevus,0.91072077,ISIC
+data/skin31_clean/test/Leprosy Borderline/3319.jpg,Leprosy Borderline,data/skin31_clean/train/Leprosy Borderline/3318.jpg,Leprosy Borderline,0.9106656,Atlas
+data/skin31_clean/test/Nevus/ISIC_0000258.jpg,Nevus,data/skin31_clean/train/Nevus/ISIC_0000455.jpg,Nevus,0.9104818,ISIC
+data/skin31_clean/test/Leprosy Borderline/img_83_2.jpg,Leprosy Borderline,data/skin31_clean/train/Leprosy Borderline/img_85_2.jpg,Leprosy Borderline,0.91047394,Atlas
+data/skin31_clean/test/Porokeratosis Actinic/img_126.jpg,Porokeratosis Actinic,data/skin31_clean/train/Porokeratosis Actinic/img_127.jpg,Porokeratosis Actinic,0.9102244,Atlas
+data/skin31_clean/test/Neurofibromatosis/4813.jpg,Neurofibromatosis,data/skin31_clean/train/Neurofibromatosis/4811.jpg,Neurofibromatosis,0.91007805,Atlas
+data/skin31_clean/test/Lichen Planus/3788.jpg,Lichen Planus,data/skin31_clean/train/Lichen Planus/3786.jpg,Lichen Planus,0.9095814,Atlas
+data/skin31_clean/test/Lupus Erythematosus Chronicus Discoides/4079.jpg,Lupus Erythematosus Chronicus Discoides,data/skin31_clean/train/Lupus Erythematosus Chronicus Discoides/4078.jpg,Lupus Erythematosus Chronicus Discoides,0.9091182,Atlas
+data/skin31_clean/test/Pigmented Benign Keratosis/ISIC_0026422.jpg,Pigmented Benign Keratosis,data/skin31_clean/train/Pigmented Benign Keratosis/ISIC_0026783.jpg,Pigmented Benign Keratosis,0.9089202,ISIC
+data/skin31_clean/test/Leprosy Borderline/img_98_2.jpg,Leprosy Borderline,data/skin31_clean/train/Leprosy Borderline/img_99_2.jpg,Leprosy Borderline,0.90880024,Atlas
+data/skin31_clean/test/Pityriasis Rosea/img_93.jpg,Pityriasis Rosea,data/skin31_clean/train/Pityriasis Rosea/img_90.jpg,Pityriasis Rosea,0.9084971,Atlas
+data/skin31_clean/test/Larva Migrans/img_136.jpg,Larva Migrans,data/skin31_clean/train/Leprosy Tuberculoid/img_113_2.jpg,Leprosy Tuberculoid,0.9078761,Atlas
+data/skin31_clean/test/Leprosy Lepromatous/3411.jpg,Leprosy Lepromatous,data/skin31_clean/train/Leprosy Lepromatous/3412.jpg,Leprosy Lepromatous,0.9078592,Atlas
+data/skin31_clean/test/Tinea Nigra/10485.jpg,Tinea Nigra,data/skin31_clean/train/Tinea Nigra/10255.jpg,Tinea Nigra,0.90779835,Atlas
+data/skin31_clean/test/Leprosy Tuberculoid/3556.jpg,Leprosy Tuberculoid,data/skin31_clean/train/Leprosy Tuberculoid/3555.jpg,Leprosy Tuberculoid,0.9075752,Atlas
+data/skin31_clean/test/Vascular lesion/ISIC_0027856.jpg,Vascular lesion,data/skin31_clean/train/Vascular lesion/ISIC_0024375.jpg,Vascular lesion,0.90753007,ISIC
+data/skin31_clean/test/Pigmented Benign Keratosis/ISIC_0025066.jpg,Pigmented Benign Keratosis,data/skin31_clean/train/Squamous cell carcinoma/ISIC_0029610.jpg,Squamous cell carcinoma,0.90745497,ISIC
+data/skin31_clean/test/Nevus/ISIC_0000544.jpg,Nevus,data/skin31_clean/train/Nevus/ISIC_0000221.jpg,Nevus,0.90743387,ISIC
+data/skin31_clean/test/Actinic keratosis/ISIC_0032206.jpg,Actinic keratosis,data/skin31_clean/train/Actinic keratosis/ISIC_0025605.jpg,Actinic keratosis,0.9070818,ISIC
+data/skin31_clean/test/Tinea Corporis/7233.jpg,Tinea Corporis,data/skin31_clean/train/Hailey-Hailey Disease/img_120.jpg,Hailey-Hailey Disease,0.9070615,Atlas
+data/skin31_clean/test/Larva Migrans/3182.jpg,Larva Migrans,data/skin31_clean/train/Larva Migrans/3181.jpg,Larva Migrans,0.90695983,Atlas
+data/skin31_clean/test/Leprosy Tuberculoid/img_170_2.jpg,Leprosy Tuberculoid,data/skin31_clean/train/Leprosy Tuberculoid/img_232_2.jpg,Leprosy Tuberculoid,0.9067479,Atlas
+data/skin31_clean/test/Leprosy Lepromatous/img_207.jpg,Leprosy Lepromatous,data/skin31_clean/train/Leprosy Lepromatous/img_205.jpg,Leprosy Lepromatous,0.90647686,Atlas
+data/skin31_clean/test/Leprosy Borderline/img_123_2.jpg,Leprosy Borderline,data/skin31_clean/train/Leprosy Borderline/img_124_2.jpg,Leprosy Borderline,0.9064552,Atlas
+data/skin31_clean/test/Pigmented Benign Keratosis/ISIC_0025982.jpg,Pigmented Benign Keratosis,data/skin31_clean/train/Pigmented Benign Keratosis/ISIC_0026961.jpg,Pigmented Benign Keratosis,0.9059864,ISIC
+data/skin31_clean/test/Tungiasis/img_130.jpg,Tungiasis,data/skin31_clean/train/Tungiasis/img_127.jpg,Tungiasis,0.90585667,Atlas
+data/skin31_clean/test/Leprosy Borderline/3282.jpg,Leprosy Borderline,data/skin31_clean/train/Pityriasis Rosea/5579.jpg,Pityriasis Rosea,0.9057685,Atlas
+data/skin31_clean/test/Melanoma/4252.jpg,Melanoma,data/skin31_clean/train/Melanoma/4269.jpg,Melanoma,0.9056499,Atlas
+data/skin31_clean/test/Lichen Planus/3844.jpg,Lichen Planus,data/skin31_clean/train/Lichen Planus/3843.jpg,Lichen Planus,0.90563154,Atlas
+data/skin31_clean/test/Basal Cell Carcinoma/img_375.jpg,Basal Cell Carcinoma,data/skin31_clean/train/Basal Cell Carcinoma/img_374.jpg,Basal Cell Carcinoma,0.90547705,Atlas
+data/skin31_clean/test/Nevus/ISIC_0000386.jpg,Nevus,data/skin31_clean/train/Nevus/ISIC_0000240.jpg,Nevus,0.9054644,ISIC
+data/skin31_clean/test/Psoriasis/11805.jpg,Psoriasis,data/skin31_clean/train/Psoriasis/11807.jpg,Psoriasis,0.905257,Atlas
+data/skin31_clean/test/Molluscum Contagiosum/img_121.jpg,Molluscum Contagiosum,data/skin31_clean/train/Molluscum Contagiosum/img_120.jpg,Molluscum Contagiosum,0.905114,Atlas
+data/skin31_clean/test/Tungiasis/7700.jpg,Tungiasis,data/skin31_clean/train/Tungiasis/7701.jpg,Tungiasis,0.9049832,Atlas
+data/skin31_clean/test/Neurofibromatosis/4810.jpg,Neurofibromatosis,data/skin31_clean/train/Neurofibromatosis/4812.jpg,Neurofibromatosis,0.90495974,Atlas
+data/skin31_clean/test/Tinea Nigra/7460.jpg,Tinea Nigra,data/skin31_clean/train/Larva Migrans/3172.jpg,Larva Migrans,0.9049469,Atlas
+data/skin31_clean/test/Melanoma/9382.jpg,Melanoma,data/skin31_clean/train/Melanoma/9381.jpg,Melanoma,0.9049339,Atlas
+data/skin31_clean/test/Basal Cell Carcinoma/img_160.jpg,Basal Cell Carcinoma,data/skin31_clean/train/Basal Cell Carcinoma/img_159.jpg,Basal Cell Carcinoma,0.90472364,Atlas
+data/skin31_clean/test/Tinea Nigra/7430.jpg,Tinea Nigra,data/skin31_clean/train/Tinea Nigra/7431.jpg,Tinea Nigra,0.9038892,Atlas
+data/skin31_clean/test/Squamous cell carcinoma/ISIC_0028763.jpg,Squamous cell carcinoma,data/skin31_clean/train/Squamous cell carcinoma/ISIC_0032277.jpg,Squamous cell carcinoma,0.90384793,ISIC
+data/skin31_clean/test/Lupus Erythematosus Chronicus Discoides/4053.jpg,Lupus Erythematosus Chronicus Discoides,data/skin31_clean/train/Leprosy Tuberculoid/3591.jpg,Leprosy Tuberculoid,0.9038451,Atlas
+data/skin31_clean/test/Pigmented Benign Keratosis/ISIC_0027026.jpg,Pigmented Benign Keratosis,data/skin31_clean/train/Dermatofibroma/ISIC_0031344.jpg,Dermatofibroma,0.90373933,ISIC
+data/skin31_clean/test/Leprosy Lepromatous/img_196.jpg,Leprosy Lepromatous,data/skin31_clean/train/Leprosy Lepromatous/img_198.jpg,Leprosy Lepromatous,0.90373135,Atlas
+data/skin31_clean/test/Epidermolysis Bullosa Pruriginosa/1802.jpg,Epidermolysis Bullosa Pruriginosa,data/skin31_clean/train/Epidermolysis Bullosa Pruriginosa/1803.jpg,Epidermolysis Bullosa Pruriginosa,0.9036538,Atlas
+data/skin31_clean/test/Nevus/ISIC_0000380.jpg,Nevus,data/skin31_clean/train/Nevus/ISIC_0000451.jpg,Nevus,0.9036078,ISIC
+data/skin31_clean/test/Impetigo/2821.jpg,Impetigo,data/skin31_clean/train/Impetigo/2820.jpg,Impetigo,0.9035405,Atlas
+data/skin31_clean/test/Impetigo/2805.jpg,Impetigo,data/skin31_clean/train/Impetigo/2808.jpg,Impetigo,0.90350795,Atlas
+data/skin31_clean/test/Actinic keratosis/ISIC_0030344.jpg,Actinic keratosis,data/skin31_clean/train/Squamous cell carcinoma/ISIC_0030803.jpg,Squamous cell carcinoma,0.9032999,ISIC
+data/skin31_clean/test/Hailey-Hailey Disease/2408.jpg,Hailey-Hailey Disease,data/skin31_clean/train/Hailey-Hailey Disease/2409.jpg,Hailey-Hailey Disease,0.9031886,Atlas
+data/skin31_clean/test/Leprosy Tuberculoid/3604.jpg,Leprosy Tuberculoid,data/skin31_clean/train/Leprosy Lepromatous/img_134.jpg,Leprosy Lepromatous,0.9031084,Atlas
+data/skin31_clean/test/Pigmented Benign Keratosis/ISIC_0027954.jpg,Pigmented Benign Keratosis,data/skin31_clean/train/Pigmented Benign Keratosis/ISIC_0025330.jpg,Pigmented Benign Keratosis,0.90286165,ISIC
+data/skin31_clean/test/Basal Cell Carcinoma/img_407.jpg,Basal Cell Carcinoma,data/skin31_clean/train/Basal Cell Carcinoma/img_406.jpg,Basal Cell Carcinoma,0.9026725,Atlas
+data/skin31_clean/test/Squamous cell carcinoma/ISIC_0030953.jpg,Squamous cell carcinoma,data/skin31_clean/train/Nevus/ISIC_0000086.jpg,Nevus,0.9023187,ISIC
+data/skin31_clean/test/Mycosis Fungoides/img_89_2.jpg,Mycosis Fungoides,data/skin31_clean/train/Mycosis Fungoides/img_88_2.jpg,Mycosis Fungoides,0.9022639,Atlas
+data/skin31_clean/test/Epidermolysis Bullosa Pruriginosa/1807.jpg,Epidermolysis Bullosa Pruriginosa,data/skin31_clean/train/Epidermolysis Bullosa Pruriginosa/1817.jpg,Epidermolysis Bullosa Pruriginosa,0.90220666,Atlas
+data/skin31_clean/test/Psoriasis/6304.jpg,Psoriasis,data/skin31_clean/train/Psoriasis/6305.jpg,Psoriasis,0.90218294,Atlas
+data/skin31_clean/test/Melanoma/4283.jpg,Melanoma,data/skin31_clean/train/Melanoma/4282.jpg,Melanoma,0.90201235,Atlas
+data/skin31_clean/test/Tinea Corporis/7305.jpg,Tinea Corporis,data/skin31_clean/train/Tinea Corporis/7306.jpg,Tinea Corporis,0.9019784,Atlas
+data/skin31_clean/test/Molluscum Contagiosum/4434.jpg,Molluscum Contagiosum,data/skin31_clean/train/Basal Cell Carcinoma/img_356.jpg,Basal Cell Carcinoma,0.90161467,Atlas
+data/skin31_clean/test/Hailey-Hailey Disease/img_131.jpg,Hailey-Hailey Disease,data/skin31_clean/train/Hailey-Hailey Disease/2401.jpg,Hailey-Hailey Disease,0.901482,Atlas
+data/skin31_clean/test/Leprosy Tuberculoid/3616.jpg,Leprosy Tuberculoid,data/skin31_clean/train/Leprosy Tuberculoid/3531.jpg,Leprosy Tuberculoid,0.90140676,Atlas
+data/skin31_clean/test/Squamous cell carcinoma/ISIC_0030785.jpg,Squamous cell carcinoma,data/skin31_clean/train/Pigmented Benign Keratosis/ISIC_0025928.jpg,Pigmented Benign Keratosis,0.9013095,ISIC
+data/skin31_clean/test/Leprosy Lepromatous/img_250.jpg,Leprosy Lepromatous,data/skin31_clean/train/Leprosy Lepromatous/img_249.jpg,Leprosy Lepromatous,0.90125203,Atlas
+data/skin31_clean/test/Dermatofibroma/ISIC_0028651.jpg,Dermatofibroma,data/skin31_clean/train/Nevus/ISIC_0000092.jpg,Nevus,0.90103096,ISIC
+data/skin31_clean/test/Lichen Planus/img_113.jpg,Lichen Planus,data/skin31_clean/train/Lichen Planus/img_114.jpg,Lichen Planus,0.9009608,Atlas
+data/skin31_clean/test/Tinea Nigra/7415.jpg,Tinea Nigra,data/skin31_clean/train/Tinea Nigra/10303.jpg,Tinea Nigra,0.90094376,Atlas
+data/skin31_clean/test/Squamous cell carcinoma/ISIC_0025196.jpg,Squamous cell carcinoma,data/skin31_clean/train/Pigmented Benign Keratosis/ISIC_0027806.jpg,Pigmented Benign Keratosis,0.9007135,ISIC
+data/skin31_clean/test/Pigmented Benign Keratosis/ISIC_0027811.jpg,Pigmented Benign Keratosis,data/skin31_clean/train/Pigmented Benign Keratosis/ISIC_0024770.jpg,Pigmented Benign Keratosis,0.9006133,ISIC
+data/skin31_clean/test/Tinea Nigra/7466.jpg,Tinea Nigra,data/skin31_clean/train/Tinea Nigra/7441.jpg,Tinea Nigra,0.900458,Atlas
+data/skin31_clean/test/Basal Cell Carcinoma/650.jpg,Basal Cell Carcinoma,data/skin31_clean/train/Melanoma/4249.jpg,Melanoma,0.90019304,Atlas
+data/skin31_clean/test/Leprosy Tuberculoid/3615.jpg,Leprosy Tuberculoid,data/skin31_clean/train/Leprosy Tuberculoid/3614.jpg,Leprosy Tuberculoid,0.8997187,Atlas
+data/skin31_clean/test/Lichen Planus/3831.jpg,Lichen Planus,data/skin31_clean/train/Lichen Planus/3832.jpg,Lichen Planus,0.89963377,Atlas
+data/skin31_clean/test/Tinea Corporis/8793.jpg,Tinea Corporis,data/skin31_clean/train/Tinea Corporis/8795.jpg,Tinea Corporis,0.89944065,Atlas
+data/skin31_clean/test/Lichen Planus/img_97.jpg,Lichen Planus,data/skin31_clean/train/Larva Migrans/3175.jpg,Larva Migrans,0.89931995,Atlas
+data/skin31_clean/test/Mycosis Fungoides/img_86_2.jpg,Mycosis Fungoides,data/skin31_clean/train/Tinea Corporis/7265.jpg,Tinea Corporis,0.8989277,Atlas
+data/skin31_clean/test/Molluscum Contagiosum/4452.jpg,Molluscum Contagiosum,data/skin31_clean/train/Larva Migrans/3148.jpg,Larva Migrans,0.8988629,Atlas
+data/skin31_clean/test/Leprosy Borderline/9666.jpg,Leprosy Borderline,data/skin31_clean/train/Leprosy Borderline/9660.jpg,Leprosy Borderline,0.89877623,Atlas
+data/skin31_clean/test/Pigmented Benign Keratosis/ISIC_0027332.jpg,Pigmented Benign Keratosis,data/skin31_clean/train/Pigmented Benign Keratosis/ISIC_0026959.jpg,Pigmented Benign Keratosis,0.8983817,ISIC
+data/skin31_clean/test/Leprosy Borderline/img_91_2.jpg,Leprosy Borderline,data/skin31_clean/train/Papilomatosis Confluentes And Reticulate/5095.jpg,Papilomatosis Confluentes And Reticulate,0.8981485,Atlas
+data/skin31_clean/test/Papilomatosis Confluentes And Reticulate/5091.jpg,Papilomatosis Confluentes And Reticulate,data/skin31_clean/train/Papilomatosis Confluentes And Reticulate/5093.jpg,Papilomatosis Confluentes And Reticulate,0.897926,Atlas
+data/skin31_clean/test/Darier_s Disease/1290.jpg,Darier_s Disease,data/skin31_clean/train/Darier_s Disease/1315.jpg,Darier_s Disease,0.89787096,Atlas
+data/skin31_clean/test/Leprosy Tuberculoid/img_169_2.jpg,Leprosy Tuberculoid,data/skin31_clean/train/Leprosy Borderline/3302.jpg,Leprosy Borderline,0.897769,Atlas
+data/skin31_clean/test/Tinea Corporis/7296.jpg,Tinea Corporis,data/skin31_clean/train/Leprosy Lepromatous/img_240.jpg,Leprosy Lepromatous,0.8975902,Atlas
+data/skin31_clean/test/Nevus/ISIC_0000537.jpg,Nevus,data/skin31_clean/train/Nevus/ISIC_0000468.jpg,Nevus,0.8974364,ISIC
+data/skin31_clean/test/Dermatofibroma/ISIC_0027141.jpg,Dermatofibroma,data/skin31_clean/train/Squamous cell carcinoma/ISIC_0026100.jpg,Squamous cell carcinoma,0.89739573,ISIC
+data/skin31_clean/test/Basal Cell Carcinoma/img_222.jpg,Basal Cell Carcinoma,data/skin31_clean/train/Basal Cell Carcinoma/img_221.jpg,Basal Cell Carcinoma,0.8971902,Atlas
+data/skin31_clean/test/Vascular lesion/ISIC_0032409.jpg,Vascular lesion,data/skin31_clean/train/Vascular lesion/ISIC_0031103.jpg,Vascular lesion,0.8969351,ISIC
+data/skin31_clean/test/Tinea Corporis/8519.jpg,Tinea Corporis,data/skin31_clean/train/Tinea Corporis/8521.jpg,Tinea Corporis,0.8969285,Atlas
+data/skin31_clean/test/Melanoma/11316.jpg,Melanoma,data/skin31_clean/train/Melanoma/4296.jpg,Melanoma,0.896482,Atlas
+data/skin31_clean/test/Impetigo/2816.jpg,Impetigo,data/skin31_clean/train/Tinea Corporis/7237.jpg,Tinea Corporis,0.8963016,Atlas
+data/skin31_clean/test/Nevus/ISIC_0000008.jpg,Nevus,data/skin31_clean/train/Nevus/ISIC_0000474.jpg,Nevus,0.89598763,ISIC
+data/skin31_clean/test/Leprosy Tuberculoid/img_222_2.jpg,Leprosy Tuberculoid,data/skin31_clean/train/Leprosy Tuberculoid/img_220_2.jpg,Leprosy Tuberculoid,0.8959571,Atlas
+data/skin31_clean/test/Vascular lesion/ISIC_0025452.jpg,Vascular lesion,data/skin31_clean/train/Vascular lesion/ISIC_0025677.jpg,Vascular lesion,0.8959158,ISIC
+data/skin31_clean/test/Nevus/ISIC_0000510.jpg,Nevus,data/skin31_clean/train/Nevus/ISIC_0000483.jpg,Nevus,0.8954939,ISIC
+data/skin31_clean/test/Pityriasis Rosea/img_113.jpg,Pityriasis Rosea,data/skin31_clean/train/Lichen Planus/3809.jpg,Lichen Planus,0.8952844,Atlas
+data/skin31_clean/test/Basal Cell Carcinoma/img_207.jpg,Basal Cell Carcinoma,data/skin31_clean/train/Basal Cell Carcinoma/img_208.jpg,Basal Cell Carcinoma,0.8949442,Atlas
+data/skin31_clean/test/Leprosy Lepromatous/img_203.jpg,Leprosy Lepromatous,data/skin31_clean/train/Leprosy Tuberculoid/3633.jpg,Leprosy Tuberculoid,0.8948271,Atlas
+data/skin31_clean/test/Lupus Erythematosus Chronicus Discoides/9617.jpg,Lupus Erythematosus Chronicus Discoides,data/skin31_clean/train/Lupus Erythematosus Chronicus Discoides/4070.jpg,Lupus Erythematosus Chronicus Discoides,0.89473665,Atlas
+data/skin31_clean/test/Vascular lesion/ISIC_0027888.jpg,Vascular lesion,data/skin31_clean/train/Vascular lesion/ISIC_0029742.jpg,Vascular lesion,0.8944914,ISIC
+data/skin31_clean/test/Nevus/ISIC_0000532.jpg,Nevus,data/skin31_clean/train/Nevus/ISIC_0000470.jpg,Nevus,0.8944744,ISIC
+data/skin31_clean/test/Squamous cell carcinoma/ISIC_0028816.jpg,Squamous cell carcinoma,data/skin31_clean/train/Actinic keratosis/ISIC_0026194.jpg,Actinic keratosis,0.8944485,ISIC
+data/skin31_clean/test/Nevus/ISIC_0000387.jpg,Nevus,data/skin31_clean/train/Nevus/ISIC_0000422.jpg,Nevus,0.89433575,ISIC
+data/skin31_clean/test/Hailey-Hailey Disease/2424.jpg,Hailey-Hailey Disease,data/skin31_clean/train/Porokeratosis Actinic/img_123.jpg,Porokeratosis Actinic,0.89416933,Atlas
+data/skin31_clean/test/Squamous cell carcinoma/ISIC_0032356.jpg,Squamous cell carcinoma,data/skin31_clean/train/Squamous cell carcinoma/ISIC_0025350.jpg,Squamous cell carcinoma,0.8941474,ISIC
+data/skin31_clean/test/Leprosy Tuberculoid/3624.jpg,Leprosy Tuberculoid,data/skin31_clean/train/Leprosy Tuberculoid/3623.jpg,Leprosy Tuberculoid,0.8939171,Atlas
+data/skin31_clean/test/Pigmented Benign Keratosis/ISIC_0028121.jpg,Pigmented Benign Keratosis,data/skin31_clean/train/Squamous cell carcinoma/ISIC_0031659.jpg,Squamous cell carcinoma,0.8938988,ISIC
+data/skin31_clean/test/Nevus/ISIC_0000534.jpg,Nevus,data/skin31_clean/train/Nevus/ISIC_0000491.jpg,Nevus,0.8938891,ISIC
+data/skin31_clean/test/Vascular lesion/ISIC_0032057.jpg,Vascular lesion,data/skin31_clean/train/Vascular lesion/ISIC_0025707.jpg,Vascular lesion,0.89388335,ISIC
+data/skin31_clean/test/Basal Cell Carcinoma/img_209.jpg,Basal Cell Carcinoma,data/skin31_clean/train/Basal Cell Carcinoma/img_297.jpg,Basal Cell Carcinoma,0.8936226,Atlas
+data/skin31_clean/test/Tinea Nigra/9875.jpg,Tinea Nigra,data/skin31_clean/train/Tinea Nigra/9876.jpg,Tinea Nigra,0.8933338,Atlas
+data/skin31_clean/test/Dermatofibroma/ISIC_0031799.jpg,Dermatofibroma,data/skin31_clean/train/Dermatofibroma/ISIC_0029130.jpg,Dermatofibroma,0.8930429,ISIC
+data/skin31_clean/test/Leprosy Lepromatous/img_200.jpg,Leprosy Lepromatous,data/skin31_clean/train/Leprosy Lepromatous/img_201.jpg,Leprosy Lepromatous,0.8929447,Atlas
+data/skin31_clean/test/Leprosy Tuberculoid/3626.jpg,Leprosy Tuberculoid,data/skin31_clean/train/Basal Cell Carcinoma/img_294.jpg,Basal Cell Carcinoma,0.8929225,Atlas
+data/skin31_clean/test/Porokeratosis Actinic/img_115.jpg,Porokeratosis Actinic,data/skin31_clean/train/Pityriasis Rosea/img_110.jpg,Pityriasis Rosea,0.89283264,Atlas
+data/skin31_clean/test/Basal Cell Carcinoma/592.jpg,Basal Cell Carcinoma,data/skin31_clean/train/Basal Cell Carcinoma/531.jpg,Basal Cell Carcinoma,0.89278793,Atlas
+data/skin31_clean/test/Papilomatosis Confluentes And Reticulate/5086.jpg,Papilomatosis Confluentes And Reticulate,data/skin31_clean/train/Papilomatosis Confluentes And Reticulate/5073.jpg,Papilomatosis Confluentes And Reticulate,0.89247084,Atlas
+data/skin31_clean/test/Molluscum Contagiosum/img_125.jpg,Molluscum Contagiosum,data/skin31_clean/train/Herpes Simplex/2587.jpg,Herpes Simplex,0.8923747,Atlas
+data/skin31_clean/test/Leprosy Tuberculoid/3578.jpg,Leprosy Tuberculoid,data/skin31_clean/train/Leprosy Lepromatous/img_79.jpg,Leprosy Lepromatous,0.89229023,Atlas
+data/skin31_clean/test/Pigmented Benign Keratosis/ISIC_0026912.jpg,Pigmented Benign Keratosis,data/skin31_clean/train/Pigmented Benign Keratosis/ISIC_0026263.jpg,Pigmented Benign Keratosis,0.89205974,ISIC
+data/skin31_clean/test/Leprosy Lepromatous/img_131.jpg,Leprosy Lepromatous,data/skin31_clean/train/Leprosy Lepromatous/img_129.jpg,Leprosy Lepromatous,0.89170337,Atlas
+data/skin31_clean/test/Squamous cell carcinoma/ISIC_0027577.jpg,Squamous cell carcinoma,data/skin31_clean/train/Dermatofibroma/ISIC_0028926.jpg,Dermatofibroma,0.89151907,ISIC
+data/skin31_clean/test/Squamous cell carcinoma/ISIC_0024710.jpg,Squamous cell carcinoma,data/skin31_clean/train/Squamous cell carcinoma/ISIC_0031692.jpg,Squamous cell carcinoma,0.89140165,ISIC
+data/skin31_clean/test/Basal Cell Carcinoma/img_414.jpg,Basal Cell Carcinoma,data/skin31_clean/train/Basal Cell Carcinoma/img_392.jpg,Basal Cell Carcinoma,0.8913897,Atlas
+data/skin31_clean/test/Nevus/ISIC_0000430.jpg,Nevus,data/skin31_clean/train/Pigmented Benign Keratosis/ISIC_0024477.jpg,Pigmented Benign Keratosis,0.89126694,ISIC
+data/skin31_clean/test/Basal Cell Carcinoma/img_390.jpg,Basal Cell Carcinoma,data/skin31_clean/train/Basal Cell Carcinoma/615.jpg,Basal Cell Carcinoma,0.89115787,Atlas
+data/skin31_clean/test/Squamous cell carcinoma/ISIC_0028224.jpg,Squamous cell carcinoma,data/skin31_clean/train/Pigmented Benign Keratosis/ISIC_0024477.jpg,Pigmented Benign Keratosis,0.89105064,ISIC
+data/skin31_clean/test/Pediculosis Capitis/9560.jpg,Pediculosis Capitis,data/skin31_clean/train/Pediculosis Capitis/9578.jpg,Pediculosis Capitis,0.8910275,Atlas
+data/skin31_clean/test/Pityriasis Rosea/5595.jpg,Pityriasis Rosea,data/skin31_clean/train/Pityriasis Rosea/5598.jpg,Pityriasis Rosea,0.89100397,Atlas
+data/skin31_clean/test/Pigmented Benign Keratosis/ISIC_0027083.jpg,Pigmented Benign Keratosis,data/skin31_clean/train/Pigmented Benign Keratosis/ISIC_0024770.jpg,Pigmented Benign Keratosis,0.8909116,ISIC
+data/skin31_clean/test/Pityriasis Rosea/img_103.jpg,Pityriasis Rosea,data/skin31_clean/train/Pityriasis Rosea/5586.jpg,Pityriasis Rosea,0.89090836,Atlas
+data/skin31_clean/test/Pediculosis Capitis/9552.jpg,Pediculosis Capitis,data/skin31_clean/train/Pediculosis Capitis/9551.jpg,Pediculosis Capitis,0.8908905,Atlas
+data/skin31_clean/test/Leprosy Borderline/img_120_2.jpg,Leprosy Borderline,data/skin31_clean/train/Leprosy Borderline/img_119_2.jpg,Leprosy Borderline,0.8907232,Atlas
+data/skin31_clean/test/Neurofibromatosis/4828.jpg,Neurofibromatosis,data/skin31_clean/train/Neurofibromatosis/4827.jpg,Neurofibromatosis,0.8906064,Atlas
+data/skin31_clean/test/Porokeratosis Actinic/img_109.jpg,Porokeratosis Actinic,data/skin31_clean/train/Larva Migrans/3214.jpg,Larva Migrans,0.8905979,Atlas
+data/skin31_clean/test/Nevus/ISIC_0000447.jpg,Nevus,data/skin31_clean/train/Nevus/ISIC_0000396.jpg,Nevus,0.89059097,ISIC
+data/skin31_clean/test/Porokeratosis Actinic/img_114.jpg,Porokeratosis Actinic,data/skin31_clean/train/Leprosy Borderline/img_102_2.jpg,Leprosy Borderline,0.8901188,Atlas
+data/skin31_clean/test/Nevus/ISIC_0000088.jpg,Nevus,data/skin31_clean/train/Nevus/ISIC_0000061.jpg,Nevus,0.88983,ISIC
+data/skin31_clean/test/Pigmented Benign Keratosis/ISIC_0024782.jpg,Pigmented Benign Keratosis,data/skin31_clean/train/Pigmented Benign Keratosis/ISIC_0026153.jpg,Pigmented Benign Keratosis,0.8897408,ISIC
+data/skin31_clean/test/Pityriasis Rosea/img_124.jpg,Pityriasis Rosea,data/skin31_clean/train/Pityriasis Rosea/5570.jpg,Pityriasis Rosea,0.88962054,Atlas
+data/skin31_clean/test/Vascular lesion/ISIC_0031215.jpg,Vascular lesion,data/skin31_clean/train/Vascular lesion/ISIC_0024867.jpg,Vascular lesion,0.8892962,ISIC
+data/skin31_clean/test/Pigmented Benign Keratosis/ISIC_0027437.jpg,Pigmented Benign Keratosis,data/skin31_clean/train/Pigmented Benign Keratosis/ISIC_0024761.jpg,Pigmented Benign Keratosis,0.88899136,ISIC
+data/skin31_clean/test/Molluscum Contagiosum/4442.jpg,Molluscum Contagiosum,data/skin31_clean/train/Molluscum Contagiosum/img_110.jpg,Molluscum Contagiosum,0.8887061,Atlas
+data/skin31_clean/test/Tinea Nigra/7469.jpg,Tinea Nigra,data/skin31_clean/train/Tinea Nigra/7468.jpg,Tinea Nigra,0.88849306,Atlas
+data/skin31_clean/test/Leprosy Borderline/img_87_2.jpg,Leprosy Borderline,data/skin31_clean/train/Leprosy Borderline/img_86_2.jpg,Leprosy Borderline,0.88847005,Atlas
+data/skin31_clean/test/Nevus/ISIC_0000027.jpg,Nevus,data/skin31_clean/train/Nevus/ISIC_0000491.jpg,Nevus,0.8882706,ISIC
+data/skin31_clean/test/Leprosy Lepromatous/img_176.jpg,Leprosy Lepromatous,data/skin31_clean/train/Leprosy Tuberculoid/3533.jpg,Leprosy Tuberculoid,0.88823676,Atlas
+data/skin31_clean/test/Hailey-Hailey Disease/img_98.jpg,Hailey-Hailey Disease,data/skin31_clean/train/Hailey-Hailey Disease/img_138.jpg,Hailey-Hailey Disease,0.8879879,Atlas
+data/skin31_clean/test/Psoriasis/6251.jpg,Psoriasis,data/skin31_clean/train/Epidermolysis Bullosa Pruriginosa/1786.jpg,Epidermolysis Bullosa Pruriginosa,0.88729596,Atlas
+data/skin31_clean/test/Melanoma/4244.jpg,Melanoma,data/skin31_clean/train/Melanoma/4317.jpg,Melanoma,0.88726616,Atlas
+data/skin31_clean/test/Tungiasis/7680.jpg,Tungiasis,data/skin31_clean/train/Tungiasis/7679.jpg,Tungiasis,0.8869753,Atlas
+data/skin31_clean/test/Pediculosis Capitis/9548.jpg,Pediculosis Capitis,data/skin31_clean/train/Pediculosis Capitis/9572.jpg,Pediculosis Capitis,0.8863014,Atlas
+data/skin31_clean/test/Impetigo/2774.jpg,Impetigo,data/skin31_clean/train/Leprosy Tuberculoid/img_230_2.jpg,Leprosy Tuberculoid,0.88626236,Atlas
+data/skin31_clean/test/Porokeratosis Actinic/5956.jpg,Porokeratosis Actinic,data/skin31_clean/train/Porokeratosis Actinic/5931.jpg,Porokeratosis Actinic,0.8862285,Atlas
+data/skin31_clean/test/Basal Cell Carcinoma/513.jpg,Basal Cell Carcinoma,data/skin31_clean/train/Herpes Simplex/2549.jpg,Herpes Simplex,0.88616514,Atlas
+data/skin31_clean/test/Leprosy Lepromatous/img_175.jpg,Leprosy Lepromatous,data/skin31_clean/train/Leprosy Borderline/img_82_2.jpg,Leprosy Borderline,0.8861512,Atlas
+data/skin31_clean/test/Larva Migrans/3187.jpg,Larva Migrans,data/skin31_clean/train/Larva Migrans/3188.jpg,Larva Migrans,0.8860674,Atlas
+data/skin31_clean/test/Papilomatosis Confluentes And Reticulate/5087.jpg,Papilomatosis Confluentes And Reticulate,data/skin31_clean/train/Papilomatosis Confluentes And Reticulate/9161.jpg,Papilomatosis Confluentes And Reticulate,0.885967,Atlas
+data/skin31_clean/test/Psoriasis/11857.jpg,Psoriasis,data/skin31_clean/train/Lichen Planus/3837.jpg,Lichen Planus,0.88583434,Atlas
+data/skin31_clean/test/Lupus Erythematosus Chronicus Discoides/9611.jpg,Lupus Erythematosus Chronicus Discoides,data/skin31_clean/train/Lupus Erythematosus Chronicus Discoides/9612.jpg,Lupus Erythematosus Chronicus Discoides,0.8858291,Atlas
+data/skin31_clean/test/Pigmented Benign Keratosis/ISIC_0026871.jpg,Pigmented Benign Keratosis,data/skin31_clean/train/Actinic keratosis/ISIC_0028063.jpg,Actinic keratosis,0.8857666,ISIC
+data/skin31_clean/test/Basal Cell Carcinoma/img_313.jpg,Basal Cell Carcinoma,data/skin31_clean/train/Basal Cell Carcinoma/img_415.jpg,Basal Cell Carcinoma,0.88565195,Atlas
+data/skin31_clean/test/Leprosy Borderline/img_114_2.jpg,Leprosy Borderline,data/skin31_clean/train/Leprosy Borderline/img_111_2.jpg,Leprosy Borderline,0.8856223,Atlas
+data/skin31_clean/test/Mycosis Fungoides/img_100_2.jpg,Mycosis Fungoides,data/skin31_clean/train/Mycosis Fungoides/img_103_2.jpg,Mycosis Fungoides,0.88548523,Atlas
+data/skin31_clean/test/Herpes Simplex/2532.jpg,Herpes Simplex,data/skin31_clean/train/Basal Cell Carcinoma/img_169.jpg,Basal Cell Carcinoma,0.8853722,Atlas
+data/skin31_clean/test/Pigmented Benign Keratosis/ISIC_0028611.jpg,Pigmented Benign Keratosis,data/skin31_clean/train/Squamous cell carcinoma/ISIC_0025358.jpg,Squamous cell carcinoma,0.8850289,ISIC
+data/skin31_clean/test/Pigmented Benign Keratosis/ISIC_0027192.jpg,Pigmented Benign Keratosis,data/skin31_clean/train/Actinic keratosis/ISIC_0027562.jpg,Actinic keratosis,0.88446635,ISIC
+data/skin31_clean/test/Pediculosis Capitis/9581.jpg,Pediculosis Capitis,data/skin31_clean/train/Pediculosis Capitis/9584.jpg,Pediculosis Capitis,0.8844484,Atlas
+data/skin31_clean/test/Basal Cell Carcinoma/527.jpg,Basal Cell Carcinoma,data/skin31_clean/train/Basal Cell Carcinoma/img_392.jpg,Basal Cell Carcinoma,0.88439465,Atlas
+data/skin31_clean/test/Pityriasis Rosea/img_91.jpg,Pityriasis Rosea,data/skin31_clean/train/Pityriasis Rosea/img_95.jpg,Pityriasis Rosea,0.8843672,Atlas
+data/skin31_clean/test/Impetigo/2829.jpg,Impetigo,data/skin31_clean/train/Impetigo/2828.jpg,Impetigo,0.884336,Atlas
+data/skin31_clean/test/Leprosy Borderline/3332.jpg,Leprosy Borderline,data/skin31_clean/train/Leprosy Borderline/3329.jpg,Leprosy Borderline,0.88407636,Atlas
+data/skin31_clean/test/Mycosis Fungoides/8651.jpg,Mycosis Fungoides,data/skin31_clean/train/Basal Cell Carcinoma/576.jpg,Basal Cell Carcinoma,0.88406944,Atlas
+data/skin31_clean/test/Squamous cell carcinoma/ISIC_0028232.jpg,Squamous cell carcinoma,data/skin31_clean/train/Actinic keratosis/ISIC_0026194.jpg,Actinic keratosis,0.8831866,ISIC
+data/skin31_clean/test/Psoriasis/11862.jpg,Psoriasis,data/skin31_clean/train/Psoriasis/11859.jpg,Psoriasis,0.8829247,Atlas
+data/skin31_clean/test/Nevus/ISIC_0000241.jpg,Nevus,data/skin31_clean/train/Squamous cell carcinoma/ISIC_0024925.jpg,Squamous cell carcinoma,0.8829032,ISIC
+data/skin31_clean/test/Papilomatosis Confluentes And Reticulate/5083.jpg,Papilomatosis Confluentes And Reticulate,data/skin31_clean/train/Papilomatosis Confluentes And Reticulate/5082.jpg,Papilomatosis Confluentes And Reticulate,0.88285697,Atlas
+data/skin31_clean/test/Tinea Corporis/7280.jpg,Tinea Corporis,data/skin31_clean/train/Tinea Corporis/7304.jpg,Tinea Corporis,0.8828354,Atlas
+data/skin31_clean/test/Psoriasis/6276.jpg,Psoriasis,data/skin31_clean/train/Psoriasis/6275.jpg,Psoriasis,0.8827964,Atlas
+data/skin31_clean/test/Larva Migrans/img_99.jpg,Larva Migrans,data/skin31_clean/train/Tungiasis/7654.jpg,Tungiasis,0.8827059,Atlas
+data/skin31_clean/test/Larva Migrans/img_138.jpg,Larva Migrans,data/skin31_clean/train/Larva Migrans/3217.jpg,Larva Migrans,0.8825195,Atlas
+data/skin31_clean/test/Leprosy Borderline/img_84_2.jpg,Leprosy Borderline,data/skin31_clean/train/Leprosy Borderline/9659.jpg,Leprosy Borderline,0.88242006,Atlas
+data/skin31_clean/test/Leprosy Borderline/3307.jpg,Leprosy Borderline,data/skin31_clean/train/Leprosy Borderline/3306.jpg,Leprosy Borderline,0.8823197,Atlas
+data/skin31_clean/test/Squamous cell carcinoma/ISIC_0030991.jpg,Squamous cell carcinoma,data/skin31_clean/train/Pigmented Benign Keratosis/ISIC_0027513.jpg,Pigmented Benign Keratosis,0.88193953,ISIC
+data/skin31_clean/test/Neurofibromatosis/img_78_2.jpg,Neurofibromatosis,data/skin31_clean/train/Leprosy Lepromatous/img_129.jpg,Leprosy Lepromatous,0.8819176,Atlas
+data/skin31_clean/test/Pigmented Benign Keratosis/ISIC_0025758.jpg,Pigmented Benign Keratosis,data/skin31_clean/train/Pigmented Benign Keratosis/ISIC_0025392.jpg,Pigmented Benign Keratosis,0.8818991,ISIC
+data/skin31_clean/test/Lichen Planus/img_126.jpg,Lichen Planus,data/skin31_clean/train/Lichen Planus/img_95.jpg,Lichen Planus,0.8817349,Atlas
+data/skin31_clean/test/Leprosy Lepromatous/img_220.jpg,Leprosy Lepromatous,data/skin31_clean/train/Leprosy Lepromatous/3401.jpg,Leprosy Lepromatous,0.88137317,Atlas
+data/skin31_clean/test/Herpes Simplex/10407.jpg,Herpes Simplex,data/skin31_clean/train/Hailey-Hailey Disease/2395.jpg,Hailey-Hailey Disease,0.88136256,Atlas
+data/skin31_clean/test/Tinea Nigra/7455.jpg,Tinea Nigra,data/skin31_clean/train/Tinea Nigra/10388.jpg,Tinea Nigra,0.8811916,Atlas
+data/skin31_clean/test/Basal Cell Carcinoma/img_185.jpg,Basal Cell Carcinoma,data/skin31_clean/train/Basal Cell Carcinoma/img_186.jpg,Basal Cell Carcinoma,0.8811085,Atlas
+data/skin31_clean/test/Squamous cell carcinoma/ISIC_0027550.jpg,Squamous cell carcinoma,data/skin31_clean/train/Squamous cell carcinoma/ISIC_0025178.jpg,Squamous cell carcinoma,0.8807745,ISIC
+data/skin31_clean/test/Larva Migrans/img_87.jpg,Larva Migrans,data/skin31_clean/train/Hailey-Hailey Disease/2397.jpg,Hailey-Hailey Disease,0.880695,Atlas
+data/skin31_clean/test/Leprosy Tuberculoid/img_177_2.jpg,Leprosy Tuberculoid,data/skin31_clean/train/Leprosy Tuberculoid/img_178_2.jpg,Leprosy Tuberculoid,0.8806101,Atlas
+data/skin31_clean/test/Tinea Nigra/9879.jpg,Tinea Nigra,data/skin31_clean/train/Tinea Nigra/10388.jpg,Tinea Nigra,0.88049066,Atlas
+data/skin31_clean/test/Tungiasis/img_105.jpg,Tungiasis,data/skin31_clean/train/Tungiasis/img_103.jpg,Tungiasis,0.8804373,Atlas
+data/skin31_clean/test/Vascular lesion/ISIC_0025873.jpg,Vascular lesion,data/skin31_clean/train/Vascular lesion/ISIC_0029439.jpg,Vascular lesion,0.8804041,ISIC
+data/skin31_clean/test/Basal Cell Carcinoma/img_179.jpg,Basal Cell Carcinoma,data/skin31_clean/train/Basal Cell Carcinoma/img_180.jpg,Basal Cell Carcinoma,0.88030565,Atlas
+data/skin31_clean/test/Basal Cell Carcinoma/img_181.jpg,Basal Cell Carcinoma,data/skin31_clean/train/Basal Cell Carcinoma/img_182.jpg,Basal Cell Carcinoma,0.8797403,Atlas
+data/skin31_clean/test/Pigmented Benign Keratosis/ISIC_0025753.jpg,Pigmented Benign Keratosis,data/skin31_clean/train/Pigmented Benign Keratosis/ISIC_0025526.jpg,Pigmented Benign Keratosis,0.87964517,ISIC
+data/skin31_clean/test/Pigmented Benign Keratosis/ISIC_0027875.jpg,Pigmented Benign Keratosis,data/skin31_clean/train/Pigmented Benign Keratosis/ISIC_0027326.jpg,Pigmented Benign Keratosis,0.87945604,ISIC
+data/skin31_clean/test/Psoriasis/11860.jpg,Psoriasis,data/skin31_clean/train/Psoriasis/11859.jpg,Psoriasis,0.87908924,Atlas
+data/skin31_clean/test/Papilomatosis Confluentes And Reticulate/5050.jpg,Papilomatosis Confluentes And Reticulate,data/skin31_clean/train/Papilomatosis Confluentes And Reticulate/5049.jpg,Papilomatosis Confluentes And Reticulate,0.8790689,Atlas
+data/skin31_clean/test/Pigmented Benign Keratosis/ISIC_0026893.jpg,Pigmented Benign Keratosis,data/skin31_clean/train/Dermatofibroma/ISIC_0029578.jpg,Dermatofibroma,0.8790574,ISIC
+data/skin31_clean/test/Nevus/ISIC_0000053.jpg,Nevus,data/skin31_clean/train/Nevus/ISIC_0000060.jpg,Nevus,0.87894803,ISIC
+data/skin31_clean/test/Tinea Corporis/7258.jpg,Tinea Corporis,data/skin31_clean/train/Tinea Corporis/7257.jpg,Tinea Corporis,0.8786707,Atlas
+data/skin31_clean/test/Nevus/ISIC_0000357.jpg,Nevus,data/skin31_clean/train/Nevus/ISIC_0000329.jpg,Nevus,0.87849414,ISIC
+data/skin31_clean/test/Porokeratosis Actinic/5915.jpg,Porokeratosis Actinic,data/skin31_clean/train/Porokeratosis Actinic/5966.jpg,Porokeratosis Actinic,0.87834704,Atlas
+data/skin31_clean/test/Pigmented Benign Keratosis/ISIC_0027354.jpg,Pigmented Benign Keratosis,data/skin31_clean/train/Nevus/ISIC_0000389.jpg,Nevus,0.87828755,ISIC
+data/skin31_clean/test/Tinea Corporis/7285.jpg,Tinea Corporis,data/skin31_clean/train/Larva Migrans/img_80.jpg,Larva Migrans,0.87792295,Atlas
+data/skin31_clean/test/Dermatofibroma/ISIC_0031827.jpg,Dermatofibroma,data/skin31_clean/train/Pigmented Benign Keratosis/ISIC_0024709.jpg,Pigmented Benign Keratosis,0.8778604,ISIC
+data/skin31_clean/test/Squamous cell carcinoma/ISIC_0028659.jpg,Squamous cell carcinoma,data/skin31_clean/train/Pigmented Benign Keratosis/ISIC_0024890.jpg,Pigmented Benign Keratosis,0.8773991,ISIC
+data/skin31_clean/test/Herpes Simplex/2548.jpg,Herpes Simplex,data/skin31_clean/train/Herpes Simplex/2565.jpg,Herpes Simplex,0.8772191,Atlas
+data/skin31_clean/test/Leprosy Lepromatous/img_103.jpg,Leprosy Lepromatous,data/skin31_clean/train/Leprosy Lepromatous/img_105.jpg,Leprosy Lepromatous,0.8770951,Atlas
+data/skin31_clean/test/Larva Migrans/img_123.jpg,Larva Migrans,data/skin31_clean/train/Larva Migrans/img_122.jpg,Larva Migrans,0.8770758,Atlas
+data/skin31_clean/test/Lupus Erythematosus Chronicus Discoides/11130.jpg,Lupus Erythematosus Chronicus Discoides,data/skin31_clean/train/Lupus Erythematosus Chronicus Discoides/11133.jpg,Lupus Erythematosus Chronicus Discoides,0.8769674,Atlas
+data/skin31_clean/test/Mycosis Fungoides/img_107_2.jpg,Mycosis Fungoides,data/skin31_clean/train/Melanoma/12286.jpg,Melanoma,0.87695855,Atlas
+data/skin31_clean/test/Lupus Erythematosus Chronicus Discoides/4085.jpg,Lupus Erythematosus Chronicus Discoides,data/skin31_clean/train/Basal Cell Carcinoma/img_217.jpg,Basal Cell Carcinoma,0.87690306,Atlas
+data/skin31_clean/test/Epidermolysis Bullosa Pruriginosa/1830.jpg,Epidermolysis Bullosa Pruriginosa,data/skin31_clean/train/Epidermolysis Bullosa Pruriginosa/1813.jpg,Epidermolysis Bullosa Pruriginosa,0.87667954,Atlas
+data/skin31_clean/test/Mycosis Fungoides/img_83.jpg,Mycosis Fungoides,data/skin31_clean/train/Porokeratosis Actinic/img_103.jpg,Porokeratosis Actinic,0.8765399,Atlas
+data/skin31_clean/test/Basal Cell Carcinoma/img_293.jpg,Basal Cell Carcinoma,data/skin31_clean/train/Basal Cell Carcinoma/585.jpg,Basal Cell Carcinoma,0.87641066,Atlas
+data/skin31_clean/test/Basal Cell Carcinoma/img_236.jpg,Basal Cell Carcinoma,data/skin31_clean/train/Basal Cell Carcinoma/img_237.jpg,Basal Cell Carcinoma,0.8763934,Atlas
+data/skin31_clean/test/Impetigo/2806.jpg,Impetigo,data/skin31_clean/train/Impetigo/2808.jpg,Impetigo,0.87628436,Atlas
+data/skin31_clean/test/Papilomatosis Confluentes And Reticulate/5088.jpg,Papilomatosis Confluentes And Reticulate,data/skin31_clean/train/Papilomatosis Confluentes And Reticulate/9161.jpg,Papilomatosis Confluentes And Reticulate,0.8762232,Atlas
+data/skin31_clean/test/Basal Cell Carcinoma/img_397.jpg,Basal Cell Carcinoma,data/skin31_clean/train/Basal Cell Carcinoma/img_199.jpg,Basal Cell Carcinoma,0.87612367,Atlas
+data/skin31_clean/test/Tinea Corporis/8366.jpg,Tinea Corporis,data/skin31_clean/train/Epidermolysis Bullosa Pruriginosa/1770.jpg,Epidermolysis Bullosa Pruriginosa,0.87601423,Atlas
+data/skin31_clean/test/Lupus Erythematosus Chronicus Discoides/11141.jpg,Lupus Erythematosus Chronicus Discoides,data/skin31_clean/train/Lupus Erythematosus Chronicus Discoides/4075.jpg,Lupus Erythematosus Chronicus Discoides,0.87587595,Atlas
+data/skin31_clean/test/Dermatofibroma/ISIC_0033005.jpg,Dermatofibroma,data/skin31_clean/train/Dermatofibroma/ISIC_0034135.jpg,Dermatofibroma,0.87571526,ISIC
+data/skin31_clean/test/Leprosy Tuberculoid/3538.jpg,Leprosy Tuberculoid,data/skin31_clean/train/Leprosy Borderline/img_144.jpg,Leprosy Borderline,0.87553763,Atlas
+data/skin31_clean/test/Nevus/ISIC_0000317.jpg,Nevus,data/skin31_clean/train/Nevus/ISIC_0000365.jpg,Nevus,0.87551296,ISIC
+data/skin31_clean/test/Nevus/ISIC_0000359.jpg,Nevus,data/skin31_clean/train/Nevus/ISIC_0000368.jpg,Nevus,0.8754914,ISIC
+data/skin31_clean/test/Nevus/ISIC_0000335.jpg,Nevus,data/skin31_clean/train/Nevus/ISIC_0000222.jpg,Nevus,0.8753611,ISIC
+data/skin31_clean/test/Larva Migrans/img_140.jpg,Larva Migrans,data/skin31_clean/train/Larva Migrans/3157.jpg,Larva Migrans,0.8752827,Atlas
+data/skin31_clean/test/Leprosy Lepromatous/img_194.jpg,Leprosy Lepromatous,data/skin31_clean/train/Leprosy Lepromatous/img_195.jpg,Leprosy Lepromatous,0.8749574,Atlas
+data/skin31_clean/test/Leprosy Lepromatous/img_251.jpg,Leprosy Lepromatous,data/skin31_clean/train/Leprosy Lepromatous/img_249.jpg,Leprosy Lepromatous,0.8748523,Atlas
+data/skin31_clean/test/Tinea Nigra/img_115.jpg,Tinea Nigra,data/skin31_clean/train/Tinea Nigra/10260.jpg,Tinea Nigra,0.8748025,Atlas
+data/skin31_clean/test/Lichen Planus/img_91.jpg,Lichen Planus,data/skin31_clean/train/Lichen Planus/img_89.jpg,Lichen Planus,0.87474084,Atlas
+data/skin31_clean/test/Squamous cell carcinoma/ISIC_0032371.jpg,Squamous cell carcinoma,data/skin31_clean/train/Actinic keratosis/ISIC_0031292.jpg,Actinic keratosis,0.87465584,ISIC
+data/skin31_clean/test/Melanoma/4291.jpg,Melanoma,data/skin31_clean/train/Melanoma/4290.jpg,Melanoma,0.8745862,Atlas
+data/skin31_clean/test/Squamous cell carcinoma/ISIC_0027767.jpg,Squamous cell carcinoma,data/skin31_clean/train/Pigmented Benign Keratosis/ISIC_0025703.jpg,Pigmented Benign Keratosis,0.87457496,ISIC
+data/skin31_clean/test/Impetigo/2822.jpg,Impetigo,data/skin31_clean/train/Molluscum Contagiosum/img_93.jpg,Molluscum Contagiosum,0.87443686,Atlas
+data/skin31_clean/test/Leprosy Borderline/img_112_2.jpg,Leprosy Borderline,data/skin31_clean/train/Leprosy Borderline/img_111_2.jpg,Leprosy Borderline,0.87428594,Atlas
+data/skin31_clean/test/Herpes Simplex/2555.jpg,Herpes Simplex,data/skin31_clean/train/Darier_s Disease/11610.jpg,Darier_s Disease,0.8740715,Atlas
+data/skin31_clean/test/Vascular lesion/ISIC_0025425.jpg,Vascular lesion,data/skin31_clean/train/Pigmented Benign Keratosis/ISIC_0025076.jpg,Pigmented Benign Keratosis,0.874025,ISIC
+data/skin31_clean/test/Basal Cell Carcinoma/img_378.jpg,Basal Cell Carcinoma,data/skin31_clean/train/Basal Cell Carcinoma/img_304.jpg,Basal Cell Carcinoma,0.87366414,Atlas
+data/skin31_clean/test/Pigmented Benign Keratosis/ISIC_0025374.jpg,Pigmented Benign Keratosis,data/skin31_clean/train/Pigmented Benign Keratosis/ISIC_0024758.jpg,Pigmented Benign Keratosis,0.87358356,ISIC
+data/skin31_clean/test/Mycosis Fungoides/img_110_2.jpg,Mycosis Fungoides,data/skin31_clean/train/Mycosis Fungoides/img_109_2.jpg,Mycosis Fungoides,0.87285703,Atlas
+data/skin31_clean/test/Nevus/ISIC_0000452.jpg,Nevus,data/skin31_clean/train/Dermatofibroma/ISIC_0025954.jpg,Dermatofibroma,0.87281525,ISIC
+data/skin31_clean/test/Leprosy Tuberculoid/img_118_2.jpg,Leprosy Tuberculoid,data/skin31_clean/train/Leprosy Tuberculoid/img_117_2.jpg,Leprosy Tuberculoid,0.8725693,Atlas
+data/skin31_clean/test/Hailey-Hailey Disease/2458.jpg,Hailey-Hailey Disease,data/skin31_clean/train/Hailey-Hailey Disease/2457.jpg,Hailey-Hailey Disease,0.87239677,Atlas
+data/skin31_clean/test/Nevus/ISIC_0000424.jpg,Nevus,data/skin31_clean/train/Nevus/ISIC_0000061.jpg,Nevus,0.8721936,ISIC
+data/skin31_clean/test/Tinea Corporis/7254.jpg,Tinea Corporis,data/skin31_clean/train/Impetigo/12291.jpg,Impetigo,0.8721787,Atlas
+data/skin31_clean/test/Tinea Corporis/7301.jpg,Tinea Corporis,data/skin31_clean/train/Hailey-Hailey Disease/2429.jpg,Hailey-Hailey Disease,0.8719687,Atlas
+data/skin31_clean/test/Basal Cell Carcinoma/640.jpg,Basal Cell Carcinoma,data/skin31_clean/train/Leprosy Tuberculoid/3590.jpg,Leprosy Tuberculoid,0.871794,Atlas
+data/skin31_clean/test/Leprosy Lepromatous/img_100.jpg,Leprosy Lepromatous,data/skin31_clean/train/Leprosy Lepromatous/img_104.jpg,Leprosy Lepromatous,0.87164336,Atlas
+data/skin31_clean/test/Pigmented Benign Keratosis/ISIC_0027710.jpg,Pigmented Benign Keratosis,data/skin31_clean/train/Dermatofibroma/ISIC_0026254.jpg,Dermatofibroma,0.8714014,ISIC
+data/skin31_clean/test/Pigmented Benign Keratosis/ISIC_0026365.jpg,Pigmented Benign Keratosis,data/skin31_clean/train/Actinic keratosis/ISIC_0031292.jpg,Actinic keratosis,0.8709401,ISIC
+data/skin31_clean/test/Melanoma/4299.jpg,Melanoma,data/skin31_clean/train/Basal Cell Carcinoma/img_252.jpg,Basal Cell Carcinoma,0.8708932,Atlas
+data/skin31_clean/test/Basal Cell Carcinoma/img_331.jpg,Basal Cell Carcinoma,data/skin31_clean/train/Lupus Erythematosus Chronicus Discoides/4087.jpg,Lupus Erythematosus Chronicus Discoides,0.8704937,Atlas
+data/skin31_clean/test/Neurofibromatosis/4803.jpg,Neurofibromatosis,data/skin31_clean/train/Neurofibromatosis/4804.jpg,Neurofibromatosis,0.8703841,Atlas
+data/skin31_clean/test/Squamous cell carcinoma/ISIC_0012079.jpg,Squamous cell carcinoma,data/skin31_clean/train/Actinic keratosis/ISIC_0025957.jpg,Actinic keratosis,0.8702205,ISIC
+data/skin31_clean/test/Basal Cell Carcinoma/img_187.jpg,Basal Cell Carcinoma,data/skin31_clean/train/Basal Cell Carcinoma/615.jpg,Basal Cell Carcinoma,0.8701916,Atlas
+data/skin31_clean/test/Pigmented Benign Keratosis/ISIC_0026416.jpg,Pigmented Benign Keratosis,data/skin31_clean/train/Pigmented Benign Keratosis/ISIC_0027326.jpg,Pigmented Benign Keratosis,0.8693378,ISIC
+data/skin31_clean/test/Mycosis Fungoides/img_116_2.jpg,Mycosis Fungoides,data/skin31_clean/train/Leprosy Lepromatous/3402.jpg,Leprosy Lepromatous,0.869272,Atlas
+data/skin31_clean/test/Nevus/ISIC_0000498.jpg,Nevus,data/skin31_clean/train/Nevus/ISIC_0000475.jpg,Nevus,0.86921525,ISIC
+data/skin31_clean/test/Mycosis Fungoides/8655.jpg,Mycosis Fungoides,data/skin31_clean/train/Mycosis Fungoides/8653.jpg,Mycosis Fungoides,0.8692093,Atlas
+data/skin31_clean/test/Darier_s Disease/1317.jpg,Darier_s Disease,data/skin31_clean/train/Darier_s Disease/1316.jpg,Darier_s Disease,0.8691068,Atlas
+data/skin31_clean/test/Porokeratosis Actinic/img_78.jpg,Porokeratosis Actinic,data/skin31_clean/train/Porokeratosis Actinic/img_77.jpg,Porokeratosis Actinic,0.8690197,Atlas
+data/skin31_clean/test/Basal Cell Carcinoma/565.jpg,Basal Cell Carcinoma,data/skin31_clean/train/Basal Cell Carcinoma/img_412.jpg,Basal Cell Carcinoma,0.8689853,Atlas
+data/skin31_clean/test/Pigmented Benign Keratosis/ISIC_0026046.jpg,Pigmented Benign Keratosis,data/skin31_clean/train/Pigmented Benign Keratosis/ISIC_0026941.jpg,Pigmented Benign Keratosis,0.868736,ISIC
+data/skin31_clean/test/Leprosy Tuberculoid/3611.jpg,Leprosy Tuberculoid,data/skin31_clean/train/Leprosy Tuberculoid/3609.jpg,Leprosy Tuberculoid,0.8686745,Atlas
+data/skin31_clean/test/Leprosy Borderline/img_81_2.jpg,Leprosy Borderline,data/skin31_clean/train/Leprosy Borderline/img_85_2.jpg,Leprosy Borderline,0.8686358,Atlas
+data/skin31_clean/test/Hailey-Hailey Disease/2405.jpg,Hailey-Hailey Disease,data/skin31_clean/train/Hailey-Hailey Disease/2384.jpg,Hailey-Hailey Disease,0.86843145,Atlas
+data/skin31_clean/test/Larva Migrans/img_117.jpg,Larva Migrans,data/skin31_clean/train/Larva Migrans/3208.jpg,Larva Migrans,0.8681837,Atlas
+data/skin31_clean/test/Actinic keratosis/ISIC_0030133.jpg,Actinic keratosis,data/skin31_clean/train/Actinic keratosis/ISIC_0026525.jpg,Actinic keratosis,0.86792564,ISIC
+data/skin31_clean/test/Leprosy Borderline/img_105_2.jpg,Leprosy Borderline,data/skin31_clean/train/Leprosy Borderline/img_102_2.jpg,Leprosy Borderline,0.8676671,Atlas
+data/skin31_clean/test/Mycosis Fungoides/img_77.jpg,Mycosis Fungoides,data/skin31_clean/train/Mycosis Fungoides/img_75.jpg,Mycosis Fungoides,0.8676527,Atlas
+data/skin31_clean/test/Leprosy Lepromatous/img_173.jpg,Leprosy Lepromatous,data/skin31_clean/train/Leprosy Lepromatous/img_174.jpg,Leprosy Lepromatous,0.8675252,Atlas
+data/skin31_clean/test/Neurofibromatosis/4806.jpg,Neurofibromatosis,data/skin31_clean/train/Neurofibromatosis/4804.jpg,Neurofibromatosis,0.8669184,Atlas
+data/skin31_clean/test/Tinea Corporis/7266.jpg,Tinea Corporis,data/skin31_clean/train/Tinea Corporis/7267.jpg,Tinea Corporis,0.8668316,Atlas
+data/skin31_clean/test/Nevus/ISIC_0000260.jpg,Nevus,data/skin31_clean/train/Nevus/ISIC_0000451.jpg,Nevus,0.86682534,ISIC
+data/skin31_clean/test/Pigmented Benign Keratosis/ISIC_0027455.jpg,Pigmented Benign Keratosis,data/skin31_clean/train/Vascular lesion/ISIC_0030770.jpg,Vascular lesion,0.86680335,ISIC
+data/skin31_clean/test/Mycosis Fungoides/8725.jpg,Mycosis Fungoides,data/skin31_clean/train/Mycosis Fungoides/img_75.jpg,Mycosis Fungoides,0.8667016,Atlas
+data/skin31_clean/test/Vascular lesion/ISIC_0026713.jpg,Vascular lesion,data/skin31_clean/train/Vascular lesion/ISIC_0025628.jpg,Vascular lesion,0.8666861,ISIC
+data/skin31_clean/test/Basal Cell Carcinoma/img_205.jpg,Basal Cell Carcinoma,data/skin31_clean/train/Basal Cell Carcinoma/img_325.jpg,Basal Cell Carcinoma,0.86664635,Atlas
+data/skin31_clean/test/Nevus/ISIC_0000408.jpg,Nevus,data/skin31_clean/train/Nevus/ISIC_0000018.jpg,Nevus,0.86647993,ISIC
+data/skin31_clean/test/Molluscum Contagiosum/4432.jpg,Molluscum Contagiosum,data/skin31_clean/train/Molluscum Contagiosum/4426.jpg,Molluscum Contagiosum,0.8661046,Atlas
+data/skin31_clean/test/Lupus Erythematosus Chronicus Discoides/9619.jpg,Lupus Erythematosus Chronicus Discoides,data/skin31_clean/train/Lupus Erythematosus Chronicus Discoides/9621.jpg,Lupus Erythematosus Chronicus Discoides,0.86605585,Atlas
+data/skin31_clean/test/Leprosy Borderline/img_122_2.jpg,Leprosy Borderline,data/skin31_clean/train/Leprosy Borderline/img_121_2.jpg,Leprosy Borderline,0.8659338,Atlas
+data/skin31_clean/test/Larva Migrans/img_96.jpg,Larva Migrans,data/skin31_clean/train/Larva Migrans/img_114.jpg,Larva Migrans,0.86579734,Atlas
+data/skin31_clean/test/Pigmented Benign Keratosis/ISIC_0026794.jpg,Pigmented Benign Keratosis,data/skin31_clean/train/Pigmented Benign Keratosis/ISIC_0027559.jpg,Pigmented Benign Keratosis,0.8656589,ISIC
+data/skin31_clean/test/Pigmented Benign Keratosis/ISIC_0027990.jpg,Pigmented Benign Keratosis,data/skin31_clean/train/Actinic keratosis/ISIC_0031335.jpg,Actinic keratosis,0.8655526,ISIC
+data/skin31_clean/test/Basal Cell Carcinoma/560.jpg,Basal Cell Carcinoma,data/skin31_clean/train/Hailey-Hailey Disease/2409.jpg,Hailey-Hailey Disease,0.8654045,Atlas
+data/skin31_clean/test/Pigmented Benign Keratosis/ISIC_0028414.jpg,Pigmented Benign Keratosis,data/skin31_clean/train/Pigmented Benign Keratosis/ISIC_0028200.jpg,Pigmented Benign Keratosis,0.86523867,ISIC
+data/skin31_clean/test/Hailey-Hailey Disease/2382.jpg,Hailey-Hailey Disease,data/skin31_clean/train/Herpes Simplex/2546.jpg,Herpes Simplex,0.86516744,Atlas
+data/skin31_clean/test/Lupus Erythematosus Chronicus Discoides/4060.jpg,Lupus Erythematosus Chronicus Discoides,data/skin31_clean/train/Lupus Erythematosus Chronicus Discoides/11128.jpg,Lupus Erythematosus Chronicus Discoides,0.8651157,Atlas
+data/skin31_clean/test/Pityriasis Rosea/img_119.jpg,Pityriasis Rosea,data/skin31_clean/train/Pityriasis Rosea/img_118.jpg,Pityriasis Rosea,0.8650768,Atlas
+data/skin31_clean/test/Nevus/ISIC_0000467.jpg,Nevus,data/skin31_clean/train/Nevus/ISIC_0000032.jpg,Nevus,0.8650763,ISIC
+data/skin31_clean/test/Basal Cell Carcinoma/img_285.jpg,Basal Cell Carcinoma,data/skin31_clean/train/Lupus Erythematosus Chronicus Discoides/11109.jpg,Lupus Erythematosus Chronicus Discoides,0.8650495,Atlas
+data/skin31_clean/test/Leprosy Borderline/img_126_2.jpg,Leprosy Borderline,data/skin31_clean/train/Leprosy Borderline/3329.jpg,Leprosy Borderline,0.8640306,Atlas
+data/skin31_clean/test/Tinea Corporis/7238.jpg,Tinea Corporis,data/skin31_clean/train/Tinea Corporis/7239.jpg,Tinea Corporis,0.8638196,Atlas
+data/skin31_clean/test/Leprosy Lepromatous/img_116.jpg,Leprosy Lepromatous,data/skin31_clean/train/Leprosy Lepromatous/img_121.jpg,Leprosy Lepromatous,0.86299574,Atlas
+data/skin31_clean/test/Pigmented Benign Keratosis/ISIC_0025879.jpg,Pigmented Benign Keratosis,data/skin31_clean/train/Pigmented Benign Keratosis/ISIC_0026511.jpg,Pigmented Benign Keratosis,0.8629372,ISIC
+data/skin31_clean/test/Psoriasis/6297.jpg,Psoriasis,data/skin31_clean/train/Psoriasis/6302.jpg,Psoriasis,0.86282456,Atlas
+data/skin31_clean/test/Melanoma/4303.jpg,Melanoma,data/skin31_clean/train/Melanoma/4302.jpg,Melanoma,0.8626658,Atlas
+data/skin31_clean/test/Pigmented Benign Keratosis/ISIC_0028640.jpg,Pigmented Benign Keratosis,data/skin31_clean/train/Squamous cell carcinoma/ISIC_0031927.jpg,Squamous cell carcinoma,0.86222494,ISIC
+data/skin31_clean/test/Herpes Simplex/2585.jpg,Herpes Simplex,data/skin31_clean/train/Herpes Simplex/2571.jpg,Herpes Simplex,0.8621414,Atlas
+data/skin31_clean/test/Pigmented Benign Keratosis/ISIC_0027533.jpg,Pigmented Benign Keratosis,data/skin31_clean/train/Pigmented Benign Keratosis/ISIC_0025140.jpg,Pigmented Benign Keratosis,0.862062,ISIC
+data/skin31_clean/test/Porokeratosis Actinic/img_118.jpg,Porokeratosis Actinic,data/skin31_clean/train/Porokeratosis Actinic/img_117.jpg,Porokeratosis Actinic,0.86160374,Atlas
+data/skin31_clean/test/Impetigo/12290.jpg,Impetigo,data/skin31_clean/train/Impetigo/12291.jpg,Impetigo,0.8615639,Atlas
+data/skin31_clean/test/Molluscum Contagiosum/img_92.jpg,Molluscum Contagiosum,data/skin31_clean/train/Molluscum Contagiosum/img_93.jpg,Molluscum Contagiosum,0.86138445,Atlas
+data/skin31_clean/test/Melanoma/4307.jpg,Melanoma,data/skin31_clean/train/Porokeratosis Actinic/5936.jpg,Porokeratosis Actinic,0.8611754,Atlas
+data/skin31_clean/test/Basal Cell Carcinoma/img_348.jpg,Basal Cell Carcinoma,data/skin31_clean/train/Basal Cell Carcinoma/img_286.jpg,Basal Cell Carcinoma,0.8609153,Atlas
+data/skin31_clean/test/Nevus/ISIC_0000267.jpg,Nevus,data/skin31_clean/train/Nevus/ISIC_0000245.jpg,Nevus,0.86087966,ISIC
+data/skin31_clean/test/Basal Cell Carcinoma/img_318.jpg,Basal Cell Carcinoma,data/skin31_clean/train/Leprosy Tuberculoid/3579.jpg,Leprosy Tuberculoid,0.8606254,Atlas
+data/skin31_clean/test/Pigmented Benign Keratosis/ISIC_0027996.jpg,Pigmented Benign Keratosis,data/skin31_clean/train/Squamous cell carcinoma/ISIC_0025089.jpg,Squamous cell carcinoma,0.86055624,ISIC
+data/skin31_clean/test/Larva Migrans/3170.jpg,Larva Migrans,data/skin31_clean/train/Larva Migrans/3169.jpg,Larva Migrans,0.86054564,Atlas
+data/skin31_clean/test/Dermatofibroma/ISIC_0027598.jpg,Dermatofibroma,data/skin31_clean/train/Vascular lesion/ISIC_0025249.jpg,Vascular lesion,0.8604984,ISIC
+data/skin31_clean/test/Neurofibromatosis/4815.jpg,Neurofibromatosis,data/skin31_clean/train/Neurofibromatosis/4791.jpg,Neurofibromatosis,0.8603947,Atlas
+data/skin31_clean/test/Papilomatosis Confluentes And Reticulate/9155.jpg,Papilomatosis Confluentes And Reticulate,data/skin31_clean/train/Papilomatosis Confluentes And Reticulate/9151.jpg,Papilomatosis Confluentes And Reticulate,0.8603655,Atlas
+data/skin31_clean/test/Nevus/ISIC_0000345.jpg,Nevus,data/skin31_clean/train/Nevus/ISIC_0000350.jpg,Nevus,0.8603578,ISIC
+data/skin31_clean/test/Lupus Erythematosus Chronicus Discoides/9677.jpg,Lupus Erythematosus Chronicus Discoides,data/skin31_clean/train/Hailey-Hailey Disease/2419.jpg,Hailey-Hailey Disease,0.8603368,Atlas
+data/skin31_clean/test/Pigmented Benign Keratosis/ISIC_0025973.jpg,Pigmented Benign Keratosis,data/skin31_clean/train/Squamous cell carcinoma/ISIC_0031012.jpg,Squamous cell carcinoma,0.8602853,ISIC
+data/skin31_clean/test/Pigmented Benign Keratosis/ISIC_0027041.jpg,Pigmented Benign Keratosis,data/skin31_clean/train/Pigmented Benign Keratosis/ISIC_0026139.jpg,Pigmented Benign Keratosis,0.8601033,ISIC
+data/skin31_clean/test/Larva Migrans/img_101.jpg,Larva Migrans,data/skin31_clean/train/Larva Migrans/img_100.jpg,Larva Migrans,0.85984635,Atlas
+data/skin31_clean/test/Impetigo/2838.jpg,Impetigo,data/skin31_clean/train/Impetigo/2837.jpg,Impetigo,0.8596846,Atlas
+data/skin31_clean/test/Leprosy Lepromatous/3392.jpg,Leprosy Lepromatous,data/skin31_clean/train/Leprosy Lepromatous/3391.jpg,Leprosy Lepromatous,0.85958683,Atlas
+data/skin31_clean/test/Tungiasis/7644.jpg,Tungiasis,data/skin31_clean/train/Tungiasis/7643.jpg,Tungiasis,0.859148,Atlas
+data/skin31_clean/test/Porokeratosis Actinic/img_104.jpg,Porokeratosis Actinic,data/skin31_clean/train/Porokeratosis Actinic/img_103.jpg,Porokeratosis Actinic,0.8591099,Atlas
+data/skin31_clean/test/Pityriasis Rosea/img_115.jpg,Pityriasis Rosea,data/skin31_clean/train/Larva Migrans/3197.jpg,Larva Migrans,0.85896087,Atlas
+data/skin31_clean/test/Herpes Simplex/2560.jpg,Herpes Simplex,data/skin31_clean/train/Herpes Simplex/2561.jpg,Herpes Simplex,0.85875833,Atlas
+data/skin31_clean/test/Herpes Simplex/2527.jpg,Herpes Simplex,data/skin31_clean/train/Lupus Erythematosus Chronicus Discoides/4055.jpg,Lupus Erythematosus Chronicus Discoides,0.8586339,Atlas
+data/skin31_clean/test/Mycosis Fungoides/8411.jpg,Mycosis Fungoides,data/skin31_clean/train/Mycosis Fungoides/8415.jpg,Mycosis Fungoides,0.85846126,Atlas
+data/skin31_clean/test/Pediculosis Capitis/9588.jpg,Pediculosis Capitis,data/skin31_clean/train/Pediculosis Capitis/9563.jpg,Pediculosis Capitis,0.85839415,Atlas
+data/skin31_clean/test/Lupus Erythematosus Chronicus Discoides/9618.jpg,Lupus Erythematosus Chronicus Discoides,data/skin31_clean/train/Lupus Erythematosus Chronicus Discoides/9613.jpg,Lupus Erythematosus Chronicus Discoides,0.85826266,Atlas
+data/skin31_clean/test/Nevus/ISIC_0000050.jpg,Nevus,data/skin31_clean/train/Nevus/ISIC_0000358.jpg,Nevus,0.85811913,ISIC
+data/skin31_clean/test/Pediculosis Capitis/9575.jpg,Pediculosis Capitis,data/skin31_clean/train/Pediculosis Capitis/9578.jpg,Pediculosis Capitis,0.85811436,Atlas
+data/skin31_clean/test/Basal Cell Carcinoma/514.jpg,Basal Cell Carcinoma,data/skin31_clean/train/Basal Cell Carcinoma/img_302.jpg,Basal Cell Carcinoma,0.8580327,Atlas
+data/skin31_clean/test/Tungiasis/img_81.jpg,Tungiasis,data/skin31_clean/train/Tungiasis/7697.jpg,Tungiasis,0.8576361,Atlas
+data/skin31_clean/test/Vascular lesion/ISIC_0033817.jpg,Vascular lesion,data/skin31_clean/train/Vascular lesion/ISIC_0027522.jpg,Vascular lesion,0.8574687,ISIC
+data/skin31_clean/test/Nevus/ISIC_0000384.jpg,Nevus,data/skin31_clean/train/Nevus/ISIC_0000416.jpg,Nevus,0.85687935,ISIC
+data/skin31_clean/test/Basal Cell Carcinoma/511.jpg,Basal Cell Carcinoma,data/skin31_clean/train/Basal Cell Carcinoma/533.jpg,Basal Cell Carcinoma,0.85684764,Atlas
+data/skin31_clean/test/Darier_s Disease/1323.jpg,Darier_s Disease,data/skin31_clean/train/Darier_s Disease/1324.jpg,Darier_s Disease,0.8567171,Atlas
+data/skin31_clean/test/Leprosy Lepromatous/img_274.jpg,Leprosy Lepromatous,data/skin31_clean/train/Leprosy Lepromatous/img_275.jpg,Leprosy Lepromatous,0.85670125,Atlas
+data/skin31_clean/test/Tungiasis/img_125.jpg,Tungiasis,data/skin31_clean/train/Tungiasis/img_126.jpg,Tungiasis,0.85666215,Atlas
+data/skin31_clean/test/Melanoma/4251.jpg,Melanoma,data/skin31_clean/train/Melanoma/4268.jpg,Melanoma,0.8566613,Atlas
+data/skin31_clean/test/Pigmented Benign Keratosis/ISIC_0024371.jpg,Pigmented Benign Keratosis,data/skin31_clean/train/Squamous cell carcinoma/ISIC_0026100.jpg,Squamous cell carcinoma,0.8566042,ISIC
+data/skin31_clean/test/Basal Cell Carcinoma/img_358.jpg,Basal Cell Carcinoma,data/skin31_clean/train/Basal Cell Carcinoma/img_154.jpg,Basal Cell Carcinoma,0.85657096,Atlas
+data/skin31_clean/test/Epidermolysis Bullosa Pruriginosa/9800.jpg,Epidermolysis Bullosa Pruriginosa,data/skin31_clean/train/Epidermolysis Bullosa Pruriginosa/9795.jpg,Epidermolysis Bullosa Pruriginosa,0.8562428,Atlas
+data/skin31_clean/test/Impetigo/2811.jpg,Impetigo,data/skin31_clean/train/Tinea Corporis/10694.jpg,Tinea Corporis,0.85593426,Atlas
+data/skin31_clean/test/Pigmented Benign Keratosis/ISIC_0024643.jpg,Pigmented Benign Keratosis,data/skin31_clean/train/Vascular lesion/ISIC_0027256.jpg,Vascular lesion,0.85585916,ISIC
+data/skin31_clean/test/Pityriasis Rosea/5630.jpg,Pityriasis Rosea,data/skin31_clean/train/Leprosy Lepromatous/img_123.jpg,Leprosy Lepromatous,0.85571,Atlas
+data/skin31_clean/test/Leprosy Lepromatous/img_120.jpg,Leprosy Lepromatous,data/skin31_clean/train/Leprosy Lepromatous/3380.jpg,Leprosy Lepromatous,0.85565233,Atlas
+data/skin31_clean/test/Nevus/ISIC_0000233.jpg,Nevus,data/skin31_clean/train/Nevus/ISIC_0000222.jpg,Nevus,0.8555552,ISIC
+data/skin31_clean/test/Dermatofibroma/ISIC_0031257.jpg,Dermatofibroma,data/skin31_clean/train/Pigmented Benign Keratosis/ISIC_0027612.jpg,Pigmented Benign Keratosis,0.8554727,ISIC
+data/skin31_clean/test/Herpes Simplex/10235.jpg,Herpes Simplex,data/skin31_clean/train/Herpes Simplex/10236.jpg,Herpes Simplex,0.85534585,Atlas
+data/skin31_clean/test/Pigmented Benign Keratosis/ISIC_0027957.jpg,Pigmented Benign Keratosis,data/skin31_clean/train/Pigmented Benign Keratosis/ISIC_0025419.jpg,Pigmented Benign Keratosis,0.8553161,ISIC
+data/skin31_clean/test/Basal Cell Carcinoma/img_357.jpg,Basal Cell Carcinoma,data/skin31_clean/train/Basal Cell Carcinoma/632.jpg,Basal Cell Carcinoma,0.8549496,Atlas
+data/skin31_clean/test/Pigmented Benign Keratosis/ISIC_0026135.jpg,Pigmented Benign Keratosis,data/skin31_clean/train/Pigmented Benign Keratosis/ISIC_0026566.jpg,Pigmented Benign Keratosis,0.8543148,ISIC
+data/skin31_clean/test/Leprosy Lepromatous/img_273.jpg,Leprosy Lepromatous,data/skin31_clean/train/Lichen Planus/img_114.jpg,Lichen Planus,0.85426664,Atlas
+data/skin31_clean/test/Melanoma/4301.jpg,Melanoma,data/skin31_clean/train/Lichen Planus/3800.jpg,Lichen Planus,0.85412997,Atlas
+data/skin31_clean/test/Larva Migrans/3195.jpg,Larva Migrans,data/skin31_clean/train/Larva Migrans/3189.jpg,Larva Migrans,0.8537967,Atlas
+data/skin31_clean/test/Leprosy Lepromatous/3406.jpg,Leprosy Lepromatous,data/skin31_clean/train/Leprosy Lepromatous/3407.jpg,Leprosy Lepromatous,0.8537139,Atlas
+data/skin31_clean/test/Larva Migrans/3151.jpg,Larva Migrans,data/skin31_clean/train/Larva Migrans/3156.jpg,Larva Migrans,0.8536494,Atlas
+data/skin31_clean/test/Pigmented Benign Keratosis/ISIC_0028593.jpg,Pigmented Benign Keratosis,data/skin31_clean/train/Squamous cell carcinoma/ISIC_0027178.jpg,Squamous cell carcinoma,0.85339797,ISIC
+data/skin31_clean/test/Basal Cell Carcinoma/img_409.jpg,Basal Cell Carcinoma,data/skin31_clean/train/Basal Cell Carcinoma/img_408.jpg,Basal Cell Carcinoma,0.8533457,Atlas
+data/skin31_clean/test/Mycosis Fungoides/4590.jpg,Mycosis Fungoides,data/skin31_clean/train/Mycosis Fungoides/8653.jpg,Mycosis Fungoides,0.85334164,Atlas
+data/skin31_clean/test/Squamous cell carcinoma/ISIC_0028158.jpg,Squamous cell carcinoma,data/skin31_clean/train/Pigmented Benign Keratosis/ISIC_0024336.jpg,Pigmented Benign Keratosis,0.8529975,ISIC
+data/skin31_clean/test/Leprosy Tuberculoid/img_150_2.jpg,Leprosy Tuberculoid,data/skin31_clean/train/Leprosy Tuberculoid/img_149_2.jpg,Leprosy Tuberculoid,0.8528122,Atlas
+data/skin31_clean/test/Hailey-Hailey Disease/img_106.jpg,Hailey-Hailey Disease,data/skin31_clean/train/Hailey-Hailey Disease/2419.jpg,Hailey-Hailey Disease,0.85281,Atlas
+data/skin31_clean/test/Squamous cell carcinoma/ISIC_0032203.jpg,Squamous cell carcinoma,data/skin31_clean/train/Pigmented Benign Keratosis/ISIC_0028100.jpg,Pigmented Benign Keratosis,0.8527149,ISIC
+data/skin31_clean/test/Basal Cell Carcinoma/558.jpg,Basal Cell Carcinoma,data/skin31_clean/train/Basal Cell Carcinoma/557.jpg,Basal Cell Carcinoma,0.85224605,Atlas
+data/skin31_clean/test/Basal Cell Carcinoma/img_352.jpg,Basal Cell Carcinoma,data/skin31_clean/train/Basal Cell Carcinoma/img_383.jpg,Basal Cell Carcinoma,0.8516927,Atlas
+data/skin31_clean/test/Lupus Erythematosus Chronicus Discoides/4065.jpg,Lupus Erythematosus Chronicus Discoides,data/skin31_clean/train/Leprosy Lepromatous/img_125.jpg,Leprosy Lepromatous,0.85151374,Atlas
+data/skin31_clean/test/Leprosy Borderline/img_113_2.jpg,Leprosy Borderline,data/skin31_clean/train/Leprosy Borderline/img_115_2.jpg,Leprosy Borderline,0.8514545,Atlas
+data/skin31_clean/test/Nevus/ISIC_0000370.jpg,Nevus,data/skin31_clean/train/Nevus/ISIC_0000222.jpg,Nevus,0.85137635,ISIC
+data/skin31_clean/test/Molluscum Contagiosum/img_116.jpg,Molluscum Contagiosum,data/skin31_clean/train/Molluscum Contagiosum/img_117.jpg,Molluscum Contagiosum,0.85137403,Atlas
+data/skin31_clean/test/Leprosy Lepromatous/img_202.jpg,Leprosy Lepromatous,data/skin31_clean/train/Leprosy Tuberculoid/3633.jpg,Leprosy Tuberculoid,0.8513413,Atlas
+data/skin31_clean/test/Nevus/ISIC_0000326.jpg,Nevus,data/skin31_clean/train/Nevus/ISIC_0000032.jpg,Nevus,0.85130125,ISIC
+data/skin31_clean/test/Pediculosis Capitis/5151.jpg,Pediculosis Capitis,data/skin31_clean/train/Psoriasis/6240.jpg,Psoriasis,0.8511245,Atlas
+data/skin31_clean/test/Darier_s Disease/1308.jpg,Darier_s Disease,data/skin31_clean/train/Darier_s Disease/1309.jpg,Darier_s Disease,0.8510877,Atlas
+data/skin31_clean/test/Pediculosis Capitis/9556.jpg,Pediculosis Capitis,data/skin31_clean/train/Pediculosis Capitis/9558.jpg,Pediculosis Capitis,0.85095227,Atlas
+data/skin31_clean/test/Mycosis Fungoides/8398.jpg,Mycosis Fungoides,data/skin31_clean/train/Mycosis Fungoides/8403.jpg,Mycosis Fungoides,0.85089195,Atlas
+data/skin31_clean/test/Epidermolysis Bullosa Pruriginosa/1806.jpg,Epidermolysis Bullosa Pruriginosa,data/skin31_clean/train/Epidermolysis Bullosa Pruriginosa/1825.jpg,Epidermolysis Bullosa Pruriginosa,0.8508012,Atlas
+data/skin31_clean/test/Leprosy Borderline/3325.jpg,Leprosy Borderline,data/skin31_clean/train/Mycosis Fungoides/8650.jpg,Mycosis Fungoides,0.8500411,Atlas
+data/skin31_clean/test/Basal Cell Carcinoma/609.jpg,Basal Cell Carcinoma,data/skin31_clean/train/Lupus Erythematosus Chronicus Discoides/4052.jpg,Lupus Erythematosus Chronicus Discoides,0.8497189,Atlas
+data/skin31_clean/test/Squamous cell carcinoma/ISIC_0031738.jpg,Squamous cell carcinoma,data/skin31_clean/train/Squamous cell carcinoma/ISIC_0026927.jpg,Squamous cell carcinoma,0.8496622,ISIC
+data/skin31_clean/test/Hailey-Hailey Disease/img_111.jpg,Hailey-Hailey Disease,data/skin31_clean/train/Darier_s Disease/11603.jpg,Darier_s Disease,0.84948456,Atlas
+data/skin31_clean/test/Pigmented Benign Keratosis/ISIC_0027068.jpg,Pigmented Benign Keratosis,data/skin31_clean/train/Actinic keratosis/ISIC_0024800.jpg,Actinic keratosis,0.849478,ISIC
+data/skin31_clean/test/Squamous cell carcinoma/ISIC_0025331.jpg,Squamous cell carcinoma,data/skin31_clean/train/Pigmented Benign Keratosis/ISIC_0024758.jpg,Pigmented Benign Keratosis,0.84935915,ISIC
+data/skin31_clean/test/Pityriasis Rosea/img_111.jpg,Pityriasis Rosea,data/skin31_clean/train/Larva Migrans/3156.jpg,Larva Migrans,0.8493446,Atlas
+data/skin31_clean/test/Basal Cell Carcinoma/img_364.jpg,Basal Cell Carcinoma,data/skin31_clean/train/Basal Cell Carcinoma/551.jpg,Basal Cell Carcinoma,0.8490978,Atlas
+data/skin31_clean/test/Nevus/ISIC_0000081.jpg,Nevus,data/skin31_clean/train/Pigmented Benign Keratosis/ISIC_0024412.jpg,Pigmented Benign Keratosis,0.8489033,ISIC
+data/skin31_clean/test/Tinea Nigra/7449.jpg,Tinea Nigra,data/skin31_clean/train/Tinea Nigra/img_118.jpg,Tinea Nigra,0.8485009,Atlas
+data/skin31_clean/test/Lichen Planus/3822.jpg,Lichen Planus,data/skin31_clean/train/Lichen Planus/3821.jpg,Lichen Planus,0.8484385,Atlas
+data/skin31_clean/test/Papilomatosis Confluentes And Reticulate/9162.jpg,Papilomatosis Confluentes And Reticulate,data/skin31_clean/train/Papilomatosis Confluentes And Reticulate/9160.jpg,Papilomatosis Confluentes And Reticulate,0.8484126,Atlas
+data/skin31_clean/test/Dermatofibroma/ISIC_0030015.jpg,Dermatofibroma,data/skin31_clean/train/Dermatofibroma/ISIC_0027613.jpg,Dermatofibroma,0.8480842,ISIC
+data/skin31_clean/test/Basal Cell Carcinoma/img_197.jpg,Basal Cell Carcinoma,data/skin31_clean/train/Basal Cell Carcinoma/img_198.jpg,Basal Cell Carcinoma,0.8478446,Atlas
+data/skin31_clean/test/Leprosy Borderline/3338.jpg,Leprosy Borderline,data/skin31_clean/train/Leprosy Borderline/3341.jpg,Leprosy Borderline,0.8477369,Atlas
+data/skin31_clean/test/Herpes Simplex/2545.jpg,Herpes Simplex,data/skin31_clean/train/Herpes Simplex/2547.jpg,Herpes Simplex,0.8477315,Atlas
+data/skin31_clean/test/Tinea Nigra/7465.jpg,Tinea Nigra,data/skin31_clean/train/Tinea Nigra/10256.jpg,Tinea Nigra,0.8476639,Atlas
+data/skin31_clean/test/Leprosy Lepromatous/3389.jpg,Leprosy Lepromatous,data/skin31_clean/train/Leprosy Lepromatous/3386.jpg,Leprosy Lepromatous,0.84761286,Atlas
+data/skin31_clean/test/Leprosy Lepromatous/img_118.jpg,Leprosy Lepromatous,data/skin31_clean/train/Leprosy Lepromatous/img_157.jpg,Leprosy Lepromatous,0.8475627,Atlas
+data/skin31_clean/test/Basal Cell Carcinoma/img_327.jpg,Basal Cell Carcinoma,data/skin31_clean/train/Basal Cell Carcinoma/img_333.jpg,Basal Cell Carcinoma,0.84752977,Atlas
+data/skin31_clean/test/Nevus/ISIC_0000010.jpg,Nevus,data/skin31_clean/train/Nevus/ISIC_0000062.jpg,Nevus,0.84752566,ISIC
+data/skin31_clean/test/Impetigo/2782.jpg,Impetigo,data/skin31_clean/train/Impetigo/2783.jpg,Impetigo,0.84739006,Atlas
+data/skin31_clean/test/Pigmented Benign Keratosis/ISIC_0025885.jpg,Pigmented Benign Keratosis,data/skin31_clean/train/Nevus/ISIC_0000256.jpg,Nevus,0.8472204,ISIC
+data/skin31_clean/test/Leprosy Lepromatous/img_161.jpg,Leprosy Lepromatous,data/skin31_clean/train/Leprosy Lepromatous/img_166.jpg,Leprosy Lepromatous,0.8471731,Atlas
+data/skin31_clean/test/Dermatofibroma/ISIC_0027745.jpg,Dermatofibroma,data/skin31_clean/train/Dermatofibroma/ISIC_0027488.jpg,Dermatofibroma,0.8469783,ISIC
+data/skin31_clean/test/Impetigo/2786.jpg,Impetigo,data/skin31_clean/train/Impetigo/2785.jpg,Impetigo,0.846748,Atlas
+data/skin31_clean/test/Larva Migrans/3185.jpg,Larva Migrans,data/skin31_clean/train/Larva Migrans/3186.jpg,Larva Migrans,0.84669864,Atlas
+data/skin31_clean/test/Pigmented Benign Keratosis/ISIC_0027982.jpg,Pigmented Benign Keratosis,data/skin31_clean/train/Dermatofibroma/ISIC_0025504.jpg,Dermatofibroma,0.8466903,ISIC
+data/skin31_clean/test/Leprosy Tuberculoid/img_163_2.jpg,Leprosy Tuberculoid,data/skin31_clean/train/Leprosy Tuberculoid/3621.jpg,Leprosy Tuberculoid,0.8465767,Atlas
+data/skin31_clean/test/Basal Cell Carcinoma/img_282.jpg,Basal Cell Carcinoma,data/skin31_clean/train/Basal Cell Carcinoma/img_393.jpg,Basal Cell Carcinoma,0.84633577,Atlas
+data/skin31_clean/test/Tinea Corporis/8365.jpg,Tinea Corporis,data/skin31_clean/train/Epidermolysis Bullosa Pruriginosa/1770.jpg,Epidermolysis Bullosa Pruriginosa,0.8460574,Atlas
+data/skin31_clean/test/Basal Cell Carcinoma/img_353.jpg,Basal Cell Carcinoma,data/skin31_clean/train/Basal Cell Carcinoma/img_286.jpg,Basal Cell Carcinoma,0.8459372,Atlas
+data/skin31_clean/test/Squamous cell carcinoma/ISIC_0031191.jpg,Squamous cell carcinoma,data/skin31_clean/train/Pigmented Benign Keratosis/ISIC_0028309.jpg,Pigmented Benign Keratosis,0.84565306,ISIC
+data/skin31_clean/test/Leprosy Tuberculoid/3618.jpg,Leprosy Tuberculoid,data/skin31_clean/train/Leprosy Tuberculoid/3617.jpg,Leprosy Tuberculoid,0.8454945,Atlas
+data/skin31_clean/test/Leprosy Tuberculoid/3619.jpg,Leprosy Tuberculoid,data/skin31_clean/train/Lichen Planus/3825.jpg,Lichen Planus,0.84547734,Atlas
+data/skin31_clean/test/Pigmented Benign Keratosis/ISIC_0026842.jpg,Pigmented Benign Keratosis,data/skin31_clean/train/Pigmented Benign Keratosis/ISIC_0028052.jpg,Pigmented Benign Keratosis,0.84545267,ISIC
+data/skin31_clean/test/Squamous cell carcinoma/ISIC_0030297.jpg,Squamous cell carcinoma,data/skin31_clean/train/Squamous cell carcinoma/ISIC_0033869.jpg,Squamous cell carcinoma,0.8452569,ISIC
+data/skin31_clean/test/Darier_s Disease/1283.jpg,Darier_s Disease,data/skin31_clean/train/Darier_s Disease/1284.jpg,Darier_s Disease,0.8451946,Atlas
+data/skin31_clean/test/Pediculosis Capitis/5146.jpg,Pediculosis Capitis,data/skin31_clean/train/Darier_s Disease/11601.jpg,Darier_s Disease,0.8451652,Atlas
+data/skin31_clean/test/Basal Cell Carcinoma/img_376.jpg,Basal Cell Carcinoma,data/skin31_clean/train/Basal Cell Carcinoma/553.jpg,Basal Cell Carcinoma,0.8439231,Atlas
+data/skin31_clean/test/Lichen Planus/img_121.jpg,Lichen Planus,data/skin31_clean/train/Lichen Planus/img_128.jpg,Lichen Planus,0.8438973,Atlas
+data/skin31_clean/test/Nevus/ISIC_0000523.jpg,Nevus,data/skin31_clean/train/Nevus/ISIC_0000092.jpg,Nevus,0.8438686,ISIC
+data/skin31_clean/test/Vascular lesion/ISIC_0031955.jpg,Vascular lesion,data/skin31_clean/train/Dermatofibroma/ISIC_0025980.jpg,Dermatofibroma,0.8437485,ISIC
+data/skin31_clean/test/Basal Cell Carcinoma/img_158.jpg,Basal Cell Carcinoma,data/skin31_clean/train/Basal Cell Carcinoma/img_196.jpg,Basal Cell Carcinoma,0.8429528,Atlas
+data/skin31_clean/test/Nevus/ISIC_0000262.jpg,Nevus,data/skin31_clean/train/Pigmented Benign Keratosis/ISIC_0025419.jpg,Pigmented Benign Keratosis,0.8426843,ISIC
+data/skin31_clean/test/Leprosy Lepromatous/img_101.jpg,Leprosy Lepromatous,data/skin31_clean/train/Leprosy Lepromatous/img_104.jpg,Leprosy Lepromatous,0.84263486,Atlas
+data/skin31_clean/test/Dermatofibroma/ISIC_0030579.jpg,Dermatofibroma,data/skin31_clean/train/Squamous cell carcinoma/ISIC_0028730.jpg,Squamous cell carcinoma,0.84238577,ISIC
+data/skin31_clean/test/Papilomatosis Confluentes And Reticulate/8430.jpg,Papilomatosis Confluentes And Reticulate,data/skin31_clean/train/Papilomatosis Confluentes And Reticulate/5070.jpg,Papilomatosis Confluentes And Reticulate,0.8422428,Atlas
+data/skin31_clean/test/Dermatofibroma/ISIC_0033695.jpg,Dermatofibroma,data/skin31_clean/train/Dermatofibroma/ISIC_0033810.jpg,Dermatofibroma,0.8418703,ISIC
+data/skin31_clean/test/Molluscum Contagiosum/4469.jpg,Molluscum Contagiosum,data/skin31_clean/train/Molluscum Contagiosum/img_120.jpg,Molluscum Contagiosum,0.841842,Atlas
+data/skin31_clean/test/Pityriasis Rosea/img_88.jpg,Pityriasis Rosea,data/skin31_clean/train/Pityriasis Rosea/5631.jpg,Pityriasis Rosea,0.84181917,Atlas
+data/skin31_clean/test/Leprosy Tuberculoid/img_212_2.jpg,Leprosy Tuberculoid,data/skin31_clean/train/Leprosy Tuberculoid/img_183_2.jpg,Leprosy Tuberculoid,0.84075767,Atlas
+data/skin31_clean/test/Papilomatosis Confluentes And Reticulate/5076.jpg,Papilomatosis Confluentes And Reticulate,data/skin31_clean/train/Papilomatosis Confluentes And Reticulate/5077.jpg,Papilomatosis Confluentes And Reticulate,0.84074485,Atlas
+data/skin31_clean/test/Basal Cell Carcinoma/538.jpg,Basal Cell Carcinoma,data/skin31_clean/train/Hailey-Hailey Disease/2449.jpg,Hailey-Hailey Disease,0.84065545,Atlas
+data/skin31_clean/test/Melanoma/4275.jpg,Melanoma,data/skin31_clean/train/Melanoma/4274.jpg,Melanoma,0.84040296,Atlas
+data/skin31_clean/test/Impetigo/2813.jpg,Impetigo,data/skin31_clean/train/Leprosy Lepromatous/3388.jpg,Leprosy Lepromatous,0.8402884,Atlas
+data/skin31_clean/test/Larva Migrans/img_98.jpg,Larva Migrans,data/skin31_clean/train/Larva Migrans/3192.jpg,Larva Migrans,0.84028697,Atlas
+data/skin31_clean/test/Basal Cell Carcinoma/img_346.jpg,Basal Cell Carcinoma,data/skin31_clean/train/Basal Cell Carcinoma/img_290.jpg,Basal Cell Carcinoma,0.8392743,Atlas
+data/skin31_clean/test/Tinea Corporis/7293.jpg,Tinea Corporis,data/skin31_clean/train/Tinea Corporis/7256.jpg,Tinea Corporis,0.8390523,Atlas
+data/skin31_clean/test/Pigmented Benign Keratosis/ISIC_0028124.jpg,Pigmented Benign Keratosis,data/skin31_clean/train/Pigmented Benign Keratosis/ISIC_0025103.jpg,Pigmented Benign Keratosis,0.838912,ISIC
+data/skin31_clean/test/Basal Cell Carcinoma/img_335.jpg,Basal Cell Carcinoma,data/skin31_clean/train/Basal Cell Carcinoma/img_174.jpg,Basal Cell Carcinoma,0.8388757,Atlas
+data/skin31_clean/test/Molluscum Contagiosum/img_109.jpg,Molluscum Contagiosum,data/skin31_clean/train/Leprosy Lepromatous/img_139.jpg,Leprosy Lepromatous,0.83870995,Atlas
+data/skin31_clean/test/Pigmented Benign Keratosis/ISIC_0026607.jpg,Pigmented Benign Keratosis,data/skin31_clean/train/Squamous cell carcinoma/ISIC_0032154.jpg,Squamous cell carcinoma,0.8382417,ISIC
+data/skin31_clean/test/Basal Cell Carcinoma/541.jpg,Basal Cell Carcinoma,data/skin31_clean/train/Basal Cell Carcinoma/599.jpg,Basal Cell Carcinoma,0.8382401,Atlas
+data/skin31_clean/test/Leprosy Lepromatous/img_289.jpg,Leprosy Lepromatous,data/skin31_clean/train/Leprosy Lepromatous/img_290.jpg,Leprosy Lepromatous,0.838122,Atlas
+data/skin31_clean/test/Melanoma/4292.jpg,Melanoma,data/skin31_clean/train/Melanoma/4290.jpg,Melanoma,0.8377447,Atlas
+data/skin31_clean/test/Herpes Simplex/2574.jpg,Herpes Simplex,data/skin31_clean/train/Lupus Erythematosus Chronicus Discoides/4052.jpg,Lupus Erythematosus Chronicus Discoides,0.8377287,Atlas
+data/skin31_clean/test/Darier_s Disease/1318.jpg,Darier_s Disease,data/skin31_clean/train/Darier_s Disease/1316.jpg,Darier_s Disease,0.83749217,Atlas
+data/skin31_clean/test/Mycosis Fungoides/4582.jpg,Mycosis Fungoides,data/skin31_clean/train/Mycosis Fungoides/4577.jpg,Mycosis Fungoides,0.83684313,Atlas
+data/skin31_clean/test/Papilomatosis Confluentes And Reticulate/5045.jpg,Papilomatosis Confluentes And Reticulate,data/skin31_clean/train/Papilomatosis Confluentes And Reticulate/5040.jpg,Papilomatosis Confluentes And Reticulate,0.8363799,Atlas
+data/skin31_clean/test/Basal Cell Carcinoma/img_188.jpg,Basal Cell Carcinoma,data/skin31_clean/train/Basal Cell Carcinoma/img_392.jpg,Basal Cell Carcinoma,0.83626914,Atlas
+data/skin31_clean/test/Lupus Erythematosus Chronicus Discoides/4061.jpg,Lupus Erythematosus Chronicus Discoides,data/skin31_clean/train/Molluscum Contagiosum/4410.jpg,Molluscum Contagiosum,0.836198,Atlas
+data/skin31_clean/test/Molluscum Contagiosum/img_118.jpg,Molluscum Contagiosum,data/skin31_clean/train/Molluscum Contagiosum/img_119.jpg,Molluscum Contagiosum,0.83592796,Atlas
+data/skin31_clean/test/Tinea Corporis/7251.jpg,Tinea Corporis,data/skin31_clean/train/Tinea Corporis/7252.jpg,Tinea Corporis,0.83573914,Atlas
+data/skin31_clean/test/Leprosy Borderline/img_128_2.jpg,Leprosy Borderline,data/skin31_clean/train/Tinea Corporis/7279.jpg,Tinea Corporis,0.835634,Atlas
+data/skin31_clean/test/Larva Migrans/3207.jpg,Larva Migrans,data/skin31_clean/train/Tinea Nigra/img_112.jpg,Tinea Nigra,0.83560824,Atlas
+data/skin31_clean/test/Actinic keratosis/ISIC_0029900.jpg,Actinic keratosis,data/skin31_clean/train/Actinic keratosis/ISIC_0031993.jpg,Actinic keratosis,0.83548427,ISIC
+data/skin31_clean/test/Leprosy Lepromatous/img_222.jpg,Leprosy Lepromatous,data/skin31_clean/train/Leprosy Lepromatous/img_221.jpg,Leprosy Lepromatous,0.8351817,Atlas
+data/skin31_clean/test/Leprosy Tuberculoid/img_195_2.jpg,Leprosy Tuberculoid,data/skin31_clean/train/Tinea Corporis/7284.jpg,Tinea Corporis,0.83512664,Atlas
+data/skin31_clean/test/Tinea Corporis/7262.jpg,Tinea Corporis,data/skin31_clean/train/Hailey-Hailey Disease/img_123.jpg,Hailey-Hailey Disease,0.83412737,Atlas
+data/skin31_clean/test/Leprosy Lepromatous/3364.jpg,Leprosy Lepromatous,data/skin31_clean/train/Leprosy Lepromatous/3379.jpg,Leprosy Lepromatous,0.83407164,Atlas
+data/skin31_clean/test/Herpes Simplex/2580.jpg,Herpes Simplex,data/skin31_clean/train/Herpes Simplex/2581.jpg,Herpes Simplex,0.83360654,Atlas
+data/skin31_clean/test/Pityriasis Rosea/5600.jpg,Pityriasis Rosea,data/skin31_clean/train/Leprosy Lepromatous/img_109.jpg,Leprosy Lepromatous,0.8335771,Atlas
+data/skin31_clean/test/Molluscum Contagiosum/4439.jpg,Molluscum Contagiosum,data/skin31_clean/train/Molluscum Contagiosum/4438.jpg,Molluscum Contagiosum,0.8332205,Atlas
+data/skin31_clean/test/Leprosy Tuberculoid/img_137_2.jpg,Leprosy Tuberculoid,data/skin31_clean/train/Leprosy Tuberculoid/img_210_2.jpg,Leprosy Tuberculoid,0.8331624,Atlas
+data/skin31_clean/test/Leprosy Lepromatous/img_126.jpg,Leprosy Lepromatous,data/skin31_clean/train/Darier_s Disease/1313.jpg,Darier_s Disease,0.83306897,Atlas
+data/skin31_clean/test/Melanoma/4295.jpg,Melanoma,data/skin31_clean/train/Melanoma/4288.jpg,Melanoma,0.832253,Atlas
+data/skin31_clean/test/Pediculosis Capitis/9580.jpg,Pediculosis Capitis,data/skin31_clean/train/Pediculosis Capitis/9578.jpg,Pediculosis Capitis,0.8320846,Atlas
+data/skin31_clean/test/Larva Migrans/img_116.jpg,Larva Migrans,data/skin31_clean/train/Larva Migrans/img_102.jpg,Larva Migrans,0.8316692,Atlas
+data/skin31_clean/test/Hailey-Hailey Disease/2444.jpg,Hailey-Hailey Disease,data/skin31_clean/train/Melanoma/9883.jpg,Melanoma,0.831432,Atlas
+data/skin31_clean/test/Psoriasis/6241.jpg,Psoriasis,data/skin31_clean/train/Lichen Planus/3802.jpg,Lichen Planus,0.8309974,Atlas
+data/skin31_clean/test/Basal Cell Carcinoma/img_405.jpg,Basal Cell Carcinoma,data/skin31_clean/train/Basal Cell Carcinoma/img_180.jpg,Basal Cell Carcinoma,0.83073246,Atlas
+data/skin31_clean/test/Nevus/ISIC_0000028.jpg,Nevus,data/skin31_clean/train/Nevus/ISIC_0000066.jpg,Nevus,0.8304614,ISIC
+data/skin31_clean/test/Mycosis Fungoides/img_115_2.jpg,Mycosis Fungoides,data/skin31_clean/train/Mycosis Fungoides/img_112_2.jpg,Mycosis Fungoides,0.8302557,Atlas
+data/skin31_clean/test/Lichen Planus/img_125.jpg,Lichen Planus,data/skin31_clean/train/Leprosy Tuberculoid/3541.jpg,Leprosy Tuberculoid,0.8302368,Atlas
+data/skin31_clean/test/Basal Cell Carcinoma/607.jpg,Basal Cell Carcinoma,data/skin31_clean/train/Basal Cell Carcinoma/509.jpg,Basal Cell Carcinoma,0.83022296,Atlas
+data/skin31_clean/test/Neurofibromatosis/4790.jpg,Neurofibromatosis,data/skin31_clean/train/Neurofibromatosis/4789.jpg,Neurofibromatosis,0.83022296,Atlas
+data/skin31_clean/test/Leprosy Lepromatous/3416.jpg,Leprosy Lepromatous,data/skin31_clean/train/Leprosy Lepromatous/3421.jpg,Leprosy Lepromatous,0.8301635,Atlas
+data/skin31_clean/test/Basal Cell Carcinoma/img_340.jpg,Basal Cell Carcinoma,data/skin31_clean/train/Basal Cell Carcinoma/img_178.jpg,Basal Cell Carcinoma,0.8299313,Atlas
+data/skin31_clean/test/Nevus/ISIC_0000419.jpg,Nevus,data/skin31_clean/train/Nevus/ISIC_0000374.jpg,Nevus,0.82914066,ISIC
+data/skin31_clean/test/Mycosis Fungoides/8654.jpg,Mycosis Fungoides,data/skin31_clean/train/Basal Cell Carcinoma/img_329.jpg,Basal Cell Carcinoma,0.82693696,Atlas
+data/skin31_clean/test/Tungiasis/7649.jpg,Tungiasis,data/skin31_clean/train/Tungiasis/7648.jpg,Tungiasis,0.8268029,Atlas
+data/skin31_clean/test/Lupus Erythematosus Chronicus Discoides/4084.jpg,Lupus Erythematosus Chronicus Discoides,data/skin31_clean/train/Lupus Erythematosus Chronicus Discoides/4080.jpg,Lupus Erythematosus Chronicus Discoides,0.8265904,Atlas
+data/skin31_clean/test/Neurofibromatosis/4777.jpg,Neurofibromatosis,data/skin31_clean/train/Neurofibromatosis/4778.jpg,Neurofibromatosis,0.82646775,Atlas
+data/skin31_clean/test/Pigmented Benign Keratosis/ISIC_0024382.jpg,Pigmented Benign Keratosis,data/skin31_clean/train/Actinic keratosis/ISIC_0025780.jpg,Actinic keratosis,0.82628655,ISIC
+data/skin31_clean/test/Leprosy Lepromatous/3428.jpg,Leprosy Lepromatous,data/skin31_clean/train/Leprosy Lepromatous/3427.jpg,Leprosy Lepromatous,0.8254322,Atlas
+data/skin31_clean/test/Psoriasis/6284.jpg,Psoriasis,data/skin31_clean/train/Lichen Planus/3790.jpg,Lichen Planus,0.8252839,Atlas
+data/skin31_clean/test/Molluscum Contagiosum/img_108.jpg,Molluscum Contagiosum,data/skin31_clean/train/Molluscum Contagiosum/img_107.jpg,Molluscum Contagiosum,0.8248838,Atlas
+data/skin31_clean/test/Epidermolysis Bullosa Pruriginosa/9794.jpg,Epidermolysis Bullosa Pruriginosa,data/skin31_clean/train/Leprosy Tuberculoid/3623.jpg,Leprosy Tuberculoid,0.8248246,Atlas
+data/skin31_clean/test/Leprosy Lepromatous/img_233.jpg,Leprosy Lepromatous,data/skin31_clean/train/Papilomatosis Confluentes And Reticulate/8432.jpg,Papilomatosis Confluentes And Reticulate,0.82470256,Atlas
+data/skin31_clean/test/Darier_s Disease/11604.jpg,Darier_s Disease,data/skin31_clean/train/Darier_s Disease/1311.jpg,Darier_s Disease,0.82436645,Atlas
+data/skin31_clean/test/Darier_s Disease/1325.jpg,Darier_s Disease,data/skin31_clean/train/Darier_s Disease/1322.jpg,Darier_s Disease,0.82420206,Atlas
+data/skin31_clean/test/Leprosy Lepromatous/img_162.jpg,Leprosy Lepromatous,data/skin31_clean/train/Leprosy Lepromatous/img_164.jpg,Leprosy Lepromatous,0.82333994,Atlas
+data/skin31_clean/test/Pigmented Benign Keratosis/ISIC_0027025.jpg,Pigmented Benign Keratosis,data/skin31_clean/train/Pigmented Benign Keratosis/ISIC_0027747.jpg,Pigmented Benign Keratosis,0.82229936,ISIC
+data/skin31_clean/test/Lichen Planus/img_80.jpg,Lichen Planus,data/skin31_clean/train/Lichen Planus/img_81.jpg,Lichen Planus,0.822027,Atlas
+data/skin31_clean/test/Herpes Simplex/2591.jpg,Herpes Simplex,data/skin31_clean/train/Epidermolysis Bullosa Pruriginosa/1834.jpg,Epidermolysis Bullosa Pruriginosa,0.8215514,Atlas
+data/skin31_clean/test/Melanoma/4241.jpg,Melanoma,data/skin31_clean/train/Melanoma/4242.jpg,Melanoma,0.82112044,Atlas
+data/skin31_clean/test/Leprosy Borderline/img_109_2.jpg,Leprosy Borderline,data/skin31_clean/train/Leprosy Tuberculoid/img_180_2.jpg,Leprosy Tuberculoid,0.8204516,Atlas
+data/skin31_clean/test/Psoriasis/6237.jpg,Psoriasis,data/skin31_clean/train/Lichen Planus/img_95.jpg,Lichen Planus,0.82012916,Atlas
+data/skin31_clean/test/Tungiasis/img_97.jpg,Tungiasis,data/skin31_clean/train/Tungiasis/img_98.jpg,Tungiasis,0.820005,Atlas
+data/skin31_clean/test/Tungiasis/7687.jpg,Tungiasis,data/skin31_clean/train/Tungiasis/7688.jpg,Tungiasis,0.81979233,Atlas
+data/skin31_clean/test/Basal Cell Carcinoma/img_404.jpg,Basal Cell Carcinoma,data/skin31_clean/train/Basal Cell Carcinoma/img_217.jpg,Basal Cell Carcinoma,0.8193698,Atlas
+data/skin31_clean/test/Herpes Simplex/2556.jpg,Herpes Simplex,data/skin31_clean/train/Pityriasis Rosea/5573.jpg,Pityriasis Rosea,0.8189738,Atlas
+data/skin31_clean/test/Basal Cell Carcinoma/605.jpg,Basal Cell Carcinoma,data/skin31_clean/train/Basal Cell Carcinoma/624.jpg,Basal Cell Carcinoma,0.8187132,Atlas
+data/skin31_clean/test/Lichen Planus/img_78_2.jpg,Lichen Planus,data/skin31_clean/train/Lichen Planus/img_76_2.jpg,Lichen Planus,0.8181995,Atlas
+data/skin31_clean/test/Porokeratosis Actinic/5928.jpg,Porokeratosis Actinic,data/skin31_clean/train/Porokeratosis Actinic/5950.jpg,Porokeratosis Actinic,0.8178971,Atlas
+data/skin31_clean/test/Psoriasis/6272.jpg,Psoriasis,data/skin31_clean/train/Psoriasis/6273.jpg,Psoriasis,0.817865,Atlas
+data/skin31_clean/test/Molluscum Contagiosum/4466.jpg,Molluscum Contagiosum,data/skin31_clean/train/Leprosy Lepromatous/img_150.jpg,Leprosy Lepromatous,0.8177916,Atlas
+data/skin31_clean/test/Leprosy Lepromatous/img_219.jpg,Leprosy Lepromatous,data/skin31_clean/train/Leprosy Tuberculoid/3617.jpg,Leprosy Tuberculoid,0.8173611,Atlas
+data/skin31_clean/test/Papilomatosis Confluentes And Reticulate/5063.jpg,Papilomatosis Confluentes And Reticulate,data/skin31_clean/train/Papilomatosis Confluentes And Reticulate/5098.jpg,Papilomatosis Confluentes And Reticulate,0.8172915,Atlas
+data/skin31_clean/test/Impetigo/2778.jpg,Impetigo,data/skin31_clean/train/Leprosy Lepromatous/3384.jpg,Leprosy Lepromatous,0.81674474,Atlas
+data/skin31_clean/test/Molluscum Contagiosum/4414.jpg,Molluscum Contagiosum,data/skin31_clean/train/Molluscum Contagiosum/4413.jpg,Molluscum Contagiosum,0.8164748,Atlas
+data/skin31_clean/test/Pediculosis Capitis/9557.jpg,Pediculosis Capitis,data/skin31_clean/train/Pediculosis Capitis/9578.jpg,Pediculosis Capitis,0.81570005,Atlas
+data/skin31_clean/test/Nevus/ISIC_0000360.jpg,Nevus,data/skin31_clean/train/Nevus/ISIC_0000324.jpg,Nevus,0.8150861,ISIC
+data/skin31_clean/test/Mycosis Fungoides/8699.jpg,Mycosis Fungoides,data/skin31_clean/train/Mycosis Fungoides/img_80.jpg,Mycosis Fungoides,0.8147259,Atlas
+data/skin31_clean/test/Basal Cell Carcinoma/img_235.jpg,Basal Cell Carcinoma,data/skin31_clean/train/Basal Cell Carcinoma/img_233.jpg,Basal Cell Carcinoma,0.8147133,Atlas
+data/skin31_clean/test/Hailey-Hailey Disease/2411.jpg,Hailey-Hailey Disease,data/skin31_clean/train/Hailey-Hailey Disease/img_107.jpg,Hailey-Hailey Disease,0.8147007,Atlas
+data/skin31_clean/test/Lupus Erythematosus Chronicus Discoides/4057.jpg,Lupus Erythematosus Chronicus Discoides,data/skin31_clean/train/Leprosy Tuberculoid/3627.jpg,Leprosy Tuberculoid,0.81439865,Atlas
+data/skin31_clean/test/Nevus/ISIC_0000472.jpg,Nevus,data/skin31_clean/train/Squamous cell carcinoma/ISIC_0030602.jpg,Squamous cell carcinoma,0.813739,ISIC
+data/skin31_clean/test/Basal Cell Carcinoma/532.jpg,Basal Cell Carcinoma,data/skin31_clean/train/Psoriasis/6254.jpg,Psoriasis,0.81347394,Atlas
+data/skin31_clean/test/Pigmented Benign Keratosis/ISIC_0024626.jpg,Pigmented Benign Keratosis,data/skin31_clean/train/Pigmented Benign Keratosis/ISIC_0028376.jpg,Pigmented Benign Keratosis,0.81337035,ISIC
+data/skin31_clean/test/Hailey-Hailey Disease/2368.jpg,Hailey-Hailey Disease,data/skin31_clean/train/Hailey-Hailey Disease/img_130.jpg,Hailey-Hailey Disease,0.8123162,Atlas
+data/skin31_clean/test/Tungiasis/7678.jpg,Tungiasis,data/skin31_clean/train/Tungiasis/7679.jpg,Tungiasis,0.8119843,Atlas
+data/skin31_clean/test/Pigmented Benign Keratosis/ISIC_0026737.jpg,Pigmented Benign Keratosis,data/skin31_clean/train/Dermatofibroma/ISIC_0025504.jpg,Dermatofibroma,0.81181896,ISIC
+data/skin31_clean/test/Nevus/ISIC_0000083.jpg,Nevus,data/skin31_clean/train/Vascular lesion/ISIC_0033749.jpg,Vascular lesion,0.81170833,ISIC
+data/skin31_clean/test/Neurofibromatosis/img_80_2.jpg,Neurofibromatosis,data/skin31_clean/train/Melanoma/10419.jpg,Melanoma,0.81159,Atlas
+data/skin31_clean/test/Lupus Erythematosus Chronicus Discoides/8824.jpg,Lupus Erythematosus Chronicus Discoides,data/skin31_clean/train/Lupus Erythematosus Chronicus Discoides/8820.jpg,Lupus Erythematosus Chronicus Discoides,0.811588,Atlas
+data/skin31_clean/test/Hailey-Hailey Disease/2442.jpg,Hailey-Hailey Disease,data/skin31_clean/train/Hailey-Hailey Disease/2429.jpg,Hailey-Hailey Disease,0.8113382,Atlas
+data/skin31_clean/test/Leprosy Borderline/9663.jpg,Leprosy Borderline,data/skin31_clean/train/Leprosy Borderline/9652.jpg,Leprosy Borderline,0.8113102,Atlas
+data/skin31_clean/test/Leprosy Tuberculoid/img_159_2.jpg,Leprosy Tuberculoid,data/skin31_clean/train/Leprosy Tuberculoid/3614.jpg,Leprosy Tuberculoid,0.8103727,Atlas
+data/skin31_clean/test/Molluscum Contagiosum/4396.jpg,Molluscum Contagiosum,data/skin31_clean/train/Molluscum Contagiosum/4404.jpg,Molluscum Contagiosum,0.8093583,Atlas
+data/skin31_clean/test/Basal Cell Carcinoma/img_281.jpg,Basal Cell Carcinoma,data/skin31_clean/train/Basal Cell Carcinoma/img_280.jpg,Basal Cell Carcinoma,0.80896974,Atlas
+data/skin31_clean/test/Leprosy Borderline/3296.jpg,Leprosy Borderline,data/skin31_clean/train/Mycosis Fungoides/4592.jpg,Mycosis Fungoides,0.8087026,Atlas
+data/skin31_clean/test/Leprosy Tuberculoid/img_179_2.jpg,Leprosy Tuberculoid,data/skin31_clean/train/Leprosy Lepromatous/img_287.jpg,Leprosy Lepromatous,0.8086159,Atlas
+data/skin31_clean/test/Psoriasis/6299.jpg,Psoriasis,data/skin31_clean/train/Psoriasis/6295.jpg,Psoriasis,0.80838495,Atlas
+data/skin31_clean/test/Herpes Simplex/2579.jpg,Herpes Simplex,data/skin31_clean/train/Herpes Simplex/2578.jpg,Herpes Simplex,0.8082704,Atlas
+data/skin31_clean/test/Lupus Erythematosus Chronicus Discoides/11122.jpg,Lupus Erythematosus Chronicus Discoides,data/skin31_clean/train/Lupus Erythematosus Chronicus Discoides/11129.jpg,Lupus Erythematosus Chronicus Discoides,0.8079204,Atlas
+data/skin31_clean/test/Pigmented Benign Keratosis/ISIC_0027370.jpg,Pigmented Benign Keratosis,data/skin31_clean/train/Pigmented Benign Keratosis/ISIC_0025392.jpg,Pigmented Benign Keratosis,0.807498,ISIC
+data/skin31_clean/test/Lupus Erythematosus Chronicus Discoides/8819.jpg,Lupus Erythematosus Chronicus Discoides,data/skin31_clean/train/Psoriasis/11846.jpg,Psoriasis,0.80722356,Atlas
+data/skin31_clean/test/Basal Cell Carcinoma/img_354.jpg,Basal Cell Carcinoma,data/skin31_clean/train/Basal Cell Carcinoma/img_381.jpg,Basal Cell Carcinoma,0.80714166,Atlas
+data/skin31_clean/test/Nevus/ISIC_0000545.jpg,Nevus,data/skin31_clean/train/Nevus/ISIC_0000491.jpg,Nevus,0.8070248,ISIC
+data/skin31_clean/test/Psoriasis/6285.jpg,Psoriasis,data/skin31_clean/train/Psoriasis/6286.jpg,Psoriasis,0.8065392,Atlas
+data/skin31_clean/test/Nevus/ISIC_0000471.jpg,Nevus,data/skin31_clean/train/Pigmented Benign Keratosis/ISIC_0027064.jpg,Pigmented Benign Keratosis,0.8063717,ISIC
+data/skin31_clean/test/Lichen Planus/img_109.jpg,Lichen Planus,data/skin31_clean/train/Lichen Planus/img_108.jpg,Lichen Planus,0.80605745,Atlas
+data/skin31_clean/test/Tungiasis/img_92.jpg,Tungiasis,data/skin31_clean/train/Tungiasis/7637.jpg,Tungiasis,0.8052361,Atlas
+data/skin31_clean/test/Leprosy Lepromatous/img_87.jpg,Leprosy Lepromatous,data/skin31_clean/train/Leprosy Lepromatous/img_86.jpg,Leprosy Lepromatous,0.8044712,Atlas
+data/skin31_clean/test/Pigmented Benign Keratosis/ISIC_0024773.jpg,Pigmented Benign Keratosis,data/skin31_clean/train/Squamous cell carcinoma/ISIC_0025411.jpg,Squamous cell carcinoma,0.80421215,ISIC
+data/skin31_clean/test/Melanoma/4286.jpg,Melanoma,data/skin31_clean/train/Melanoma/4293.jpg,Melanoma,0.80386686,Atlas
+data/skin31_clean/test/Actinic keratosis/ISIC_0031506.jpg,Actinic keratosis,data/skin31_clean/train/Actinic keratosis/ISIC_0027536.jpg,Actinic keratosis,0.802336,ISIC
+data/skin31_clean/test/Lupus Erythematosus Chronicus Discoides/8825.jpg,Lupus Erythematosus Chronicus Discoides,data/skin31_clean/train/Tinea Corporis/7244.jpg,Tinea Corporis,0.80224323,Atlas
+data/skin31_clean/test/Mycosis Fungoides/8659.jpg,Mycosis Fungoides,data/skin31_clean/train/Mycosis Fungoides/8409.jpg,Mycosis Fungoides,0.8019173,Atlas
+data/skin31_clean/test/Psoriasis/6303.jpg,Psoriasis,data/skin31_clean/train/Psoriasis/6308.jpg,Psoriasis,0.8014232,Atlas
+data/skin31_clean/test/Mycosis Fungoides/img_105_2.jpg,Mycosis Fungoides,data/skin31_clean/train/Leprosy Lepromatous/img_169.jpg,Leprosy Lepromatous,0.8011148,Atlas
+data/skin31_clean/test/Leprosy Lepromatous/3378.jpg,Leprosy Lepromatous,data/skin31_clean/train/Leprosy Lepromatous/3373.jpg,Leprosy Lepromatous,0.80053097,Atlas
+data/skin31_clean/test/Pigmented Benign Keratosis/ISIC_0027006.jpg,Pigmented Benign Keratosis,data/skin31_clean/train/Nevus/ISIC_0000248.jpg,Nevus,0.8002552,ISIC
+data/skin31_clean/test/Neurofibromatosis/4772.jpg,Neurofibromatosis,data/skin31_clean/train/Leprosy Lepromatous/3396.jpg,Leprosy Lepromatous,0.7989621,Atlas
+data/skin31_clean/test/Mycosis Fungoides/img_85_2.jpg,Mycosis Fungoides,data/skin31_clean/train/Mycosis Fungoides/img_94_2.jpg,Mycosis Fungoides,0.79871154,Atlas
+data/skin31_clean/test/Molluscum Contagiosum/img_105.jpg,Molluscum Contagiosum,data/skin31_clean/train/Molluscum Contagiosum/img_104.jpg,Molluscum Contagiosum,0.7984227,Atlas
+data/skin31_clean/test/Nevus/ISIC_0000236.jpg,Nevus,data/skin31_clean/train/Pigmented Benign Keratosis/ISIC_0027606.jpg,Pigmented Benign Keratosis,0.7976985,ISIC
+data/skin31_clean/test/Dermatofibroma/ISIC_0030555.jpg,Dermatofibroma,data/skin31_clean/train/Vascular lesion/ISIC_0031197.jpg,Vascular lesion,0.7971702,ISIC
+data/skin31_clean/test/Basal Cell Carcinoma/539.jpg,Basal Cell Carcinoma,data/skin31_clean/train/Leprosy Lepromatous/3356.jpg,Leprosy Lepromatous,0.7971617,Atlas
+data/skin31_clean/test/Hailey-Hailey Disease/8282.jpg,Hailey-Hailey Disease,data/skin31_clean/train/Hailey-Hailey Disease/2384.jpg,Hailey-Hailey Disease,0.7966393,Atlas
+data/skin31_clean/test/Molluscum Contagiosum/img_114.jpg,Molluscum Contagiosum,data/skin31_clean/train/Herpes Simplex/2568.jpg,Herpes Simplex,0.79633427,Atlas
+data/skin31_clean/test/Pigmented Benign Keratosis/ISIC_0027680.jpg,Pigmented Benign Keratosis,data/skin31_clean/train/Pigmented Benign Keratosis/ISIC_0026728.jpg,Pigmented Benign Keratosis,0.7962183,ISIC
+data/skin31_clean/test/Psoriasis/6271.jpg,Psoriasis,data/skin31_clean/train/Basal Cell Carcinoma/586.jpg,Basal Cell Carcinoma,0.79618907,Atlas
+data/skin31_clean/test/Molluscum Contagiosum/img_132.jpg,Molluscum Contagiosum,data/skin31_clean/train/Hailey-Hailey Disease/2438.jpg,Hailey-Hailey Disease,0.79494494,Atlas
+data/skin31_clean/test/Basal Cell Carcinoma/img_317.jpg,Basal Cell Carcinoma,data/skin31_clean/train/Basal Cell Carcinoma/626.jpg,Basal Cell Carcinoma,0.79422414,Atlas
+data/skin31_clean/test/Basal Cell Carcinoma/img_232.jpg,Basal Cell Carcinoma,data/skin31_clean/train/Basal Cell Carcinoma/img_231.jpg,Basal Cell Carcinoma,0.7940961,Atlas
+data/skin31_clean/test/Pigmented Benign Keratosis/ISIC_0027991.jpg,Pigmented Benign Keratosis,data/skin31_clean/train/Pigmented Benign Keratosis/ISIC_0027953.jpg,Pigmented Benign Keratosis,0.793869,ISIC
+data/skin31_clean/test/Psoriasis/6238.jpg,Psoriasis,data/skin31_clean/train/Leprosy Borderline/3280.jpg,Leprosy Borderline,0.79370844,Atlas
+data/skin31_clean/test/Leprosy Tuberculoid/img_217_2.jpg,Leprosy Tuberculoid,data/skin31_clean/train/Leprosy Tuberculoid/img_218_2.jpg,Leprosy Tuberculoid,0.7927841,Atlas
+data/skin31_clean/test/Pityriasis Rosea/5610.jpg,Pityriasis Rosea,data/skin31_clean/train/Herpes Simplex/10229.jpg,Herpes Simplex,0.7923416,Atlas
+data/skin31_clean/test/Hailey-Hailey Disease/2381.jpg,Hailey-Hailey Disease,data/skin31_clean/train/Hailey-Hailey Disease/2380.jpg,Hailey-Hailey Disease,0.7919978,Atlas
+data/skin31_clean/test/Leprosy Lepromatous/img_282.jpg,Leprosy Lepromatous,data/skin31_clean/train/Tinea Corporis/7273.jpg,Tinea Corporis,0.7919948,Atlas
+data/skin31_clean/test/Molluscum Contagiosum/img_100.jpg,Molluscum Contagiosum,data/skin31_clean/train/Molluscum Contagiosum/img_99.jpg,Molluscum Contagiosum,0.7910632,Atlas
+data/skin31_clean/test/Tinea Corporis/7291.jpg,Tinea Corporis,data/skin31_clean/train/Hailey-Hailey Disease/img_126.jpg,Hailey-Hailey Disease,0.79060906,Atlas
+data/skin31_clean/test/Larva Migrans/img_125.jpg,Larva Migrans,data/skin31_clean/train/Impetigo/12302.jpg,Impetigo,0.7903292,Atlas
+data/skin31_clean/test/Darier_s Disease/1265.jpg,Darier_s Disease,data/skin31_clean/train/Leprosy Lepromatous/3357.jpg,Leprosy Lepromatous,0.7900492,Atlas
+data/skin31_clean/test/Leprosy Tuberculoid/3568.jpg,Leprosy Tuberculoid,data/skin31_clean/train/Tinea Corporis/7250.jpg,Tinea Corporis,0.788511,Atlas
+data/skin31_clean/test/Mycosis Fungoides/img_87_2.jpg,Mycosis Fungoides,data/skin31_clean/train/Mycosis Fungoides/img_88_2.jpg,Mycosis Fungoides,0.78771377,Atlas
+data/skin31_clean/test/Basal Cell Carcinoma/528.jpg,Basal Cell Carcinoma,data/skin31_clean/train/Basal Cell Carcinoma/img_311.jpg,Basal Cell Carcinoma,0.7863782,Atlas
+data/skin31_clean/test/Herpes Simplex/2557.jpg,Herpes Simplex,data/skin31_clean/train/Herpes Simplex/10229.jpg,Herpes Simplex,0.78608686,Atlas
+data/skin31_clean/test/Molluscum Contagiosum/img_126.jpg,Molluscum Contagiosum,data/skin31_clean/train/Basal Cell Carcinoma/606.jpg,Basal Cell Carcinoma,0.7852739,Atlas
+data/skin31_clean/test/Pigmented Benign Keratosis/ISIC_0025209.jpg,Pigmented Benign Keratosis,data/skin31_clean/train/Vascular lesion/ISIC_0032932.jpg,Vascular lesion,0.7841279,ISIC
+data/skin31_clean/test/Leprosy Lepromatous/img_158.jpg,Leprosy Lepromatous,data/skin31_clean/train/Leprosy Lepromatous/img_160.jpg,Leprosy Lepromatous,0.78395027,Atlas
+data/skin31_clean/test/Impetigo/2771.jpg,Impetigo,data/skin31_clean/train/Larva Migrans/img_127.jpg,Larva Migrans,0.7830198,Atlas
+data/skin31_clean/test/Leprosy Lepromatous/3359.jpg,Leprosy Lepromatous,data/skin31_clean/train/Melanoma/4257.jpg,Melanoma,0.78143764,Atlas
+data/skin31_clean/test/Neurofibromatosis/4785.jpg,Neurofibromatosis,data/skin31_clean/train/Neurofibromatosis/4822.jpg,Neurofibromatosis,0.78024375,Atlas
+data/skin31_clean/test/Lichen Planus/img_74_2.jpg,Lichen Planus,data/skin31_clean/train/Molluscum Contagiosum/img_85.jpg,Molluscum Contagiosum,0.7799856,Atlas
+data/skin31_clean/test/Actinic keratosis/ISIC_0033705.jpg,Actinic keratosis,data/skin31_clean/train/Actinic keratosis/ISIC_0026729.jpg,Actinic keratosis,0.77956504,ISIC
+data/skin31_clean/test/Leprosy Lepromatous/img_142.jpg,Leprosy Lepromatous,data/skin31_clean/train/Leprosy Lepromatous/img_144.jpg,Leprosy Lepromatous,0.77902204,Atlas
+data/skin31_clean/test/Lichen Planus/3826.jpg,Lichen Planus,data/skin31_clean/train/Leprosy Tuberculoid/img_201_2.jpg,Leprosy Tuberculoid,0.7790125,Atlas
+data/skin31_clean/test/Leprosy Tuberculoid/img_147_2.jpg,Leprosy Tuberculoid,data/skin31_clean/train/Leprosy Tuberculoid/img_148_2.jpg,Leprosy Tuberculoid,0.7773168,Atlas
+data/skin31_clean/test/Darier_s Disease/1270.jpg,Darier_s Disease,data/skin31_clean/train/Darier_s Disease/1276.jpg,Darier_s Disease,0.7753407,Atlas
+data/skin31_clean/test/Pigmented Benign Keratosis/ISIC_0024850.jpg,Pigmented Benign Keratosis,data/skin31_clean/train/Pigmented Benign Keratosis/ISIC_0027139.jpg,Pigmented Benign Keratosis,0.7753389,ISIC
+data/skin31_clean/test/Leprosy Lepromatous/3383.jpg,Leprosy Lepromatous,data/skin31_clean/train/Leprosy Lepromatous/3395.jpg,Leprosy Lepromatous,0.7747554,Atlas
+data/skin31_clean/test/Leprosy Tuberculoid/img_155_2.jpg,Leprosy Tuberculoid,data/skin31_clean/train/Leprosy Tuberculoid/3564.jpg,Leprosy Tuberculoid,0.77363086,Atlas
+data/skin31_clean/test/Leprosy Borderline/img_104_2.jpg,Leprosy Borderline,data/skin31_clean/train/Leprosy Tuberculoid/3620.jpg,Leprosy Tuberculoid,0.77211213,Atlas
+data/skin31_clean/test/Basal Cell Carcinoma/622.jpg,Basal Cell Carcinoma,data/skin31_clean/train/Basal Cell Carcinoma/522.jpg,Basal Cell Carcinoma,0.7712276,Atlas
+data/skin31_clean/test/Basal Cell Carcinoma/img_388.jpg,Basal Cell Carcinoma,data/skin31_clean/train/Basal Cell Carcinoma/img_389.jpg,Basal Cell Carcinoma,0.76975983,Atlas
+data/skin31_clean/test/Pediculosis Capitis/9259.jpg,Pediculosis Capitis,data/skin31_clean/train/Pediculosis Capitis/9244.jpg,Pediculosis Capitis,0.76939034,Atlas
+data/skin31_clean/test/Basal Cell Carcinoma/img_309.jpg,Basal Cell Carcinoma,data/skin31_clean/train/Herpes Simplex/2572.jpg,Herpes Simplex,0.7693733,Atlas
+data/skin31_clean/test/Papilomatosis Confluentes And Reticulate/8436.jpg,Papilomatosis Confluentes And Reticulate,data/skin31_clean/train/Papilomatosis Confluentes And Reticulate/5062.jpg,Papilomatosis Confluentes And Reticulate,0.76883256,Atlas
+data/skin31_clean/test/Darier_s Disease/1293.jpg,Darier_s Disease,data/skin31_clean/train/Darier_s Disease/1296.jpg,Darier_s Disease,0.76763594,Atlas
+data/skin31_clean/test/Pediculosis Capitis/9246.jpg,Pediculosis Capitis,data/skin31_clean/train/Pediculosis Capitis/9243.jpg,Pediculosis Capitis,0.7675829,Atlas
+data/skin31_clean/test/Basal Cell Carcinoma/img_326.jpg,Basal Cell Carcinoma,data/skin31_clean/train/Basal Cell Carcinoma/612.jpg,Basal Cell Carcinoma,0.76748025,Atlas
+data/skin31_clean/test/Basal Cell Carcinoma/img_171.jpg,Basal Cell Carcinoma,data/skin31_clean/train/Basal Cell Carcinoma/img_170.jpg,Basal Cell Carcinoma,0.7673085,Atlas
+data/skin31_clean/test/Nevus/ISIC_0000426.jpg,Nevus,data/skin31_clean/train/Vascular lesion/ISIC_0032890.jpg,Vascular lesion,0.7662995,ISIC
+data/skin31_clean/test/Impetigo/2825.jpg,Impetigo,data/skin31_clean/train/Impetigo/2824.jpg,Impetigo,0.7655276,Atlas
+data/skin31_clean/test/Pigmented Benign Keratosis/ISIC_0025743.jpg,Pigmented Benign Keratosis,data/skin31_clean/train/Pigmented Benign Keratosis/ISIC_0027053.jpg,Pigmented Benign Keratosis,0.76466274,ISIC
+data/skin31_clean/test/Basal Cell Carcinoma/img_274.jpg,Basal Cell Carcinoma,data/skin31_clean/train/Basal Cell Carcinoma/img_360.jpg,Basal Cell Carcinoma,0.7644195,Atlas
+data/skin31_clean/test/Pityriasis Rosea/5588.jpg,Pityriasis Rosea,data/skin31_clean/train/Pityriasis Rosea/5593.jpg,Pityriasis Rosea,0.7634958,Atlas
+data/skin31_clean/test/Leprosy Lepromatous/3409.jpg,Leprosy Lepromatous,data/skin31_clean/train/Epidermolysis Bullosa Pruriginosa/9795.jpg,Epidermolysis Bullosa Pruriginosa,0.7628349,Atlas
+data/skin31_clean/test/Pigmented Benign Keratosis/ISIC_0028347.jpg,Pigmented Benign Keratosis,data/skin31_clean/train/Pigmented Benign Keratosis/ISIC_0028309.jpg,Pigmented Benign Keratosis,0.76171577,ISIC
+data/skin31_clean/test/Tungiasis/img_118.jpg,Tungiasis,data/skin31_clean/train/Tungiasis/img_111.jpg,Tungiasis,0.75978327,Atlas
+data/skin31_clean/test/Psoriasis/6268.jpg,Psoriasis,data/skin31_clean/train/Psoriasis/6265.jpg,Psoriasis,0.7576287,Atlas
+data/skin31_clean/test/Tungiasis/img_104.jpg,Tungiasis,data/skin31_clean/train/Tungiasis/7689.jpg,Tungiasis,0.75670135,Atlas
+data/skin31_clean/test/Leprosy Lepromatous/img_186.jpg,Leprosy Lepromatous,data/skin31_clean/train/Leprosy Lepromatous/img_185.jpg,Leprosy Lepromatous,0.75641584,Atlas
+data/skin31_clean/test/Neurofibromatosis/4832.jpg,Neurofibromatosis,data/skin31_clean/train/Leprosy Lepromatous/img_133.jpg,Leprosy Lepromatous,0.75562155,Atlas
+data/skin31_clean/test/Leprosy Lepromatous/3365.jpg,Leprosy Lepromatous,data/skin31_clean/train/Leprosy Lepromatous/img_122.jpg,Leprosy Lepromatous,0.7540703,Atlas
+data/skin31_clean/test/Epidermolysis Bullosa Pruriginosa/9796.jpg,Epidermolysis Bullosa Pruriginosa,data/skin31_clean/train/Leprosy Borderline/img_115_2.jpg,Leprosy Borderline,0.7535816,Atlas
+data/skin31_clean/test/Leprosy Tuberculoid/img_153_2.jpg,Leprosy Tuberculoid,data/skin31_clean/train/Leprosy Borderline/9662.jpg,Leprosy Borderline,0.75220335,Atlas
+data/skin31_clean/test/Basal Cell Carcinoma/631.jpg,Basal Cell Carcinoma,data/skin31_clean/train/Basal Cell Carcinoma/562.jpg,Basal Cell Carcinoma,0.75065994,Atlas
+data/skin31_clean/test/Basal Cell Carcinoma/img_218.jpg,Basal Cell Carcinoma,data/skin31_clean/train/Pigmented Benign Keratosis/ISIC_0024635.jpg,Pigmented Benign Keratosis,0.74980056,Atlas
+data/skin31_clean/test/Psoriasis/6280.jpg,Psoriasis,data/skin31_clean/train/Psoriasis/6281.jpg,Psoriasis,0.7497188,Atlas
+data/skin31_clean/test/Lichen Planus/img_85.jpg,Lichen Planus,data/skin31_clean/train/Mycosis Fungoides/8695.jpg,Mycosis Fungoides,0.74940324,Atlas
+data/skin31_clean/test/Leprosy Lepromatous/3414.jpg,Leprosy Lepromatous,data/skin31_clean/train/Leprosy Lepromatous/3412.jpg,Leprosy Lepromatous,0.7486062,Atlas
+data/skin31_clean/test/Molluscum Contagiosum/4401.jpg,Molluscum Contagiosum,data/skin31_clean/train/Molluscum Contagiosum/4455.jpg,Molluscum Contagiosum,0.74775803,Atlas
+data/skin31_clean/test/Impetigo/2830.jpg,Impetigo,data/skin31_clean/train/Basal Cell Carcinoma/573.jpg,Basal Cell Carcinoma,0.7472498,Atlas
+data/skin31_clean/test/Molluscum Contagiosum/img_101.jpg,Molluscum Contagiosum,data/skin31_clean/train/Molluscum Contagiosum/img_98.jpg,Molluscum Contagiosum,0.7466428,Atlas
+data/skin31_clean/test/Psoriasis/6292.jpg,Psoriasis,data/skin31_clean/train/Psoriasis/6294.jpg,Psoriasis,0.7464353,Atlas
+data/skin31_clean/test/Tungiasis/7690.jpg,Tungiasis,data/skin31_clean/train/Tungiasis/7689.jpg,Tungiasis,0.74589705,Atlas
+data/skin31_clean/test/Darier_s Disease/1298.jpg,Darier_s Disease,data/skin31_clean/train/Darier_s Disease/1280.jpg,Darier_s Disease,0.7445384,Atlas
+data/skin31_clean/test/Leprosy Lepromatous/img_292.jpg,Leprosy Lepromatous,data/skin31_clean/train/Melanoma/4255.jpg,Melanoma,0.74248517,Atlas
+data/skin31_clean/test/Pigmented Benign Keratosis/ISIC_0028354.jpg,Pigmented Benign Keratosis,data/skin31_clean/train/Pigmented Benign Keratosis/ISIC_0027606.jpg,Pigmented Benign Keratosis,0.7423241,ISIC
+data/skin31_clean/test/Basal Cell Carcinoma/img_300.jpg,Basal Cell Carcinoma,data/skin31_clean/train/Melanoma/11082.jpg,Melanoma,0.740996,Atlas
+data/skin31_clean/test/Psoriasis/6293.jpg,Psoriasis,data/skin31_clean/train/Psoriasis/6294.jpg,Psoriasis,0.74025404,Atlas
+data/skin31_clean/test/Psoriasis/6279.jpg,Psoriasis,data/skin31_clean/train/Leprosy Lepromatous/img_140.jpg,Leprosy Lepromatous,0.73681974,Atlas
+data/skin31_clean/test/Larva Migrans/img_115.jpg,Larva Migrans,data/skin31_clean/train/Larva Migrans/3160.jpg,Larva Migrans,0.7365327,Atlas
+data/skin31_clean/test/Tinea Nigra/7450.jpg,Tinea Nigra,data/skin31_clean/train/Tinea Nigra/7459.jpg,Tinea Nigra,0.73628557,Atlas
+data/skin31_clean/test/Lichen Planus/img_84.jpg,Lichen Planus,data/skin31_clean/train/Lichen Planus/3784.jpg,Lichen Planus,0.7360222,Atlas
+data/skin31_clean/test/Tungiasis/img_122.jpg,Tungiasis,data/skin31_clean/train/Tungiasis/img_121.jpg,Tungiasis,0.7347943,Atlas
+data/skin31_clean/test/Lichen Planus/img_73_2.jpg,Lichen Planus,data/skin31_clean/train/Leprosy Lepromatous/3413.jpg,Leprosy Lepromatous,0.7319831,Atlas
+data/skin31_clean/test/Pityriasis Rosea/img_96.jpg,Pityriasis Rosea,data/skin31_clean/train/Hailey-Hailey Disease/2431.jpg,Hailey-Hailey Disease,0.731913,Atlas
+data/skin31_clean/test/Pediculosis Capitis/9555.jpg,Pediculosis Capitis,data/skin31_clean/train/Pediculosis Capitis/9559.jpg,Pediculosis Capitis,0.7313237,Atlas
+data/skin31_clean/test/Pigmented Benign Keratosis/ISIC_0025837.jpg,Pigmented Benign Keratosis,data/skin31_clean/train/Vascular lesion/ISIC_0031759.jpg,Vascular lesion,0.72790074,ISIC
+data/skin31_clean/test/Lichen Planus/3830.jpg,Lichen Planus,data/skin31_clean/train/Lichen Planus/3829.jpg,Lichen Planus,0.7264074,Atlas
+data/skin31_clean/test/Basal Cell Carcinoma/img_292.jpg,Basal Cell Carcinoma,data/skin31_clean/train/Basal Cell Carcinoma/634.jpg,Basal Cell Carcinoma,0.7259939,Atlas
+data/skin31_clean/test/Melanoma/4276.jpg,Melanoma,data/skin31_clean/train/Melanoma/4274.jpg,Melanoma,0.72596294,Atlas
+data/skin31_clean/test/Darier_s Disease/1294.jpg,Darier_s Disease,data/skin31_clean/train/Darier_s Disease/1302.jpg,Darier_s Disease,0.72259283,Atlas
+data/skin31_clean/test/Darier_s Disease/8592.jpg,Darier_s Disease,data/skin31_clean/train/Leprosy Lepromatous/img_160.jpg,Leprosy Lepromatous,0.7198266,Atlas
+data/skin31_clean/test/Leprosy Tuberculoid/img_188_2.jpg,Leprosy Tuberculoid,data/skin31_clean/train/Leprosy Lepromatous/img_293.jpg,Leprosy Lepromatous,0.7196548,Atlas
+data/skin31_clean/test/Darier_s Disease/1295.jpg,Darier_s Disease,data/skin31_clean/train/Tungiasis/7648.jpg,Tungiasis,0.7173488,Atlas
+data/skin31_clean/test/Basal Cell Carcinoma/img_310.jpg,Basal Cell Carcinoma,data/skin31_clean/train/Basal Cell Carcinoma/542.jpg,Basal Cell Carcinoma,0.716578,Atlas
+data/skin31_clean/test/Pediculosis Capitis/9585.jpg,Pediculosis Capitis,data/skin31_clean/train/Pediculosis Capitis/9587.jpg,Pediculosis Capitis,0.7148167,Atlas
+data/skin31_clean/test/Pigmented Benign Keratosis/ISIC_0024623.jpg,Pigmented Benign Keratosis,data/skin31_clean/train/Pigmented Benign Keratosis/ISIC_0028331.jpg,Pigmented Benign Keratosis,0.71355665,ISIC
+data/skin31_clean/test/Vascular lesion/ISIC_0031090.jpg,Vascular lesion,data/skin31_clean/train/Vascular lesion/ISIC_0033349.jpg,Vascular lesion,0.7133734,ISIC
+data/skin31_clean/test/Herpes Simplex/2552.jpg,Herpes Simplex,data/skin31_clean/train/Psoriasis/6263.jpg,Psoriasis,0.7073988,Atlas
+data/skin31_clean/test/Pediculosis Capitis/5159.jpg,Pediculosis Capitis,data/skin31_clean/train/Pediculosis Capitis/5154.jpg,Pediculosis Capitis,0.7062899,Atlas
+data/skin31_clean/test/Psoriasis/6316.jpg,Psoriasis,data/skin31_clean/train/Psoriasis/6318.jpg,Psoriasis,0.7020815,Atlas
+data/skin31_clean/test/Pigmented Benign Keratosis/ISIC_0025937.jpg,Pigmented Benign Keratosis,data/skin31_clean/train/Pigmented Benign Keratosis/ISIC_0024426.jpg,Pigmented Benign Keratosis,0.7004947,ISIC
+data/skin31_clean/test/Tungiasis/img_83.jpg,Tungiasis,data/skin31_clean/train/Tungiasis/img_82.jpg,Tungiasis,0.69654965,Atlas
+data/skin31_clean/test/Lichen Planus/3819.jpg,Lichen Planus,data/skin31_clean/train/Basal Cell Carcinoma/570.jpg,Basal Cell Carcinoma,0.69648993,Atlas
+data/skin31_clean/test/Squamous cell carcinoma/ISIC_0031119.jpg,Squamous cell carcinoma,data/skin31_clean/train/Pigmented Benign Keratosis/ISIC_0025339.jpg,Pigmented Benign Keratosis,0.69600177,ISIC
+data/skin31_clean/test/Leprosy Tuberculoid/3629.jpg,Leprosy Tuberculoid,data/skin31_clean/train/Leprosy Lepromatous/img_167.jpg,Leprosy Lepromatous,0.6909939,Atlas
+data/skin31_clean/test/Leprosy Tuberculoid/img_172_2.jpg,Leprosy Tuberculoid,data/skin31_clean/train/Leprosy Borderline/3320.jpg,Leprosy Borderline,0.6890642,Atlas
+data/skin31_clean/test/Tungiasis/7682.jpg,Tungiasis,data/skin31_clean/train/Tungiasis/7685.jpg,Tungiasis,0.688087,Atlas
+data/skin31_clean/test/Leprosy Lepromatous/3367.jpg,Leprosy Lepromatous,data/skin31_clean/train/Leprosy Lepromatous/3391.jpg,Leprosy Lepromatous,0.6830783,Atlas
+data/skin31_clean/test/Lichen Planus/3824.jpg,Lichen Planus,data/skin31_clean/train/Lichen Planus/img_82.jpg,Lichen Planus,0.6824963,Atlas
+data/skin31_clean/test/Leprosy Tuberculoid/3628.jpg,Leprosy Tuberculoid,data/skin31_clean/train/Leprosy Lepromatous/img_167.jpg,Leprosy Lepromatous,0.68107486,Atlas
+data/skin31_clean/test/Pediculosis Capitis/9586.jpg,Pediculosis Capitis,data/skin31_clean/train/Pediculosis Capitis/9587.jpg,Pediculosis Capitis,0.6795665,Atlas
+data/skin31_clean/test/Darier_s Disease/1286.jpg,Darier_s Disease,data/skin31_clean/train/Darier_s Disease/1289.jpg,Darier_s Disease,0.66900754,Atlas
+data/skin31_clean/test/Leprosy Tuberculoid/3526.jpg,Leprosy Tuberculoid,data/skin31_clean/train/Papilomatosis Confluentes And Reticulate/8431.jpg,Papilomatosis Confluentes And Reticulate,0.6622468,Atlas
+data/skin31_clean/test/Hailey-Hailey Disease/8281.jpg,Hailey-Hailey Disease,data/skin31_clean/train/Mycosis Fungoides/img_93_2.jpg,Mycosis Fungoides,0.6442843,Atlas
+data/skin31_clean/test/Pityriasis Rosea/5592.jpg,Pityriasis Rosea,data/skin31_clean/train/Tinea Corporis/7297.jpg,Tinea Corporis,0.61653805,Atlas
+data/skin31_clean/test/Leprosy Borderline/3295.jpg,Leprosy Borderline,data/skin31_clean/train/Mycosis Fungoides/4592.jpg,Mycosis Fungoides,0.609676,Atlas
+data/skin31_clean/test/Tinea Nigra/7426.jpg,Tinea Nigra,data/skin31_clean/train/Tinea Nigra/7427.jpg,Tinea Nigra,0.6048086,Atlas
+data/skin31_clean/test/Neurofibromatosis/8547.jpg,Neurofibromatosis,data/skin31_clean/train/Psoriasis/6308.jpg,Psoriasis,0.5892062,Atlas
+data/skin31_clean/test/Neurofibromatosis/8548.jpg,Neurofibromatosis,data/skin31_clean/train/Neurofibromatosis/4776.jpg,Neurofibromatosis,0.5860854,Atlas
+data/skin31_clean/test/Molluscum Contagiosum/img_113.jpg,Molluscum Contagiosum,data/skin31_clean/train/Tungiasis/7642.jpg,Tungiasis,0.5110792,Atlas
+data/skin31_clean/test/Tinea Nigra/7425.jpg,Tinea Nigra,data/skin31_clean/train/Tinea Nigra/7427.jpg,Tinea Nigra,0.4056819,Atlas

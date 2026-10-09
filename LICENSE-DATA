@@ -1,0 +1,43 @@
+Licences for the non-code files in this repository
+
+No images are distributed. The files below contain identifiers, file names, hashes,
+labels, metadata derived from the source datasets, and model outputs. Each group is
+released under a licence compatible with the dataset it is derived from:
+
+1. Files derived from the 31-class benchmark (Kaggle "31 Classes of Skin Disease",
+   CC BY-SA 4.0): lists/skin31_*, outputs/dup_check (benchmark files), outputs/repro,
+   outputs/clean_eval, outputs/embed_leak, outputs/authors_model, outputs/mendeley32.
+   These directory-level examples apply to benchmark-derived files only; external-cohort subsets are assigned in items 2 and 4 below.
+   Licence: Creative Commons Attribution-ShareAlike 4.0 International (CC BY-SA 4.0),
+   https://creativecommons.org/licenses/by-sa/4.0/
+
+2. Derm7pt source data: CC BY-NC-ND 4.0, according to the README supplied with
+   release_v0. The source images must not be redistributed. This repository includes
+   identifiers, reference-label groupings and author-generated model outputs only:
+   prereg/derm7pt_manifest.csv,
+   outputs/derm7pt, and the Derm7pt parts of outputs/deconf, outputs/milk_eval,
+   outputs/vit and outputs/sensitivity; the Derm7pt prediction arrays in outputs/relabel_eval and outputs/vit_milk; and the Derm7pt portions of outputs/tradeoffs, outputs/derm7pt_overall, outputs/grouping_check, outputs/e3_decomposition and outputs/seed_sensitivity.
+   Source licence: CC BY-NC-ND 4.0,
+   https://creativecommons.org/licenses/by-nc-nd/4.0/
+   No permission to reuse or redistribute the images is granted by this release.
+   Source rights are retained; this notice must not be read as relicensing the
+   original reference metadata or establishing a licence for every derived output.
+
+3. Files derived from HAM10000 (CC BY-NC 4.0) and MILK10k (CC BY-NC):
+   lists/skin31_deconf/ham_added.csv, lists/skin31_milk*/milk_added.csv,
+   prereg/deconf_excluded_ham.csv, prereg/milk_*.csv, outputs/deconf, outputs/milk.
+   Licence: CC BY-NC 4.0, https://creativecommons.org/licenses/by-nc/4.0/
+
+4. Files derived from PAD-UFES-20 (CC BY 4.0): prereg/pad_manifest.csv, outputs/pad, and the PAD prediction arrays in outputs/deconf, outputs/milk_eval, outputs/relabel_eval and outputs/vit_milk.
+   Licence: CC BY 4.0, https://creativecommons.org/licenses/by/4.0/
+
+5. The copies in prereg/registered inherit the terms of their corresponding original files above.
+
+6. Analysis plans (prereg/*.md), checkpoint hashes (checkpoints/) and results tables
+   not covered above: CC BY 4.0.
+
+Original dataset rights and access terms remain applicable. The authors' licences
+do not override source rights or grant permission to redistribute source images.
+For records that combine several sources, retain all source notices and cite the
+original datasets. Do not infer a single replacement licence solely by ranking
+the source licences as more or less restrictive.

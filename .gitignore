@@ -1,0 +1,13 @@
+data/
+checkpoints*/**/*.pth
+checkpoints*/**/*.pt
+ref_efficientskindis/
+__pycache__/
+*.py[cod]
+.venv/
+.env
+.env.*
+!*.example
+kaggle.json
+outputs/paperbanana/
+*.log

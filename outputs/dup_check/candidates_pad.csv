@@ -1,0 +1,50 @@
+type,hamming,tgt_path,tgt_split,tgt_label,src_path,src_split,src_label
+phash,4,data/archive/imgs_part_3/imgs_part_3/PAT_1733_3239_934.png,pad,NEV,data/Atlas dan ISIC2019 (31 classes)/train/Seborrheic keratosis/ISIC_0010852.jpg,train,Seborrheic keratosis
+phash,4,data/archive/imgs_part_3/imgs_part_3/PAT_1733_3239_934.png,pad,NEV,data/Atlas dan ISIC2019 (31 classes)/train/Vascular lesion/ISIC_0031950.jpg,train,Vascular lesion
+phash,4,data/archive/imgs_part_3/imgs_part_3/PAT_1694_3110_213.png,pad,NEV,data/Atlas dan ISIC2019 (31 classes)/train/Seborrheic keratosis/ISIC_0010852.jpg,train,Seborrheic keratosis
+phash,4,data/archive/imgs_part_3/imgs_part_3/PAT_2161_4819_719.png,pad,NEV,data/Atlas dan ISIC2019 (31 classes)/train/Seborrheic keratosis/ISIC_0010852.jpg,train,Seborrheic keratosis
+phash,6,data/archive/imgs_part_1/imgs_part_1/PAT_398_799_163.png,pad,NEV,data/Atlas dan ISIC2019 (31 classes)/train/Squamous cell carcinoma/ISIC_0026203.jpg,train,Squamous cell carcinoma
+phash,6,data/archive/imgs_part_3/imgs_part_3/PAT_1733_3239_934.png,pad,NEV,data/Atlas dan ISIC2019 (31 classes)/train/Nevus/ISIC_0000270.jpg,train,Nevus
+phash,6,data/archive/imgs_part_1/imgs_part_1/PAT_63_99_189.png,pad,BCC,data/Atlas dan ISIC2019 (31 classes)/train/Seborrheic keratosis/ISIC_0010852.jpg,train,Seborrheic keratosis
+phash,6,data/archive/imgs_part_1/imgs_part_1/PAT_63_99_189.png,pad,BCC,data/Atlas dan ISIC2019 (31 classes)/train/Vascular lesion/ISIC_0031950.jpg,train,Vascular lesion
+phash,8,data/archive/imgs_part_2/imgs_part_2/PAT_701_4056_457.png,pad,SEK,data/Atlas dan ISIC2019 (31 classes)/train/Basal Cell Carcinoma/620.jpg,train,Basal Cell Carcinoma
+phash,8,data/archive/imgs_part_2/imgs_part_2/PAT_875_1669_946.png,pad,BCC,data/Atlas dan ISIC2019 (31 classes)/train/Pigmented Benign Keratosis/ISIC_0025099.jpg,train,Pigmented Benign Keratosis
+phash,8,data/archive/imgs_part_1/imgs_part_1/PAT_465_901_627.png,pad,NEV,data/Atlas dan ISIC2019 (31 classes)/train/Vascular lesion/ISIC_0030882.jpg,train,Vascular lesion
+phash,8,data/archive/imgs_part_1/imgs_part_1/PAT_398_799_163.png,pad,NEV,data/Atlas dan ISIC2019 (31 classes)/train/Melanoma/4271.jpg,train,Melanoma
+phash,8,data/archive/imgs_part_2/imgs_part_2/PAT_645_1223_124.png,pad,BCC,data/Atlas dan ISIC2019 (31 classes)/test/Vascular lesion/ISIC_0025425.jpg,test,Vascular lesion
+phash,8,data/archive/imgs_part_2/imgs_part_2/PAT_614_1166_885.png,pad,MEL,data/Atlas dan ISIC2019 (31 classes)/train/Nevus/ISIC_0000271.jpg,train,Nevus
+phash,8,data/archive/imgs_part_2/imgs_part_2/PAT_614_1166_885.png,pad,MEL,data/Atlas dan ISIC2019 (31 classes)/test/Nevus/ISIC_0000028.jpg,test,Nevus
+phash,8,data/archive/imgs_part_3/imgs_part_3/PAT_1334_1178_413.png,pad,NEV,data/Atlas dan ISIC2019 (31 classes)/train/Nevus/ISIC_0000449.jpg,train,Nevus
+phash,8,data/archive/imgs_part_3/imgs_part_3/PAT_1334_1178_413.png,pad,NEV,data/Atlas dan ISIC2019 (31 classes)/train/Seborrheic keratosis/ISIC_0011140.jpg,train,Seborrheic keratosis
+phash,8,data/archive/imgs_part_3/imgs_part_3/PAT_1733_3239_934.png,pad,NEV,data/Atlas dan ISIC2019 (31 classes)/train/Tungiasis/7655.jpg,train,Tungiasis
+phash,8,data/archive/imgs_part_3/imgs_part_3/PAT_1733_3239_934.png,pad,NEV,data/Atlas dan ISIC2019 (31 classes)/train/Vascular lesion/ISIC_0025197.jpg,train,Vascular lesion
+phash,8,data/archive/imgs_part_3/imgs_part_3/PAT_1350_1230_878.png,pad,NEV,data/Atlas dan ISIC2019 (31 classes)/train/Basal Cell Carcinoma/550.jpg,train,Basal Cell Carcinoma
+phash,8,data/archive/imgs_part_3/imgs_part_3/PAT_1350_1230_878.png,pad,NEV,data/Atlas dan ISIC2019 (31 classes)/train/Seborrheic keratosis/ISIC_0010852.jpg,train,Seborrheic keratosis
+phash,8,data/archive/imgs_part_3/imgs_part_3/PAT_1350_1230_878.png,pad,NEV,data/Atlas dan ISIC2019 (31 classes)/train/Vascular lesion/ISIC_0031950.jpg,train,Vascular lesion
+phash,8,data/archive/imgs_part_1/imgs_part_1/PAT_431_850_472.png,pad,BCC,data/Atlas dan ISIC2019 (31 classes)/train/Pigmented Benign Keratosis/ISIC_0025099.jpg,train,Pigmented Benign Keratosis
+phash,8,data/archive/imgs_part_3/imgs_part_3/PAT_1591_2648_723.png,pad,NEV,data/Atlas dan ISIC2019 (31 classes)/train/Pigmented Benign Keratosis/ISIC_0024881.jpg,train,Pigmented Benign Keratosis
+phash,8,data/archive/imgs_part_3/imgs_part_3/PAT_1415_1437_527.png,pad,SEK,data/Atlas dan ISIC2019 (31 classes)/train/Seborrheic keratosis/ISIC_0010852.jpg,train,Seborrheic keratosis
+phash,8,data/archive/imgs_part_3/imgs_part_3/PAT_1415_1437_527.png,pad,SEK,data/Atlas dan ISIC2019 (31 classes)/train/Tungiasis/7655.jpg,train,Tungiasis
+phash,8,data/archive/imgs_part_3/imgs_part_3/PAT_1415_1437_527.png,pad,SEK,data/Atlas dan ISIC2019 (31 classes)/train/Vascular lesion/ISIC_0031950.jpg,train,Vascular lesion
+phash,8,data/archive/imgs_part_3/imgs_part_3/PAT_1288_1003_553.png,pad,NEV,data/Atlas dan ISIC2019 (31 classes)/train/Vascular lesion/ISIC_0033749.jpg,train,Vascular lesion
+phash,8,data/archive/imgs_part_3/imgs_part_3/PAT_2129_4680_110.png,pad,NEV,data/Atlas dan ISIC2019 (31 classes)/test/Nevus/ISIC_0000081.jpg,test,Nevus
+phash,8,data/archive/imgs_part_1/imgs_part_1/PAT_352_729_947.png,pad,NEV,data/Atlas dan ISIC2019 (31 classes)/train/Vascular lesion/ISIC_0024669.jpg,train,Vascular lesion
+phash,8,data/archive/imgs_part_2/imgs_part_2/PAT_861_1639_823.png,pad,ACK,data/Atlas dan ISIC2019 (31 classes)/train/Pigmented Benign Keratosis/ISIC_0024612.jpg,train,Pigmented Benign Keratosis
+phash,8,data/archive/imgs_part_2/imgs_part_2/PAT_701_1321_156.png,pad,SEK,data/Atlas dan ISIC2019 (31 classes)/train/Basal Cell Carcinoma/620.jpg,train,Basal Cell Carcinoma
+phash,8,data/archive/imgs_part_3/imgs_part_3/PAT_1907_3801_88.png,pad,NEV,data/Atlas dan ISIC2019 (31 classes)/train/Pigmented Benign Keratosis/ISIC_0027151.jpg,train,Pigmented Benign Keratosis
+phash,8,data/archive/imgs_part_3/imgs_part_3/PAT_1907_3801_88.png,pad,NEV,data/Atlas dan ISIC2019 (31 classes)/train/Vascular lesion/ISIC_0033749.jpg,train,Vascular lesion
+phash,8,data/archive/imgs_part_3/imgs_part_3/PAT_1264_907_674.png,pad,NEV,data/Atlas dan ISIC2019 (31 classes)/train/Basal Cell Carcinoma/639.jpg,train,Basal Cell Carcinoma
+phash,8,data/archive/imgs_part_2/imgs_part_2/PAT_898_1706_496.png,pad,NEV,data/Atlas dan ISIC2019 (31 classes)/train/Pigmented Benign Keratosis/ISIC_0024741.jpg,train,Pigmented Benign Keratosis
+phash,8,data/archive/imgs_part_1/imgs_part_1/PAT_85_129_980.png,pad,ACK,data/Atlas dan ISIC2019 (31 classes)/test/Tungiasis/7700.jpg,test,Tungiasis
+phash,8,data/archive/imgs_part_1/imgs_part_1/PAT_85_129_980.png,pad,ACK,data/Atlas dan ISIC2019 (31 classes)/test/Vascular lesion/ISIC_0030275.jpg,test,Vascular lesion
+phash,8,data/archive/imgs_part_3/imgs_part_3/PAT_1753_3305_385.png,pad,NEV,data/Atlas dan ISIC2019 (31 classes)/test/Pigmented Benign Keratosis/ISIC_0026422.jpg,test,Pigmented Benign Keratosis
+phash,8,data/archive/imgs_part_3/imgs_part_3/PAT_1331_1173_380.png,pad,NEV,data/Atlas dan ISIC2019 (31 classes)/train/Basal Cell Carcinoma/620.jpg,train,Basal Cell Carcinoma
+phash,8,data/archive/imgs_part_3/imgs_part_3/PAT_1694_3110_213.png,pad,NEV,data/Atlas dan ISIC2019 (31 classes)/train/Vascular lesion/ISIC_0025197.jpg,train,Vascular lesion
+phash,8,data/archive/imgs_part_3/imgs_part_3/PAT_1694_3110_213.png,pad,NEV,data/Atlas dan ISIC2019 (31 classes)/train/Vascular lesion/ISIC_0031950.jpg,train,Vascular lesion
+phash,8,data/archive/imgs_part_1/imgs_part_1/PAT_545_1031_428.png,pad,BCC,data/Atlas dan ISIC2019 (31 classes)/train/Squamous cell carcinoma/ISIC_0026203.jpg,train,Squamous cell carcinoma
+phash,8,data/archive/imgs_part_3/imgs_part_3/PAT_1107_427_352.png,pad,NEV,data/Atlas dan ISIC2019 (31 classes)/train/Seborrheic keratosis/ISIC_0011137.jpg,train,Seborrheic keratosis
+phash,8,data/archive/imgs_part_1/imgs_part_1/PAT_373_2598_235.png,pad,SEK,data/Atlas dan ISIC2019 (31 classes)/train/Basal Cell Carcinoma/530.jpg,train,Basal Cell Carcinoma
+phash,8,data/archive/imgs_part_3/imgs_part_3/PAT_2161_4819_719.png,pad,NEV,data/Atlas dan ISIC2019 (31 classes)/train/Tungiasis/7655.jpg,train,Tungiasis
+phash,8,data/archive/imgs_part_3/imgs_part_3/PAT_2161_4819_719.png,pad,NEV,data/Atlas dan ISIC2019 (31 classes)/train/Vascular lesion/ISIC_0025197.jpg,train,Vascular lesion
+phash,8,data/archive/imgs_part_3/imgs_part_3/PAT_2161_4819_719.png,pad,NEV,data/Atlas dan ISIC2019 (31 classes)/train/Vascular lesion/ISIC_0031950.jpg,train,Vascular lesion
+phash,8,data/archive/imgs_part_1/imgs_part_1/PAT_100_393_595.png,pad,NEV,data/Atlas dan ISIC2019 (31 classes)/train/Vascular lesion/ISIC_0025599.jpg,train,Vascular lesion

@@ -1,0 +1,26 @@
+cff-version: 1.2.0
+message: "If you use this code or these lists, please cite the article below."
+title: "Audit of a composite 31-class skin disease benchmark: code, image lists and results"
+authors:
+  - family-names: Le
+    given-names: Khai-Thanh
+    orcid: "https://orcid.org/0009-0008-3518-9313"
+    affiliation: "Ho Chi Minh City University of Natural Resources and Environment"
+  - family-names: Pham
+    given-names: Trong Huynh
+    affiliation: "Ho Chi Minh City University of Natural Resources and Environment"
+license: MIT
+doi: 10.5281/zenodo.23268495
+repository-code: "https://github.com/lekhai0123/skin31-audit"
+version: 1.0.0
+preferred-citation:
+  type: article
+  title: "Same Lesion, Different Answer: Label Errors and Source–Modality Confounding in a Composite Skin Disease Benchmark"
+  authors:
+    - family-names: Le
+      given-names: Khai-Thanh
+      orcid: "https://orcid.org/0009-0008-3518-9313"
+    - family-names: Pham
+      given-names: Trong Huynh
+  year: 2026
+  status: in-preparation

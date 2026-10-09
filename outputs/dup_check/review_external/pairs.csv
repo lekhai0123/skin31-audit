@@ -1,0 +1,97 @@
+pair,set,ham,tl,rl,tf,rf
+0,derm7pt,4,clinic / melanoma (in situ),skin31 train / Actinic keratosis,Fil003.jpg,ISIC_0029141.jpg
+1,derm7pt,4,clinic / melanoma (in situ),skin31 train / Nevus,Fil003.jpg,ISIC_0029141.jpg
+2,derm7pt,4,derm / reed or spitz nevus,skin31 train / Vascular lesion,Ggl010.jpg,ISIC_0025599.jpg
+3,derm7pt,4,derm / vascular lesion,skin31 test / Vascular lesion,Ggl012.jpg,ISIC_0032409.jpg
+4,derm7pt,6,derm / blue nevus,skin31 train / Basal Cell Carcinoma,gzl42.jpg,620.jpg
+5,derm7pt,6,derm / blue nevus,skin31 test / Nevus,gzl42.jpg,ISIC_0000384.jpg
+6,derm7pt,6,derm / blue nevus,skin31 test / Nevus,gzl42.jpg,ISIC_0000523.jpg
+7,derm7pt,6,derm / clark nevus,skin31 train / Squamous cell carcinoma,gzl70.jpg,ISIC_0026203.jpg
+8,derm7pt,6,clinic / clark nevus,skin31 train / Nevus,gzl35.jpg,ISIC_0000271.jpg
+9,derm7pt,6,derm / clark nevus,skin31 train / Nevus,gzl36.jpg,ISIC_0000227.jpg
+10,derm7pt,6,derm / reed or spitz nevus,skin31 train / Nevus,Nbl088.jpg,ISIC_0000097.jpg
+11,derm7pt,6,derm / reed or spitz nevus,skin31 train / Nevus,Ndl056.jpg,ISIC_0000376.jpg
+12,derm7pt,8,clinic / blue nevus,skin31 test / Tungiasis,gzl41.jpg,7644.jpg
+13,derm7pt,8,derm / blue nevus,skin31 train / Basal Cell Carcinoma,gzl42.jpg,639.jpg
+14,derm7pt,8,derm / blue nevus,skin31 test / Tungiasis,gzl42.jpg,7644.jpg
+15,derm7pt,8,clinic / clark nevus,skin31 train / Vascular lesion,Nll017.jpg,ISIC_0030104.jpg
+16,derm7pt,8,clinic / clark nevus,skin31 test / Vascular lesion,Nll017.jpg,ISIC_0032409.jpg
+17,derm7pt,8,derm / clark nevus,skin31 train / Nevus,Ael523.jpg,ISIC_0000025.jpg
+18,derm7pt,8,clinic / clark nevus,skin31 train / Basal Cell Carcinoma,gzl83.jpg,img_373.jpg
+19,derm7pt,8,derm / clark nevus,skin31 train / Nevus,gzl84.jpg,ISIC_0000376.jpg
+20,derm7pt,8,derm / clark nevus,skin31 test / Nevus,gzl34.jpg,ISIC_0000544.jpg
+21,derm7pt,8,clinic / clark nevus,skin31 train / Nevus,gzl35.jpg,ISIC_0000263.jpg
+22,derm7pt,8,clinic / clark nevus,skin31 train / Vascular lesion,gzl35.jpg,ISIC_0031719.jpg
+23,derm7pt,8,derm / clark nevus,skin31 test / Vascular lesion,FAL038.JPG,ISIC_0032409.jpg
+24,derm7pt,8,derm / clark nevus,skin31 train / Actinic keratosis,Fcl012.jpg,ISIC_0029141.jpg
+25,derm7pt,8,derm / clark nevus,skin31 train / Nevus,Fcl012.jpg,ISIC_0029141.jpg
+26,derm7pt,8,derm / clark nevus,skin31 test / Nevus,Fcl012.jpg,ISIC_0000384.jpg
+27,derm7pt,8,derm / clark nevus,skin31 train / Nevus,Fcl014.jpg,ISIC_0000263.jpg
+28,derm7pt,8,clinic / clark nevus,skin31 train / Tungiasis,Fel067.jpg,7655.jpg
+29,derm7pt,8,clinic / clark nevus,skin31 train / Nevus,Ffl031.jpg,ISIC_0000449.jpg
+30,derm7pt,8,derm / clark nevus,skin31 train / Nevus,Ffl100.jpg,ISIC_0000376.jpg
+31,derm7pt,8,derm / lentigo,skin31 test / Nevus,Adl387bis.jpg,ISIC_0000384.jpg
+32,derm7pt,8,clinic / melanoma (in situ),skin31 train / Vascular lesion,Fcl039.jpg,ISIC_0031950.jpg
+33,derm7pt,8,clinic / melanoma (less than 0.76 mm),skin31 train / Actinic keratosis,Fil031.jpg,ISIC_0029141.jpg
+34,derm7pt,8,clinic / melanoma (less than 0.76 mm),skin31 train / Nevus,Fil031.jpg,ISIC_0029141.jpg
+35,derm7pt,8,derm / reed or spitz nevus,skin31 train / Pigmented Benign Keratosis,Ndl056.jpg,ISIC_0025986.jpg
+36,derm7pt,8,derm / reed or spitz nevus,skin31 train / Seborrheic keratosis,Ndl056.jpg,ISIC_0011132.jpg
+37,derm7pt,8,derm / reed or spitz nevus,skin31 test / Vascular lesion,NML092.jpg,ISIC_0032409.jpg
+38,derm7pt,8,derm / reed or spitz nevus,skin31 train / Seborrheic keratosis,Nml094.jpg,ISIC_0010852.jpg
+39,derm7pt,8,clinic / reed or spitz nevus,skin31 test / Nevus,Ael404.jpg,ISIC_0000384.jpg
+40,derm7pt,8,derm / reed or spitz nevus,skin31 train / Vascular lesion,FAL070.JPG,ISIC_0025599.jpg
+41,derm7pt,8,derm / seborrheic keratosis,skin31 train / Vascular lesion,gzl18.jpg,ISIC_0030104.jpg
+42,derm7pt,8,derm / seborrheic keratosis,skin31 train / Nevus,Fll104.jpg,ISIC_0000457.jpg
+43,derm7pt,8,derm / vascular lesion,skin31 train / Seborrheic keratosis,Ggl012.jpg,ISIC_0011030.jpg
+44,derm7pt,8,derm / vascular lesion,skin31 train / Vascular lesion,Ggl012.jpg,ISIC_0030104.jpg
+45,derm7pt,8,derm / vascular lesion,skin31 train / Vascular lesion,Ggl014.jpg,ISIC_0029608.jpg
+46,derm7pt,8,derm / vascular lesion,skin31 train / Nevus,Ggl016.jpg,ISIC_0000376.jpg
+47,pad,4,pad / NEV,skin31 train / Seborrheic keratosis,PAT_1733_3239_934.png,ISIC_0010852.jpg
+48,pad,4,pad / NEV,skin31 train / Vascular lesion,PAT_1733_3239_934.png,ISIC_0031950.jpg
+49,pad,4,pad / NEV,skin31 train / Seborrheic keratosis,PAT_1694_3110_213.png,ISIC_0010852.jpg
+50,pad,4,pad / NEV,skin31 train / Seborrheic keratosis,PAT_2161_4819_719.png,ISIC_0010852.jpg
+51,pad,6,pad / NEV,skin31 train / Squamous cell carcinoma,PAT_398_799_163.png,ISIC_0026203.jpg
+52,pad,6,pad / NEV,skin31 train / Nevus,PAT_1733_3239_934.png,ISIC_0000270.jpg
+53,pad,6,pad / BCC,skin31 train / Seborrheic keratosis,PAT_63_99_189.png,ISIC_0010852.jpg
+54,pad,6,pad / BCC,skin31 train / Vascular lesion,PAT_63_99_189.png,ISIC_0031950.jpg
+55,pad,8,pad / SEK,skin31 train / Basal Cell Carcinoma,PAT_701_4056_457.png,620.jpg
+56,pad,8,pad / BCC,skin31 train / Pigmented Benign Keratosis,PAT_875_1669_946.png,ISIC_0025099.jpg
+57,pad,8,pad / NEV,skin31 train / Vascular lesion,PAT_465_901_627.png,ISIC_0030882.jpg
+58,pad,8,pad / NEV,skin31 train / Melanoma,PAT_398_799_163.png,4271.jpg
+59,pad,8,pad / BCC,skin31 test / Vascular lesion,PAT_645_1223_124.png,ISIC_0025425.jpg
+60,pad,8,pad / MEL,skin31 train / Nevus,PAT_614_1166_885.png,ISIC_0000271.jpg
+61,pad,8,pad / MEL,skin31 test / Nevus,PAT_614_1166_885.png,ISIC_0000028.jpg
+62,pad,8,pad / NEV,skin31 train / Nevus,PAT_1334_1178_413.png,ISIC_0000449.jpg
+63,pad,8,pad / NEV,skin31 train / Seborrheic keratosis,PAT_1334_1178_413.png,ISIC_0011140.jpg
+64,pad,8,pad / NEV,skin31 train / Tungiasis,PAT_1733_3239_934.png,7655.jpg
+65,pad,8,pad / NEV,skin31 train / Vascular lesion,PAT_1733_3239_934.png,ISIC_0025197.jpg
+66,pad,8,pad / NEV,skin31 train / Basal Cell Carcinoma,PAT_1350_1230_878.png,550.jpg
+67,pad,8,pad / NEV,skin31 train / Seborrheic keratosis,PAT_1350_1230_878.png,ISIC_0010852.jpg
+68,pad,8,pad / NEV,skin31 train / Vascular lesion,PAT_1350_1230_878.png,ISIC_0031950.jpg
+69,pad,8,pad / BCC,skin31 train / Pigmented Benign Keratosis,PAT_431_850_472.png,ISIC_0025099.jpg
+70,pad,8,pad / NEV,skin31 train / Pigmented Benign Keratosis,PAT_1591_2648_723.png,ISIC_0024881.jpg
+71,pad,8,pad / SEK,skin31 train / Seborrheic keratosis,PAT_1415_1437_527.png,ISIC_0010852.jpg
+72,pad,8,pad / SEK,skin31 train / Tungiasis,PAT_1415_1437_527.png,7655.jpg
+73,pad,8,pad / SEK,skin31 train / Vascular lesion,PAT_1415_1437_527.png,ISIC_0031950.jpg
+74,pad,8,pad / NEV,skin31 train / Vascular lesion,PAT_1288_1003_553.png,ISIC_0033749.jpg
+75,pad,8,pad / NEV,skin31 test / Nevus,PAT_2129_4680_110.png,ISIC_0000081.jpg
+76,pad,8,pad / NEV,skin31 train / Vascular lesion,PAT_352_729_947.png,ISIC_0024669.jpg
+77,pad,8,pad / ACK,skin31 train / Pigmented Benign Keratosis,PAT_861_1639_823.png,ISIC_0024612.jpg
+78,pad,8,pad / SEK,skin31 train / Basal Cell Carcinoma,PAT_701_1321_156.png,620.jpg
+79,pad,8,pad / NEV,skin31 train / Pigmented Benign Keratosis,PAT_1907_3801_88.png,ISIC_0027151.jpg
+80,pad,8,pad / NEV,skin31 train / Vascular lesion,PAT_1907_3801_88.png,ISIC_0033749.jpg
+81,pad,8,pad / NEV,skin31 train / Basal Cell Carcinoma,PAT_1264_907_674.png,639.jpg
+82,pad,8,pad / NEV,skin31 train / Pigmented Benign Keratosis,PAT_898_1706_496.png,ISIC_0024741.jpg
+83,pad,8,pad / ACK,skin31 test / Tungiasis,PAT_85_129_980.png,7700.jpg
+84,pad,8,pad / ACK,skin31 test / Vascular lesion,PAT_85_129_980.png,ISIC_0030275.jpg
+85,pad,8,pad / NEV,skin31 test / Pigmented Benign Keratosis,PAT_1753_3305_385.png,ISIC_0026422.jpg
+86,pad,8,pad / NEV,skin31 train / Basal Cell Carcinoma,PAT_1331_1173_380.png,620.jpg
+87,pad,8,pad / NEV,skin31 train / Vascular lesion,PAT_1694_3110_213.png,ISIC_0025197.jpg
+88,pad,8,pad / NEV,skin31 train / Vascular lesion,PAT_1694_3110_213.png,ISIC_0031950.jpg
+89,pad,8,pad / BCC,skin31 train / Squamous cell carcinoma,PAT_545_1031_428.png,ISIC_0026203.jpg
+90,pad,8,pad / NEV,skin31 train / Seborrheic keratosis,PAT_1107_427_352.png,ISIC_0011137.jpg
+91,pad,8,pad / SEK,skin31 train / Basal Cell Carcinoma,PAT_373_2598_235.png,530.jpg
+92,pad,8,pad / NEV,skin31 train / Tungiasis,PAT_2161_4819_719.png,7655.jpg
+93,pad,8,pad / NEV,skin31 train / Vascular lesion,PAT_2161_4819_719.png,ISIC_0025197.jpg
+94,pad,8,pad / NEV,skin31 train / Vascular lesion,PAT_2161_4819_719.png,ISIC_0031950.jpg
+95,pad,8,pad / NEV,skin31 train / Vascular lesion,PAT_100_393_595.png,ISIC_0025599.jpg

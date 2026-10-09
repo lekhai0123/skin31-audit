@@ -1,0 +1,5 @@
+pair,gain_seen_pp,gain_unseen_pp,diff_pp,ci_low,ci_high
+1_b2_baseline -> 2_b2_trainopt,11.65,5.85,5.79,-2.0,14.26
+4_b0_baseline -> 5_b0_trainopt,8.03,2.04,6.0,-0.99,13.63
+5_b0_trainopt -> 7_b0_kd_fusion,4.82,-2.04,6.85,1.79,12.02
+2_b2_trainopt -> 3_b2_fusion_teacher,0.4,-0.0,0.4,-3.24,3.68

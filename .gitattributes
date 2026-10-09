@@ -1,0 +1,2 @@
+# Keep every file byte-identical to SHA256SUMS_release.txt (no line-ending conversion on checkout).
+* -text

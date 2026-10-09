@@ -1,0 +1,428 @@
+lesion_id,dx,rank,target_class
+IL_1093822,BCC,0,Basal Cell Carcinoma
+IL_9091693,BCC,1,Basal Cell Carcinoma
+IL_6591521,BCC,2,Basal Cell Carcinoma
+IL_0564162,BCC,3,Basal Cell Carcinoma
+IL_5420018,BCC,4,Basal Cell Carcinoma
+IL_7509121,BCC,5,Basal Cell Carcinoma
+IL_4094223,BCC,6,Basal Cell Carcinoma
+IL_1288672,BCC,7,Basal Cell Carcinoma
+IL_0853673,BCC,8,Basal Cell Carcinoma
+IL_9421860,BCC,9,Basal Cell Carcinoma
+IL_6478777,BCC,10,Basal Cell Carcinoma
+IL_7871814,BCC,11,Basal Cell Carcinoma
+IL_6780891,BCC,12,Basal Cell Carcinoma
+IL_2307206,BCC,13,Basal Cell Carcinoma
+IL_2141966,BCC,14,Basal Cell Carcinoma
+IL_4419075,BCC,15,Basal Cell Carcinoma
+IL_5055807,BCC,16,Basal Cell Carcinoma
+IL_8854625,BCC,17,Basal Cell Carcinoma
+IL_3745397,BCC,18,Basal Cell Carcinoma
+IL_6578198,BCC,19,Basal Cell Carcinoma
+IL_5386138,BCC,20,Basal Cell Carcinoma
+IL_1623659,BCC,21,Basal Cell Carcinoma
+IL_4907068,BCC,22,Basal Cell Carcinoma
+IL_4941375,BCC,23,Basal Cell Carcinoma
+IL_7487058,BCC,24,Basal Cell Carcinoma
+IL_5865217,BCC,25,Basal Cell Carcinoma
+IL_6765370,BCC,26,Basal Cell Carcinoma
+IL_1641908,BCC,27,Basal Cell Carcinoma
+IL_0894322,BCC,28,Basal Cell Carcinoma
+IL_5153554,BCC,29,Basal Cell Carcinoma
+IL_3634030,BCC,30,Basal Cell Carcinoma
+IL_1303773,BCC,31,Basal Cell Carcinoma
+IL_5535772,BCC,32,Basal Cell Carcinoma
+IL_9147878,BCC,33,Basal Cell Carcinoma
+IL_9682787,BCC,34,Basal Cell Carcinoma
+IL_7985046,BCC,35,Basal Cell Carcinoma
+IL_9962218,BCC,36,Basal Cell Carcinoma
+IL_7363364,BCC,37,Basal Cell Carcinoma
+IL_6296094,BCC,38,Basal Cell Carcinoma
+IL_2176807,BCC,39,Basal Cell Carcinoma
+IL_8240105,BCC,40,Basal Cell Carcinoma
+IL_3406268,BCC,41,Basal Cell Carcinoma
+IL_5625000,BCC,42,Basal Cell Carcinoma
+IL_4340188,BCC,43,Basal Cell Carcinoma
+IL_0063537,BCC,44,Basal Cell Carcinoma
+IL_7980891,BCC,45,Basal Cell Carcinoma
+IL_4687032,BCC,46,Basal Cell Carcinoma
+IL_7719893,BCC,47,Basal Cell Carcinoma
+IL_9441829,BCC,48,Basal Cell Carcinoma
+IL_9364222,BCC,49,Basal Cell Carcinoma
+IL_3293897,BCC,50,Basal Cell Carcinoma
+IL_2248965,BCC,51,Basal Cell Carcinoma
+IL_5466304,BCC,52,Basal Cell Carcinoma
+IL_5504349,BCC,53,Basal Cell Carcinoma
+IL_6834280,BCC,54,Basal Cell Carcinoma
+IL_6638180,BCC,55,Basal Cell Carcinoma
+IL_9549484,BCC,56,Basal Cell Carcinoma
+IL_8991149,BCC,57,Basal Cell Carcinoma
+IL_7096412,BCC,58,Basal Cell Carcinoma
+IL_0125566,BCC,59,Basal Cell Carcinoma
+IL_8572700,BCC,60,Basal Cell Carcinoma
+IL_0113118,BCC,61,Basal Cell Carcinoma
+IL_9156080,BCC,62,Basal Cell Carcinoma
+IL_7110419,BCC,63,Basal Cell Carcinoma
+IL_2722741,BCC,64,Basal Cell Carcinoma
+IL_7789479,BCC,65,Basal Cell Carcinoma
+IL_2208727,BCC,66,Basal Cell Carcinoma
+IL_0921105,BCC,67,Basal Cell Carcinoma
+IL_7270407,BCC,68,Basal Cell Carcinoma
+IL_0700053,BCC,69,Basal Cell Carcinoma
+IL_5173461,BCC,70,Basal Cell Carcinoma
+IL_1794572,BCC,71,Basal Cell Carcinoma
+IL_8819924,BCC,72,Basal Cell Carcinoma
+IL_9992890,BCC,73,Basal Cell Carcinoma
+IL_9094394,BCC,74,Basal Cell Carcinoma
+IL_2918897,BCC,75,Basal Cell Carcinoma
+IL_9758278,BCC,76,Basal Cell Carcinoma
+IL_2987017,BCC,77,Basal Cell Carcinoma
+IL_7925495,BCC,78,Basal Cell Carcinoma
+IL_9773637,BCC,79,Basal Cell Carcinoma
+IL_6518522,BCC,80,Basal Cell Carcinoma
+IL_1773483,BCC,81,Basal Cell Carcinoma
+IL_5834228,BCC,82,Basal Cell Carcinoma
+IL_5384329,BCC,83,Basal Cell Carcinoma
+IL_7573989,BCC,84,Basal Cell Carcinoma
+IL_1393794,BCC,85,Basal Cell Carcinoma
+IL_6352600,BCC,86,Basal Cell Carcinoma
+IL_5997841,BCC,87,Basal Cell Carcinoma
+IL_9324964,BCC,88,Basal Cell Carcinoma
+IL_1397522,BCC,89,Basal Cell Carcinoma
+IL_2178122,BCC,90,Basal Cell Carcinoma
+IL_5569670,BCC,91,Basal Cell Carcinoma
+IL_2760690,BCC,92,Basal Cell Carcinoma
+IL_1283249,BCC,93,Basal Cell Carcinoma
+IL_3457214,BCC,94,Basal Cell Carcinoma
+IL_5411298,BCC,95,Basal Cell Carcinoma
+IL_1880052,BCC,96,Basal Cell Carcinoma
+IL_4921939,BCC,97,Basal Cell Carcinoma
+IL_9194841,BCC,98,Basal Cell Carcinoma
+IL_8876914,BCC,99,Basal Cell Carcinoma
+IL_6505724,BCC,100,Basal Cell Carcinoma
+IL_3705242,BCC,101,Basal Cell Carcinoma
+IL_1166072,BCC,102,Basal Cell Carcinoma
+IL_5441408,BCC,103,Basal Cell Carcinoma
+IL_2994581,BCC,104,Basal Cell Carcinoma
+IL_2405400,BCC,105,Basal Cell Carcinoma
+IL_0705529,BCC,106,Basal Cell Carcinoma
+IL_6484840,BCC,107,Basal Cell Carcinoma
+IL_3711710,BCC,108,Basal Cell Carcinoma
+IL_6004651,BCC,109,Basal Cell Carcinoma
+IL_2004753,BCC,110,Basal Cell Carcinoma
+IL_6559871,BCC,111,Basal Cell Carcinoma
+IL_4997932,BCC,112,Basal Cell Carcinoma
+IL_2897531,BCC,113,Basal Cell Carcinoma
+IL_8908533,BCC,114,Basal Cell Carcinoma
+IL_9974051,BCC,115,Basal Cell Carcinoma
+IL_2720879,BCC,116,Basal Cell Carcinoma
+IL_5601227,BCC,117,Basal Cell Carcinoma
+IL_4212984,BCC,118,Basal Cell Carcinoma
+IL_2522650,BCC,119,Basal Cell Carcinoma
+IL_7759035,BCC,120,Basal Cell Carcinoma
+IL_9271885,BCC,121,Basal Cell Carcinoma
+IL_6451411,BCC,122,Basal Cell Carcinoma
+IL_5766493,BCC,123,Basal Cell Carcinoma
+IL_2719236,BCC,124,Basal Cell Carcinoma
+IL_6536248,BCC,125,Basal Cell Carcinoma
+IL_8927794,BCC,126,Basal Cell Carcinoma
+IL_2504113,BCC,127,Basal Cell Carcinoma
+IL_0962219,BCC,128,Basal Cell Carcinoma
+IL_6050524,BCC,129,Basal Cell Carcinoma
+IL_6686200,BCC,130,Basal Cell Carcinoma
+IL_1066586,BCC,131,Basal Cell Carcinoma
+IL_4263582,BCC,132,Basal Cell Carcinoma
+IL_1861078,BCC,133,Basal Cell Carcinoma
+IL_5836381,BCC,134,Basal Cell Carcinoma
+IL_3930642,BCC,135,Basal Cell Carcinoma
+IL_2664581,BCC,136,Basal Cell Carcinoma
+IL_1839563,BCC,137,Basal Cell Carcinoma
+IL_8702117,BCC,138,Basal Cell Carcinoma
+IL_9734938,BCC,139,Basal Cell Carcinoma
+IL_8908582,BCC,140,Basal Cell Carcinoma
+IL_4305250,BCC,141,Basal Cell Carcinoma
+IL_7503105,BCC,142,Basal Cell Carcinoma
+IL_8364526,BCC,143,Basal Cell Carcinoma
+IL_9509148,BCC,144,Basal Cell Carcinoma
+IL_3593034,BCC,145,Basal Cell Carcinoma
+IL_5281501,BCC,146,Basal Cell Carcinoma
+IL_5357233,BCC,147,Basal Cell Carcinoma
+IL_5797843,BCC,148,Basal Cell Carcinoma
+IL_8074133,BCC,149,Basal Cell Carcinoma
+IL_1567374,BCC,150,Basal Cell Carcinoma
+IL_4068514,BCC,151,Basal Cell Carcinoma
+IL_6995611,BCC,152,Basal Cell Carcinoma
+IL_9233957,BCC,153,Basal Cell Carcinoma
+IL_2880261,BCC,154,Basal Cell Carcinoma
+IL_1618148,BCC,155,Basal Cell Carcinoma
+IL_4668896,BCC,156,Basal Cell Carcinoma
+IL_2451092,BCC,157,Basal Cell Carcinoma
+IL_5987346,BCC,158,Basal Cell Carcinoma
+IL_0607268,BCC,159,Basal Cell Carcinoma
+IL_2218575,BCC,160,Basal Cell Carcinoma
+IL_2752948,BCC,162,Basal Cell Carcinoma
+IL_7244270,BCC,163,Basal Cell Carcinoma
+IL_2643688,BCC,164,Basal Cell Carcinoma
+IL_5417384,BCC,165,Basal Cell Carcinoma
+IL_9984758,BCC,166,Basal Cell Carcinoma
+IL_3453159,BCC,167,Basal Cell Carcinoma
+IL_4064310,BCC,168,Basal Cell Carcinoma
+IL_7534180,BCC,169,Basal Cell Carcinoma
+IL_0177781,BCC,170,Basal Cell Carcinoma
+IL_1397250,BCC,171,Basal Cell Carcinoma
+IL_0834716,BCC,172,Basal Cell Carcinoma
+IL_6157998,BCC,173,Basal Cell Carcinoma
+IL_3787537,BCC,174,Basal Cell Carcinoma
+IL_5328329,BCC,175,Basal Cell Carcinoma
+IL_8732835,BCC,176,Basal Cell Carcinoma
+IL_1088813,BCC,177,Basal Cell Carcinoma
+IL_4781564,BCC,178,Basal Cell Carcinoma
+IL_2926353,BCC,179,Basal Cell Carcinoma
+IL_0410887,BCC,180,Basal Cell Carcinoma
+IL_7965758,BCC,181,Basal Cell Carcinoma
+IL_6520783,BCC,182,Basal Cell Carcinoma
+IL_1311157,BCC,183,Basal Cell Carcinoma
+IL_1981700,BCC,184,Basal Cell Carcinoma
+IL_1861400,BCC,185,Basal Cell Carcinoma
+IL_7144691,BCC,186,Basal Cell Carcinoma
+IL_9276974,BCC,187,Basal Cell Carcinoma
+IL_6024093,BCC,189,Basal Cell Carcinoma
+IL_0572339,BCC,190,Basal Cell Carcinoma
+IL_6891715,BCC,191,Basal Cell Carcinoma
+IL_8275439,BCC,192,Basal Cell Carcinoma
+IL_6834343,BCC,193,Basal Cell Carcinoma
+IL_2659393,BCC,194,Basal Cell Carcinoma
+IL_4765483,BCC,195,Basal Cell Carcinoma
+IL_5762747,BCC,196,Basal Cell Carcinoma
+IL_2477407,BCC,197,Basal Cell Carcinoma
+IL_3405101,BCC,198,Basal Cell Carcinoma
+IL_8375905,BCC,199,Basal Cell Carcinoma
+IL_5818168,BCC,200,Basal Cell Carcinoma
+IL_0399009,BCC,201,Basal Cell Carcinoma
+IL_8012177,BCC,202,Basal Cell Carcinoma
+IL_0552883,BCC,203,Basal Cell Carcinoma
+IL_1439879,BCC,204,Basal Cell Carcinoma
+IL_3316669,BCC,205,Basal Cell Carcinoma
+IL_7443834,BCC,206,Basal Cell Carcinoma
+IL_2040419,BCC,207,Basal Cell Carcinoma
+IL_1392309,BCC,208,Basal Cell Carcinoma
+IL_0937448,BCC,209,Basal Cell Carcinoma
+IL_9126795,BCC,210,Basal Cell Carcinoma
+IL_0778720,BCC,211,Basal Cell Carcinoma
+IL_4107565,BCC,212,Basal Cell Carcinoma
+IL_9145163,BCC,213,Basal Cell Carcinoma
+IL_4403121,BCC,214,Basal Cell Carcinoma
+IL_3301980,BCC,215,Basal Cell Carcinoma
+IL_7084309,BCC,216,Basal Cell Carcinoma
+IL_3660517,BCC,217,Basal Cell Carcinoma
+IL_8280517,BCC,218,Basal Cell Carcinoma
+IL_6124707,BCC,219,Basal Cell Carcinoma
+IL_0266844,BCC,220,Basal Cell Carcinoma
+IL_5469172,BCC,221,Basal Cell Carcinoma
+IL_4250777,BCC,222,Basal Cell Carcinoma
+IL_2734899,BCC,223,Basal Cell Carcinoma
+IL_8168935,BCC,224,Basal Cell Carcinoma
+IL_9232367,BCC,225,Basal Cell Carcinoma
+IL_0317976,BCC,226,Basal Cell Carcinoma
+IL_0762658,BCC,227,Basal Cell Carcinoma
+IL_4642532,BCC,228,Basal Cell Carcinoma
+IL_2006449,BCC,229,Basal Cell Carcinoma
+IL_8028208,BCC,230,Basal Cell Carcinoma
+IL_6943395,BCC,231,Basal Cell Carcinoma
+IL_0720160,BCC,232,Basal Cell Carcinoma
+IL_0030541,BCC,233,Basal Cell Carcinoma
+IL_0809761,BCC,234,Basal Cell Carcinoma
+IL_4524955,BCC,235,Basal Cell Carcinoma
+IL_7744965,BCC,236,Basal Cell Carcinoma
+IL_5880830,BCC,237,Basal Cell Carcinoma
+IL_3492257,BCC,238,Basal Cell Carcinoma
+IL_5466158,BCC,239,Basal Cell Carcinoma
+IL_1438394,BCC,240,Basal Cell Carcinoma
+IL_7912330,BCC,241,Basal Cell Carcinoma
+IL_2779064,BCC,242,Basal Cell Carcinoma
+IL_8675438,BCC,243,Basal Cell Carcinoma
+IL_4042622,BCC,244,Basal Cell Carcinoma
+IL_2881037,BCC,245,Basal Cell Carcinoma
+IL_5518223,BCC,246,Basal Cell Carcinoma
+IL_9984501,BCC,247,Basal Cell Carcinoma
+IL_5361912,BCC,248,Basal Cell Carcinoma
+IL_4164624,BCC,249,Basal Cell Carcinoma
+IL_5890474,BCC,250,Basal Cell Carcinoma
+IL_0836761,BCC,251,Basal Cell Carcinoma
+IL_0314873,BCC,252,Basal Cell Carcinoma
+IL_2671860,BCC,253,Basal Cell Carcinoma
+IL_9917047,BCC,255,Basal Cell Carcinoma
+IL_8679455,BCC,256,Basal Cell Carcinoma
+IL_4245376,BCC,257,Basal Cell Carcinoma
+IL_1409066,BCC,258,Basal Cell Carcinoma
+IL_4970888,BCC,259,Basal Cell Carcinoma
+IL_8637878,BCC,260,Basal Cell Carcinoma
+IL_8861890,BCC,261,Basal Cell Carcinoma
+IL_0468810,BCC,262,Basal Cell Carcinoma
+IL_7021252,BCC,263,Basal Cell Carcinoma
+IL_8339117,BCC,264,Basal Cell Carcinoma
+IL_8158343,BCC,265,Basal Cell Carcinoma
+IL_7571308,BCC,266,Basal Cell Carcinoma
+IL_0963446,BCC,267,Basal Cell Carcinoma
+IL_6893390,BCC,268,Basal Cell Carcinoma
+IL_5844694,BCC,269,Basal Cell Carcinoma
+IL_7741201,BCC,270,Basal Cell Carcinoma
+IL_7631753,BCC,271,Basal Cell Carcinoma
+IL_1623260,BCC,272,Basal Cell Carcinoma
+IL_4156451,BCC,273,Basal Cell Carcinoma
+IL_3464725,BCC,274,Basal Cell Carcinoma
+IL_5564093,BCC,275,Basal Cell Carcinoma
+IL_0549977,BCC,276,Basal Cell Carcinoma
+IL_9632950,BCC,277,Basal Cell Carcinoma
+IL_3730515,BCC,278,Basal Cell Carcinoma
+IL_7291887,BCC,279,Basal Cell Carcinoma
+IL_7070259,BCC,280,Basal Cell Carcinoma
+IL_4988250,BCC,281,Basal Cell Carcinoma
+IL_0765772,BCC,282,Basal Cell Carcinoma
+IL_0363698,BCC,283,Basal Cell Carcinoma
+IL_8994291,BCC,284,Basal Cell Carcinoma
+IL_7423062,BCC,285,Basal Cell Carcinoma
+IL_7743686,BCC,286,Basal Cell Carcinoma
+IL_1128310,BCC,287,Basal Cell Carcinoma
+IL_2553098,BCC,288,Basal Cell Carcinoma
+IL_6195057,BCC,289,Basal Cell Carcinoma
+IL_0816967,BCC,290,Basal Cell Carcinoma
+IL_7494236,BCC,291,Basal Cell Carcinoma
+IL_3070568,BCC,292,Basal Cell Carcinoma
+IL_2718328,BCC,293,Basal Cell Carcinoma
+IL_6873122,BCC,294,Basal Cell Carcinoma
+IL_4240733,BCC,295,Basal Cell Carcinoma
+IL_8692782,BCC,296,Basal Cell Carcinoma
+IL_8613876,BCC,297,Basal Cell Carcinoma
+IL_6317075,BCC,298,Basal Cell Carcinoma
+IL_7466506,BCC,299,Basal Cell Carcinoma
+IL_3256681,BCC,300,Basal Cell Carcinoma
+IL_9730160,BCC,301,Basal Cell Carcinoma
+IL_1122341,BCC,302,Basal Cell Carcinoma
+IL_4326191,BCC,303,Basal Cell Carcinoma
+IL_7101016,BCC,304,Basal Cell Carcinoma
+IL_7402756,BCC,305,Basal Cell Carcinoma
+IL_8083531,BCC,306,Basal Cell Carcinoma
+IL_8387787,BCC,307,Basal Cell Carcinoma
+IL_6296418,BCC,308,Basal Cell Carcinoma
+IL_0712386,BCC,309,Basal Cell Carcinoma
+IL_1060778,BCC,310,Basal Cell Carcinoma
+IL_3203349,BCC,311,Basal Cell Carcinoma
+IL_4371981,BCC,312,Basal Cell Carcinoma
+IL_6442141,BCC,313,Basal Cell Carcinoma
+IL_9395505,BCC,314,Basal Cell Carcinoma
+IL_9092829,BCC,315,Basal Cell Carcinoma
+IL_0179071,BCC,316,Basal Cell Carcinoma
+IL_8259171,BCC,317,Basal Cell Carcinoma
+IL_7760285,BCC,318,Basal Cell Carcinoma
+IL_1749163,BCC,319,Basal Cell Carcinoma
+IL_9746868,BCC,320,Basal Cell Carcinoma
+IL_3176703,BCC,321,Basal Cell Carcinoma
+IL_1131415,BCC,322,Basal Cell Carcinoma
+IL_1036024,BCC,323,Basal Cell Carcinoma
+IL_2748244,BCC,324,Basal Cell Carcinoma
+IL_7996799,BCC,325,Basal Cell Carcinoma
+IL_2111173,BCC,326,Basal Cell Carcinoma
+IL_2965012,BCC,327,Basal Cell Carcinoma
+IL_6934051,BCC,328,Basal Cell Carcinoma
+IL_3226127,BCC,329,Basal Cell Carcinoma
+IL_2740967,MEL,0,Melanoma
+IL_3790645,MEL,1,Melanoma
+IL_5277134,MEL,5,Melanoma
+IL_1817922,MEL,6,Melanoma
+IL_5267029,MEL,7,Melanoma
+IL_0149726,MEL,8,Melanoma
+IL_2739808,MEL,9,Melanoma
+IL_4928087,MEL,10,Melanoma
+IL_4073740,MEL,11,Melanoma
+IL_0019655,MEL,12,Melanoma
+IL_0218048,MEL,13,Melanoma
+IL_0718275,MEL,14,Melanoma
+IL_1627026,MEL,15,Melanoma
+IL_3151519,MEL,16,Melanoma
+IL_3154962,MEL,17,Melanoma
+IL_4028485,MEL,19,Melanoma
+IL_8970458,MEL,20,Melanoma
+IL_5844745,MEL,21,Melanoma
+IL_8984570,MEL,22,Melanoma
+IL_1445099,MEL,23,Melanoma
+IL_9993432,MEL,25,Melanoma
+IL_0855898,MEL,27,Melanoma
+IL_1886112,MEL,28,Melanoma
+IL_8583674,MEL,30,Melanoma
+IL_0080398,MEL,32,Melanoma
+IL_1711238,MEL,33,Melanoma
+IL_3157584,MEL,35,Melanoma
+IL_1546321,MEL,36,Melanoma
+IL_7343687,MEL,39,Melanoma
+IL_0044468,MEL,40,Melanoma
+IL_3720458,MEL,41,Melanoma
+IL_8869831,MEL,43,Melanoma
+IL_6705491,MEL,45,Melanoma
+IL_1062117,MEL,46,Melanoma
+IL_0159486,MEL,47,Melanoma
+IL_9942096,MEL,48,Melanoma
+IL_0335647,MEL,50,Melanoma
+IL_8106703,MEL,51,Melanoma
+IL_8193590,MEL,52,Melanoma
+IL_3553236,MEL,54,Melanoma
+IL_8114949,MEL,55,Melanoma
+IL_6122240,MEL,56,Melanoma
+IL_1027638,MEL,58,Melanoma
+IL_1782345,MEL,59,Melanoma
+IL_7337548,MEL,60,Melanoma
+IL_9439154,MEL,61,Melanoma
+IL_0624945,MEL,62,Melanoma
+IL_6256539,MEL,64,Melanoma
+IL_5496114,MEL,65,Melanoma
+IL_0192026,MEL,67,Melanoma
+IL_4791300,MEL,68,Melanoma
+IL_6292784,MEL,70,Melanoma
+IL_9409547,MEL,72,Melanoma
+IL_0848676,MEL,73,Melanoma
+IL_3061699,MEL,75,Melanoma
+IL_9588958,MEL,76,Melanoma
+IL_7481126,MEL,77,Melanoma
+IL_1300499,MEL,78,Melanoma
+IL_9572527,MEL,79,Melanoma
+IL_4547617,MEL,80,Melanoma
+IL_2989326,MEL,81,Melanoma
+IL_0328020,MEL,82,Melanoma
+IL_9803330,MEL,83,Melanoma
+IL_5415624,MEL,85,Melanoma
+IL_7297013,MEL,88,Melanoma
+IL_3355699,MEL,89,Melanoma
+IL_7417538,MEL,90,Melanoma
+IL_9995614,MEL,91,Melanoma
+IL_7728515,MEL,92,Melanoma
+IL_1159424,MEL,93,Melanoma
+IL_6427122,MEL,94,Melanoma
+IL_6369359,MEL,95,Melanoma
+IL_2867550,MEL,96,Melanoma
+IL_8850331,MEL,98,Melanoma
+IL_0604713,MEL,99,Melanoma
+IL_4340050,MEL,101,Melanoma
+IL_4829953,MEL,102,Melanoma
+IL_6607832,MEL,104,Melanoma
+IL_6581276,MEL,105,Melanoma
+IL_5100758,MEL,107,Melanoma
+IL_0436411,MEL,108,Melanoma
+IL_4522594,MEL,109,Melanoma
+IL_5809538,MEL,110,Melanoma
+IL_9300549,MEL,112,Melanoma
+IL_2517543,MEL,115,Melanoma
+IL_5812139,MEL,116,Melanoma
+IL_4498199,MEL,117,Melanoma
+IL_1576423,MEL,118,Melanoma
+IL_0387029,MEL,120,Melanoma
+IL_0433789,MEL,121,Melanoma
+IL_9231229,MEL,122,Melanoma
+IL_3906452,MEL,123,Melanoma
+IL_9680907,MEL,125,Melanoma
+IL_3023010,MEL,126,Melanoma
+IL_2201530,MEL,127,Melanoma
+IL_6220664,MEL,128,Melanoma
+IL_5251059,MEL,129,Melanoma
+IL_2543533,MEL,132,Melanoma
+IL_2154531,MEL,133,Melanoma
+IL_0406808,MEL,136,Melanoma

@@ -1,0 +1,428 @@
+lesion_id,isic_id,dx,image_type,target_class
+IL_0019655,ISIC_2641217,MEL,dermoscopic,Melanoma
+IL_0030541,ISIC_1347581,BCC,dermoscopic,Basal Cell Carcinoma
+IL_0044468,ISIC_6046943,MEL,dermoscopic,Melanoma
+IL_0063537,ISIC_8370666,BCC,dermoscopic,Basal Cell Carcinoma
+IL_0080398,ISIC_9206660,MEL,dermoscopic,Melanoma
+IL_0113118,ISIC_8483047,BCC,dermoscopic,Basal Cell Carcinoma
+IL_0125566,ISIC_0490468,BCC,dermoscopic,Basal Cell Carcinoma
+IL_0149726,ISIC_8667960,MEL,dermoscopic,Melanoma
+IL_0159486,ISIC_9055556,MEL,dermoscopic,Melanoma
+IL_0177781,ISIC_3408779,BCC,dermoscopic,Basal Cell Carcinoma
+IL_0179071,ISIC_6900958,BCC,dermoscopic,Basal Cell Carcinoma
+IL_0192026,ISIC_6581571,MEL,dermoscopic,Melanoma
+IL_0218048,ISIC_8521879,MEL,dermoscopic,Melanoma
+IL_0266844,ISIC_6342177,BCC,dermoscopic,Basal Cell Carcinoma
+IL_0314873,ISIC_3451684,BCC,dermoscopic,Basal Cell Carcinoma
+IL_0317976,ISIC_1064441,BCC,dermoscopic,Basal Cell Carcinoma
+IL_0328020,ISIC_3636953,MEL,dermoscopic,Melanoma
+IL_0335647,ISIC_0642767,MEL,dermoscopic,Melanoma
+IL_0363698,ISIC_7282695,BCC,dermoscopic,Basal Cell Carcinoma
+IL_0387029,ISIC_5850719,MEL,dermoscopic,Melanoma
+IL_0399009,ISIC_4588701,BCC,dermoscopic,Basal Cell Carcinoma
+IL_0406808,ISIC_1201025,MEL,dermoscopic,Melanoma
+IL_0410887,ISIC_0197900,BCC,dermoscopic,Basal Cell Carcinoma
+IL_0433789,ISIC_3642584,MEL,dermoscopic,Melanoma
+IL_0436411,ISIC_4981008,MEL,dermoscopic,Melanoma
+IL_0468810,ISIC_0863389,BCC,dermoscopic,Basal Cell Carcinoma
+IL_0549977,ISIC_4506914,BCC,dermoscopic,Basal Cell Carcinoma
+IL_0552883,ISIC_1421371,BCC,dermoscopic,Basal Cell Carcinoma
+IL_0564162,ISIC_5492973,BCC,dermoscopic,Basal Cell Carcinoma
+IL_0572339,ISIC_8180766,BCC,dermoscopic,Basal Cell Carcinoma
+IL_0604713,ISIC_0305865,MEL,dermoscopic,Melanoma
+IL_0607268,ISIC_1080345,BCC,dermoscopic,Basal Cell Carcinoma
+IL_0624945,ISIC_5937588,MEL,dermoscopic,Melanoma
+IL_0700053,ISIC_2522593,BCC,dermoscopic,Basal Cell Carcinoma
+IL_0705529,ISIC_0598709,BCC,dermoscopic,Basal Cell Carcinoma
+IL_0712386,ISIC_9390963,BCC,dermoscopic,Basal Cell Carcinoma
+IL_0718275,ISIC_5892763,MEL,dermoscopic,Melanoma
+IL_0720160,ISIC_9521675,BCC,dermoscopic,Basal Cell Carcinoma
+IL_0762658,ISIC_3859478,BCC,dermoscopic,Basal Cell Carcinoma
+IL_0765772,ISIC_3942613,BCC,dermoscopic,Basal Cell Carcinoma
+IL_0778720,ISIC_3807348,BCC,dermoscopic,Basal Cell Carcinoma
+IL_0809761,ISIC_4973062,BCC,dermoscopic,Basal Cell Carcinoma
+IL_0816967,ISIC_8079864,BCC,dermoscopic,Basal Cell Carcinoma
+IL_0834716,ISIC_8810920,BCC,dermoscopic,Basal Cell Carcinoma
+IL_0836761,ISIC_0763962,BCC,dermoscopic,Basal Cell Carcinoma
+IL_0848676,ISIC_7695263,MEL,dermoscopic,Melanoma
+IL_0853673,ISIC_1033453,BCC,dermoscopic,Basal Cell Carcinoma
+IL_0855898,ISIC_6596926,MEL,dermoscopic,Melanoma
+IL_0894322,ISIC_3307579,BCC,dermoscopic,Basal Cell Carcinoma
+IL_0921105,ISIC_8614302,BCC,dermoscopic,Basal Cell Carcinoma
+IL_0937448,ISIC_5842460,BCC,dermoscopic,Basal Cell Carcinoma
+IL_0962219,ISIC_9479710,BCC,dermoscopic,Basal Cell Carcinoma
+IL_0963446,ISIC_3918888,BCC,dermoscopic,Basal Cell Carcinoma
+IL_1027638,ISIC_5093839,MEL,dermoscopic,Melanoma
+IL_1036024,ISIC_9317670,BCC,dermoscopic,Basal Cell Carcinoma
+IL_1060778,ISIC_7567589,BCC,dermoscopic,Basal Cell Carcinoma
+IL_1062117,ISIC_7922830,MEL,dermoscopic,Melanoma
+IL_1066586,ISIC_2945370,BCC,dermoscopic,Basal Cell Carcinoma
+IL_1088813,ISIC_5780488,BCC,dermoscopic,Basal Cell Carcinoma
+IL_1093822,ISIC_6860247,BCC,dermoscopic,Basal Cell Carcinoma
+IL_1122341,ISIC_0666405,BCC,dermoscopic,Basal Cell Carcinoma
+IL_1128310,ISIC_7504308,BCC,dermoscopic,Basal Cell Carcinoma
+IL_1131415,ISIC_4708288,BCC,dermoscopic,Basal Cell Carcinoma
+IL_1159424,ISIC_4312494,MEL,dermoscopic,Melanoma
+IL_1166072,ISIC_7110025,BCC,dermoscopic,Basal Cell Carcinoma
+IL_1283249,ISIC_6970909,BCC,dermoscopic,Basal Cell Carcinoma
+IL_1288672,ISIC_4729676,BCC,dermoscopic,Basal Cell Carcinoma
+IL_1300499,ISIC_4282506,MEL,dermoscopic,Melanoma
+IL_1303773,ISIC_7668131,BCC,dermoscopic,Basal Cell Carcinoma
+IL_1311157,ISIC_3504270,BCC,dermoscopic,Basal Cell Carcinoma
+IL_1392309,ISIC_4204828,BCC,dermoscopic,Basal Cell Carcinoma
+IL_1393794,ISIC_1409004,BCC,dermoscopic,Basal Cell Carcinoma
+IL_1397250,ISIC_2322494,BCC,dermoscopic,Basal Cell Carcinoma
+IL_1397522,ISIC_2590426,BCC,dermoscopic,Basal Cell Carcinoma
+IL_1409066,ISIC_8549775,BCC,dermoscopic,Basal Cell Carcinoma
+IL_1438394,ISIC_1595455,BCC,dermoscopic,Basal Cell Carcinoma
+IL_1439879,ISIC_8288141,BCC,dermoscopic,Basal Cell Carcinoma
+IL_1445099,ISIC_5509679,MEL,dermoscopic,Melanoma
+IL_1546321,ISIC_5461210,MEL,dermoscopic,Melanoma
+IL_1567374,ISIC_5124607,BCC,dermoscopic,Basal Cell Carcinoma
+IL_1576423,ISIC_6250232,MEL,dermoscopic,Melanoma
+IL_1618148,ISIC_7949818,BCC,dermoscopic,Basal Cell Carcinoma
+IL_1623260,ISIC_7903287,BCC,dermoscopic,Basal Cell Carcinoma
+IL_1623659,ISIC_1966383,BCC,dermoscopic,Basal Cell Carcinoma
+IL_1627026,ISIC_9807754,MEL,dermoscopic,Melanoma
+IL_1641908,ISIC_2320348,BCC,dermoscopic,Basal Cell Carcinoma
+IL_1711238,ISIC_5080331,MEL,dermoscopic,Melanoma
+IL_1749163,ISIC_0289550,BCC,dermoscopic,Basal Cell Carcinoma
+IL_1773483,ISIC_9733625,BCC,dermoscopic,Basal Cell Carcinoma
+IL_1782345,ISIC_4740515,MEL,dermoscopic,Melanoma
+IL_1794572,ISIC_4346905,BCC,dermoscopic,Basal Cell Carcinoma
+IL_1817922,ISIC_7585813,MEL,dermoscopic,Melanoma
+IL_1839563,ISIC_7461810,BCC,dermoscopic,Basal Cell Carcinoma
+IL_1861078,ISIC_5249321,BCC,dermoscopic,Basal Cell Carcinoma
+IL_1861400,ISIC_3365437,BCC,dermoscopic,Basal Cell Carcinoma
+IL_1880052,ISIC_2944495,BCC,dermoscopic,Basal Cell Carcinoma
+IL_1886112,ISIC_2374466,MEL,dermoscopic,Melanoma
+IL_1981700,ISIC_2601487,BCC,dermoscopic,Basal Cell Carcinoma
+IL_2004753,ISIC_1502467,BCC,dermoscopic,Basal Cell Carcinoma
+IL_2006449,ISIC_1428490,BCC,dermoscopic,Basal Cell Carcinoma
+IL_2040419,ISIC_7869069,BCC,dermoscopic,Basal Cell Carcinoma
+IL_2111173,ISIC_8995161,BCC,dermoscopic,Basal Cell Carcinoma
+IL_2141966,ISIC_3183046,BCC,dermoscopic,Basal Cell Carcinoma
+IL_2154531,ISIC_5182952,MEL,dermoscopic,Melanoma
+IL_2176807,ISIC_3472228,BCC,dermoscopic,Basal Cell Carcinoma
+IL_2178122,ISIC_7529554,BCC,dermoscopic,Basal Cell Carcinoma
+IL_2201530,ISIC_2586728,MEL,dermoscopic,Melanoma
+IL_2208727,ISIC_5548095,BCC,dermoscopic,Basal Cell Carcinoma
+IL_2218575,ISIC_5992562,BCC,dermoscopic,Basal Cell Carcinoma
+IL_2248965,ISIC_0361189,BCC,dermoscopic,Basal Cell Carcinoma
+IL_2307206,ISIC_3810251,BCC,dermoscopic,Basal Cell Carcinoma
+IL_2405400,ISIC_6344855,BCC,dermoscopic,Basal Cell Carcinoma
+IL_2451092,ISIC_4765663,BCC,dermoscopic,Basal Cell Carcinoma
+IL_2477407,ISIC_2001379,BCC,dermoscopic,Basal Cell Carcinoma
+IL_2504113,ISIC_6063897,BCC,dermoscopic,Basal Cell Carcinoma
+IL_2517543,ISIC_5912360,MEL,dermoscopic,Melanoma
+IL_2522650,ISIC_8707635,BCC,dermoscopic,Basal Cell Carcinoma
+IL_2543533,ISIC_0156507,MEL,dermoscopic,Melanoma
+IL_2553098,ISIC_2612910,BCC,dermoscopic,Basal Cell Carcinoma
+IL_2643688,ISIC_2422166,BCC,dermoscopic,Basal Cell Carcinoma
+IL_2659393,ISIC_3934861,BCC,dermoscopic,Basal Cell Carcinoma
+IL_2664581,ISIC_6236484,BCC,dermoscopic,Basal Cell Carcinoma
+IL_2671860,ISIC_4771678,BCC,dermoscopic,Basal Cell Carcinoma
+IL_2718328,ISIC_3819687,BCC,dermoscopic,Basal Cell Carcinoma
+IL_2719236,ISIC_7082726,BCC,dermoscopic,Basal Cell Carcinoma
+IL_2720879,ISIC_9650544,BCC,dermoscopic,Basal Cell Carcinoma
+IL_2722741,ISIC_9216457,BCC,dermoscopic,Basal Cell Carcinoma
+IL_2734899,ISIC_2038875,BCC,dermoscopic,Basal Cell Carcinoma
+IL_2739808,ISIC_4256719,MEL,dermoscopic,Melanoma
+IL_2740967,ISIC_2586707,MEL,dermoscopic,Melanoma
+IL_2748244,ISIC_1014403,BCC,dermoscopic,Basal Cell Carcinoma
+IL_2752948,ISIC_7868177,BCC,dermoscopic,Basal Cell Carcinoma
+IL_2760690,ISIC_1844015,BCC,dermoscopic,Basal Cell Carcinoma
+IL_2779064,ISIC_3851477,BCC,dermoscopic,Basal Cell Carcinoma
+IL_2867550,ISIC_5531874,MEL,dermoscopic,Melanoma
+IL_2880261,ISIC_9562051,BCC,dermoscopic,Basal Cell Carcinoma
+IL_2881037,ISIC_7632279,BCC,dermoscopic,Basal Cell Carcinoma
+IL_2897531,ISIC_1667014,BCC,dermoscopic,Basal Cell Carcinoma
+IL_2918897,ISIC_2353418,BCC,dermoscopic,Basal Cell Carcinoma
+IL_2926353,ISIC_9796777,BCC,dermoscopic,Basal Cell Carcinoma
+IL_2965012,ISIC_2826846,BCC,dermoscopic,Basal Cell Carcinoma
+IL_2987017,ISIC_1897052,BCC,dermoscopic,Basal Cell Carcinoma
+IL_2989326,ISIC_8955200,MEL,dermoscopic,Melanoma
+IL_2994581,ISIC_6685680,BCC,dermoscopic,Basal Cell Carcinoma
+IL_3023010,ISIC_7280473,MEL,dermoscopic,Melanoma
+IL_3061699,ISIC_7150655,MEL,dermoscopic,Melanoma
+IL_3070568,ISIC_1796015,BCC,dermoscopic,Basal Cell Carcinoma
+IL_3151519,ISIC_7615926,MEL,dermoscopic,Melanoma
+IL_3154962,ISIC_8673290,MEL,dermoscopic,Melanoma
+IL_3157584,ISIC_6365981,MEL,dermoscopic,Melanoma
+IL_3176703,ISIC_0601743,BCC,dermoscopic,Basal Cell Carcinoma
+IL_3203349,ISIC_8419172,BCC,dermoscopic,Basal Cell Carcinoma
+IL_3226127,ISIC_8816242,BCC,dermoscopic,Basal Cell Carcinoma
+IL_3256681,ISIC_8657995,BCC,dermoscopic,Basal Cell Carcinoma
+IL_3293897,ISIC_3981911,BCC,dermoscopic,Basal Cell Carcinoma
+IL_3301980,ISIC_7206020,BCC,dermoscopic,Basal Cell Carcinoma
+IL_3316669,ISIC_1132361,BCC,dermoscopic,Basal Cell Carcinoma
+IL_3355699,ISIC_1184775,MEL,dermoscopic,Melanoma
+IL_3405101,ISIC_9986730,BCC,dermoscopic,Basal Cell Carcinoma
+IL_3406268,ISIC_8868777,BCC,dermoscopic,Basal Cell Carcinoma
+IL_3453159,ISIC_2747596,BCC,dermoscopic,Basal Cell Carcinoma
+IL_3457214,ISIC_3088055,BCC,dermoscopic,Basal Cell Carcinoma
+IL_3464725,ISIC_8114137,BCC,dermoscopic,Basal Cell Carcinoma
+IL_3492257,ISIC_1621625,BCC,dermoscopic,Basal Cell Carcinoma
+IL_3553236,ISIC_7785676,MEL,dermoscopic,Melanoma
+IL_3593034,ISIC_1509648,BCC,dermoscopic,Basal Cell Carcinoma
+IL_3634030,ISIC_6417102,BCC,dermoscopic,Basal Cell Carcinoma
+IL_3660517,ISIC_3788562,BCC,dermoscopic,Basal Cell Carcinoma
+IL_3705242,ISIC_6936754,BCC,dermoscopic,Basal Cell Carcinoma
+IL_3711710,ISIC_5169938,BCC,dermoscopic,Basal Cell Carcinoma
+IL_3720458,ISIC_1006756,MEL,dermoscopic,Melanoma
+IL_3730515,ISIC_1386430,BCC,dermoscopic,Basal Cell Carcinoma
+IL_3745397,ISIC_3217005,BCC,dermoscopic,Basal Cell Carcinoma
+IL_3787537,ISIC_9987696,BCC,dermoscopic,Basal Cell Carcinoma
+IL_3790645,ISIC_0540953,MEL,dermoscopic,Melanoma
+IL_3906452,ISIC_0553265,MEL,dermoscopic,Melanoma
+IL_3930642,ISIC_8938866,BCC,dermoscopic,Basal Cell Carcinoma
+IL_4028485,ISIC_1994166,MEL,dermoscopic,Melanoma
+IL_4042622,ISIC_4265106,BCC,dermoscopic,Basal Cell Carcinoma
+IL_4064310,ISIC_4381433,BCC,dermoscopic,Basal Cell Carcinoma
+IL_4068514,ISIC_5360213,BCC,dermoscopic,Basal Cell Carcinoma
+IL_4073740,ISIC_6234798,MEL,dermoscopic,Melanoma
+IL_4094223,ISIC_4275458,BCC,dermoscopic,Basal Cell Carcinoma
+IL_4107565,ISIC_1701968,BCC,dermoscopic,Basal Cell Carcinoma
+IL_4156451,ISIC_9227362,BCC,dermoscopic,Basal Cell Carcinoma
+IL_4164624,ISIC_1156729,BCC,dermoscopic,Basal Cell Carcinoma
+IL_4212984,ISIC_3349058,BCC,dermoscopic,Basal Cell Carcinoma
+IL_4240733,ISIC_2561690,BCC,dermoscopic,Basal Cell Carcinoma
+IL_4245376,ISIC_5311382,BCC,dermoscopic,Basal Cell Carcinoma
+IL_4250777,ISIC_0155053,BCC,dermoscopic,Basal Cell Carcinoma
+IL_4263582,ISIC_9861310,BCC,dermoscopic,Basal Cell Carcinoma
+IL_4305250,ISIC_4983165,BCC,dermoscopic,Basal Cell Carcinoma
+IL_4326191,ISIC_7752807,BCC,dermoscopic,Basal Cell Carcinoma
+IL_4340050,ISIC_0408436,MEL,dermoscopic,Melanoma
+IL_4340188,ISIC_2625621,BCC,dermoscopic,Basal Cell Carcinoma
+IL_4371981,ISIC_9519917,BCC,dermoscopic,Basal Cell Carcinoma
+IL_4403121,ISIC_5765413,BCC,dermoscopic,Basal Cell Carcinoma
+IL_4419075,ISIC_1800713,BCC,dermoscopic,Basal Cell Carcinoma
+IL_4498199,ISIC_9174580,MEL,dermoscopic,Melanoma
+IL_4522594,ISIC_3698441,MEL,dermoscopic,Melanoma
+IL_4524955,ISIC_4598786,BCC,dermoscopic,Basal Cell Carcinoma
+IL_4547617,ISIC_6638137,MEL,dermoscopic,Melanoma
+IL_4642532,ISIC_8695042,BCC,dermoscopic,Basal Cell Carcinoma
+IL_4668896,ISIC_6895079,BCC,dermoscopic,Basal Cell Carcinoma
+IL_4687032,ISIC_1460320,BCC,dermoscopic,Basal Cell Carcinoma
+IL_4765483,ISIC_8332020,BCC,dermoscopic,Basal Cell Carcinoma
+IL_4781564,ISIC_6884836,BCC,dermoscopic,Basal Cell Carcinoma
+IL_4791300,ISIC_5763228,MEL,dermoscopic,Melanoma
+IL_4829953,ISIC_5350988,MEL,dermoscopic,Melanoma
+IL_4907068,ISIC_7744790,BCC,dermoscopic,Basal Cell Carcinoma
+IL_4921939,ISIC_8184315,BCC,dermoscopic,Basal Cell Carcinoma
+IL_4928087,ISIC_5010590,MEL,dermoscopic,Melanoma
+IL_4941375,ISIC_6451061,BCC,dermoscopic,Basal Cell Carcinoma
+IL_4970888,ISIC_7979271,BCC,dermoscopic,Basal Cell Carcinoma
+IL_4988250,ISIC_8191999,BCC,dermoscopic,Basal Cell Carcinoma
+IL_4997932,ISIC_4357637,BCC,dermoscopic,Basal Cell Carcinoma
+IL_5055807,ISIC_7067948,BCC,dermoscopic,Basal Cell Carcinoma
+IL_5100758,ISIC_7501779,MEL,dermoscopic,Melanoma
+IL_5153554,ISIC_2024217,BCC,dermoscopic,Basal Cell Carcinoma
+IL_5173461,ISIC_3494719,BCC,dermoscopic,Basal Cell Carcinoma
+IL_5251059,ISIC_5807024,MEL,dermoscopic,Melanoma
+IL_5267029,ISIC_8898820,MEL,dermoscopic,Melanoma
+IL_5277134,ISIC_8697607,MEL,dermoscopic,Melanoma
+IL_5281501,ISIC_2993047,BCC,dermoscopic,Basal Cell Carcinoma
+IL_5328329,ISIC_4187456,BCC,dermoscopic,Basal Cell Carcinoma
+IL_5357233,ISIC_8572463,BCC,dermoscopic,Basal Cell Carcinoma
+IL_5361912,ISIC_0525463,BCC,dermoscopic,Basal Cell Carcinoma
+IL_5384329,ISIC_4156431,BCC,dermoscopic,Basal Cell Carcinoma
+IL_5386138,ISIC_2324630,BCC,dermoscopic,Basal Cell Carcinoma
+IL_5411298,ISIC_7753585,BCC,dermoscopic,Basal Cell Carcinoma
+IL_5415624,ISIC_3090517,MEL,dermoscopic,Melanoma
+IL_5417384,ISIC_6356372,BCC,dermoscopic,Basal Cell Carcinoma
+IL_5420018,ISIC_9587078,BCC,dermoscopic,Basal Cell Carcinoma
+IL_5441408,ISIC_9560548,BCC,dermoscopic,Basal Cell Carcinoma
+IL_5466158,ISIC_4213648,BCC,dermoscopic,Basal Cell Carcinoma
+IL_5466304,ISIC_2181594,BCC,dermoscopic,Basal Cell Carcinoma
+IL_5469172,ISIC_8042747,BCC,dermoscopic,Basal Cell Carcinoma
+IL_5496114,ISIC_5629148,MEL,dermoscopic,Melanoma
+IL_5504349,ISIC_4833123,BCC,dermoscopic,Basal Cell Carcinoma
+IL_5518223,ISIC_0835030,BCC,dermoscopic,Basal Cell Carcinoma
+IL_5535772,ISIC_8945633,BCC,dermoscopic,Basal Cell Carcinoma
+IL_5564093,ISIC_7315517,BCC,dermoscopic,Basal Cell Carcinoma
+IL_5569670,ISIC_6276225,BCC,dermoscopic,Basal Cell Carcinoma
+IL_5601227,ISIC_1845537,BCC,dermoscopic,Basal Cell Carcinoma
+IL_5625000,ISIC_2255098,BCC,dermoscopic,Basal Cell Carcinoma
+IL_5762747,ISIC_8381606,BCC,dermoscopic,Basal Cell Carcinoma
+IL_5766493,ISIC_2122841,BCC,dermoscopic,Basal Cell Carcinoma
+IL_5797843,ISIC_8006314,BCC,dermoscopic,Basal Cell Carcinoma
+IL_5809538,ISIC_4093313,MEL,dermoscopic,Melanoma
+IL_5812139,ISIC_5511054,MEL,dermoscopic,Melanoma
+IL_5818168,ISIC_4301953,BCC,dermoscopic,Basal Cell Carcinoma
+IL_5834228,ISIC_2524673,BCC,dermoscopic,Basal Cell Carcinoma
+IL_5836381,ISIC_7204645,BCC,dermoscopic,Basal Cell Carcinoma
+IL_5844694,ISIC_8650160,BCC,dermoscopic,Basal Cell Carcinoma
+IL_5844745,ISIC_7682533,MEL,dermoscopic,Melanoma
+IL_5865217,ISIC_5989590,BCC,dermoscopic,Basal Cell Carcinoma
+IL_5880830,ISIC_9777580,BCC,dermoscopic,Basal Cell Carcinoma
+IL_5890474,ISIC_3372353,BCC,dermoscopic,Basal Cell Carcinoma
+IL_5987346,ISIC_2603915,BCC,dermoscopic,Basal Cell Carcinoma
+IL_5997841,ISIC_3187907,BCC,dermoscopic,Basal Cell Carcinoma
+IL_6004651,ISIC_2283635,BCC,dermoscopic,Basal Cell Carcinoma
+IL_6024093,ISIC_5426572,BCC,dermoscopic,Basal Cell Carcinoma
+IL_6050524,ISIC_0350119,BCC,dermoscopic,Basal Cell Carcinoma
+IL_6122240,ISIC_1950997,MEL,dermoscopic,Melanoma
+IL_6124707,ISIC_8193005,BCC,dermoscopic,Basal Cell Carcinoma
+IL_6157998,ISIC_4224540,BCC,dermoscopic,Basal Cell Carcinoma
+IL_6195057,ISIC_7710765,BCC,dermoscopic,Basal Cell Carcinoma
+IL_6220664,ISIC_6576436,MEL,dermoscopic,Melanoma
+IL_6256539,ISIC_0669396,MEL,dermoscopic,Melanoma
+IL_6292784,ISIC_7702697,MEL,dermoscopic,Melanoma
+IL_6296094,ISIC_2818418,BCC,dermoscopic,Basal Cell Carcinoma
+IL_6296418,ISIC_2334974,BCC,dermoscopic,Basal Cell Carcinoma
+IL_6317075,ISIC_9608161,BCC,dermoscopic,Basal Cell Carcinoma
+IL_6352600,ISIC_6938441,BCC,dermoscopic,Basal Cell Carcinoma
+IL_6369359,ISIC_6303187,MEL,dermoscopic,Melanoma
+IL_6427122,ISIC_2162606,MEL,dermoscopic,Melanoma
+IL_6442141,ISIC_9379057,BCC,dermoscopic,Basal Cell Carcinoma
+IL_6451411,ISIC_4376280,BCC,dermoscopic,Basal Cell Carcinoma
+IL_6478777,ISIC_9668533,BCC,dermoscopic,Basal Cell Carcinoma
+IL_6484840,ISIC_5271791,BCC,dermoscopic,Basal Cell Carcinoma
+IL_6505724,ISIC_4113429,BCC,dermoscopic,Basal Cell Carcinoma
+IL_6518522,ISIC_3997102,BCC,dermoscopic,Basal Cell Carcinoma
+IL_6520783,ISIC_2508643,BCC,dermoscopic,Basal Cell Carcinoma
+IL_6536248,ISIC_2973605,BCC,dermoscopic,Basal Cell Carcinoma
+IL_6559871,ISIC_4736865,BCC,dermoscopic,Basal Cell Carcinoma
+IL_6578198,ISIC_6063074,BCC,dermoscopic,Basal Cell Carcinoma
+IL_6581276,ISIC_6242110,MEL,dermoscopic,Melanoma
+IL_6591521,ISIC_6138103,BCC,dermoscopic,Basal Cell Carcinoma
+IL_6607832,ISIC_9171793,MEL,dermoscopic,Melanoma
+IL_6638180,ISIC_6508531,BCC,dermoscopic,Basal Cell Carcinoma
+IL_6686200,ISIC_6569850,BCC,dermoscopic,Basal Cell Carcinoma
+IL_6705491,ISIC_9266057,MEL,dermoscopic,Melanoma
+IL_6765370,ISIC_7193606,BCC,dermoscopic,Basal Cell Carcinoma
+IL_6780891,ISIC_0481541,BCC,dermoscopic,Basal Cell Carcinoma
+IL_6834280,ISIC_6072797,BCC,dermoscopic,Basal Cell Carcinoma
+IL_6834343,ISIC_1587160,BCC,dermoscopic,Basal Cell Carcinoma
+IL_6873122,ISIC_7451740,BCC,dermoscopic,Basal Cell Carcinoma
+IL_6891715,ISIC_4316947,BCC,dermoscopic,Basal Cell Carcinoma
+IL_6893390,ISIC_9845346,BCC,dermoscopic,Basal Cell Carcinoma
+IL_6934051,ISIC_7806895,BCC,dermoscopic,Basal Cell Carcinoma
+IL_6943395,ISIC_7507040,BCC,dermoscopic,Basal Cell Carcinoma
+IL_6995611,ISIC_7126369,BCC,dermoscopic,Basal Cell Carcinoma
+IL_7021252,ISIC_9333834,BCC,dermoscopic,Basal Cell Carcinoma
+IL_7070259,ISIC_1329019,BCC,dermoscopic,Basal Cell Carcinoma
+IL_7084309,ISIC_6396169,BCC,dermoscopic,Basal Cell Carcinoma
+IL_7096412,ISIC_0720537,BCC,dermoscopic,Basal Cell Carcinoma
+IL_7101016,ISIC_5064090,BCC,dermoscopic,Basal Cell Carcinoma
+IL_7110419,ISIC_4582043,BCC,dermoscopic,Basal Cell Carcinoma
+IL_7144691,ISIC_5901264,BCC,dermoscopic,Basal Cell Carcinoma
+IL_7244270,ISIC_9774801,BCC,dermoscopic,Basal Cell Carcinoma
+IL_7270407,ISIC_0143535,BCC,dermoscopic,Basal Cell Carcinoma
+IL_7291887,ISIC_6315760,BCC,dermoscopic,Basal Cell Carcinoma
+IL_7297013,ISIC_2793180,MEL,dermoscopic,Melanoma
+IL_7337548,ISIC_0529050,MEL,dermoscopic,Melanoma
+IL_7343687,ISIC_6508737,MEL,dermoscopic,Melanoma
+IL_7363364,ISIC_1597752,BCC,dermoscopic,Basal Cell Carcinoma
+IL_7402756,ISIC_5469285,BCC,dermoscopic,Basal Cell Carcinoma
+IL_7417538,ISIC_8285122,MEL,dermoscopic,Melanoma
+IL_7423062,ISIC_1234193,BCC,dermoscopic,Basal Cell Carcinoma
+IL_7443834,ISIC_3483103,BCC,dermoscopic,Basal Cell Carcinoma
+IL_7466506,ISIC_5116668,BCC,dermoscopic,Basal Cell Carcinoma
+IL_7481126,ISIC_0212251,MEL,dermoscopic,Melanoma
+IL_7487058,ISIC_1163815,BCC,dermoscopic,Basal Cell Carcinoma
+IL_7494236,ISIC_5987390,BCC,dermoscopic,Basal Cell Carcinoma
+IL_7503105,ISIC_2666138,BCC,dermoscopic,Basal Cell Carcinoma
+IL_7509121,ISIC_3236056,BCC,dermoscopic,Basal Cell Carcinoma
+IL_7534180,ISIC_2334810,BCC,dermoscopic,Basal Cell Carcinoma
+IL_7571308,ISIC_6202224,BCC,dermoscopic,Basal Cell Carcinoma
+IL_7573989,ISIC_6934396,BCC,dermoscopic,Basal Cell Carcinoma
+IL_7631753,ISIC_1663532,BCC,dermoscopic,Basal Cell Carcinoma
+IL_7719893,ISIC_2567983,BCC,dermoscopic,Basal Cell Carcinoma
+IL_7728515,ISIC_0450405,MEL,dermoscopic,Melanoma
+IL_7741201,ISIC_8159052,BCC,dermoscopic,Basal Cell Carcinoma
+IL_7743686,ISIC_7101909,BCC,dermoscopic,Basal Cell Carcinoma
+IL_7744965,ISIC_3427526,BCC,dermoscopic,Basal Cell Carcinoma
+IL_7759035,ISIC_7003219,BCC,dermoscopic,Basal Cell Carcinoma
+IL_7760285,ISIC_1346867,BCC,dermoscopic,Basal Cell Carcinoma
+IL_7789479,ISIC_4482208,BCC,dermoscopic,Basal Cell Carcinoma
+IL_7871814,ISIC_4438725,BCC,dermoscopic,Basal Cell Carcinoma
+IL_7912330,ISIC_7241253,BCC,dermoscopic,Basal Cell Carcinoma
+IL_7925495,ISIC_0330089,BCC,dermoscopic,Basal Cell Carcinoma
+IL_7965758,ISIC_3487034,BCC,dermoscopic,Basal Cell Carcinoma
+IL_7980891,ISIC_2748624,BCC,dermoscopic,Basal Cell Carcinoma
+IL_7985046,ISIC_1276558,BCC,dermoscopic,Basal Cell Carcinoma
+IL_7996799,ISIC_2542134,BCC,dermoscopic,Basal Cell Carcinoma
+IL_8012177,ISIC_1010567,BCC,dermoscopic,Basal Cell Carcinoma
+IL_8028208,ISIC_3011551,BCC,dermoscopic,Basal Cell Carcinoma
+IL_8074133,ISIC_5634823,BCC,dermoscopic,Basal Cell Carcinoma
+IL_8083531,ISIC_3628532,BCC,dermoscopic,Basal Cell Carcinoma
+IL_8106703,ISIC_6833525,MEL,dermoscopic,Melanoma
+IL_8114949,ISIC_7334939,MEL,dermoscopic,Melanoma
+IL_8158343,ISIC_6690222,BCC,dermoscopic,Basal Cell Carcinoma
+IL_8168935,ISIC_7901805,BCC,dermoscopic,Basal Cell Carcinoma
+IL_8193590,ISIC_3396860,MEL,dermoscopic,Melanoma
+IL_8240105,ISIC_7902747,BCC,dermoscopic,Basal Cell Carcinoma
+IL_8259171,ISIC_3911179,BCC,dermoscopic,Basal Cell Carcinoma
+IL_8275439,ISIC_0743648,BCC,dermoscopic,Basal Cell Carcinoma
+IL_8280517,ISIC_4951972,BCC,dermoscopic,Basal Cell Carcinoma
+IL_8339117,ISIC_3401124,BCC,dermoscopic,Basal Cell Carcinoma
+IL_8364526,ISIC_6318524,BCC,dermoscopic,Basal Cell Carcinoma
+IL_8375905,ISIC_0871073,BCC,dermoscopic,Basal Cell Carcinoma
+IL_8387787,ISIC_6866299,BCC,dermoscopic,Basal Cell Carcinoma
+IL_8572700,ISIC_2839614,BCC,dermoscopic,Basal Cell Carcinoma
+IL_8583674,ISIC_7454892,MEL,dermoscopic,Melanoma
+IL_8613876,ISIC_7318590,BCC,dermoscopic,Basal Cell Carcinoma
+IL_8637878,ISIC_5463407,BCC,dermoscopic,Basal Cell Carcinoma
+IL_8675438,ISIC_1159427,BCC,dermoscopic,Basal Cell Carcinoma
+IL_8679455,ISIC_4481385,BCC,dermoscopic,Basal Cell Carcinoma
+IL_8692782,ISIC_7918518,BCC,dermoscopic,Basal Cell Carcinoma
+IL_8702117,ISIC_0897372,BCC,dermoscopic,Basal Cell Carcinoma
+IL_8732835,ISIC_6854604,BCC,dermoscopic,Basal Cell Carcinoma
+IL_8819924,ISIC_9281043,BCC,dermoscopic,Basal Cell Carcinoma
+IL_8850331,ISIC_8874166,MEL,dermoscopic,Melanoma
+IL_8854625,ISIC_1649481,BCC,dermoscopic,Basal Cell Carcinoma
+IL_8861890,ISIC_7902320,BCC,dermoscopic,Basal Cell Carcinoma
+IL_8869831,ISIC_7890222,MEL,dermoscopic,Melanoma
+IL_8876914,ISIC_4370676,BCC,dermoscopic,Basal Cell Carcinoma
+IL_8908533,ISIC_0974866,BCC,dermoscopic,Basal Cell Carcinoma
+IL_8908582,ISIC_2724480,BCC,dermoscopic,Basal Cell Carcinoma
+IL_8927794,ISIC_7105949,BCC,dermoscopic,Basal Cell Carcinoma
+IL_8970458,ISIC_4485467,MEL,dermoscopic,Melanoma
+IL_8984570,ISIC_1845922,MEL,dermoscopic,Melanoma
+IL_8991149,ISIC_0632001,BCC,dermoscopic,Basal Cell Carcinoma
+IL_8994291,ISIC_2506667,BCC,dermoscopic,Basal Cell Carcinoma
+IL_9091693,ISIC_2803954,BCC,dermoscopic,Basal Cell Carcinoma
+IL_9092829,ISIC_4890139,BCC,dermoscopic,Basal Cell Carcinoma
+IL_9094394,ISIC_9978058,BCC,dermoscopic,Basal Cell Carcinoma
+IL_9126795,ISIC_9249196,BCC,dermoscopic,Basal Cell Carcinoma
+IL_9145163,ISIC_1602614,BCC,dermoscopic,Basal Cell Carcinoma
+IL_9147878,ISIC_5467966,BCC,dermoscopic,Basal Cell Carcinoma
+IL_9156080,ISIC_2556744,BCC,dermoscopic,Basal Cell Carcinoma
+IL_9194841,ISIC_6754150,BCC,dermoscopic,Basal Cell Carcinoma
+IL_9231229,ISIC_4641356,MEL,dermoscopic,Melanoma
+IL_9232367,ISIC_7245189,BCC,dermoscopic,Basal Cell Carcinoma
+IL_9233957,ISIC_1538266,BCC,dermoscopic,Basal Cell Carcinoma
+IL_9271885,ISIC_6296087,BCC,dermoscopic,Basal Cell Carcinoma
+IL_9276974,ISIC_1797900,BCC,dermoscopic,Basal Cell Carcinoma
+IL_9300549,ISIC_0406149,MEL,dermoscopic,Melanoma
+IL_9324964,ISIC_3024690,BCC,dermoscopic,Basal Cell Carcinoma
+IL_9364222,ISIC_4409610,BCC,dermoscopic,Basal Cell Carcinoma
+IL_9395505,ISIC_8280602,BCC,dermoscopic,Basal Cell Carcinoma
+IL_9409547,ISIC_9596173,MEL,dermoscopic,Melanoma
+IL_9421860,ISIC_7234241,BCC,dermoscopic,Basal Cell Carcinoma
+IL_9439154,ISIC_0124902,MEL,dermoscopic,Melanoma
+IL_9441829,ISIC_7729052,BCC,dermoscopic,Basal Cell Carcinoma
+IL_9509148,ISIC_6201208,BCC,dermoscopic,Basal Cell Carcinoma
+IL_9549484,ISIC_1477798,BCC,dermoscopic,Basal Cell Carcinoma
+IL_9572527,ISIC_8593738,MEL,dermoscopic,Melanoma
+IL_9588958,ISIC_6511897,MEL,dermoscopic,Melanoma
+IL_9632950,ISIC_8450877,BCC,dermoscopic,Basal Cell Carcinoma
+IL_9680907,ISIC_9179044,MEL,dermoscopic,Melanoma
+IL_9682787,ISIC_2478957,BCC,dermoscopic,Basal Cell Carcinoma
+IL_9730160,ISIC_0150748,BCC,dermoscopic,Basal Cell Carcinoma
+IL_9734938,ISIC_7053200,BCC,dermoscopic,Basal Cell Carcinoma
+IL_9746868,ISIC_6589696,BCC,dermoscopic,Basal Cell Carcinoma
+IL_9758278,ISIC_2127883,BCC,dermoscopic,Basal Cell Carcinoma
+IL_9773637,ISIC_7693768,BCC,dermoscopic,Basal Cell Carcinoma
+IL_9803330,ISIC_9593683,MEL,dermoscopic,Melanoma
+IL_9917047,ISIC_9900027,BCC,dermoscopic,Basal Cell Carcinoma
+IL_9942096,ISIC_4845899,MEL,dermoscopic,Melanoma
+IL_9962218,ISIC_7265211,BCC,dermoscopic,Basal Cell Carcinoma
+IL_9974051,ISIC_1322802,BCC,dermoscopic,Basal Cell Carcinoma
+IL_9984501,ISIC_4912510,BCC,dermoscopic,Basal Cell Carcinoma
+IL_9984758,ISIC_9345667,BCC,dermoscopic,Basal Cell Carcinoma
+IL_9992890,ISIC_3782736,BCC,dermoscopic,Basal Cell Carcinoma
+IL_9993432,ISIC_0320008,MEL,dermoscopic,Melanoma
+IL_9995614,ISIC_7749901,MEL,dermoscopic,Melanoma

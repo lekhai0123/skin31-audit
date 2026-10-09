@@ -1,0 +1,91 @@
+folder,id,diag1,diag3,dx,conf,collection
+SEK,ISIC_0010803,Malignant,Melanoma in situ,,histopathology,dermoscopic
+SEK,ISIC_0010808,Malignant,Melanoma in situ,,histopathology,dermoscopic
+SEK,ISIC_0010809,Malignant,Melanoma Invasive,,histopathology,dermoscopic
+SEK,ISIC_0010810,Malignant,Melanoma in situ,,histopathology,dermoscopic
+SEK,ISIC_0010812,Malignant,Melanoma in situ,,histopathology,dermoscopic
+SEK,ISIC_0010834,Malignant,Melanoma Invasive,,histopathology,dermoscopic
+SEK,ISIC_0010852,Malignant,Melanoma in situ,,histopathology,dermoscopic
+SEK,ISIC_0010860,Malignant,Melanoma in situ,,histopathology,dermoscopic
+SEK,ISIC_0010862,Malignant,Melanoma Invasive,,histopathology,dermoscopic
+SEK,ISIC_0010863,Malignant,Melanoma in situ,,histopathology,dermoscopic
+SEK,ISIC_0010866,Malignant,Melanoma in situ,,histopathology,dermoscopic
+SEK,ISIC_0010872,Malignant,Melanoma in situ,,histopathology,dermoscopic
+SEK,ISIC_0010876,Malignant,Melanoma in situ,,histopathology,dermoscopic
+SEK,ISIC_0010883,Malignant,Melanoma Invasive,,histopathology,dermoscopic
+SEK,ISIC_0010890,Malignant,Melanoma in situ,,histopathology,dermoscopic
+SEK,ISIC_0010898,Malignant,Melanoma Invasive,,histopathology,dermoscopic
+SEK,ISIC_0010900,Malignant,Melanoma Invasive,,histopathology,dermoscopic
+SEK,ISIC_0010909,Malignant,Melanoma Invasive,,histopathology,dermoscopic
+SEK,ISIC_0010912,Malignant,Melanoma in situ,,histopathology,dermoscopic
+SEK,ISIC_0010917,Malignant,Melanoma Invasive,,histopathology,dermoscopic
+SEK,ISIC_0010925,Malignant,Melanoma in situ,,histopathology,dermoscopic
+SEK,ISIC_0010934,Malignant,Melanoma in situ,,histopathology,dermoscopic
+SEK,ISIC_0010938,Malignant,Melanoma Invasive,,histopathology,dermoscopic
+SEK,ISIC_0010942,Malignant,Melanoma in situ,,histopathology,dermoscopic
+SEK,ISIC_0010971,Malignant,Melanoma in situ,,histopathology,dermoscopic
+SEK,ISIC_0010977,Malignant,Melanoma Invasive,,histopathology,dermoscopic
+SEK,ISIC_0010978,Malignant,Melanoma Invasive,,histopathology,dermoscopic
+SEK,ISIC_0010979,Malignant,Melanoma in situ,,histopathology,dermoscopic
+SEK,ISIC_0010982,Malignant,Melanoma in situ,,histopathology,dermoscopic
+SEK,ISIC_0010990,Malignant,Melanoma Invasive,,histopathology,dermoscopic
+SEK,ISIC_0010993,Malignant,Melanoma in situ,,histopathology,dermoscopic
+SEK,ISIC_0010995,Malignant,Melanoma Invasive,,histopathology,dermoscopic
+SEK,ISIC_0011007,Malignant,Melanoma in situ,,histopathology,dermoscopic
+SEK,ISIC_0011012,Malignant,Melanoma Invasive,,histopathology,dermoscopic
+SEK,ISIC_0011013,Malignant,Melanoma Invasive,,histopathology,dermoscopic
+SEK,ISIC_0011030,Malignant,Melanoma Invasive,,histopathology,dermoscopic
+SEK,ISIC_0011032,Malignant,Melanoma in situ,,histopathology,dermoscopic
+SEK,ISIC_0011039,Malignant,Melanoma in situ,,histopathology,dermoscopic
+SEK,ISIC_0011042,Malignant,Melanoma Invasive,,histopathology,dermoscopic
+SEK,ISIC_0011043,Malignant,Melanoma Invasive,,histopathology,dermoscopic
+SEK,ISIC_0011045,Malignant,Melanoma in situ,,histopathology,dermoscopic
+SEK,ISIC_0011056,Malignant,Melanoma in situ,,histopathology,dermoscopic
+SEK,ISIC_0011057,Malignant,Melanoma Invasive,,histopathology,dermoscopic
+SEK,ISIC_0011099,Malignant,Melanoma Invasive,,histopathology,dermoscopic
+SEK,ISIC_0011112,Malignant,Melanoma Invasive,,histopathology,dermoscopic
+SEK,ISIC_0011121,Malignant,Melanoma in situ,,histopathology,dermoscopic
+SEK,ISIC_0011125,Malignant,Melanoma Invasive,,histopathology,dermoscopic
+SEK,ISIC_0011126,Malignant,Melanoma Invasive,,histopathology,dermoscopic
+SEK,ISIC_0011128,Malignant,Melanoma in situ,,histopathology,dermoscopic
+SEK,ISIC_0011130,Malignant,Melanoma in situ,,histopathology,dermoscopic
+SEK,ISIC_0011132,Malignant,Melanoma Invasive,,histopathology,dermoscopic
+SEK,ISIC_0011135,Malignant,Melanoma in situ,,histopathology,dermoscopic
+SEK,ISIC_0011136,Malignant,Melanoma in situ,,histopathology,dermoscopic
+SEK,ISIC_0011137,Malignant,Melanoma in situ,,histopathology,dermoscopic
+SEK,ISIC_0011138,Malignant,Melanoma in situ,,histopathology,dermoscopic
+SEK,ISIC_0011139,Malignant,Melanoma in situ,,histopathology,dermoscopic
+SEK,ISIC_0011140,Malignant,Melanoma in situ,,histopathology,dermoscopic
+SEK,ISIC_0011151,Malignant,Melanoma Invasive,,histopathology,dermoscopic
+SEK,ISIC_0011161,Malignant,Melanoma Invasive,,histopathology,dermoscopic
+SEK,ISIC_0011163,Malignant,Melanoma Invasive,,histopathology,dermoscopic
+SEK,ISIC_0011169,Malignant,Melanoma Invasive,,histopathology,dermoscopic
+SEK,ISIC_0011178,Malignant,Melanoma Invasive,,histopathology,dermoscopic
+SEK,ISIC_0011181,Malignant,Melanoma in situ,,histopathology,dermoscopic
+SEK,ISIC_0011187,Malignant,Melanoma in situ,,histopathology,dermoscopic
+SEK,ISIC_0010878,Malignant,Melanoma in situ,,histopathology,dermoscopic
+SEK,ISIC_0010923,Malignant,Melanoma Invasive,,histopathology,dermoscopic
+SEK,ISIC_0010965,Malignant,Melanoma in situ,,histopathology,dermoscopic
+SEK,ISIC_0011031,Malignant,Melanoma Invasive,,histopathology,dermoscopic
+SEK,ISIC_0011040,Malignant,Melanoma Invasive,,histopathology,dermoscopic
+SEK,ISIC_0011052,Malignant,Melanoma in situ,,histopathology,dermoscopic
+SEK,ISIC_0011077,Malignant,Melanoma in situ,,histopathology,dermoscopic
+SEK,ISIC_0011094,Malignant,Melanoma Invasive,,histopathology,dermoscopic
+SEK,ISIC_0011095,Malignant,Melanoma in situ,,histopathology,dermoscopic
+SEK,ISIC_0011118,Malignant,Melanoma in situ,,histopathology,dermoscopic
+SEK,ISIC_0011158,Malignant,Melanoma Invasive,,histopathology,dermoscopic
+SEK,ISIC_0011166,Malignant,Melanoma in situ,,histopathology,dermoscopic
+SEK,ISIC_0011174,Malignant,Melanoma in situ,,histopathology,dermoscopic
+SEK,ISIC_0011176,Malignant,Melanoma Invasive,,histopathology,dermoscopic
+SEK,ISIC_0011185,Malignant,Melanoma in situ,,histopathology,dermoscopic
+SEK,ISIC_0011193,Malignant,Melanoma in situ,,histopathology,dermoscopic
+NEVfolder_GT_AK,ISIC_0024468,Indeterminate,Solar or actinic keratosis,,histopathology,dermoscopic
+NEVfolder_GT_AK,ISIC_0024470,Indeterminate,Solar or actinic keratosis,,histopathology,dermoscopic
+NEVfolder_GT_AK,ISIC_0024646,Indeterminate,Solar or actinic keratosis,,histopathology,dermoscopic
+NEVfolder_GT_AK,ISIC_0024707,Indeterminate,Solar or actinic keratosis,,histopathology,dermoscopic
+NEVfolder_GT_AK,ISIC_0024763,Indeterminate,Solar or actinic keratosis,,histopathology,dermoscopic
+NEVfolder_GT_AK,ISIC_0024771,Indeterminate,Solar or actinic keratosis,,histopathology,dermoscopic
+NEVfolder_GT_AK,ISIC_0024913,Indeterminate,Solar or actinic keratosis,,histopathology,dermoscopic
+NEVfolder_GT_AK,ISIC_0024948,Indeterminate,Solar or actinic keratosis,,histopathology,dermoscopic
+NEVfolder_GT_AK,ISIC_0025368,Indeterminate,Solar or actinic keratosis,,histopathology,dermoscopic
+NEVfolder_GT_AK,ISIC_0025780,Indeterminate,Solar or actinic keratosis,,histopathology,dermoscopic

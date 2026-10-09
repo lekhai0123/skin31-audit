@@ -1,0 +1,995 @@
+path,label
+data/Atlas dan ISIC2019 (31 classes)/test/Actinic Keratosis/ISIC_0024763.jpg,0
+data/Atlas dan ISIC2019 (31 classes)/test/Actinic Keratosis/ISIC_0025368.jpg,0
+data/Atlas dan ISIC2019 (31 classes)/test/Actinic Keratosis/ISIC_0026212.jpg,0
+data/Atlas dan ISIC2019 (31 classes)/test/Actinic Keratosis/ISIC_0026857.jpg,0
+data/Atlas dan ISIC2019 (31 classes)/test/Actinic Keratosis/ISIC_0027172.jpg,0
+data/Atlas dan ISIC2019 (31 classes)/test/Actinic Keratosis/ISIC_0027334.jpg,0
+data/Atlas dan ISIC2019 (31 classes)/test/Actinic Keratosis/ISIC_0027452.jpg,0
+data/Atlas dan ISIC2019 (31 classes)/test/Actinic Keratosis/ISIC_0027580.jpg,0
+data/Atlas dan ISIC2019 (31 classes)/test/Actinic Keratosis/ISIC_0027615.jpg,0
+data/Atlas dan ISIC2019 (31 classes)/test/Actinic Keratosis/ISIC_0027650.jpg,0
+data/Atlas dan ISIC2019 (31 classes)/test/Actinic Keratosis/ISIC_0027829.jpg,0
+data/Atlas dan ISIC2019 (31 classes)/test/Actinic Keratosis/ISIC_0028393.jpg,0
+data/Atlas dan ISIC2019 (31 classes)/test/Actinic Keratosis/ISIC_0029781.jpg,0
+data/Atlas dan ISIC2019 (31 classes)/test/Actinic Keratosis/ISIC_0029840.jpg,0
+data/Atlas dan ISIC2019 (31 classes)/test/Actinic Keratosis/ISIC_0029900.jpg,0
+data/Atlas dan ISIC2019 (31 classes)/test/Actinic Keratosis/ISIC_0030133.jpg,0
+data/Atlas dan ISIC2019 (31 classes)/test/Actinic Keratosis/ISIC_0030344.jpg,0
+data/Atlas dan ISIC2019 (31 classes)/test/Actinic Keratosis/ISIC_0030586.jpg,0
+data/Atlas dan ISIC2019 (31 classes)/test/Actinic Keratosis/ISIC_0030826.jpg,0
+data/Atlas dan ISIC2019 (31 classes)/test/Actinic Keratosis/ISIC_0031228.jpg,0
+data/Atlas dan ISIC2019 (31 classes)/test/Actinic Keratosis/ISIC_0031506.jpg,0
+data/Atlas dan ISIC2019 (31 classes)/test/Actinic Keratosis/ISIC_0032206.jpg,0
+data/Atlas dan ISIC2019 (31 classes)/test/Actinic Keratosis/ISIC_0032422.jpg,0
+data/Atlas dan ISIC2019 (31 classes)/test/Actinic Keratosis/ISIC_0033358.jpg,0
+data/Atlas dan ISIC2019 (31 classes)/test/Actinic Keratosis/ISIC_0033456.jpg,0
+data/Atlas dan ISIC2019 (31 classes)/test/Actinic Keratosis/ISIC_0033705.jpg,0
+data/Atlas dan ISIC2019 (31 classes)/test/Basal Cell Carcinoma/511.jpg,1
+data/Atlas dan ISIC2019 (31 classes)/test/Basal Cell Carcinoma/513.jpg,1
+data/Atlas dan ISIC2019 (31 classes)/test/Basal Cell Carcinoma/514.jpg,1
+data/Atlas dan ISIC2019 (31 classes)/test/Basal Cell Carcinoma/527.jpg,1
+data/Atlas dan ISIC2019 (31 classes)/test/Basal Cell Carcinoma/528.jpg,1
+data/Atlas dan ISIC2019 (31 classes)/test/Basal Cell Carcinoma/532.jpg,1
+data/Atlas dan ISIC2019 (31 classes)/test/Basal Cell Carcinoma/538.jpg,1
+data/Atlas dan ISIC2019 (31 classes)/test/Basal Cell Carcinoma/539.jpg,1
+data/Atlas dan ISIC2019 (31 classes)/test/Basal Cell Carcinoma/541.jpg,1
+data/Atlas dan ISIC2019 (31 classes)/test/Basal Cell Carcinoma/558.jpg,1
+data/Atlas dan ISIC2019 (31 classes)/test/Basal Cell Carcinoma/560.jpg,1
+data/Atlas dan ISIC2019 (31 classes)/test/Basal Cell Carcinoma/565.jpg,1
+data/Atlas dan ISIC2019 (31 classes)/test/Basal Cell Carcinoma/589.jpg,1
+data/Atlas dan ISIC2019 (31 classes)/test/Basal Cell Carcinoma/592.jpg,1
+data/Atlas dan ISIC2019 (31 classes)/test/Basal Cell Carcinoma/605.jpg,1
+data/Atlas dan ISIC2019 (31 classes)/test/Basal Cell Carcinoma/607.jpg,1
+data/Atlas dan ISIC2019 (31 classes)/test/Basal Cell Carcinoma/609.jpg,1
+data/Atlas dan ISIC2019 (31 classes)/test/Basal Cell Carcinoma/622.jpg,1
+data/Atlas dan ISIC2019 (31 classes)/test/Basal Cell Carcinoma/631.jpg,1
+data/Atlas dan ISIC2019 (31 classes)/test/Basal Cell Carcinoma/640.jpg,1
+data/Atlas dan ISIC2019 (31 classes)/test/Basal Cell Carcinoma/650.jpg,1
+data/Atlas dan ISIC2019 (31 classes)/test/Basal Cell Carcinoma/img_158.jpg,1
+data/Atlas dan ISIC2019 (31 classes)/test/Basal Cell Carcinoma/img_160.jpg,1
+data/Atlas dan ISIC2019 (31 classes)/test/Basal Cell Carcinoma/img_161.jpg,1
+data/Atlas dan ISIC2019 (31 classes)/test/Basal Cell Carcinoma/img_171.jpg,1
+data/Atlas dan ISIC2019 (31 classes)/test/Basal Cell Carcinoma/img_179.jpg,1
+data/Atlas dan ISIC2019 (31 classes)/test/Basal Cell Carcinoma/img_181.jpg,1
+data/Atlas dan ISIC2019 (31 classes)/test/Basal Cell Carcinoma/img_185.jpg,1
+data/Atlas dan ISIC2019 (31 classes)/test/Basal Cell Carcinoma/img_187.jpg,1
+data/Atlas dan ISIC2019 (31 classes)/test/Basal Cell Carcinoma/img_188.jpg,1
+data/Atlas dan ISIC2019 (31 classes)/test/Basal Cell Carcinoma/img_197.jpg,1
+data/Atlas dan ISIC2019 (31 classes)/test/Basal Cell Carcinoma/img_201.jpg,1
+data/Atlas dan ISIC2019 (31 classes)/test/Basal Cell Carcinoma/img_205.jpg,1
+data/Atlas dan ISIC2019 (31 classes)/test/Basal Cell Carcinoma/img_207.jpg,1
+data/Atlas dan ISIC2019 (31 classes)/test/Basal Cell Carcinoma/img_209.jpg,1
+data/Atlas dan ISIC2019 (31 classes)/test/Basal Cell Carcinoma/img_218.jpg,1
+data/Atlas dan ISIC2019 (31 classes)/test/Basal Cell Carcinoma/img_222.jpg,1
+data/Atlas dan ISIC2019 (31 classes)/test/Basal Cell Carcinoma/img_232.jpg,1
+data/Atlas dan ISIC2019 (31 classes)/test/Basal Cell Carcinoma/img_235.jpg,1
+data/Atlas dan ISIC2019 (31 classes)/test/Basal Cell Carcinoma/img_236.jpg,1
+data/Atlas dan ISIC2019 (31 classes)/test/Basal Cell Carcinoma/img_259.jpg,1
+data/Atlas dan ISIC2019 (31 classes)/test/Basal Cell Carcinoma/img_270.jpg,1
+data/Atlas dan ISIC2019 (31 classes)/test/Basal Cell Carcinoma/img_274.jpg,1
+data/Atlas dan ISIC2019 (31 classes)/test/Basal Cell Carcinoma/img_281.jpg,1
+data/Atlas dan ISIC2019 (31 classes)/test/Basal Cell Carcinoma/img_282.jpg,1
+data/Atlas dan ISIC2019 (31 classes)/test/Basal Cell Carcinoma/img_285.jpg,1
+data/Atlas dan ISIC2019 (31 classes)/test/Basal Cell Carcinoma/img_292.jpg,1
+data/Atlas dan ISIC2019 (31 classes)/test/Basal Cell Carcinoma/img_293.jpg,1
+data/Atlas dan ISIC2019 (31 classes)/test/Basal Cell Carcinoma/img_296.jpg,1
+data/Atlas dan ISIC2019 (31 classes)/test/Basal Cell Carcinoma/img_300.jpg,1
+data/Atlas dan ISIC2019 (31 classes)/test/Basal Cell Carcinoma/img_305.jpg,1
+data/Atlas dan ISIC2019 (31 classes)/test/Basal Cell Carcinoma/img_309.jpg,1
+data/Atlas dan ISIC2019 (31 classes)/test/Basal Cell Carcinoma/img_310.jpg,1
+data/Atlas dan ISIC2019 (31 classes)/test/Basal Cell Carcinoma/img_313.jpg,1
+data/Atlas dan ISIC2019 (31 classes)/test/Basal Cell Carcinoma/img_317.jpg,1
+data/Atlas dan ISIC2019 (31 classes)/test/Basal Cell Carcinoma/img_318.jpg,1
+data/Atlas dan ISIC2019 (31 classes)/test/Basal Cell Carcinoma/img_326.jpg,1
+data/Atlas dan ISIC2019 (31 classes)/test/Basal Cell Carcinoma/img_327.jpg,1
+data/Atlas dan ISIC2019 (31 classes)/test/Basal Cell Carcinoma/img_331.jpg,1
+data/Atlas dan ISIC2019 (31 classes)/test/Basal Cell Carcinoma/img_335.jpg,1
+data/Atlas dan ISIC2019 (31 classes)/test/Basal Cell Carcinoma/img_337.jpg,1
+data/Atlas dan ISIC2019 (31 classes)/test/Basal Cell Carcinoma/img_340.jpg,1
+data/Atlas dan ISIC2019 (31 classes)/test/Basal Cell Carcinoma/img_343.jpg,1
+data/Atlas dan ISIC2019 (31 classes)/test/Basal Cell Carcinoma/img_346.jpg,1
+data/Atlas dan ISIC2019 (31 classes)/test/Basal Cell Carcinoma/img_348.jpg,1
+data/Atlas dan ISIC2019 (31 classes)/test/Basal Cell Carcinoma/img_352.jpg,1
+data/Atlas dan ISIC2019 (31 classes)/test/Basal Cell Carcinoma/img_353.jpg,1
+data/Atlas dan ISIC2019 (31 classes)/test/Basal Cell Carcinoma/img_354.jpg,1
+data/Atlas dan ISIC2019 (31 classes)/test/Basal Cell Carcinoma/img_357.jpg,1
+data/Atlas dan ISIC2019 (31 classes)/test/Basal Cell Carcinoma/img_358.jpg,1
+data/Atlas dan ISIC2019 (31 classes)/test/Basal Cell Carcinoma/img_364.jpg,1
+data/Atlas dan ISIC2019 (31 classes)/test/Basal Cell Carcinoma/img_375.jpg,1
+data/Atlas dan ISIC2019 (31 classes)/test/Basal Cell Carcinoma/img_376.jpg,1
+data/Atlas dan ISIC2019 (31 classes)/test/Basal Cell Carcinoma/img_378.jpg,1
+data/Atlas dan ISIC2019 (31 classes)/test/Basal Cell Carcinoma/img_388.jpg,1
+data/Atlas dan ISIC2019 (31 classes)/test/Basal Cell Carcinoma/img_390.jpg,1
+data/Atlas dan ISIC2019 (31 classes)/test/Basal Cell Carcinoma/img_395.jpg,1
+data/Atlas dan ISIC2019 (31 classes)/test/Basal Cell Carcinoma/img_397.jpg,1
+data/Atlas dan ISIC2019 (31 classes)/test/Basal Cell Carcinoma/img_404.jpg,1
+data/Atlas dan ISIC2019 (31 classes)/test/Basal Cell Carcinoma/img_405.jpg,1
+data/Atlas dan ISIC2019 (31 classes)/test/Basal Cell Carcinoma/img_407.jpg,1
+data/Atlas dan ISIC2019 (31 classes)/test/Basal Cell Carcinoma/img_409.jpg,1
+data/Atlas dan ISIC2019 (31 classes)/test/Basal Cell Carcinoma/img_414.jpg,1
+data/Atlas dan ISIC2019 (31 classes)/test/Basal Cell Carcinoma/img_418.jpg,1
+data/Atlas dan ISIC2019 (31 classes)/test/Darier_s Disease/11599.jpg,2
+data/Atlas dan ISIC2019 (31 classes)/test/Darier_s Disease/11604.jpg,2
+data/Atlas dan ISIC2019 (31 classes)/test/Darier_s Disease/1265.jpg,2
+data/Atlas dan ISIC2019 (31 classes)/test/Darier_s Disease/1270.jpg,2
+data/Atlas dan ISIC2019 (31 classes)/test/Darier_s Disease/1283.jpg,2
+data/Atlas dan ISIC2019 (31 classes)/test/Darier_s Disease/1286.jpg,2
+data/Atlas dan ISIC2019 (31 classes)/test/Darier_s Disease/1290.jpg,2
+data/Atlas dan ISIC2019 (31 classes)/test/Darier_s Disease/1293.jpg,2
+data/Atlas dan ISIC2019 (31 classes)/test/Darier_s Disease/1294.jpg,2
+data/Atlas dan ISIC2019 (31 classes)/test/Darier_s Disease/1295.jpg,2
+data/Atlas dan ISIC2019 (31 classes)/test/Darier_s Disease/1298.jpg,2
+data/Atlas dan ISIC2019 (31 classes)/test/Darier_s Disease/1308.jpg,2
+data/Atlas dan ISIC2019 (31 classes)/test/Darier_s Disease/1312.jpg,2
+data/Atlas dan ISIC2019 (31 classes)/test/Darier_s Disease/1317.jpg,2
+data/Atlas dan ISIC2019 (31 classes)/test/Darier_s Disease/1318.jpg,2
+data/Atlas dan ISIC2019 (31 classes)/test/Darier_s Disease/1323.jpg,2
+data/Atlas dan ISIC2019 (31 classes)/test/Darier_s Disease/1325.jpg,2
+data/Atlas dan ISIC2019 (31 classes)/test/Darier_s Disease/8587.jpg,2
+data/Atlas dan ISIC2019 (31 classes)/test/Darier_s Disease/8592.jpg,2
+data/Atlas dan ISIC2019 (31 classes)/test/Darier_s Disease/8594.jpg,2
+data/Atlas dan ISIC2019 (31 classes)/test/Dermatofibroma/ISIC_0024973.jpg,3
+data/Atlas dan ISIC2019 (31 classes)/test/Dermatofibroma/ISIC_0025594.jpg,3
+data/Atlas dan ISIC2019 (31 classes)/test/Dermatofibroma/ISIC_0025911.jpg,3
+data/Atlas dan ISIC2019 (31 classes)/test/Dermatofibroma/ISIC_0027141.jpg,3
+data/Atlas dan ISIC2019 (31 classes)/test/Dermatofibroma/ISIC_0027598.jpg,3
+data/Atlas dan ISIC2019 (31 classes)/test/Dermatofibroma/ISIC_0027745.jpg,3
+data/Atlas dan ISIC2019 (31 classes)/test/Dermatofibroma/ISIC_0028651.jpg,3
+data/Atlas dan ISIC2019 (31 classes)/test/Dermatofibroma/ISIC_0028735.jpg,3
+data/Atlas dan ISIC2019 (31 classes)/test/Dermatofibroma/ISIC_0028790.jpg,3
+data/Atlas dan ISIC2019 (31 classes)/test/Dermatofibroma/ISIC_0029039.jpg,3
+data/Atlas dan ISIC2019 (31 classes)/test/Dermatofibroma/ISIC_0030015.jpg,3
+data/Atlas dan ISIC2019 (31 classes)/test/Dermatofibroma/ISIC_0030555.jpg,3
+data/Atlas dan ISIC2019 (31 classes)/test/Dermatofibroma/ISIC_0030579.jpg,3
+data/Atlas dan ISIC2019 (31 classes)/test/Dermatofibroma/ISIC_0031257.jpg,3
+data/Atlas dan ISIC2019 (31 classes)/test/Dermatofibroma/ISIC_0031309.jpg,3
+data/Atlas dan ISIC2019 (31 classes)/test/Dermatofibroma/ISIC_0031372.jpg,3
+data/Atlas dan ISIC2019 (31 classes)/test/Dermatofibroma/ISIC_0031799.jpg,3
+data/Atlas dan ISIC2019 (31 classes)/test/Dermatofibroma/ISIC_0031827.jpg,3
+data/Atlas dan ISIC2019 (31 classes)/test/Dermatofibroma/ISIC_0032247.jpg,3
+data/Atlas dan ISIC2019 (31 classes)/test/Dermatofibroma/ISIC_0033005.jpg,3
+data/Atlas dan ISIC2019 (31 classes)/test/Dermatofibroma/ISIC_0033554.jpg,3
+data/Atlas dan ISIC2019 (31 classes)/test/Dermatofibroma/ISIC_0033695.jpg,3
+data/Atlas dan ISIC2019 (31 classes)/test/Dermatofibroma/ISIC_0033847.jpg,3
+data/Atlas dan ISIC2019 (31 classes)/test/Epidermolysis Bullosa Pruriginosa/1764.jpg,4
+data/Atlas dan ISIC2019 (31 classes)/test/Epidermolysis Bullosa Pruriginosa/1769.jpg,4
+data/Atlas dan ISIC2019 (31 classes)/test/Epidermolysis Bullosa Pruriginosa/1777.jpg,4
+data/Atlas dan ISIC2019 (31 classes)/test/Epidermolysis Bullosa Pruriginosa/1782.jpg,4
+data/Atlas dan ISIC2019 (31 classes)/test/Epidermolysis Bullosa Pruriginosa/1795.jpg,4
+data/Atlas dan ISIC2019 (31 classes)/test/Epidermolysis Bullosa Pruriginosa/1798.jpg,4
+data/Atlas dan ISIC2019 (31 classes)/test/Epidermolysis Bullosa Pruriginosa/1802.jpg,4
+data/Atlas dan ISIC2019 (31 classes)/test/Epidermolysis Bullosa Pruriginosa/1805.jpg,4
+data/Atlas dan ISIC2019 (31 classes)/test/Epidermolysis Bullosa Pruriginosa/1806.jpg,4
+data/Atlas dan ISIC2019 (31 classes)/test/Epidermolysis Bullosa Pruriginosa/1807.jpg,4
+data/Atlas dan ISIC2019 (31 classes)/test/Epidermolysis Bullosa Pruriginosa/1810.jpg,4
+data/Atlas dan ISIC2019 (31 classes)/test/Epidermolysis Bullosa Pruriginosa/1820.jpg,4
+data/Atlas dan ISIC2019 (31 classes)/test/Epidermolysis Bullosa Pruriginosa/1824.jpg,4
+data/Atlas dan ISIC2019 (31 classes)/test/Epidermolysis Bullosa Pruriginosa/1829.jpg,4
+data/Atlas dan ISIC2019 (31 classes)/test/Epidermolysis Bullosa Pruriginosa/1830.jpg,4
+data/Atlas dan ISIC2019 (31 classes)/test/Epidermolysis Bullosa Pruriginosa/9794.jpg,4
+data/Atlas dan ISIC2019 (31 classes)/test/Epidermolysis Bullosa Pruriginosa/9796.jpg,4
+data/Atlas dan ISIC2019 (31 classes)/test/Epidermolysis Bullosa Pruriginosa/9800.jpg,4
+data/Atlas dan ISIC2019 (31 classes)/test/Epidermolysis Bullosa Pruriginosa/9919.jpg,4
+data/Atlas dan ISIC2019 (31 classes)/test/Epidermolysis Bullosa Pruriginosa/9921.jpg,4
+data/Atlas dan ISIC2019 (31 classes)/test/Hailey-Hailey Disease/2368.jpg,5
+data/Atlas dan ISIC2019 (31 classes)/test/Hailey-Hailey Disease/2381.jpg,5
+data/Atlas dan ISIC2019 (31 classes)/test/Hailey-Hailey Disease/2382.jpg,5
+data/Atlas dan ISIC2019 (31 classes)/test/Hailey-Hailey Disease/2393.jpg,5
+data/Atlas dan ISIC2019 (31 classes)/test/Hailey-Hailey Disease/2405.jpg,5
+data/Atlas dan ISIC2019 (31 classes)/test/Hailey-Hailey Disease/2408.jpg,5
+data/Atlas dan ISIC2019 (31 classes)/test/Hailey-Hailey Disease/2411.jpg,5
+data/Atlas dan ISIC2019 (31 classes)/test/Hailey-Hailey Disease/2418.jpg,5
+data/Atlas dan ISIC2019 (31 classes)/test/Hailey-Hailey Disease/2424.jpg,5
+data/Atlas dan ISIC2019 (31 classes)/test/Hailey-Hailey Disease/2442.jpg,5
+data/Atlas dan ISIC2019 (31 classes)/test/Hailey-Hailey Disease/2444.jpg,5
+data/Atlas dan ISIC2019 (31 classes)/test/Hailey-Hailey Disease/2450.jpg,5
+data/Atlas dan ISIC2019 (31 classes)/test/Hailey-Hailey Disease/2451.jpg,5
+data/Atlas dan ISIC2019 (31 classes)/test/Hailey-Hailey Disease/2455.jpg,5
+data/Atlas dan ISIC2019 (31 classes)/test/Hailey-Hailey Disease/2458.jpg,5
+data/Atlas dan ISIC2019 (31 classes)/test/Hailey-Hailey Disease/8281.jpg,5
+data/Atlas dan ISIC2019 (31 classes)/test/Hailey-Hailey Disease/8282.jpg,5
+data/Atlas dan ISIC2019 (31 classes)/test/Hailey-Hailey Disease/img_101.jpg,5
+data/Atlas dan ISIC2019 (31 classes)/test/Hailey-Hailey Disease/img_103.jpg,5
+data/Atlas dan ISIC2019 (31 classes)/test/Hailey-Hailey Disease/img_105.jpg,5
+data/Atlas dan ISIC2019 (31 classes)/test/Hailey-Hailey Disease/img_106.jpg,5
+data/Atlas dan ISIC2019 (31 classes)/test/Hailey-Hailey Disease/img_109.jpg,5
+data/Atlas dan ISIC2019 (31 classes)/test/Hailey-Hailey Disease/img_111.jpg,5
+data/Atlas dan ISIC2019 (31 classes)/test/Hailey-Hailey Disease/img_129.jpg,5
+data/Atlas dan ISIC2019 (31 classes)/test/Hailey-Hailey Disease/img_131.jpg,5
+data/Atlas dan ISIC2019 (31 classes)/test/Hailey-Hailey Disease/img_132.jpg,5
+data/Atlas dan ISIC2019 (31 classes)/test/Hailey-Hailey Disease/img_135.jpg,5
+data/Atlas dan ISIC2019 (31 classes)/test/Hailey-Hailey Disease/img_139.jpg,5
+data/Atlas dan ISIC2019 (31 classes)/test/Hailey-Hailey Disease/img_98.jpg,5
+data/Atlas dan ISIC2019 (31 classes)/test/Herpes Simplex/10235.jpg,6
+data/Atlas dan ISIC2019 (31 classes)/test/Herpes Simplex/10407.jpg,6
+data/Atlas dan ISIC2019 (31 classes)/test/Herpes Simplex/2527.jpg,6
+data/Atlas dan ISIC2019 (31 classes)/test/Herpes Simplex/2532.jpg,6
+data/Atlas dan ISIC2019 (31 classes)/test/Herpes Simplex/2545.jpg,6
+data/Atlas dan ISIC2019 (31 classes)/test/Herpes Simplex/2548.jpg,6
+data/Atlas dan ISIC2019 (31 classes)/test/Herpes Simplex/2552.jpg,6
+data/Atlas dan ISIC2019 (31 classes)/test/Herpes Simplex/2555.jpg,6
+data/Atlas dan ISIC2019 (31 classes)/test/Herpes Simplex/2556.jpg,6
+data/Atlas dan ISIC2019 (31 classes)/test/Herpes Simplex/2557.jpg,6
+data/Atlas dan ISIC2019 (31 classes)/test/Herpes Simplex/2560.jpg,6
+data/Atlas dan ISIC2019 (31 classes)/test/Herpes Simplex/2570.jpg,6
+data/Atlas dan ISIC2019 (31 classes)/test/Herpes Simplex/2574.jpg,6
+data/Atlas dan ISIC2019 (31 classes)/test/Herpes Simplex/2579.jpg,6
+data/Atlas dan ISIC2019 (31 classes)/test/Herpes Simplex/2580.jpg,6
+data/Atlas dan ISIC2019 (31 classes)/test/Herpes Simplex/2585.jpg,6
+data/Atlas dan ISIC2019 (31 classes)/test/Herpes Simplex/2591.jpg,6
+data/Atlas dan ISIC2019 (31 classes)/test/Herpes Simplex/8789.jpg,6
+data/Atlas dan ISIC2019 (31 classes)/test/Impetigo/11712.jpg,7
+data/Atlas dan ISIC2019 (31 classes)/test/Impetigo/12290.jpg,7
+data/Atlas dan ISIC2019 (31 classes)/test/Impetigo/12295.jpg,7
+data/Atlas dan ISIC2019 (31 classes)/test/Impetigo/2771.jpg,7
+data/Atlas dan ISIC2019 (31 classes)/test/Impetigo/2774.jpg,7
+data/Atlas dan ISIC2019 (31 classes)/test/Impetigo/2778.jpg,7
+data/Atlas dan ISIC2019 (31 classes)/test/Impetigo/2781.jpg,7
+data/Atlas dan ISIC2019 (31 classes)/test/Impetigo/2782.jpg,7
+data/Atlas dan ISIC2019 (31 classes)/test/Impetigo/2786.jpg,7
+data/Atlas dan ISIC2019 (31 classes)/test/Impetigo/2800.jpg,7
+data/Atlas dan ISIC2019 (31 classes)/test/Impetigo/2805.jpg,7
+data/Atlas dan ISIC2019 (31 classes)/test/Impetigo/2806.jpg,7
+data/Atlas dan ISIC2019 (31 classes)/test/Impetigo/2811.jpg,7
+data/Atlas dan ISIC2019 (31 classes)/test/Impetigo/2813.jpg,7
+data/Atlas dan ISIC2019 (31 classes)/test/Impetigo/2816.jpg,7
+data/Atlas dan ISIC2019 (31 classes)/test/Impetigo/2821.jpg,7
+data/Atlas dan ISIC2019 (31 classes)/test/Impetigo/2822.jpg,7
+data/Atlas dan ISIC2019 (31 classes)/test/Impetigo/2825.jpg,7
+data/Atlas dan ISIC2019 (31 classes)/test/Impetigo/2829.jpg,7
+data/Atlas dan ISIC2019 (31 classes)/test/Impetigo/2830.jpg,7
+data/Atlas dan ISIC2019 (31 classes)/test/Impetigo/2831.jpg,7
+data/Atlas dan ISIC2019 (31 classes)/test/Impetigo/2838.jpg,7
+data/Atlas dan ISIC2019 (31 classes)/test/Larva Migrans/3145.jpg,8
+data/Atlas dan ISIC2019 (31 classes)/test/Larva Migrans/3151.jpg,8
+data/Atlas dan ISIC2019 (31 classes)/test/Larva Migrans/3170.jpg,8
+data/Atlas dan ISIC2019 (31 classes)/test/Larva Migrans/3182.jpg,8
+data/Atlas dan ISIC2019 (31 classes)/test/Larva Migrans/3185.jpg,8
+data/Atlas dan ISIC2019 (31 classes)/test/Larva Migrans/3187.jpg,8
+data/Atlas dan ISIC2019 (31 classes)/test/Larva Migrans/3194.jpg,8
+data/Atlas dan ISIC2019 (31 classes)/test/Larva Migrans/3195.jpg,8
+data/Atlas dan ISIC2019 (31 classes)/test/Larva Migrans/3207.jpg,8
+data/Atlas dan ISIC2019 (31 classes)/test/Larva Migrans/img_101.jpg,8
+data/Atlas dan ISIC2019 (31 classes)/test/Larva Migrans/img_107.jpg,8
+data/Atlas dan ISIC2019 (31 classes)/test/Larva Migrans/img_108.jpg,8
+data/Atlas dan ISIC2019 (31 classes)/test/Larva Migrans/img_112.jpg,8
+data/Atlas dan ISIC2019 (31 classes)/test/Larva Migrans/img_115.jpg,8
+data/Atlas dan ISIC2019 (31 classes)/test/Larva Migrans/img_116.jpg,8
+data/Atlas dan ISIC2019 (31 classes)/test/Larva Migrans/img_117.jpg,8
+data/Atlas dan ISIC2019 (31 classes)/test/Larva Migrans/img_121.jpg,8
+data/Atlas dan ISIC2019 (31 classes)/test/Larva Migrans/img_123.jpg,8
+data/Atlas dan ISIC2019 (31 classes)/test/Larva Migrans/img_125.jpg,8
+data/Atlas dan ISIC2019 (31 classes)/test/Larva Migrans/img_131.jpg,8
+data/Atlas dan ISIC2019 (31 classes)/test/Larva Migrans/img_136.jpg,8
+data/Atlas dan ISIC2019 (31 classes)/test/Larva Migrans/img_138.jpg,8
+data/Atlas dan ISIC2019 (31 classes)/test/Larva Migrans/img_140.jpg,8
+data/Atlas dan ISIC2019 (31 classes)/test/Larva Migrans/img_79.jpg,8
+data/Atlas dan ISIC2019 (31 classes)/test/Larva Migrans/img_87.jpg,8
+data/Atlas dan ISIC2019 (31 classes)/test/Larva Migrans/img_96.jpg,8
+data/Atlas dan ISIC2019 (31 classes)/test/Larva Migrans/img_98.jpg,8
+data/Atlas dan ISIC2019 (31 classes)/test/Larva Migrans/img_99.jpg,8
+data/Atlas dan ISIC2019 (31 classes)/test/Leprosy Borderline/3282.jpg,9
+data/Atlas dan ISIC2019 (31 classes)/test/Leprosy Borderline/3295.jpg,9
+data/Atlas dan ISIC2019 (31 classes)/test/Leprosy Borderline/3296.jpg,9
+data/Atlas dan ISIC2019 (31 classes)/test/Leprosy Borderline/3307.jpg,9
+data/Atlas dan ISIC2019 (31 classes)/test/Leprosy Borderline/3319.jpg,9
+data/Atlas dan ISIC2019 (31 classes)/test/Leprosy Borderline/3322.jpg,9
+data/Atlas dan ISIC2019 (31 classes)/test/Leprosy Borderline/3325.jpg,9
+data/Atlas dan ISIC2019 (31 classes)/test/Leprosy Borderline/3332.jpg,9
+data/Atlas dan ISIC2019 (31 classes)/test/Leprosy Borderline/3338.jpg,9
+data/Atlas dan ISIC2019 (31 classes)/test/Leprosy Borderline/9663.jpg,9
+data/Atlas dan ISIC2019 (31 classes)/test/Leprosy Borderline/9666.jpg,9
+data/Atlas dan ISIC2019 (31 classes)/test/Leprosy Borderline/img_104_2.jpg,9
+data/Atlas dan ISIC2019 (31 classes)/test/Leprosy Borderline/img_105_2.jpg,9
+data/Atlas dan ISIC2019 (31 classes)/test/Leprosy Borderline/img_109_2.jpg,9
+data/Atlas dan ISIC2019 (31 classes)/test/Leprosy Borderline/img_112_2.jpg,9
+data/Atlas dan ISIC2019 (31 classes)/test/Leprosy Borderline/img_113_2.jpg,9
+data/Atlas dan ISIC2019 (31 classes)/test/Leprosy Borderline/img_114_2.jpg,9
+data/Atlas dan ISIC2019 (31 classes)/test/Leprosy Borderline/img_118_2.jpg,9
+data/Atlas dan ISIC2019 (31 classes)/test/Leprosy Borderline/img_120_2.jpg,9
+data/Atlas dan ISIC2019 (31 classes)/test/Leprosy Borderline/img_122_2.jpg,9
+data/Atlas dan ISIC2019 (31 classes)/test/Leprosy Borderline/img_123_2.jpg,9
+data/Atlas dan ISIC2019 (31 classes)/test/Leprosy Borderline/img_126_2.jpg,9
+data/Atlas dan ISIC2019 (31 classes)/test/Leprosy Borderline/img_128_2.jpg,9
+data/Atlas dan ISIC2019 (31 classes)/test/Leprosy Borderline/img_81_2.jpg,9
+data/Atlas dan ISIC2019 (31 classes)/test/Leprosy Borderline/img_83_2.jpg,9
+data/Atlas dan ISIC2019 (31 classes)/test/Leprosy Borderline/img_84_2.jpg,9
+data/Atlas dan ISIC2019 (31 classes)/test/Leprosy Borderline/img_87_2.jpg,9
+data/Atlas dan ISIC2019 (31 classes)/test/Leprosy Borderline/img_91_2.jpg,9
+data/Atlas dan ISIC2019 (31 classes)/test/Leprosy Borderline/img_98_2.jpg,9
+data/Atlas dan ISIC2019 (31 classes)/test/Leprosy Lepromatous/3359.jpg,10
+data/Atlas dan ISIC2019 (31 classes)/test/Leprosy Lepromatous/3364.jpg,10
+data/Atlas dan ISIC2019 (31 classes)/test/Leprosy Lepromatous/3365.jpg,10
+data/Atlas dan ISIC2019 (31 classes)/test/Leprosy Lepromatous/3367.jpg,10
+data/Atlas dan ISIC2019 (31 classes)/test/Leprosy Lepromatous/3378.jpg,10
+data/Atlas dan ISIC2019 (31 classes)/test/Leprosy Lepromatous/3383.jpg,10
+data/Atlas dan ISIC2019 (31 classes)/test/Leprosy Lepromatous/3389.jpg,10
+data/Atlas dan ISIC2019 (31 classes)/test/Leprosy Lepromatous/3390.jpg,10
+data/Atlas dan ISIC2019 (31 classes)/test/Leprosy Lepromatous/3392.jpg,10
+data/Atlas dan ISIC2019 (31 classes)/test/Leprosy Lepromatous/3406.jpg,10
+data/Atlas dan ISIC2019 (31 classes)/test/Leprosy Lepromatous/3409.jpg,10
+data/Atlas dan ISIC2019 (31 classes)/test/Leprosy Lepromatous/3411.jpg,10
+data/Atlas dan ISIC2019 (31 classes)/test/Leprosy Lepromatous/3414.jpg,10
+data/Atlas dan ISIC2019 (31 classes)/test/Leprosy Lepromatous/3416.jpg,10
+data/Atlas dan ISIC2019 (31 classes)/test/Leprosy Lepromatous/3428.jpg,10
+data/Atlas dan ISIC2019 (31 classes)/test/Leprosy Lepromatous/3437.jpg,10
+data/Atlas dan ISIC2019 (31 classes)/test/Leprosy Lepromatous/img_100.jpg,10
+data/Atlas dan ISIC2019 (31 classes)/test/Leprosy Lepromatous/img_101.jpg,10
+data/Atlas dan ISIC2019 (31 classes)/test/Leprosy Lepromatous/img_103.jpg,10
+data/Atlas dan ISIC2019 (31 classes)/test/Leprosy Lepromatous/img_116.jpg,10
+data/Atlas dan ISIC2019 (31 classes)/test/Leprosy Lepromatous/img_118.jpg,10
+data/Atlas dan ISIC2019 (31 classes)/test/Leprosy Lepromatous/img_120.jpg,10
+data/Atlas dan ISIC2019 (31 classes)/test/Leprosy Lepromatous/img_126.jpg,10
+data/Atlas dan ISIC2019 (31 classes)/test/Leprosy Lepromatous/img_131.jpg,10
+data/Atlas dan ISIC2019 (31 classes)/test/Leprosy Lepromatous/img_142.jpg,10
+data/Atlas dan ISIC2019 (31 classes)/test/Leprosy Lepromatous/img_151.jpg,10
+data/Atlas dan ISIC2019 (31 classes)/test/Leprosy Lepromatous/img_156.jpg,10
+data/Atlas dan ISIC2019 (31 classes)/test/Leprosy Lepromatous/img_158.jpg,10
+data/Atlas dan ISIC2019 (31 classes)/test/Leprosy Lepromatous/img_161.jpg,10
+data/Atlas dan ISIC2019 (31 classes)/test/Leprosy Lepromatous/img_162.jpg,10
+data/Atlas dan ISIC2019 (31 classes)/test/Leprosy Lepromatous/img_172.jpg,10
+data/Atlas dan ISIC2019 (31 classes)/test/Leprosy Lepromatous/img_173.jpg,10
+data/Atlas dan ISIC2019 (31 classes)/test/Leprosy Lepromatous/img_175.jpg,10
+data/Atlas dan ISIC2019 (31 classes)/test/Leprosy Lepromatous/img_176.jpg,10
+data/Atlas dan ISIC2019 (31 classes)/test/Leprosy Lepromatous/img_186.jpg,10
+data/Atlas dan ISIC2019 (31 classes)/test/Leprosy Lepromatous/img_194.jpg,10
+data/Atlas dan ISIC2019 (31 classes)/test/Leprosy Lepromatous/img_196.jpg,10
+data/Atlas dan ISIC2019 (31 classes)/test/Leprosy Lepromatous/img_200.jpg,10
+data/Atlas dan ISIC2019 (31 classes)/test/Leprosy Lepromatous/img_202.jpg,10
+data/Atlas dan ISIC2019 (31 classes)/test/Leprosy Lepromatous/img_203.jpg,10
+data/Atlas dan ISIC2019 (31 classes)/test/Leprosy Lepromatous/img_207.jpg,10
+data/Atlas dan ISIC2019 (31 classes)/test/Leprosy Lepromatous/img_212.jpg,10
+data/Atlas dan ISIC2019 (31 classes)/test/Leprosy Lepromatous/img_214.jpg,10
+data/Atlas dan ISIC2019 (31 classes)/test/Leprosy Lepromatous/img_216.jpg,10
+data/Atlas dan ISIC2019 (31 classes)/test/Leprosy Lepromatous/img_218.jpg,10
+data/Atlas dan ISIC2019 (31 classes)/test/Leprosy Lepromatous/img_219.jpg,10
+data/Atlas dan ISIC2019 (31 classes)/test/Leprosy Lepromatous/img_220.jpg,10
+data/Atlas dan ISIC2019 (31 classes)/test/Leprosy Lepromatous/img_222.jpg,10
+data/Atlas dan ISIC2019 (31 classes)/test/Leprosy Lepromatous/img_224.jpg,10
+data/Atlas dan ISIC2019 (31 classes)/test/Leprosy Lepromatous/img_233.jpg,10
+data/Atlas dan ISIC2019 (31 classes)/test/Leprosy Lepromatous/img_250.jpg,10
+data/Atlas dan ISIC2019 (31 classes)/test/Leprosy Lepromatous/img_251.jpg,10
+data/Atlas dan ISIC2019 (31 classes)/test/Leprosy Lepromatous/img_255.jpg,10
+data/Atlas dan ISIC2019 (31 classes)/test/Leprosy Lepromatous/img_273.jpg,10
+data/Atlas dan ISIC2019 (31 classes)/test/Leprosy Lepromatous/img_274.jpg,10
+data/Atlas dan ISIC2019 (31 classes)/test/Leprosy Lepromatous/img_282.jpg,10
+data/Atlas dan ISIC2019 (31 classes)/test/Leprosy Lepromatous/img_289.jpg,10
+data/Atlas dan ISIC2019 (31 classes)/test/Leprosy Lepromatous/img_292.jpg,10
+data/Atlas dan ISIC2019 (31 classes)/test/Leprosy Lepromatous/img_87.jpg,10
+data/Atlas dan ISIC2019 (31 classes)/test/Leprosy Tuberculoid/3526.jpg,11
+data/Atlas dan ISIC2019 (31 classes)/test/Leprosy Tuberculoid/3538.jpg,11
+data/Atlas dan ISIC2019 (31 classes)/test/Leprosy Tuberculoid/3549.jpg,11
+data/Atlas dan ISIC2019 (31 classes)/test/Leprosy Tuberculoid/3556.jpg,11
+data/Atlas dan ISIC2019 (31 classes)/test/Leprosy Tuberculoid/3568.jpg,11
+data/Atlas dan ISIC2019 (31 classes)/test/Leprosy Tuberculoid/3569.jpg,11
+data/Atlas dan ISIC2019 (31 classes)/test/Leprosy Tuberculoid/3578.jpg,11
+data/Atlas dan ISIC2019 (31 classes)/test/Leprosy Tuberculoid/3589.jpg,11
+data/Atlas dan ISIC2019 (31 classes)/test/Leprosy Tuberculoid/3604.jpg,11
+data/Atlas dan ISIC2019 (31 classes)/test/Leprosy Tuberculoid/3605.jpg,11
+data/Atlas dan ISIC2019 (31 classes)/test/Leprosy Tuberculoid/3606.jpg,11
+data/Atlas dan ISIC2019 (31 classes)/test/Leprosy Tuberculoid/3611.jpg,11
+data/Atlas dan ISIC2019 (31 classes)/test/Leprosy Tuberculoid/3615.jpg,11
+data/Atlas dan ISIC2019 (31 classes)/test/Leprosy Tuberculoid/3616.jpg,11
+data/Atlas dan ISIC2019 (31 classes)/test/Leprosy Tuberculoid/3618.jpg,11
+data/Atlas dan ISIC2019 (31 classes)/test/Leprosy Tuberculoid/3619.jpg,11
+data/Atlas dan ISIC2019 (31 classes)/test/Leprosy Tuberculoid/3624.jpg,11
+data/Atlas dan ISIC2019 (31 classes)/test/Leprosy Tuberculoid/3626.jpg,11
+data/Atlas dan ISIC2019 (31 classes)/test/Leprosy Tuberculoid/3628.jpg,11
+data/Atlas dan ISIC2019 (31 classes)/test/Leprosy Tuberculoid/3629.jpg,11
+data/Atlas dan ISIC2019 (31 classes)/test/Leprosy Tuberculoid/8746.jpg,11
+data/Atlas dan ISIC2019 (31 classes)/test/Leprosy Tuberculoid/img_118_2.jpg,11
+data/Atlas dan ISIC2019 (31 classes)/test/Leprosy Tuberculoid/img_130_2.jpg,11
+data/Atlas dan ISIC2019 (31 classes)/test/Leprosy Tuberculoid/img_137_2.jpg,11
+data/Atlas dan ISIC2019 (31 classes)/test/Leprosy Tuberculoid/img_147_2.jpg,11
+data/Atlas dan ISIC2019 (31 classes)/test/Leprosy Tuberculoid/img_150_2.jpg,11
+data/Atlas dan ISIC2019 (31 classes)/test/Leprosy Tuberculoid/img_153_2.jpg,11
+data/Atlas dan ISIC2019 (31 classes)/test/Leprosy Tuberculoid/img_155_2.jpg,11
+data/Atlas dan ISIC2019 (31 classes)/test/Leprosy Tuberculoid/img_159_2.jpg,11
+data/Atlas dan ISIC2019 (31 classes)/test/Leprosy Tuberculoid/img_163_2.jpg,11
+data/Atlas dan ISIC2019 (31 classes)/test/Leprosy Tuberculoid/img_169_2.jpg,11
+data/Atlas dan ISIC2019 (31 classes)/test/Leprosy Tuberculoid/img_170_2.jpg,11
+data/Atlas dan ISIC2019 (31 classes)/test/Leprosy Tuberculoid/img_172_2.jpg,11
+data/Atlas dan ISIC2019 (31 classes)/test/Leprosy Tuberculoid/img_174_2.jpg,11
+data/Atlas dan ISIC2019 (31 classes)/test/Leprosy Tuberculoid/img_177_2.jpg,11
+data/Atlas dan ISIC2019 (31 classes)/test/Leprosy Tuberculoid/img_179_2.jpg,11
+data/Atlas dan ISIC2019 (31 classes)/test/Leprosy Tuberculoid/img_182_2.jpg,11
+data/Atlas dan ISIC2019 (31 classes)/test/Leprosy Tuberculoid/img_188_2.jpg,11
+data/Atlas dan ISIC2019 (31 classes)/test/Leprosy Tuberculoid/img_189_2.jpg,11
+data/Atlas dan ISIC2019 (31 classes)/test/Leprosy Tuberculoid/img_195_2.jpg,11
+data/Atlas dan ISIC2019 (31 classes)/test/Leprosy Tuberculoid/img_199_2.jpg,11
+data/Atlas dan ISIC2019 (31 classes)/test/Leprosy Tuberculoid/img_203_2.jpg,11
+data/Atlas dan ISIC2019 (31 classes)/test/Leprosy Tuberculoid/img_212_2.jpg,11
+data/Atlas dan ISIC2019 (31 classes)/test/Leprosy Tuberculoid/img_217_2.jpg,11
+data/Atlas dan ISIC2019 (31 classes)/test/Leprosy Tuberculoid/img_221_2.jpg,11
+data/Atlas dan ISIC2019 (31 classes)/test/Leprosy Tuberculoid/img_222_2.jpg,11
+data/Atlas dan ISIC2019 (31 classes)/test/Leprosy Tuberculoid/img_231_2.jpg,11
+data/Atlas dan ISIC2019 (31 classes)/test/Lichen Planus/3788.jpg,12
+data/Atlas dan ISIC2019 (31 classes)/test/Lichen Planus/3793.jpg,12
+data/Atlas dan ISIC2019 (31 classes)/test/Lichen Planus/3806.jpg,12
+data/Atlas dan ISIC2019 (31 classes)/test/Lichen Planus/3819.jpg,12
+data/Atlas dan ISIC2019 (31 classes)/test/Lichen Planus/3822.jpg,12
+data/Atlas dan ISIC2019 (31 classes)/test/Lichen Planus/3824.jpg,12
+data/Atlas dan ISIC2019 (31 classes)/test/Lichen Planus/3826.jpg,12
+data/Atlas dan ISIC2019 (31 classes)/test/Lichen Planus/3830.jpg,12
+data/Atlas dan ISIC2019 (31 classes)/test/Lichen Planus/3831.jpg,12
+data/Atlas dan ISIC2019 (31 classes)/test/Lichen Planus/3834.jpg,12
+data/Atlas dan ISIC2019 (31 classes)/test/Lichen Planus/3844.jpg,12
+data/Atlas dan ISIC2019 (31 classes)/test/Lichen Planus/img_109.jpg,12
+data/Atlas dan ISIC2019 (31 classes)/test/Lichen Planus/img_112.jpg,12
+data/Atlas dan ISIC2019 (31 classes)/test/Lichen Planus/img_113.jpg,12
+data/Atlas dan ISIC2019 (31 classes)/test/Lichen Planus/img_117.jpg,12
+data/Atlas dan ISIC2019 (31 classes)/test/Lichen Planus/img_120.jpg,12
+data/Atlas dan ISIC2019 (31 classes)/test/Lichen Planus/img_121.jpg,12
+data/Atlas dan ISIC2019 (31 classes)/test/Lichen Planus/img_125.jpg,12
+data/Atlas dan ISIC2019 (31 classes)/test/Lichen Planus/img_126.jpg,12
+data/Atlas dan ISIC2019 (31 classes)/test/Lichen Planus/img_73_2.jpg,12
+data/Atlas dan ISIC2019 (31 classes)/test/Lichen Planus/img_74_2.jpg,12
+data/Atlas dan ISIC2019 (31 classes)/test/Lichen Planus/img_78_2.jpg,12
+data/Atlas dan ISIC2019 (31 classes)/test/Lichen Planus/img_80.jpg,12
+data/Atlas dan ISIC2019 (31 classes)/test/Lichen Planus/img_84.jpg,12
+data/Atlas dan ISIC2019 (31 classes)/test/Lichen Planus/img_85.jpg,12
+data/Atlas dan ISIC2019 (31 classes)/test/Lichen Planus/img_91.jpg,12
+data/Atlas dan ISIC2019 (31 classes)/test/Lichen Planus/img_97.jpg,12
+data/Atlas dan ISIC2019 (31 classes)/test/Lupus Erythematosus Chronicus Discoides/11122.jpg,13
+data/Atlas dan ISIC2019 (31 classes)/test/Lupus Erythematosus Chronicus Discoides/11130.jpg,13
+data/Atlas dan ISIC2019 (31 classes)/test/Lupus Erythematosus Chronicus Discoides/11141.jpg,13
+data/Atlas dan ISIC2019 (31 classes)/test/Lupus Erythematosus Chronicus Discoides/4050.jpg,13
+data/Atlas dan ISIC2019 (31 classes)/test/Lupus Erythematosus Chronicus Discoides/4053.jpg,13
+data/Atlas dan ISIC2019 (31 classes)/test/Lupus Erythematosus Chronicus Discoides/4057.jpg,13
+data/Atlas dan ISIC2019 (31 classes)/test/Lupus Erythematosus Chronicus Discoides/4060.jpg,13
+data/Atlas dan ISIC2019 (31 classes)/test/Lupus Erythematosus Chronicus Discoides/4061.jpg,13
+data/Atlas dan ISIC2019 (31 classes)/test/Lupus Erythematosus Chronicus Discoides/4065.jpg,13
+data/Atlas dan ISIC2019 (31 classes)/test/Lupus Erythematosus Chronicus Discoides/4079.jpg,13
+data/Atlas dan ISIC2019 (31 classes)/test/Lupus Erythematosus Chronicus Discoides/4084.jpg,13
+data/Atlas dan ISIC2019 (31 classes)/test/Lupus Erythematosus Chronicus Discoides/4085.jpg,13
+data/Atlas dan ISIC2019 (31 classes)/test/Lupus Erythematosus Chronicus Discoides/4090.jpg,13
+data/Atlas dan ISIC2019 (31 classes)/test/Lupus Erythematosus Chronicus Discoides/8512.jpg,13
+data/Atlas dan ISIC2019 (31 classes)/test/Lupus Erythematosus Chronicus Discoides/8819.jpg,13
+data/Atlas dan ISIC2019 (31 classes)/test/Lupus Erythematosus Chronicus Discoides/8824.jpg,13
+data/Atlas dan ISIC2019 (31 classes)/test/Lupus Erythematosus Chronicus Discoides/8825.jpg,13
+data/Atlas dan ISIC2019 (31 classes)/test/Lupus Erythematosus Chronicus Discoides/9611.jpg,13
+data/Atlas dan ISIC2019 (31 classes)/test/Lupus Erythematosus Chronicus Discoides/9617.jpg,13
+data/Atlas dan ISIC2019 (31 classes)/test/Lupus Erythematosus Chronicus Discoides/9618.jpg,13
+data/Atlas dan ISIC2019 (31 classes)/test/Lupus Erythematosus Chronicus Discoides/9619.jpg,13
+data/Atlas dan ISIC2019 (31 classes)/test/Lupus Erythematosus Chronicus Discoides/9677.jpg,13
+data/Atlas dan ISIC2019 (31 classes)/test/Lupus Erythematosus Chronicus Discoides/9683.jpg,13
+data/Atlas dan ISIC2019 (31 classes)/test/Melanoma/10968.jpg,14
+data/Atlas dan ISIC2019 (31 classes)/test/Melanoma/11316.jpg,14
+data/Atlas dan ISIC2019 (31 classes)/test/Melanoma/11823.jpg,14
+data/Atlas dan ISIC2019 (31 classes)/test/Melanoma/4241.jpg,14
+data/Atlas dan ISIC2019 (31 classes)/test/Melanoma/4244.jpg,14
+data/Atlas dan ISIC2019 (31 classes)/test/Melanoma/4248.jpg,14
+data/Atlas dan ISIC2019 (31 classes)/test/Melanoma/4251.jpg,14
+data/Atlas dan ISIC2019 (31 classes)/test/Melanoma/4252.jpg,14
+data/Atlas dan ISIC2019 (31 classes)/test/Melanoma/4256.jpg,14
+data/Atlas dan ISIC2019 (31 classes)/test/Melanoma/4270.jpg,14
+data/Atlas dan ISIC2019 (31 classes)/test/Melanoma/4275.jpg,14
+data/Atlas dan ISIC2019 (31 classes)/test/Melanoma/4276.jpg,14
+data/Atlas dan ISIC2019 (31 classes)/test/Melanoma/4281.jpg,14
+data/Atlas dan ISIC2019 (31 classes)/test/Melanoma/4283.jpg,14
+data/Atlas dan ISIC2019 (31 classes)/test/Melanoma/4286.jpg,14
+data/Atlas dan ISIC2019 (31 classes)/test/Melanoma/4291.jpg,14
+data/Atlas dan ISIC2019 (31 classes)/test/Melanoma/4292.jpg,14
+data/Atlas dan ISIC2019 (31 classes)/test/Melanoma/4295.jpg,14
+data/Atlas dan ISIC2019 (31 classes)/test/Melanoma/4299.jpg,14
+data/Atlas dan ISIC2019 (31 classes)/test/Melanoma/4301.jpg,14
+data/Atlas dan ISIC2019 (31 classes)/test/Melanoma/4303.jpg,14
+data/Atlas dan ISIC2019 (31 classes)/test/Melanoma/4307.jpg,14
+data/Atlas dan ISIC2019 (31 classes)/test/Melanoma/4312.jpg,14
+data/Atlas dan ISIC2019 (31 classes)/test/Melanoma/4314.jpg,14
+data/Atlas dan ISIC2019 (31 classes)/test/Melanoma/4320.jpg,14
+data/Atlas dan ISIC2019 (31 classes)/test/Melanoma/9382.jpg,14
+data/Atlas dan ISIC2019 (31 classes)/test/Molluscum Contagiosum/4396.jpg,15
+data/Atlas dan ISIC2019 (31 classes)/test/Molluscum Contagiosum/4401.jpg,15
+data/Atlas dan ISIC2019 (31 classes)/test/Molluscum Contagiosum/4414.jpg,15
+data/Atlas dan ISIC2019 (31 classes)/test/Molluscum Contagiosum/4430.jpg,15
+data/Atlas dan ISIC2019 (31 classes)/test/Molluscum Contagiosum/4432.jpg,15
+data/Atlas dan ISIC2019 (31 classes)/test/Molluscum Contagiosum/4434.jpg,15
+data/Atlas dan ISIC2019 (31 classes)/test/Molluscum Contagiosum/4439.jpg,15
+data/Atlas dan ISIC2019 (31 classes)/test/Molluscum Contagiosum/4442.jpg,15
+data/Atlas dan ISIC2019 (31 classes)/test/Molluscum Contagiosum/4452.jpg,15
+data/Atlas dan ISIC2019 (31 classes)/test/Molluscum Contagiosum/4466.jpg,15
+data/Atlas dan ISIC2019 (31 classes)/test/Molluscum Contagiosum/4469.jpg,15
+data/Atlas dan ISIC2019 (31 classes)/test/Molluscum Contagiosum/img_100.jpg,15
+data/Atlas dan ISIC2019 (31 classes)/test/Molluscum Contagiosum/img_101.jpg,15
+data/Atlas dan ISIC2019 (31 classes)/test/Molluscum Contagiosum/img_105.jpg,15
+data/Atlas dan ISIC2019 (31 classes)/test/Molluscum Contagiosum/img_108.jpg,15
+data/Atlas dan ISIC2019 (31 classes)/test/Molluscum Contagiosum/img_109.jpg,15
+data/Atlas dan ISIC2019 (31 classes)/test/Molluscum Contagiosum/img_113.jpg,15
+data/Atlas dan ISIC2019 (31 classes)/test/Molluscum Contagiosum/img_114.jpg,15
+data/Atlas dan ISIC2019 (31 classes)/test/Molluscum Contagiosum/img_116.jpg,15
+data/Atlas dan ISIC2019 (31 classes)/test/Molluscum Contagiosum/img_118.jpg,15
+data/Atlas dan ISIC2019 (31 classes)/test/Molluscum Contagiosum/img_121.jpg,15
+data/Atlas dan ISIC2019 (31 classes)/test/Molluscum Contagiosum/img_125.jpg,15
+data/Atlas dan ISIC2019 (31 classes)/test/Molluscum Contagiosum/img_126.jpg,15
+data/Atlas dan ISIC2019 (31 classes)/test/Molluscum Contagiosum/img_131.jpg,15
+data/Atlas dan ISIC2019 (31 classes)/test/Molluscum Contagiosum/img_132.jpg,15
+data/Atlas dan ISIC2019 (31 classes)/test/Molluscum Contagiosum/img_92.jpg,15
+data/Atlas dan ISIC2019 (31 classes)/test/Molluscum Contagiosum/img_97.jpg,15
+data/Atlas dan ISIC2019 (31 classes)/test/Mycosis Fungoides/4582.jpg,16
+data/Atlas dan ISIC2019 (31 classes)/test/Mycosis Fungoides/4590.jpg,16
+data/Atlas dan ISIC2019 (31 classes)/test/Mycosis Fungoides/8398.jpg,16
+data/Atlas dan ISIC2019 (31 classes)/test/Mycosis Fungoides/8411.jpg,16
+data/Atlas dan ISIC2019 (31 classes)/test/Mycosis Fungoides/8414.jpg,16
+data/Atlas dan ISIC2019 (31 classes)/test/Mycosis Fungoides/8651.jpg,16
+data/Atlas dan ISIC2019 (31 classes)/test/Mycosis Fungoides/8654.jpg,16
+data/Atlas dan ISIC2019 (31 classes)/test/Mycosis Fungoides/8655.jpg,16
+data/Atlas dan ISIC2019 (31 classes)/test/Mycosis Fungoides/8659.jpg,16
+data/Atlas dan ISIC2019 (31 classes)/test/Mycosis Fungoides/8699.jpg,16
+data/Atlas dan ISIC2019 (31 classes)/test/Mycosis Fungoides/8725.jpg,16
+data/Atlas dan ISIC2019 (31 classes)/test/Mycosis Fungoides/img_100_2.jpg,16
+data/Atlas dan ISIC2019 (31 classes)/test/Mycosis Fungoides/img_105_2.jpg,16
+data/Atlas dan ISIC2019 (31 classes)/test/Mycosis Fungoides/img_107_2.jpg,16
+data/Atlas dan ISIC2019 (31 classes)/test/Mycosis Fungoides/img_110_2.jpg,16
+data/Atlas dan ISIC2019 (31 classes)/test/Mycosis Fungoides/img_115_2.jpg,16
+data/Atlas dan ISIC2019 (31 classes)/test/Mycosis Fungoides/img_116_2.jpg,16
+data/Atlas dan ISIC2019 (31 classes)/test/Mycosis Fungoides/img_77.jpg,16
+data/Atlas dan ISIC2019 (31 classes)/test/Mycosis Fungoides/img_83.jpg,16
+data/Atlas dan ISIC2019 (31 classes)/test/Mycosis Fungoides/img_85_2.jpg,16
+data/Atlas dan ISIC2019 (31 classes)/test/Mycosis Fungoides/img_86_2.jpg,16
+data/Atlas dan ISIC2019 (31 classes)/test/Mycosis Fungoides/img_87_2.jpg,16
+data/Atlas dan ISIC2019 (31 classes)/test/Mycosis Fungoides/img_89_2.jpg,16
+data/Atlas dan ISIC2019 (31 classes)/test/Mycosis Fungoides/img_96_2.jpg,16
+data/Atlas dan ISIC2019 (31 classes)/test/Neurofibromatosis/4772.jpg,17
+data/Atlas dan ISIC2019 (31 classes)/test/Neurofibromatosis/4777.jpg,17
+data/Atlas dan ISIC2019 (31 classes)/test/Neurofibromatosis/4785.jpg,17
+data/Atlas dan ISIC2019 (31 classes)/test/Neurofibromatosis/4790.jpg,17
+data/Atlas dan ISIC2019 (31 classes)/test/Neurofibromatosis/4803.jpg,17
+data/Atlas dan ISIC2019 (31 classes)/test/Neurofibromatosis/4806.jpg,17
+data/Atlas dan ISIC2019 (31 classes)/test/Neurofibromatosis/4810.jpg,17
+data/Atlas dan ISIC2019 (31 classes)/test/Neurofibromatosis/4813.jpg,17
+data/Atlas dan ISIC2019 (31 classes)/test/Neurofibromatosis/4814.jpg,17
+data/Atlas dan ISIC2019 (31 classes)/test/Neurofibromatosis/4815.jpg,17
+data/Atlas dan ISIC2019 (31 classes)/test/Neurofibromatosis/4818.jpg,17
+data/Atlas dan ISIC2019 (31 classes)/test/Neurofibromatosis/4828.jpg,17
+data/Atlas dan ISIC2019 (31 classes)/test/Neurofibromatosis/4832.jpg,17
+data/Atlas dan ISIC2019 (31 classes)/test/Neurofibromatosis/8547.jpg,17
+data/Atlas dan ISIC2019 (31 classes)/test/Neurofibromatosis/8548.jpg,17
+data/Atlas dan ISIC2019 (31 classes)/test/Neurofibromatosis/img_78_2.jpg,17
+data/Atlas dan ISIC2019 (31 classes)/test/Neurofibromatosis/img_80_2.jpg,17
+data/Atlas dan ISIC2019 (31 classes)/test/Neurofibromatosis/img_84_2.jpg,17
+data/Atlas dan ISIC2019 (31 classes)/test/Nevus/ISIC_0000008.jpg,18
+data/Atlas dan ISIC2019 (31 classes)/test/Nevus/ISIC_0000010.jpg,18
+data/Atlas dan ISIC2019 (31 classes)/test/Nevus/ISIC_0000011.jpg,18
+data/Atlas dan ISIC2019 (31 classes)/test/Nevus/ISIC_0000027.jpg,18
+data/Atlas dan ISIC2019 (31 classes)/test/Nevus/ISIC_0000028.jpg,18
+data/Atlas dan ISIC2019 (31 classes)/test/Nevus/ISIC_0000037.jpg,18
+data/Atlas dan ISIC2019 (31 classes)/test/Nevus/ISIC_0000050.jpg,18
+data/Atlas dan ISIC2019 (31 classes)/test/Nevus/ISIC_0000051.jpg,18
+data/Atlas dan ISIC2019 (31 classes)/test/Nevus/ISIC_0000053.jpg,18
+data/Atlas dan ISIC2019 (31 classes)/test/Nevus/ISIC_0000081.jpg,18
+data/Atlas dan ISIC2019 (31 classes)/test/Nevus/ISIC_0000083.jpg,18
+data/Atlas dan ISIC2019 (31 classes)/test/Nevus/ISIC_0000088.jpg,18
+data/Atlas dan ISIC2019 (31 classes)/test/Nevus/ISIC_0000233.jpg,18
+data/Atlas dan ISIC2019 (31 classes)/test/Nevus/ISIC_0000236.jpg,18
+data/Atlas dan ISIC2019 (31 classes)/test/Nevus/ISIC_0000241.jpg,18
+data/Atlas dan ISIC2019 (31 classes)/test/Nevus/ISIC_0000258.jpg,18
+data/Atlas dan ISIC2019 (31 classes)/test/Nevus/ISIC_0000260.jpg,18
+data/Atlas dan ISIC2019 (31 classes)/test/Nevus/ISIC_0000262.jpg,18
+data/Atlas dan ISIC2019 (31 classes)/test/Nevus/ISIC_0000267.jpg,18
+data/Atlas dan ISIC2019 (31 classes)/test/Nevus/ISIC_0000317.jpg,18
+data/Atlas dan ISIC2019 (31 classes)/test/Nevus/ISIC_0000326.jpg,18
+data/Atlas dan ISIC2019 (31 classes)/test/Nevus/ISIC_0000335.jpg,18
+data/Atlas dan ISIC2019 (31 classes)/test/Nevus/ISIC_0000345.jpg,18
+data/Atlas dan ISIC2019 (31 classes)/test/Nevus/ISIC_0000357.jpg,18
+data/Atlas dan ISIC2019 (31 classes)/test/Nevus/ISIC_0000359.jpg,18
+data/Atlas dan ISIC2019 (31 classes)/test/Nevus/ISIC_0000360.jpg,18
+data/Atlas dan ISIC2019 (31 classes)/test/Nevus/ISIC_0000370.jpg,18
+data/Atlas dan ISIC2019 (31 classes)/test/Nevus/ISIC_0000378.jpg,18
+data/Atlas dan ISIC2019 (31 classes)/test/Nevus/ISIC_0000380.jpg,18
+data/Atlas dan ISIC2019 (31 classes)/test/Nevus/ISIC_0000384.jpg,18
+data/Atlas dan ISIC2019 (31 classes)/test/Nevus/ISIC_0000386.jpg,18
+data/Atlas dan ISIC2019 (31 classes)/test/Nevus/ISIC_0000387.jpg,18
+data/Atlas dan ISIC2019 (31 classes)/test/Nevus/ISIC_0000408.jpg,18
+data/Atlas dan ISIC2019 (31 classes)/test/Nevus/ISIC_0000419.jpg,18
+data/Atlas dan ISIC2019 (31 classes)/test/Nevus/ISIC_0000424.jpg,18
+data/Atlas dan ISIC2019 (31 classes)/test/Nevus/ISIC_0000426.jpg,18
+data/Atlas dan ISIC2019 (31 classes)/test/Nevus/ISIC_0000430.jpg,18
+data/Atlas dan ISIC2019 (31 classes)/test/Nevus/ISIC_0000447.jpg,18
+data/Atlas dan ISIC2019 (31 classes)/test/Nevus/ISIC_0000452.jpg,18
+data/Atlas dan ISIC2019 (31 classes)/test/Nevus/ISIC_0000467.jpg,18
+data/Atlas dan ISIC2019 (31 classes)/test/Nevus/ISIC_0000471.jpg,18
+data/Atlas dan ISIC2019 (31 classes)/test/Nevus/ISIC_0000472.jpg,18
+data/Atlas dan ISIC2019 (31 classes)/test/Nevus/ISIC_0000498.jpg,18
+data/Atlas dan ISIC2019 (31 classes)/test/Nevus/ISIC_0000510.jpg,18
+data/Atlas dan ISIC2019 (31 classes)/test/Nevus/ISIC_0000512.jpg,18
+data/Atlas dan ISIC2019 (31 classes)/test/Nevus/ISIC_0000523.jpg,18
+data/Atlas dan ISIC2019 (31 classes)/test/Nevus/ISIC_0000532.jpg,18
+data/Atlas dan ISIC2019 (31 classes)/test/Nevus/ISIC_0000534.jpg,18
+data/Atlas dan ISIC2019 (31 classes)/test/Nevus/ISIC_0000537.jpg,18
+data/Atlas dan ISIC2019 (31 classes)/test/Nevus/ISIC_0000544.jpg,18
+data/Atlas dan ISIC2019 (31 classes)/test/Nevus/ISIC_0000545.jpg,18
+data/Atlas dan ISIC2019 (31 classes)/test/Nevus/ISIC_0010512.jpg,18
+data/Atlas dan ISIC2019 (31 classes)/test/Nevus/ISIC_0024511.jpg,18
+data/Atlas dan ISIC2019 (31 classes)/test/Nevus/ISIC_0024800.jpg,18
+data/Atlas dan ISIC2019 (31 classes)/test/Nevus/ISIC_0025427.jpg,18
+data/Atlas dan ISIC2019 (31 classes)/test/Nevus/ISIC_0025605.jpg,18
+data/Atlas dan ISIC2019 (31 classes)/test/Nevus/ISIC_0026040.jpg,18
+data/Atlas dan ISIC2019 (31 classes)/test/Nevus/ISIC_0026149.jpg,18
+data/Atlas dan ISIC2019 (31 classes)/test/Nevus/ISIC_0026171.jpg,18
+data/Atlas dan ISIC2019 (31 classes)/test/Nevus/ISIC_0026457.jpg,18
+data/Atlas dan ISIC2019 (31 classes)/test/Nevus/ISIC_0026625.jpg,18
+data/Atlas dan ISIC2019 (31 classes)/test/Nevus/ISIC_0026626.jpg,18
+data/Atlas dan ISIC2019 (31 classes)/test/Nevus/ISIC_0026650.jpg,18
+data/Atlas dan ISIC2019 (31 classes)/test/Nevus/ISIC_0027172.jpg,18
+data/Atlas dan ISIC2019 (31 classes)/test/Nevus/ISIC_0027447.jpg,18
+data/Atlas dan ISIC2019 (31 classes)/test/Nevus/ISIC_0027562.jpg,18
+data/Atlas dan ISIC2019 (31 classes)/test/Nevus/ISIC_0027802.jpg,18
+data/Atlas dan ISIC2019 (31 classes)/test/Nevus/ISIC_0028314.jpg,18
+data/Atlas dan ISIC2019 (31 classes)/test/Nevus/ISIC_0028370.jpg,18
+data/Atlas dan ISIC2019 (31 classes)/test/Nevus/ISIC_0028619.jpg,18
+data/Atlas dan ISIC2019 (31 classes)/test/Nevus/ISIC_0028854.jpg,18
+data/Atlas dan ISIC2019 (31 classes)/test/Nevus/ISIC_0028990.jpg,18
+data/Atlas dan ISIC2019 (31 classes)/test/Nevus/ISIC_0029133.jpg,18
+data/Atlas dan ISIC2019 (31 classes)/test/Nevus/ISIC_0029210.jpg,18
+data/Atlas dan ISIC2019 (31 classes)/test/Nevus/ISIC_0029460.jpg,18
+data/Atlas dan ISIC2019 (31 classes)/test/Papilomatosis Confluentes And Reticulate/5045.jpg,19
+data/Atlas dan ISIC2019 (31 classes)/test/Papilomatosis Confluentes And Reticulate/5050.jpg,19
+data/Atlas dan ISIC2019 (31 classes)/test/Papilomatosis Confluentes And Reticulate/5058.jpg,19
+data/Atlas dan ISIC2019 (31 classes)/test/Papilomatosis Confluentes And Reticulate/5063.jpg,19
+data/Atlas dan ISIC2019 (31 classes)/test/Papilomatosis Confluentes And Reticulate/5076.jpg,19
+data/Atlas dan ISIC2019 (31 classes)/test/Papilomatosis Confluentes And Reticulate/5079.jpg,19
+data/Atlas dan ISIC2019 (31 classes)/test/Papilomatosis Confluentes And Reticulate/5083.jpg,19
+data/Atlas dan ISIC2019 (31 classes)/test/Papilomatosis Confluentes And Reticulate/5086.jpg,19
+data/Atlas dan ISIC2019 (31 classes)/test/Papilomatosis Confluentes And Reticulate/5087.jpg,19
+data/Atlas dan ISIC2019 (31 classes)/test/Papilomatosis Confluentes And Reticulate/5088.jpg,19
+data/Atlas dan ISIC2019 (31 classes)/test/Papilomatosis Confluentes And Reticulate/5091.jpg,19
+data/Atlas dan ISIC2019 (31 classes)/test/Papilomatosis Confluentes And Reticulate/8430.jpg,19
+data/Atlas dan ISIC2019 (31 classes)/test/Papilomatosis Confluentes And Reticulate/8435.jpg,19
+data/Atlas dan ISIC2019 (31 classes)/test/Papilomatosis Confluentes And Reticulate/8436.jpg,19
+data/Atlas dan ISIC2019 (31 classes)/test/Papilomatosis Confluentes And Reticulate/9153.jpg,19
+data/Atlas dan ISIC2019 (31 classes)/test/Papilomatosis Confluentes And Reticulate/9155.jpg,19
+data/Atlas dan ISIC2019 (31 classes)/test/Papilomatosis Confluentes And Reticulate/9156.jpg,19
+data/Atlas dan ISIC2019 (31 classes)/test/Papilomatosis Confluentes And Reticulate/9162.jpg,19
+data/Atlas dan ISIC2019 (31 classes)/test/Pediculosis Capitis/5146.jpg,20
+data/Atlas dan ISIC2019 (31 classes)/test/Pediculosis Capitis/5151.jpg,20
+data/Atlas dan ISIC2019 (31 classes)/test/Pediculosis Capitis/5159.jpg,20
+data/Atlas dan ISIC2019 (31 classes)/test/Pediculosis Capitis/9246.jpg,20
+data/Atlas dan ISIC2019 (31 classes)/test/Pediculosis Capitis/9259.jpg,20
+data/Atlas dan ISIC2019 (31 classes)/test/Pediculosis Capitis/9548.jpg,20
+data/Atlas dan ISIC2019 (31 classes)/test/Pediculosis Capitis/9552.jpg,20
+data/Atlas dan ISIC2019 (31 classes)/test/Pediculosis Capitis/9555.jpg,20
+data/Atlas dan ISIC2019 (31 classes)/test/Pediculosis Capitis/9556.jpg,20
+data/Atlas dan ISIC2019 (31 classes)/test/Pediculosis Capitis/9557.jpg,20
+data/Atlas dan ISIC2019 (31 classes)/test/Pediculosis Capitis/9560.jpg,20
+data/Atlas dan ISIC2019 (31 classes)/test/Pediculosis Capitis/9575.jpg,20
+data/Atlas dan ISIC2019 (31 classes)/test/Pediculosis Capitis/9580.jpg,20
+data/Atlas dan ISIC2019 (31 classes)/test/Pediculosis Capitis/9581.jpg,20
+data/Atlas dan ISIC2019 (31 classes)/test/Pediculosis Capitis/9585.jpg,20
+data/Atlas dan ISIC2019 (31 classes)/test/Pediculosis Capitis/9586.jpg,20
+data/Atlas dan ISIC2019 (31 classes)/test/Pediculosis Capitis/9588.jpg,20
+data/Atlas dan ISIC2019 (31 classes)/test/Pigmented Benign Keratosis/ISIC_0024371.jpg,21
+data/Atlas dan ISIC2019 (31 classes)/test/Pigmented Benign Keratosis/ISIC_0024382.jpg,21
+data/Atlas dan ISIC2019 (31 classes)/test/Pigmented Benign Keratosis/ISIC_0024383.jpg,21
+data/Atlas dan ISIC2019 (31 classes)/test/Pigmented Benign Keratosis/ISIC_0024489.jpg,21
+data/Atlas dan ISIC2019 (31 classes)/test/Pigmented Benign Keratosis/ISIC_0024490.jpg,21
+data/Atlas dan ISIC2019 (31 classes)/test/Pigmented Benign Keratosis/ISIC_0024505.jpg,21
+data/Atlas dan ISIC2019 (31 classes)/test/Pigmented Benign Keratosis/ISIC_0024623.jpg,21
+data/Atlas dan ISIC2019 (31 classes)/test/Pigmented Benign Keratosis/ISIC_0024626.jpg,21
+data/Atlas dan ISIC2019 (31 classes)/test/Pigmented Benign Keratosis/ISIC_0024643.jpg,21
+data/Atlas dan ISIC2019 (31 classes)/test/Pigmented Benign Keratosis/ISIC_0024773.jpg,21
+data/Atlas dan ISIC2019 (31 classes)/test/Pigmented Benign Keratosis/ISIC_0024782.jpg,21
+data/Atlas dan ISIC2019 (31 classes)/test/Pigmented Benign Keratosis/ISIC_0024850.jpg,21
+data/Atlas dan ISIC2019 (31 classes)/test/Pigmented Benign Keratosis/ISIC_0025040.jpg,21
+data/Atlas dan ISIC2019 (31 classes)/test/Pigmented Benign Keratosis/ISIC_0025066.jpg,21
+data/Atlas dan ISIC2019 (31 classes)/test/Pigmented Benign Keratosis/ISIC_0025180.jpg,21
+data/Atlas dan ISIC2019 (31 classes)/test/Pigmented Benign Keratosis/ISIC_0025209.jpg,21
+data/Atlas dan ISIC2019 (31 classes)/test/Pigmented Benign Keratosis/ISIC_0025275.jpg,21
+data/Atlas dan ISIC2019 (31 classes)/test/Pigmented Benign Keratosis/ISIC_0025374.jpg,21
+data/Atlas dan ISIC2019 (31 classes)/test/Pigmented Benign Keratosis/ISIC_0025434.jpg,21
+data/Atlas dan ISIC2019 (31 classes)/test/Pigmented Benign Keratosis/ISIC_0025515.jpg,21
+data/Atlas dan ISIC2019 (31 classes)/test/Pigmented Benign Keratosis/ISIC_0025627.jpg,21
+data/Atlas dan ISIC2019 (31 classes)/test/Pigmented Benign Keratosis/ISIC_0025743.jpg,21
+data/Atlas dan ISIC2019 (31 classes)/test/Pigmented Benign Keratosis/ISIC_0025753.jpg,21
+data/Atlas dan ISIC2019 (31 classes)/test/Pigmented Benign Keratosis/ISIC_0025758.jpg,21
+data/Atlas dan ISIC2019 (31 classes)/test/Pigmented Benign Keratosis/ISIC_0025837.jpg,21
+data/Atlas dan ISIC2019 (31 classes)/test/Pigmented Benign Keratosis/ISIC_0025879.jpg,21
+data/Atlas dan ISIC2019 (31 classes)/test/Pigmented Benign Keratosis/ISIC_0025885.jpg,21
+data/Atlas dan ISIC2019 (31 classes)/test/Pigmented Benign Keratosis/ISIC_0025937.jpg,21
+data/Atlas dan ISIC2019 (31 classes)/test/Pigmented Benign Keratosis/ISIC_0025973.jpg,21
+data/Atlas dan ISIC2019 (31 classes)/test/Pigmented Benign Keratosis/ISIC_0025982.jpg,21
+data/Atlas dan ISIC2019 (31 classes)/test/Pigmented Benign Keratosis/ISIC_0026046.jpg,21
+data/Atlas dan ISIC2019 (31 classes)/test/Pigmented Benign Keratosis/ISIC_0026072.jpg,21
+data/Atlas dan ISIC2019 (31 classes)/test/Pigmented Benign Keratosis/ISIC_0026135.jpg,21
+data/Atlas dan ISIC2019 (31 classes)/test/Pigmented Benign Keratosis/ISIC_0026142.jpg,21
+data/Atlas dan ISIC2019 (31 classes)/test/Pigmented Benign Keratosis/ISIC_0026159.jpg,21
+data/Atlas dan ISIC2019 (31 classes)/test/Pigmented Benign Keratosis/ISIC_0026265.jpg,21
+data/Atlas dan ISIC2019 (31 classes)/test/Pigmented Benign Keratosis/ISIC_0026280.jpg,21
+data/Atlas dan ISIC2019 (31 classes)/test/Pigmented Benign Keratosis/ISIC_0026365.jpg,21
+data/Atlas dan ISIC2019 (31 classes)/test/Pigmented Benign Keratosis/ISIC_0026416.jpg,21
+data/Atlas dan ISIC2019 (31 classes)/test/Pigmented Benign Keratosis/ISIC_0026422.jpg,21
+data/Atlas dan ISIC2019 (31 classes)/test/Pigmented Benign Keratosis/ISIC_0026607.jpg,21
+data/Atlas dan ISIC2019 (31 classes)/test/Pigmented Benign Keratosis/ISIC_0026704.jpg,21
+data/Atlas dan ISIC2019 (31 classes)/test/Pigmented Benign Keratosis/ISIC_0026737.jpg,21
+data/Atlas dan ISIC2019 (31 classes)/test/Pigmented Benign Keratosis/ISIC_0026794.jpg,21
+data/Atlas dan ISIC2019 (31 classes)/test/Pigmented Benign Keratosis/ISIC_0026803.jpg,21
+data/Atlas dan ISIC2019 (31 classes)/test/Pigmented Benign Keratosis/ISIC_0026842.jpg,21
+data/Atlas dan ISIC2019 (31 classes)/test/Pigmented Benign Keratosis/ISIC_0026871.jpg,21
+data/Atlas dan ISIC2019 (31 classes)/test/Pigmented Benign Keratosis/ISIC_0026893.jpg,21
+data/Atlas dan ISIC2019 (31 classes)/test/Pigmented Benign Keratosis/ISIC_0026912.jpg,21
+data/Atlas dan ISIC2019 (31 classes)/test/Pigmented Benign Keratosis/ISIC_0026955.jpg,21
+data/Atlas dan ISIC2019 (31 classes)/test/Pigmented Benign Keratosis/ISIC_0027006.jpg,21
+data/Atlas dan ISIC2019 (31 classes)/test/Pigmented Benign Keratosis/ISIC_0027025.jpg,21
+data/Atlas dan ISIC2019 (31 classes)/test/Pigmented Benign Keratosis/ISIC_0027026.jpg,21
+data/Atlas dan ISIC2019 (31 classes)/test/Pigmented Benign Keratosis/ISIC_0027041.jpg,21
+data/Atlas dan ISIC2019 (31 classes)/test/Pigmented Benign Keratosis/ISIC_0027068.jpg,21
+data/Atlas dan ISIC2019 (31 classes)/test/Pigmented Benign Keratosis/ISIC_0027083.jpg,21
+data/Atlas dan ISIC2019 (31 classes)/test/Pigmented Benign Keratosis/ISIC_0027192.jpg,21
+data/Atlas dan ISIC2019 (31 classes)/test/Pigmented Benign Keratosis/ISIC_0027194.jpg,21
+data/Atlas dan ISIC2019 (31 classes)/test/Pigmented Benign Keratosis/ISIC_0027239.jpg,21
+data/Atlas dan ISIC2019 (31 classes)/test/Pigmented Benign Keratosis/ISIC_0027287.jpg,21
+data/Atlas dan ISIC2019 (31 classes)/test/Pigmented Benign Keratosis/ISIC_0027310.jpg,21
+data/Atlas dan ISIC2019 (31 classes)/test/Pigmented Benign Keratosis/ISIC_0027332.jpg,21
+data/Atlas dan ISIC2019 (31 classes)/test/Pigmented Benign Keratosis/ISIC_0027354.jpg,21
+data/Atlas dan ISIC2019 (31 classes)/test/Pigmented Benign Keratosis/ISIC_0027370.jpg,21
+data/Atlas dan ISIC2019 (31 classes)/test/Pigmented Benign Keratosis/ISIC_0027388.jpg,21
+data/Atlas dan ISIC2019 (31 classes)/test/Pigmented Benign Keratosis/ISIC_0027437.jpg,21
+data/Atlas dan ISIC2019 (31 classes)/test/Pigmented Benign Keratosis/ISIC_0027455.jpg,21
+data/Atlas dan ISIC2019 (31 classes)/test/Pigmented Benign Keratosis/ISIC_0027463.jpg,21
+data/Atlas dan ISIC2019 (31 classes)/test/Pigmented Benign Keratosis/ISIC_0027533.jpg,21
+data/Atlas dan ISIC2019 (31 classes)/test/Pigmented Benign Keratosis/ISIC_0027680.jpg,21
+data/Atlas dan ISIC2019 (31 classes)/test/Pigmented Benign Keratosis/ISIC_0027710.jpg,21
+data/Atlas dan ISIC2019 (31 classes)/test/Pigmented Benign Keratosis/ISIC_0027737.jpg,21
+data/Atlas dan ISIC2019 (31 classes)/test/Pigmented Benign Keratosis/ISIC_0027771.jpg,21
+data/Atlas dan ISIC2019 (31 classes)/test/Pigmented Benign Keratosis/ISIC_0027811.jpg,21
+data/Atlas dan ISIC2019 (31 classes)/test/Pigmented Benign Keratosis/ISIC_0027875.jpg,21
+data/Atlas dan ISIC2019 (31 classes)/test/Pigmented Benign Keratosis/ISIC_0027954.jpg,21
+data/Atlas dan ISIC2019 (31 classes)/test/Pigmented Benign Keratosis/ISIC_0027957.jpg,21
+data/Atlas dan ISIC2019 (31 classes)/test/Pigmented Benign Keratosis/ISIC_0027967.jpg,21
+data/Atlas dan ISIC2019 (31 classes)/test/Pigmented Benign Keratosis/ISIC_0027982.jpg,21
+data/Atlas dan ISIC2019 (31 classes)/test/Pigmented Benign Keratosis/ISIC_0027990.jpg,21
+data/Atlas dan ISIC2019 (31 classes)/test/Pigmented Benign Keratosis/ISIC_0027991.jpg,21
+data/Atlas dan ISIC2019 (31 classes)/test/Pigmented Benign Keratosis/ISIC_0027996.jpg,21
+data/Atlas dan ISIC2019 (31 classes)/test/Pigmented Benign Keratosis/ISIC_0028121.jpg,21
+data/Atlas dan ISIC2019 (31 classes)/test/Pigmented Benign Keratosis/ISIC_0028124.jpg,21
+data/Atlas dan ISIC2019 (31 classes)/test/Pigmented Benign Keratosis/ISIC_0028201.jpg,21
+data/Atlas dan ISIC2019 (31 classes)/test/Pigmented Benign Keratosis/ISIC_0028209.jpg,21
+data/Atlas dan ISIC2019 (31 classes)/test/Pigmented Benign Keratosis/ISIC_0028347.jpg,21
+data/Atlas dan ISIC2019 (31 classes)/test/Pigmented Benign Keratosis/ISIC_0028354.jpg,21
+data/Atlas dan ISIC2019 (31 classes)/test/Pigmented Benign Keratosis/ISIC_0028414.jpg,21
+data/Atlas dan ISIC2019 (31 classes)/test/Pigmented Benign Keratosis/ISIC_0028525.jpg,21
+data/Atlas dan ISIC2019 (31 classes)/test/Pigmented Benign Keratosis/ISIC_0028560.jpg,21
+data/Atlas dan ISIC2019 (31 classes)/test/Pigmented Benign Keratosis/ISIC_0028593.jpg,21
+data/Atlas dan ISIC2019 (31 classes)/test/Pigmented Benign Keratosis/ISIC_0028611.jpg,21
+data/Atlas dan ISIC2019 (31 classes)/test/Pigmented Benign Keratosis/ISIC_0028628.jpg,21
+data/Atlas dan ISIC2019 (31 classes)/test/Pigmented Benign Keratosis/ISIC_0028640.jpg,21
+data/Atlas dan ISIC2019 (31 classes)/test/Pigmented Benign Keratosis/ISIC_0028662.jpg,21
+data/Atlas dan ISIC2019 (31 classes)/test/Pityriasis Rosea/5554.jpg,22
+data/Atlas dan ISIC2019 (31 classes)/test/Pityriasis Rosea/5559.jpg,22
+data/Atlas dan ISIC2019 (31 classes)/test/Pityriasis Rosea/5572.jpg,22
+data/Atlas dan ISIC2019 (31 classes)/test/Pityriasis Rosea/5585.jpg,22
+data/Atlas dan ISIC2019 (31 classes)/test/Pityriasis Rosea/5588.jpg,22
+data/Atlas dan ISIC2019 (31 classes)/test/Pityriasis Rosea/5592.jpg,22
+data/Atlas dan ISIC2019 (31 classes)/test/Pityriasis Rosea/5595.jpg,22
+data/Atlas dan ISIC2019 (31 classes)/test/Pityriasis Rosea/5596.jpg,22
+data/Atlas dan ISIC2019 (31 classes)/test/Pityriasis Rosea/5597.jpg,22
+data/Atlas dan ISIC2019 (31 classes)/test/Pityriasis Rosea/5600.jpg,22
+data/Atlas dan ISIC2019 (31 classes)/test/Pityriasis Rosea/5610.jpg,22
+data/Atlas dan ISIC2019 (31 classes)/test/Pityriasis Rosea/5627.jpg,22
+data/Atlas dan ISIC2019 (31 classes)/test/Pityriasis Rosea/5630.jpg,22
+data/Atlas dan ISIC2019 (31 classes)/test/Pityriasis Rosea/img_103.jpg,22
+data/Atlas dan ISIC2019 (31 classes)/test/Pityriasis Rosea/img_107.jpg,22
+data/Atlas dan ISIC2019 (31 classes)/test/Pityriasis Rosea/img_111.jpg,22
+data/Atlas dan ISIC2019 (31 classes)/test/Pityriasis Rosea/img_113.jpg,22
+data/Atlas dan ISIC2019 (31 classes)/test/Pityriasis Rosea/img_115.jpg,22
+data/Atlas dan ISIC2019 (31 classes)/test/Pityriasis Rosea/img_119.jpg,22
+data/Atlas dan ISIC2019 (31 classes)/test/Pityriasis Rosea/img_124.jpg,22
+data/Atlas dan ISIC2019 (31 classes)/test/Pityriasis Rosea/img_87.jpg,22
+data/Atlas dan ISIC2019 (31 classes)/test/Pityriasis Rosea/img_88.jpg,22
+data/Atlas dan ISIC2019 (31 classes)/test/Pityriasis Rosea/img_91.jpg,22
+data/Atlas dan ISIC2019 (31 classes)/test/Pityriasis Rosea/img_93.jpg,22
+data/Atlas dan ISIC2019 (31 classes)/test/Pityriasis Rosea/img_96.jpg,22
+data/Atlas dan ISIC2019 (31 classes)/test/Pityriasis Rosea/img_98.jpg,22
+data/Atlas dan ISIC2019 (31 classes)/test/Porokeratosis Actinic/5915.jpg,23
+data/Atlas dan ISIC2019 (31 classes)/test/Porokeratosis Actinic/5923.jpg,23
+data/Atlas dan ISIC2019 (31 classes)/test/Porokeratosis Actinic/5928.jpg,23
+data/Atlas dan ISIC2019 (31 classes)/test/Porokeratosis Actinic/5941.jpg,23
+data/Atlas dan ISIC2019 (31 classes)/test/Porokeratosis Actinic/5944.jpg,23
+data/Atlas dan ISIC2019 (31 classes)/test/Porokeratosis Actinic/5948.jpg,23
+data/Atlas dan ISIC2019 (31 classes)/test/Porokeratosis Actinic/5951.jpg,23
+data/Atlas dan ISIC2019 (31 classes)/test/Porokeratosis Actinic/5952.jpg,23
+data/Atlas dan ISIC2019 (31 classes)/test/Porokeratosis Actinic/5956.jpg,23
+data/Atlas dan ISIC2019 (31 classes)/test/Porokeratosis Actinic/5970.jpg,23
+data/Atlas dan ISIC2019 (31 classes)/test/Porokeratosis Actinic/5975.jpg,23
+data/Atlas dan ISIC2019 (31 classes)/test/Porokeratosis Actinic/5977.jpg,23
+data/Atlas dan ISIC2019 (31 classes)/test/Porokeratosis Actinic/img_104.jpg,23
+data/Atlas dan ISIC2019 (31 classes)/test/Porokeratosis Actinic/img_106.jpg,23
+data/Atlas dan ISIC2019 (31 classes)/test/Porokeratosis Actinic/img_109.jpg,23
+data/Atlas dan ISIC2019 (31 classes)/test/Porokeratosis Actinic/img_114.jpg,23
+data/Atlas dan ISIC2019 (31 classes)/test/Porokeratosis Actinic/img_115.jpg,23
+data/Atlas dan ISIC2019 (31 classes)/test/Porokeratosis Actinic/img_118.jpg,23
+data/Atlas dan ISIC2019 (31 classes)/test/Porokeratosis Actinic/img_122.jpg,23
+data/Atlas dan ISIC2019 (31 classes)/test/Porokeratosis Actinic/img_124.jpg,23
+data/Atlas dan ISIC2019 (31 classes)/test/Porokeratosis Actinic/img_126.jpg,23
+data/Atlas dan ISIC2019 (31 classes)/test/Porokeratosis Actinic/img_78.jpg,23
+data/Atlas dan ISIC2019 (31 classes)/test/Porokeratosis Actinic/img_84.jpg,23
+data/Atlas dan ISIC2019 (31 classes)/test/Porokeratosis Actinic/img_86.jpg,23
+data/Atlas dan ISIC2019 (31 classes)/test/Porokeratosis Actinic/img_91.jpg,23
+data/Atlas dan ISIC2019 (31 classes)/test/Porokeratosis Actinic/img_95.jpg,23
+data/Atlas dan ISIC2019 (31 classes)/test/Psoriasis/11800.jpg,24
+data/Atlas dan ISIC2019 (31 classes)/test/Psoriasis/11805.jpg,24
+data/Atlas dan ISIC2019 (31 classes)/test/Psoriasis/11818.jpg,24
+data/Atlas dan ISIC2019 (31 classes)/test/Psoriasis/11854.jpg,24
+data/Atlas dan ISIC2019 (31 classes)/test/Psoriasis/11857.jpg,24
+data/Atlas dan ISIC2019 (31 classes)/test/Psoriasis/11860.jpg,24
+data/Atlas dan ISIC2019 (31 classes)/test/Psoriasis/11862.jpg,24
+data/Atlas dan ISIC2019 (31 classes)/test/Psoriasis/6237.jpg,24
+data/Atlas dan ISIC2019 (31 classes)/test/Psoriasis/6238.jpg,24
+data/Atlas dan ISIC2019 (31 classes)/test/Psoriasis/6241.jpg,24
+data/Atlas dan ISIC2019 (31 classes)/test/Psoriasis/6251.jpg,24
+data/Atlas dan ISIC2019 (31 classes)/test/Psoriasis/6268.jpg,24
+data/Atlas dan ISIC2019 (31 classes)/test/Psoriasis/6271.jpg,24
+data/Atlas dan ISIC2019 (31 classes)/test/Psoriasis/6272.jpg,24
+data/Atlas dan ISIC2019 (31 classes)/test/Psoriasis/6276.jpg,24
+data/Atlas dan ISIC2019 (31 classes)/test/Psoriasis/6279.jpg,24
+data/Atlas dan ISIC2019 (31 classes)/test/Psoriasis/6280.jpg,24
+data/Atlas dan ISIC2019 (31 classes)/test/Psoriasis/6284.jpg,24
+data/Atlas dan ISIC2019 (31 classes)/test/Psoriasis/6285.jpg,24
+data/Atlas dan ISIC2019 (31 classes)/test/Psoriasis/6292.jpg,24
+data/Atlas dan ISIC2019 (31 classes)/test/Psoriasis/6293.jpg,24
+data/Atlas dan ISIC2019 (31 classes)/test/Psoriasis/6297.jpg,24
+data/Atlas dan ISIC2019 (31 classes)/test/Psoriasis/6299.jpg,24
+data/Atlas dan ISIC2019 (31 classes)/test/Psoriasis/6303.jpg,24
+data/Atlas dan ISIC2019 (31 classes)/test/Psoriasis/6304.jpg,24
+data/Atlas dan ISIC2019 (31 classes)/test/Psoriasis/6310.jpg,24
+data/Atlas dan ISIC2019 (31 classes)/test/Psoriasis/6316.jpg,24
+data/Atlas dan ISIC2019 (31 classes)/test/Seborrheic keratosis/ISIC_0010878.jpg,25
+data/Atlas dan ISIC2019 (31 classes)/test/Seborrheic keratosis/ISIC_0010923.jpg,25
+data/Atlas dan ISIC2019 (31 classes)/test/Seborrheic keratosis/ISIC_0010965.jpg,25
+data/Atlas dan ISIC2019 (31 classes)/test/Seborrheic keratosis/ISIC_0011031.jpg,25
+data/Atlas dan ISIC2019 (31 classes)/test/Seborrheic keratosis/ISIC_0011040.jpg,25
+data/Atlas dan ISIC2019 (31 classes)/test/Seborrheic keratosis/ISIC_0011052.jpg,25
+data/Atlas dan ISIC2019 (31 classes)/test/Seborrheic keratosis/ISIC_0011077.jpg,25
+data/Atlas dan ISIC2019 (31 classes)/test/Seborrheic keratosis/ISIC_0011094.jpg,25
+data/Atlas dan ISIC2019 (31 classes)/test/Seborrheic keratosis/ISIC_0011095.jpg,25
+data/Atlas dan ISIC2019 (31 classes)/test/Seborrheic keratosis/ISIC_0011118.jpg,25
+data/Atlas dan ISIC2019 (31 classes)/test/Seborrheic keratosis/ISIC_0011158.jpg,25
+data/Atlas dan ISIC2019 (31 classes)/test/Seborrheic keratosis/ISIC_0011166.jpg,25
+data/Atlas dan ISIC2019 (31 classes)/test/Seborrheic keratosis/ISIC_0011174.jpg,25
+data/Atlas dan ISIC2019 (31 classes)/test/Seborrheic keratosis/ISIC_0011176.jpg,25
+data/Atlas dan ISIC2019 (31 classes)/test/Seborrheic keratosis/ISIC_0011185.jpg,25
+data/Atlas dan ISIC2019 (31 classes)/test/Seborrheic keratosis/ISIC_0011193.jpg,25
+data/Atlas dan ISIC2019 (31 classes)/test/Squamous cell carcinoma/ISIC_0012079.jpg,26
+data/Atlas dan ISIC2019 (31 classes)/test/Squamous cell carcinoma/ISIC_0024710.jpg,26
+data/Atlas dan ISIC2019 (31 classes)/test/Squamous cell carcinoma/ISIC_0025196.jpg,26
+data/Atlas dan ISIC2019 (31 classes)/test/Squamous cell carcinoma/ISIC_0025331.jpg,26
+data/Atlas dan ISIC2019 (31 classes)/test/Squamous cell carcinoma/ISIC_0025811.jpg,26
+data/Atlas dan ISIC2019 (31 classes)/test/Squamous cell carcinoma/ISIC_0025831.jpg,26
+data/Atlas dan ISIC2019 (31 classes)/test/Squamous cell carcinoma/ISIC_0026206.jpg,26
+data/Atlas dan ISIC2019 (31 classes)/test/Squamous cell carcinoma/ISIC_0026720.jpg,26
+data/Atlas dan ISIC2019 (31 classes)/test/Squamous cell carcinoma/ISIC_0027550.jpg,26
+data/Atlas dan ISIC2019 (31 classes)/test/Squamous cell carcinoma/ISIC_0027577.jpg,26
+data/Atlas dan ISIC2019 (31 classes)/test/Squamous cell carcinoma/ISIC_0027678.jpg,26
+data/Atlas dan ISIC2019 (31 classes)/test/Squamous cell carcinoma/ISIC_0027767.jpg,26
+data/Atlas dan ISIC2019 (31 classes)/test/Squamous cell carcinoma/ISIC_0028158.jpg,26
+data/Atlas dan ISIC2019 (31 classes)/test/Squamous cell carcinoma/ISIC_0028224.jpg,26
+data/Atlas dan ISIC2019 (31 classes)/test/Squamous cell carcinoma/ISIC_0028232.jpg,26
+data/Atlas dan ISIC2019 (31 classes)/test/Squamous cell carcinoma/ISIC_0028335.jpg,26
+data/Atlas dan ISIC2019 (31 classes)/test/Squamous cell carcinoma/ISIC_0028659.jpg,26
+data/Atlas dan ISIC2019 (31 classes)/test/Squamous cell carcinoma/ISIC_0028763.jpg,26
+data/Atlas dan ISIC2019 (31 classes)/test/Squamous cell carcinoma/ISIC_0028816.jpg,26
+data/Atlas dan ISIC2019 (31 classes)/test/Squamous cell carcinoma/ISIC_0028872.jpg,26
+data/Atlas dan ISIC2019 (31 classes)/test/Squamous cell carcinoma/ISIC_0029268.jpg,26
+data/Atlas dan ISIC2019 (31 classes)/test/Squamous cell carcinoma/ISIC_0029563.jpg,26
+data/Atlas dan ISIC2019 (31 classes)/test/Squamous cell carcinoma/ISIC_0029932.jpg,26
+data/Atlas dan ISIC2019 (31 classes)/test/Squamous cell carcinoma/ISIC_0030297.jpg,26
+data/Atlas dan ISIC2019 (31 classes)/test/Squamous cell carcinoma/ISIC_0030785.jpg,26
+data/Atlas dan ISIC2019 (31 classes)/test/Squamous cell carcinoma/ISIC_0030821.jpg,26
+data/Atlas dan ISIC2019 (31 classes)/test/Squamous cell carcinoma/ISIC_0030953.jpg,26
+data/Atlas dan ISIC2019 (31 classes)/test/Squamous cell carcinoma/ISIC_0030991.jpg,26
+data/Atlas dan ISIC2019 (31 classes)/test/Squamous cell carcinoma/ISIC_0031119.jpg,26
+data/Atlas dan ISIC2019 (31 classes)/test/Squamous cell carcinoma/ISIC_0031191.jpg,26
+data/Atlas dan ISIC2019 (31 classes)/test/Squamous cell carcinoma/ISIC_0031286.jpg,26
+data/Atlas dan ISIC2019 (31 classes)/test/Squamous cell carcinoma/ISIC_0031421.jpg,26
+data/Atlas dan ISIC2019 (31 classes)/test/Squamous cell carcinoma/ISIC_0031672.jpg,26
+data/Atlas dan ISIC2019 (31 classes)/test/Squamous cell carcinoma/ISIC_0031738.jpg,26
+data/Atlas dan ISIC2019 (31 classes)/test/Squamous cell carcinoma/ISIC_0031743.jpg,26
+data/Atlas dan ISIC2019 (31 classes)/test/Squamous cell carcinoma/ISIC_0032014.jpg,26
+data/Atlas dan ISIC2019 (31 classes)/test/Squamous cell carcinoma/ISIC_0032203.jpg,26
+data/Atlas dan ISIC2019 (31 classes)/test/Squamous cell carcinoma/ISIC_0032356.jpg,26
+data/Atlas dan ISIC2019 (31 classes)/test/Squamous cell carcinoma/ISIC_0032371.jpg,26
+data/Atlas dan ISIC2019 (31 classes)/test/Squamous cell carcinoma/ISIC_0033084.jpg,26
+data/Atlas dan ISIC2019 (31 classes)/test/Tinea Corporis/7225.jpg,27
+data/Atlas dan ISIC2019 (31 classes)/test/Tinea Corporis/7233.jpg,27
+data/Atlas dan ISIC2019 (31 classes)/test/Tinea Corporis/7238.jpg,27
+data/Atlas dan ISIC2019 (31 classes)/test/Tinea Corporis/7251.jpg,27
+data/Atlas dan ISIC2019 (31 classes)/test/Tinea Corporis/7254.jpg,27
+data/Atlas dan ISIC2019 (31 classes)/test/Tinea Corporis/7258.jpg,27
+data/Atlas dan ISIC2019 (31 classes)/test/Tinea Corporis/7261.jpg,27
+data/Atlas dan ISIC2019 (31 classes)/test/Tinea Corporis/7262.jpg,27
+data/Atlas dan ISIC2019 (31 classes)/test/Tinea Corporis/7266.jpg,27
+data/Atlas dan ISIC2019 (31 classes)/test/Tinea Corporis/7280.jpg,27
+data/Atlas dan ISIC2019 (31 classes)/test/Tinea Corporis/7285.jpg,27
+data/Atlas dan ISIC2019 (31 classes)/test/Tinea Corporis/7286.jpg,27
+data/Atlas dan ISIC2019 (31 classes)/test/Tinea Corporis/7291.jpg,27
+data/Atlas dan ISIC2019 (31 classes)/test/Tinea Corporis/7293.jpg,27
+data/Atlas dan ISIC2019 (31 classes)/test/Tinea Corporis/7296.jpg,27
+data/Atlas dan ISIC2019 (31 classes)/test/Tinea Corporis/7301.jpg,27
+data/Atlas dan ISIC2019 (31 classes)/test/Tinea Corporis/7302.jpg,27
+data/Atlas dan ISIC2019 (31 classes)/test/Tinea Corporis/7305.jpg,27
+data/Atlas dan ISIC2019 (31 classes)/test/Tinea Corporis/8365.jpg,27
+data/Atlas dan ISIC2019 (31 classes)/test/Tinea Corporis/8366.jpg,27
+data/Atlas dan ISIC2019 (31 classes)/test/Tinea Corporis/8518.jpg,27
+data/Atlas dan ISIC2019 (31 classes)/test/Tinea Corporis/8519.jpg,27
+data/Atlas dan ISIC2019 (31 classes)/test/Tinea Corporis/8793.jpg,27
+data/Atlas dan ISIC2019 (31 classes)/test/Tinea Nigra/10306.jpg,28
+data/Atlas dan ISIC2019 (31 classes)/test/Tinea Nigra/10485.jpg,28
+data/Atlas dan ISIC2019 (31 classes)/test/Tinea Nigra/10810.jpg,28
+data/Atlas dan ISIC2019 (31 classes)/test/Tinea Nigra/7415.jpg,28
+data/Atlas dan ISIC2019 (31 classes)/test/Tinea Nigra/7418.jpg,28
+data/Atlas dan ISIC2019 (31 classes)/test/Tinea Nigra/7422.jpg,28
+data/Atlas dan ISIC2019 (31 classes)/test/Tinea Nigra/7425.jpg,28
+data/Atlas dan ISIC2019 (31 classes)/test/Tinea Nigra/7426.jpg,28
+data/Atlas dan ISIC2019 (31 classes)/test/Tinea Nigra/7430.jpg,28
+data/Atlas dan ISIC2019 (31 classes)/test/Tinea Nigra/7444.jpg,28
+data/Atlas dan ISIC2019 (31 classes)/test/Tinea Nigra/7449.jpg,28
+data/Atlas dan ISIC2019 (31 classes)/test/Tinea Nigra/7450.jpg,28
+data/Atlas dan ISIC2019 (31 classes)/test/Tinea Nigra/7455.jpg,28
+data/Atlas dan ISIC2019 (31 classes)/test/Tinea Nigra/7457.jpg,28
+data/Atlas dan ISIC2019 (31 classes)/test/Tinea Nigra/7460.jpg,28
+data/Atlas dan ISIC2019 (31 classes)/test/Tinea Nigra/7465.jpg,28
+data/Atlas dan ISIC2019 (31 classes)/test/Tinea Nigra/7466.jpg,28
+data/Atlas dan ISIC2019 (31 classes)/test/Tinea Nigra/7469.jpg,28
+data/Atlas dan ISIC2019 (31 classes)/test/Tinea Nigra/9875.jpg,28
+data/Atlas dan ISIC2019 (31 classes)/test/Tinea Nigra/9877.jpg,28
+data/Atlas dan ISIC2019 (31 classes)/test/Tinea Nigra/9879.jpg,28
+data/Atlas dan ISIC2019 (31 classes)/test/Tinea Nigra/9881.jpg,28
+data/Atlas dan ISIC2019 (31 classes)/test/Tinea Nigra/img_106.jpg,28
+data/Atlas dan ISIC2019 (31 classes)/test/Tinea Nigra/img_115.jpg,28
+data/Atlas dan ISIC2019 (31 classes)/test/Tungiasis/7644.jpg,29
+data/Atlas dan ISIC2019 (31 classes)/test/Tungiasis/7649.jpg,29
+data/Atlas dan ISIC2019 (31 classes)/test/Tungiasis/7662.jpg,29
+data/Atlas dan ISIC2019 (31 classes)/test/Tungiasis/7678.jpg,29
+data/Atlas dan ISIC2019 (31 classes)/test/Tungiasis/7680.jpg,29
+data/Atlas dan ISIC2019 (31 classes)/test/Tungiasis/7682.jpg,29
+data/Atlas dan ISIC2019 (31 classes)/test/Tungiasis/7686.jpg,29
+data/Atlas dan ISIC2019 (31 classes)/test/Tungiasis/7687.jpg,29
+data/Atlas dan ISIC2019 (31 classes)/test/Tungiasis/7690.jpg,29
+data/Atlas dan ISIC2019 (31 classes)/test/Tungiasis/7700.jpg,29
+data/Atlas dan ISIC2019 (31 classes)/test/Tungiasis/7714.jpg,29
+data/Atlas dan ISIC2019 (31 classes)/test/Tungiasis/img_101.jpg,29
+data/Atlas dan ISIC2019 (31 classes)/test/Tungiasis/img_104.jpg,29
+data/Atlas dan ISIC2019 (31 classes)/test/Tungiasis/img_105.jpg,29
+data/Atlas dan ISIC2019 (31 classes)/test/Tungiasis/img_109.jpg,29
+data/Atlas dan ISIC2019 (31 classes)/test/Tungiasis/img_112.jpg,29
+data/Atlas dan ISIC2019 (31 classes)/test/Tungiasis/img_113.jpg,29
+data/Atlas dan ISIC2019 (31 classes)/test/Tungiasis/img_117.jpg,29
+data/Atlas dan ISIC2019 (31 classes)/test/Tungiasis/img_118.jpg,29
+data/Atlas dan ISIC2019 (31 classes)/test/Tungiasis/img_122.jpg,29
+data/Atlas dan ISIC2019 (31 classes)/test/Tungiasis/img_125.jpg,29
+data/Atlas dan ISIC2019 (31 classes)/test/Tungiasis/img_128.jpg,29
+data/Atlas dan ISIC2019 (31 classes)/test/Tungiasis/img_130.jpg,29
+data/Atlas dan ISIC2019 (31 classes)/test/Tungiasis/img_81.jpg,29
+data/Atlas dan ISIC2019 (31 classes)/test/Tungiasis/img_83.jpg,29
+data/Atlas dan ISIC2019 (31 classes)/test/Tungiasis/img_92.jpg,29
+data/Atlas dan ISIC2019 (31 classes)/test/Tungiasis/img_97.jpg,29
+data/Atlas dan ISIC2019 (31 classes)/test/Vascular lesion/ISIC_0024402.jpg,30
+data/Atlas dan ISIC2019 (31 classes)/test/Vascular lesion/ISIC_0025425.jpg,30
+data/Atlas dan ISIC2019 (31 classes)/test/Vascular lesion/ISIC_0025452.jpg,30
+data/Atlas dan ISIC2019 (31 classes)/test/Vascular lesion/ISIC_0025873.jpg,30
+data/Atlas dan ISIC2019 (31 classes)/test/Vascular lesion/ISIC_0026713.jpg,30
+data/Atlas dan ISIC2019 (31 classes)/test/Vascular lesion/ISIC_0027210.jpg,30
+data/Atlas dan ISIC2019 (31 classes)/test/Vascular lesion/ISIC_0027385.jpg,30
+data/Atlas dan ISIC2019 (31 classes)/test/Vascular lesion/ISIC_0027856.jpg,30
+data/Atlas dan ISIC2019 (31 classes)/test/Vascular lesion/ISIC_0027888.jpg,30
+data/Atlas dan ISIC2019 (31 classes)/test/Vascular lesion/ISIC_0028188.jpg,30
+data/Atlas dan ISIC2019 (31 classes)/test/Vascular lesion/ISIC_0030275.jpg,30
+data/Atlas dan ISIC2019 (31 classes)/test/Vascular lesion/ISIC_0030606.jpg,30
+data/Atlas dan ISIC2019 (31 classes)/test/Vascular lesion/ISIC_0031090.jpg,30
+data/Atlas dan ISIC2019 (31 classes)/test/Vascular lesion/ISIC_0031093.jpg,30
+data/Atlas dan ISIC2019 (31 classes)/test/Vascular lesion/ISIC_0031215.jpg,30
+data/Atlas dan ISIC2019 (31 classes)/test/Vascular lesion/ISIC_0031276.jpg,30
+data/Atlas dan ISIC2019 (31 classes)/test/Vascular lesion/ISIC_0031346.jpg,30
+data/Atlas dan ISIC2019 (31 classes)/test/Vascular lesion/ISIC_0031648.jpg,30
+data/Atlas dan ISIC2019 (31 classes)/test/Vascular lesion/ISIC_0031901.jpg,30
+data/Atlas dan ISIC2019 (31 classes)/test/Vascular lesion/ISIC_0031955.jpg,30
+data/Atlas dan ISIC2019 (31 classes)/test/Vascular lesion/ISIC_0032057.jpg,30
+data/Atlas dan ISIC2019 (31 classes)/test/Vascular lesion/ISIC_0032409.jpg,30
+data/Atlas dan ISIC2019 (31 classes)/test/Vascular lesion/ISIC_0032545.jpg,30
+data/Atlas dan ISIC2019 (31 classes)/test/Vascular lesion/ISIC_0032745.jpg,30
+data/Atlas dan ISIC2019 (31 classes)/test/Vascular lesion/ISIC_0033123.jpg,30
+data/Atlas dan ISIC2019 (31 classes)/test/Vascular lesion/ISIC_0033158.jpg,30
+data/Atlas dan ISIC2019 (31 classes)/test/Vascular lesion/ISIC_0033450.jpg,30
+data/Atlas dan ISIC2019 (31 classes)/test/Vascular lesion/ISIC_0033817.jpg,30
+data/Atlas dan ISIC2019 (31 classes)/test/Vascular lesion/ISIC_0034196.jpg,30

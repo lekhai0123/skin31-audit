@@ -1,0 +1,428 @@
+image_id,lesion_id,dx,dx_type,target_class
+ISIC_0024331,HAM_0004662,bcc,histo,Basal Cell Carcinoma
+ISIC_0024332,HAM_0002240,bcc,histo,Basal Cell Carcinoma
+ISIC_0024345,HAM_0006872,bcc,histo,Basal Cell Carcinoma
+ISIC_0024360,HAM_0005530,bcc,histo,Basal Cell Carcinoma
+ISIC_0024403,HAM_0003680,bcc,histo,Basal Cell Carcinoma
+ISIC_0024411,HAM_0001390,bcc,histo,Basal Cell Carcinoma
+ISIC_0024431,HAM_0002134,bcc,histo,Basal Cell Carcinoma
+ISIC_0024432,HAM_0002083,bcc,histo,Basal Cell Carcinoma
+ISIC_0024436,HAM_0005392,bcc,histo,Basal Cell Carcinoma
+ISIC_0024443,HAM_0002269,bcc,histo,Basal Cell Carcinoma
+ISIC_0024448,HAM_0005417,bcc,histo,Basal Cell Carcinoma
+ISIC_0024452,HAM_0005971,bcc,histo,Basal Cell Carcinoma
+ISIC_0024454,HAM_0005180,bcc,histo,Basal Cell Carcinoma
+ISIC_0024457,HAM_0006843,bcc,histo,Basal Cell Carcinoma
+ISIC_0024461,HAM_0002313,bcc,histo,Basal Cell Carcinoma
+ISIC_0024472,HAM_0001654,bcc,histo,Basal Cell Carcinoma
+ISIC_0024504,HAM_0000189,bcc,histo,Basal Cell Carcinoma
+ISIC_0024515,HAM_0003373,bcc,histo,Basal Cell Carcinoma
+ISIC_0024550,HAM_0005721,bcc,histo,Basal Cell Carcinoma
+ISIC_0024564,HAM_0002666,bcc,histo,Basal Cell Carcinoma
+ISIC_0024572,HAM_0005657,bcc,histo,Basal Cell Carcinoma
+ISIC_0024573,HAM_0005804,bcc,histo,Basal Cell Carcinoma
+ISIC_0024582,HAM_0006727,bcc,histo,Basal Cell Carcinoma
+ISIC_0024590,HAM_0004511,bcc,histo,Basal Cell Carcinoma
+ISIC_0024595,HAM_0004027,bcc,histo,Basal Cell Carcinoma
+ISIC_0024632,HAM_0001666,bcc,histo,Basal Cell Carcinoma
+ISIC_0024634,HAM_0005933,bcc,histo,Basal Cell Carcinoma
+ISIC_0024665,HAM_0003866,bcc,histo,Basal Cell Carcinoma
+ISIC_0024666,HAM_0005435,bcc,histo,Basal Cell Carcinoma
+ISIC_0024673,HAM_0003429,bcc,histo,Basal Cell Carcinoma
+ISIC_0024743,HAM_0004495,bcc,histo,Basal Cell Carcinoma
+ISIC_0024787,HAM_0005379,bcc,histo,Basal Cell Carcinoma
+ISIC_0024795,HAM_0004420,bcc,histo,Basal Cell Carcinoma
+ISIC_0024799,HAM_0001573,bcc,histo,Basal Cell Carcinoma
+ISIC_0024829,HAM_0007535,bcc,histo,Basal Cell Carcinoma
+ISIC_0024833,HAM_0005617,bcc,histo,Basal Cell Carcinoma
+ISIC_0024848,HAM_0007474,bcc,histo,Basal Cell Carcinoma
+ISIC_0024885,HAM_0005243,bcc,histo,Basal Cell Carcinoma
+ISIC_0024897,HAM_0003716,bcc,histo,Basal Cell Carcinoma
+ISIC_0024931,HAM_0005488,bcc,histo,Basal Cell Carcinoma
+ISIC_0024949,HAM_0005669,bcc,histo,Basal Cell Carcinoma
+ISIC_0024984,HAM_0005856,bcc,histo,Basal Cell Carcinoma
+ISIC_0025019,HAM_0001415,bcc,histo,Basal Cell Carcinoma
+ISIC_0025031,HAM_0002934,bcc,histo,Basal Cell Carcinoma
+ISIC_0025102,HAM_0007248,bcc,histo,Basal Cell Carcinoma
+ISIC_0025144,HAM_0004831,bcc,histo,Basal Cell Carcinoma
+ISIC_0025260,HAM_0001215,bcc,histo,Basal Cell Carcinoma
+ISIC_0025266,HAM_0004300,bcc,histo,Basal Cell Carcinoma
+ISIC_0025285,HAM_0004084,bcc,histo,Basal Cell Carcinoma
+ISIC_0025299,HAM_0007313,bcc,histo,Basal Cell Carcinoma
+ISIC_0025301,HAM_0000987,bcc,histo,Basal Cell Carcinoma
+ISIC_0025362,HAM_0002959,bcc,histo,Basal Cell Carcinoma
+ISIC_0025383,HAM_0001907,bcc,histo,Basal Cell Carcinoma
+ISIC_0025417,HAM_0002577,bcc,histo,Basal Cell Carcinoma
+ISIC_0025433,HAM_0005410,bcc,histo,Basal Cell Carcinoma
+ISIC_0025467,HAM_0006047,bcc,histo,Basal Cell Carcinoma
+ISIC_0025557,HAM_0001900,bcc,histo,Basal Cell Carcinoma
+ISIC_0025564,HAM_0004161,bcc,histo,Basal Cell Carcinoma
+ISIC_0025576,HAM_0006115,bcc,histo,Basal Cell Carcinoma
+ISIC_0025584,HAM_0000791,bcc,histo,Basal Cell Carcinoma
+ISIC_0025601,HAM_0001528,bcc,histo,Basal Cell Carcinoma
+ISIC_0025617,HAM_0004539,bcc,histo,Basal Cell Carcinoma
+ISIC_0025630,HAM_0002017,bcc,histo,Basal Cell Carcinoma
+ISIC_0025644,HAM_0004536,bcc,histo,Basal Cell Carcinoma
+ISIC_0025650,HAM_0002312,bcc,histo,Basal Cell Carcinoma
+ISIC_0025691,HAM_0000065,bcc,histo,Basal Cell Carcinoma
+ISIC_0025700,HAM_0005058,bcc,histo,Basal Cell Carcinoma
+ISIC_0025711,HAM_0005501,bcc,histo,Basal Cell Carcinoma
+ISIC_0025718,HAM_0001884,bcc,histo,Basal Cell Carcinoma
+ISIC_0025731,HAM_0003981,bcc,histo,Basal Cell Carcinoma
+ISIC_0025793,HAM_0004603,bcc,histo,Basal Cell Carcinoma
+ISIC_0025818,HAM_0004621,bcc,histo,Basal Cell Carcinoma
+ISIC_0025824,HAM_0001331,bcc,histo,Basal Cell Carcinoma
+ISIC_0025826,HAM_0005585,bcc,histo,Basal Cell Carcinoma
+ISIC_0025932,HAM_0007262,bcc,histo,Basal Cell Carcinoma
+ISIC_0025940,HAM_0001503,bcc,histo,Basal Cell Carcinoma
+ISIC_0025971,HAM_0000504,bcc,histo,Basal Cell Carcinoma
+ISIC_0025975,HAM_0005835,bcc,histo,Basal Cell Carcinoma
+ISIC_0026056,HAM_0005304,bcc,histo,Basal Cell Carcinoma
+ISIC_0026074,HAM_0000968,bcc,histo,Basal Cell Carcinoma
+ISIC_0026091,HAM_0006572,bcc,histo,Basal Cell Carcinoma
+ISIC_0026117,HAM_0005984,bcc,histo,Basal Cell Carcinoma
+ISIC_0026118,HAM_0007627,bcc,histo,Basal Cell Carcinoma
+ISIC_0026154,HAM_0006658,bcc,histo,Basal Cell Carcinoma
+ISIC_0026156,HAM_0005068,bcc,histo,Basal Cell Carcinoma
+ISIC_0026192,HAM_0002611,bcc,histo,Basal Cell Carcinoma
+ISIC_0026213,HAM_0000953,bcc,histo,Basal Cell Carcinoma
+ISIC_0026230,HAM_0005382,bcc,histo,Basal Cell Carcinoma
+ISIC_0026282,HAM_0005309,bcc,histo,Basal Cell Carcinoma
+ISIC_0026337,HAM_0000719,bcc,histo,Basal Cell Carcinoma
+ISIC_0026343,HAM_0002346,bcc,histo,Basal Cell Carcinoma
+ISIC_0026350,HAM_0003039,bcc,histo,Basal Cell Carcinoma
+ISIC_0026433,HAM_0003826,bcc,histo,Basal Cell Carcinoma
+ISIC_0026439,HAM_0000009,bcc,histo,Basal Cell Carcinoma
+ISIC_0026453,HAM_0003328,bcc,histo,Basal Cell Carcinoma
+ISIC_0026496,HAM_0005757,bcc,histo,Basal Cell Carcinoma
+ISIC_0026528,HAM_0007550,bcc,histo,Basal Cell Carcinoma
+ISIC_0026574,HAM_0005660,bcc,histo,Basal Cell Carcinoma
+ISIC_0026593,HAM_0004970,bcc,histo,Basal Cell Carcinoma
+ISIC_0026643,HAM_0005469,bcc,histo,Basal Cell Carcinoma
+ISIC_0026687,HAM_0002689,bcc,histo,Basal Cell Carcinoma
+ISIC_0026766,HAM_0005982,bcc,histo,Basal Cell Carcinoma
+ISIC_0026798,HAM_0005536,bcc,histo,Basal Cell Carcinoma
+ISIC_0026829,HAM_0007497,bcc,histo,Basal Cell Carcinoma
+ISIC_0026831,HAM_0006387,bcc,histo,Basal Cell Carcinoma
+ISIC_0026845,HAM_0001283,bcc,histo,Basal Cell Carcinoma
+ISIC_0026855,HAM_0000457,bcc,histo,Basal Cell Carcinoma
+ISIC_0026865,HAM_0005509,bcc,histo,Basal Cell Carcinoma
+ISIC_0026940,HAM_0005973,bcc,histo,Basal Cell Carcinoma
+ISIC_0026952,HAM_0002167,bcc,histo,Basal Cell Carcinoma
+ISIC_0026957,HAM_0001369,bcc,histo,Basal Cell Carcinoma
+ISIC_0026968,HAM_0000612,bcc,histo,Basal Cell Carcinoma
+ISIC_0026970,HAM_0004940,bcc,histo,Basal Cell Carcinoma
+ISIC_0026978,HAM_0004042,bcc,histo,Basal Cell Carcinoma
+ISIC_0026988,HAM_0004937,bcc,histo,Basal Cell Carcinoma
+ISIC_0026995,HAM_0001693,bcc,histo,Basal Cell Carcinoma
+ISIC_0027038,HAM_0005985,bcc,histo,Basal Cell Carcinoma
+ISIC_0027046,HAM_0005371,bcc,histo,Basal Cell Carcinoma
+ISIC_0027057,HAM_0002021,bcc,histo,Basal Cell Carcinoma
+ISIC_0027058,HAM_0005998,bcc,histo,Basal Cell Carcinoma
+ISIC_0027090,HAM_0001018,bcc,histo,Basal Cell Carcinoma
+ISIC_0027117,HAM_0006351,bcc,histo,Basal Cell Carcinoma
+ISIC_0027120,HAM_0003444,bcc,histo,Basal Cell Carcinoma
+ISIC_0027135,HAM_0004388,bcc,histo,Basal Cell Carcinoma
+ISIC_0027146,HAM_0007009,bcc,histo,Basal Cell Carcinoma
+ISIC_0027175,HAM_0000655,bcc,histo,Basal Cell Carcinoma
+ISIC_0027189,HAM_0006708,bcc,histo,Basal Cell Carcinoma
+ISIC_0027281,HAM_0006904,bcc,histo,Basal Cell Carcinoma
+ISIC_0027297,HAM_0003186,bcc,histo,Basal Cell Carcinoma
+ISIC_0027337,HAM_0003778,bcc,histo,Basal Cell Carcinoma
+ISIC_0027371,HAM_0005981,bcc,histo,Basal Cell Carcinoma
+ISIC_0027425,HAM_0007346,bcc,histo,Basal Cell Carcinoma
+ISIC_0027433,HAM_0007002,bcc,histo,Basal Cell Carcinoma
+ISIC_0027478,HAM_0003593,bcc,histo,Basal Cell Carcinoma
+ISIC_0027526,HAM_0006834,bcc,histo,Basal Cell Carcinoma
+ISIC_0027544,HAM_0000998,bcc,histo,Basal Cell Carcinoma
+ISIC_0027545,HAM_0000994,bcc,histo,Basal Cell Carcinoma
+ISIC_0027595,HAM_0006624,bcc,histo,Basal Cell Carcinoma
+ISIC_0027601,HAM_0005842,bcc,histo,Basal Cell Carcinoma
+ISIC_0027629,HAM_0002427,bcc,histo,Basal Cell Carcinoma
+ISIC_0027631,HAM_0004440,bcc,histo,Basal Cell Carcinoma
+ISIC_0027704,HAM_0001440,bcc,histo,Basal Cell Carcinoma
+ISIC_0027759,HAM_0003198,bcc,histo,Basal Cell Carcinoma
+ISIC_0027786,HAM_0002334,bcc,histo,Basal Cell Carcinoma
+ISIC_0027788,HAM_0002812,bcc,histo,Basal Cell Carcinoma
+ISIC_0027814,HAM_0006631,bcc,histo,Basal Cell Carcinoma
+ISIC_0027819,HAM_0004827,bcc,histo,Basal Cell Carcinoma
+ISIC_0027825,HAM_0005268,bcc,histo,Basal Cell Carcinoma
+ISIC_0027846,HAM_0001183,bcc,histo,Basal Cell Carcinoma
+ISIC_0027851,HAM_0001078,bcc,histo,Basal Cell Carcinoma
+ISIC_0027858,HAM_0003094,bcc,histo,Basal Cell Carcinoma
+ISIC_0027865,HAM_0000393,bcc,histo,Basal Cell Carcinoma
+ISIC_0027976,HAM_0004342,bcc,histo,Basal Cell Carcinoma
+ISIC_0027998,HAM_0005947,bcc,histo,Basal Cell Carcinoma
+ISIC_0028050,HAM_0003191,bcc,histo,Basal Cell Carcinoma
+ISIC_0028059,HAM_0004273,bcc,histo,Basal Cell Carcinoma
+ISIC_0028095,HAM_0001926,bcc,histo,Basal Cell Carcinoma
+ISIC_0028106,HAM_0007428,bcc,histo,Basal Cell Carcinoma
+ISIC_0028107,HAM_0003135,bcc,histo,Basal Cell Carcinoma
+ISIC_0028113,HAM_0003846,bcc,histo,Basal Cell Carcinoma
+ISIC_0028147,HAM_0006053,bcc,histo,Basal Cell Carcinoma
+ISIC_0028155,HAM_0000781,bcc,histo,Basal Cell Carcinoma
+ISIC_0028197,HAM_0004711,bcc,histo,Basal Cell Carcinoma
+ISIC_0028238,HAM_0005776,bcc,histo,Basal Cell Carcinoma
+ISIC_0028303,HAM_0005030,bcc,histo,Basal Cell Carcinoma
+ISIC_0028316,HAM_0001296,bcc,histo,Basal Cell Carcinoma
+ISIC_0028329,HAM_0004624,bcc,histo,Basal Cell Carcinoma
+ISIC_0028350,HAM_0003827,bcc,histo,Basal Cell Carcinoma
+ISIC_0028419,HAM_0003941,bcc,histo,Basal Cell Carcinoma
+ISIC_0028457,HAM_0007446,bcc,histo,Basal Cell Carcinoma
+ISIC_0028495,HAM_0000195,bcc,histo,Basal Cell Carcinoma
+ISIC_0028556,HAM_0002421,bcc,histo,Basal Cell Carcinoma
+ISIC_0028568,HAM_0001434,bcc,histo,Basal Cell Carcinoma
+ISIC_0028570,HAM_0002818,bcc,histo,Basal Cell Carcinoma
+ISIC_0028577,HAM_0007139,bcc,histo,Basal Cell Carcinoma
+ISIC_0028583,HAM_0004880,bcc,histo,Basal Cell Carcinoma
+ISIC_0028652,HAM_0001575,bcc,histo,Basal Cell Carcinoma
+ISIC_0028653,HAM_0005837,bcc,histo,Basal Cell Carcinoma
+ISIC_0028671,HAM_0001713,bcc,histo,Basal Cell Carcinoma
+ISIC_0028677,HAM_0001711,bcc,histo,Basal Cell Carcinoma
+ISIC_0028688,HAM_0006844,bcc,histo,Basal Cell Carcinoma
+ISIC_0028693,HAM_0001610,bcc,histo,Basal Cell Carcinoma
+ISIC_0028719,HAM_0004365,bcc,histo,Basal Cell Carcinoma
+ISIC_0028728,HAM_0005026,bcc,histo,Basal Cell Carcinoma
+ISIC_0028814,HAM_0005375,bcc,histo,Basal Cell Carcinoma
+ISIC_0028815,HAM_0004967,bcc,histo,Basal Cell Carcinoma
+ISIC_0028818,HAM_0003694,bcc,histo,Basal Cell Carcinoma
+ISIC_0028871,HAM_0000212,bcc,histo,Basal Cell Carcinoma
+ISIC_0028877,HAM_0003764,bcc,histo,Basal Cell Carcinoma
+ISIC_0028928,HAM_0002998,bcc,histo,Basal Cell Carcinoma
+ISIC_0028937,HAM_0003610,bcc,histo,Basal Cell Carcinoma
+ISIC_0028964,HAM_0000092,bcc,histo,Basal Cell Carcinoma
+ISIC_0028973,HAM_0005665,bcc,histo,Basal Cell Carcinoma
+ISIC_0028980,HAM_0003741,bcc,histo,Basal Cell Carcinoma
+ISIC_0028989,HAM_0004487,bcc,histo,Basal Cell Carcinoma
+ISIC_0028994,HAM_0000687,bcc,histo,Basal Cell Carcinoma
+ISIC_0029020,HAM_0004873,bcc,histo,Basal Cell Carcinoma
+ISIC_0029034,HAM_0005921,bcc,histo,Basal Cell Carcinoma
+ISIC_0029035,HAM_0006386,bcc,histo,Basal Cell Carcinoma
+ISIC_0029123,HAM_0000451,bcc,histo,Basal Cell Carcinoma
+ISIC_0029129,HAM_0004285,bcc,histo,Basal Cell Carcinoma
+ISIC_0029192,HAM_0002397,bcc,histo,Basal Cell Carcinoma
+ISIC_0029220,HAM_0002258,bcc,histo,Basal Cell Carcinoma
+ISIC_0029230,HAM_0007141,bcc,histo,Basal Cell Carcinoma
+ISIC_0029278,HAM_0002224,bcc,histo,Basal Cell Carcinoma
+ISIC_0029323,HAM_0000872,bcc,histo,Basal Cell Carcinoma
+ISIC_0029331,HAM_0002069,bcc,histo,Basal Cell Carcinoma
+ISIC_0029337,HAM_0002506,bcc,histo,Basal Cell Carcinoma
+ISIC_0029352,HAM_0006765,bcc,histo,Basal Cell Carcinoma
+ISIC_0029391,HAM_0006575,bcc,histo,Basal Cell Carcinoma
+ISIC_0029392,HAM_0002983,bcc,histo,Basal Cell Carcinoma
+ISIC_0029412,HAM_0002024,bcc,histo,Basal Cell Carcinoma
+ISIC_0029489,HAM_0006005,bcc,histo,Basal Cell Carcinoma
+ISIC_0029501,HAM_0002018,bcc,histo,Basal Cell Carcinoma
+ISIC_0029545,HAM_0000496,bcc,histo,Basal Cell Carcinoma
+ISIC_0029546,HAM_0005482,bcc,histo,Basal Cell Carcinoma
+ISIC_0029564,HAM_0004515,bcc,histo,Basal Cell Carcinoma
+ISIC_0029602,HAM_0003991,bcc,histo,Basal Cell Carcinoma
+ISIC_0029644,HAM_0005184,bcc,histo,Basal Cell Carcinoma
+ISIC_0029669,HAM_0001616,bcc,histo,Basal Cell Carcinoma
+ISIC_0029680,HAM_0001237,bcc,histo,Basal Cell Carcinoma
+ISIC_0029747,HAM_0006800,bcc,histo,Basal Cell Carcinoma
+ISIC_0029805,HAM_0005575,bcc,histo,Basal Cell Carcinoma
+ISIC_0029847,HAM_0002791,bcc,histo,Basal Cell Carcinoma
+ISIC_0029856,HAM_0001457,bcc,histo,Basal Cell Carcinoma
+ISIC_0029917,HAM_0007364,bcc,histo,Basal Cell Carcinoma
+ISIC_0029974,HAM_0004627,bcc,histo,Basal Cell Carcinoma
+ISIC_0030010,HAM_0006548,bcc,histo,Basal Cell Carcinoma
+ISIC_0030094,HAM_0003101,bcc,histo,Basal Cell Carcinoma
+ISIC_0030096,HAM_0003669,bcc,histo,Basal Cell Carcinoma
+ISIC_0030138,HAM_0006111,bcc,histo,Basal Cell Carcinoma
+ISIC_0030145,HAM_0001326,bcc,histo,Basal Cell Carcinoma
+ISIC_0030177,HAM_0000463,bcc,histo,Basal Cell Carcinoma
+ISIC_0030230,HAM_0007588,bcc,histo,Basal Cell Carcinoma
+ISIC_0030233,HAM_0003112,bcc,histo,Basal Cell Carcinoma
+ISIC_0030261,HAM_0004871,bcc,histo,Basal Cell Carcinoma
+ISIC_0030339,HAM_0000915,bcc,histo,Basal Cell Carcinoma
+ISIC_0030352,HAM_0001129,bcc,histo,Basal Cell Carcinoma
+ISIC_0030446,HAM_0003805,bcc,histo,Basal Cell Carcinoma
+ISIC_0030452,HAM_0004235,bcc,histo,Basal Cell Carcinoma
+ISIC_0030511,HAM_0005599,bcc,histo,Basal Cell Carcinoma
+ISIC_0030528,HAM_0000512,bcc,histo,Basal Cell Carcinoma
+ISIC_0030594,HAM_0002736,bcc,histo,Basal Cell Carcinoma
+ISIC_0030644,HAM_0003853,bcc,histo,Basal Cell Carcinoma
+ISIC_0030659,HAM_0001618,bcc,histo,Basal Cell Carcinoma
+ISIC_0030690,HAM_0004514,bcc,histo,Basal Cell Carcinoma
+ISIC_0030737,HAM_0003119,bcc,histo,Basal Cell Carcinoma
+ISIC_0030767,HAM_0004685,bcc,histo,Basal Cell Carcinoma
+ISIC_0030813,HAM_0006465,bcc,histo,Basal Cell Carcinoma
+ISIC_0030893,HAM_0002467,bcc,histo,Basal Cell Carcinoma
+ISIC_0030915,HAM_0003043,bcc,histo,Basal Cell Carcinoma
+ISIC_0030954,HAM_0003115,bcc,histo,Basal Cell Carcinoma
+ISIC_0030964,HAM_0007557,bcc,histo,Basal Cell Carcinoma
+ISIC_0031007,HAM_0000153,bcc,histo,Basal Cell Carcinoma
+ISIC_0031026,HAM_0001640,bcc,histo,Basal Cell Carcinoma
+ISIC_0031041,HAM_0002733,bcc,histo,Basal Cell Carcinoma
+ISIC_0031056,HAM_0007507,bcc,histo,Basal Cell Carcinoma
+ISIC_0031095,HAM_0005798,bcc,histo,Basal Cell Carcinoma
+ISIC_0031122,HAM_0003389,bcc,histo,Basal Cell Carcinoma
+ISIC_0031140,HAM_0003229,bcc,histo,Basal Cell Carcinoma
+ISIC_0031225,HAM_0000352,bcc,histo,Basal Cell Carcinoma
+ISIC_0031236,HAM_0002744,bcc,histo,Basal Cell Carcinoma
+ISIC_0031243,HAM_0003738,bcc,histo,Basal Cell Carcinoma
+ISIC_0031245,HAM_0005901,bcc,histo,Basal Cell Carcinoma
+ISIC_0031263,HAM_0007289,bcc,histo,Basal Cell Carcinoma
+ISIC_0031266,HAM_0006609,bcc,histo,Basal Cell Carcinoma
+ISIC_0031272,HAM_0006384,bcc,histo,Basal Cell Carcinoma
+ISIC_0031284,HAM_0002717,bcc,histo,Basal Cell Carcinoma
+ISIC_0031298,HAM_0005334,bcc,histo,Basal Cell Carcinoma
+ISIC_0031318,HAM_0001424,bcc,histo,Basal Cell Carcinoma
+ISIC_0031351,HAM_0006274,bcc,histo,Basal Cell Carcinoma
+ISIC_0031413,HAM_0004521,bcc,histo,Basal Cell Carcinoma
+ISIC_0031539,HAM_0005302,bcc,histo,Basal Cell Carcinoma
+ISIC_0031552,HAM_0006588,bcc,histo,Basal Cell Carcinoma
+ISIC_0031585,HAM_0004219,bcc,histo,Basal Cell Carcinoma
+ISIC_0031614,HAM_0006049,bcc,histo,Basal Cell Carcinoma
+ISIC_0031640,HAM_0001239,bcc,histo,Basal Cell Carcinoma
+ISIC_0031643,HAM_0003851,bcc,histo,Basal Cell Carcinoma
+ISIC_0031697,HAM_0003177,bcc,histo,Basal Cell Carcinoma
+ISIC_0031698,HAM_0000082,bcc,histo,Basal Cell Carcinoma
+ISIC_0031712,HAM_0004147,bcc,histo,Basal Cell Carcinoma
+ISIC_0031721,HAM_0006564,bcc,histo,Basal Cell Carcinoma
+ISIC_0031836,HAM_0003600,bcc,histo,Basal Cell Carcinoma
+ISIC_0031925,HAM_0001707,bcc,histo,Basal Cell Carcinoma
+ISIC_0031976,HAM_0006851,bcc,histo,Basal Cell Carcinoma
+ISIC_0031986,HAM_0000658,bcc,histo,Basal Cell Carcinoma
+ISIC_0032146,HAM_0004435,bcc,histo,Basal Cell Carcinoma
+ISIC_0032164,HAM_0000807,bcc,histo,Basal Cell Carcinoma
+ISIC_0032174,HAM_0005559,bcc,histo,Basal Cell Carcinoma
+ISIC_0032194,HAM_0003596,bcc,histo,Basal Cell Carcinoma
+ISIC_0032225,HAM_0001388,bcc,histo,Basal Cell Carcinoma
+ISIC_0032290,HAM_0004480,bcc,histo,Basal Cell Carcinoma
+ISIC_0032307,HAM_0001301,bcc,histo,Basal Cell Carcinoma
+ISIC_0032314,HAM_0007611,bcc,histo,Basal Cell Carcinoma
+ISIC_0032316,HAM_0000868,bcc,histo,Basal Cell Carcinoma
+ISIC_0032318,HAM_0006444,bcc,histo,Basal Cell Carcinoma
+ISIC_0032439,HAM_0005547,bcc,histo,Basal Cell Carcinoma
+ISIC_0032497,HAM_0001759,bcc,histo,Basal Cell Carcinoma
+ISIC_0032536,HAM_0007471,bcc,histo,Basal Cell Carcinoma
+ISIC_0032611,HAM_0003072,bcc,histo,Basal Cell Carcinoma
+ISIC_0032652,HAM_0004083,bcc,histo,Basal Cell Carcinoma
+ISIC_0032660,HAM_0002565,bcc,histo,Basal Cell Carcinoma
+ISIC_0032696,HAM_0000993,bcc,histo,Basal Cell Carcinoma
+ISIC_0032727,HAM_0004848,bcc,histo,Basal Cell Carcinoma
+ISIC_0032741,HAM_0005478,bcc,histo,Basal Cell Carcinoma
+ISIC_0032768,HAM_0001138,bcc,histo,Basal Cell Carcinoma
+ISIC_0032777,HAM_0002243,bcc,histo,Basal Cell Carcinoma
+ISIC_0032799,HAM_0002526,bcc,histo,Basal Cell Carcinoma
+ISIC_0032808,HAM_0007335,bcc,histo,Basal Cell Carcinoma
+ISIC_0032816,HAM_0000879,bcc,histo,Basal Cell Carcinoma
+ISIC_0032834,HAM_0005396,bcc,histo,Basal Cell Carcinoma
+ISIC_0032857,HAM_0003887,bcc,histo,Basal Cell Carcinoma
+ISIC_0032894,HAM_0000823,bcc,histo,Basal Cell Carcinoma
+ISIC_0032959,HAM_0003427,bcc,histo,Basal Cell Carcinoma
+ISIC_0032991,HAM_0004849,bcc,histo,Basal Cell Carcinoma
+ISIC_0033001,HAM_0000263,bcc,histo,Basal Cell Carcinoma
+ISIC_0033012,HAM_0000795,bcc,histo,Basal Cell Carcinoma
+ISIC_0033054,HAM_0002664,bcc,histo,Basal Cell Carcinoma
+ISIC_0033146,HAM_0003690,bcc,histo,Basal Cell Carcinoma
+ISIC_0033257,HAM_0003046,bcc,histo,Basal Cell Carcinoma
+ISIC_0033372,HAM_0001749,bcc,histo,Basal Cell Carcinoma
+ISIC_0033579,HAM_0000394,bcc,histo,Basal Cell Carcinoma
+ISIC_0033747,HAM_0001243,bcc,histo,Basal Cell Carcinoma
+ISIC_0034015,HAM_0003216,bcc,histo,Basal Cell Carcinoma
+ISIC_0034026,HAM_0006586,bcc,histo,Basal Cell Carcinoma
+ISIC_0034047,HAM_0002559,bcc,histo,Basal Cell Carcinoma
+ISIC_0034093,HAM_0003220,bcc,histo,Basal Cell Carcinoma
+ISIC_0024546,HAM_0000952,mel,histo,Melanoma
+ISIC_0024644,HAM_0004171,mel,histo,Melanoma
+ISIC_0024688,HAM_0001444,mel,histo,Melanoma
+ISIC_0024732,HAM_0002509,mel,histo,Melanoma
+ISIC_0024967,HAM_0006975,mel,histo,Melanoma
+ISIC_0024972,HAM_0001284,mel,histo,Melanoma
+ISIC_0025035,HAM_0007073,mel,histo,Melanoma
+ISIC_0025155,HAM_0006521,mel,histo,Melanoma
+ISIC_0025235,HAM_0000534,mel,histo,Melanoma
+ISIC_0025277,HAM_0002720,mel,histo,Melanoma
+ISIC_0025414,HAM_0002576,mel,histo,Melanoma
+ISIC_0025531,HAM_0004767,mel,histo,Melanoma
+ISIC_0025616,HAM_0007031,mel,histo,Melanoma
+ISIC_0025651,HAM_0000075,mel,histo,Melanoma
+ISIC_0025709,HAM_0003102,mel,histo,Melanoma
+ISIC_0025751,HAM_0000814,mel,histo,Melanoma
+ISIC_0025835,HAM_0001456,mel,histo,Melanoma
+ISIC_0025941,HAM_0003171,mel,histo,Melanoma
+ISIC_0025955,HAM_0005481,mel,histo,Melanoma
+ISIC_0025996,HAM_0003990,mel,histo,Melanoma
+ISIC_0026113,HAM_0002714,mel,histo,Melanoma
+ISIC_0026150,HAM_0004607,mel,histo,Melanoma
+ISIC_0026158,HAM_0003448,mel,histo,Melanoma
+ISIC_0026314,HAM_0000233,mel,histo,Melanoma
+ISIC_0026622,HAM_0007165,mel,histo,Melanoma
+ISIC_0026690,HAM_0000619,mel,histo,Melanoma
+ISIC_0026868,HAM_0005251,mel,histo,Melanoma
+ISIC_0026930,HAM_0002970,mel,histo,Melanoma
+ISIC_0027030,HAM_0004254,mel,histo,Melanoma
+ISIC_0027043,HAM_0007390,mel,histo,Melanoma
+ISIC_0027060,HAM_0002471,mel,histo,Melanoma
+ISIC_0027063,HAM_0004813,mel,histo,Melanoma
+ISIC_0027069,HAM_0005926,mel,histo,Melanoma
+ISIC_0027130,HAM_0004654,mel,histo,Melanoma
+ISIC_0027179,HAM_0006061,mel,histo,Melanoma
+ISIC_0027190,HAM_0000040,mel,histo,Melanoma
+ISIC_0027238,HAM_0006152,mel,histo,Melanoma
+ISIC_0027277,HAM_0004720,mel,histo,Melanoma
+ISIC_0027302,HAM_0006497,mel,histo,Melanoma
+ISIC_0027352,HAM_0003683,mel,histo,Melanoma
+ISIC_0027480,HAM_0005504,mel,histo,Melanoma
+ISIC_0027487,HAM_0004483,mel,histo,Melanoma
+ISIC_0027507,HAM_0003601,mel,histo,Melanoma
+ISIC_0027904,HAM_0007522,mel,histo,Melanoma
+ISIC_0028029,HAM_0007243,mel,histo,Melanoma
+ISIC_0028033,HAM_0005789,mel,histo,Melanoma
+ISIC_0028306,HAM_0007238,mel,histo,Melanoma
+ISIC_0028463,HAM_0002186,mel,histo,Melanoma
+ISIC_0028584,HAM_0001819,mel,histo,Melanoma
+ISIC_0028666,HAM_0004622,mel,histo,Melanoma
+ISIC_0028746,HAM_0000878,mel,histo,Melanoma
+ISIC_0028860,HAM_0006779,mel,histo,Melanoma
+ISIC_0029013,HAM_0003522,mel,histo,Melanoma
+ISIC_0029209,HAM_0000319,mel,histo,Melanoma
+ISIC_0029606,HAM_0003700,mel,histo,Melanoma
+ISIC_0029839,HAM_0002113,mel,histo,Melanoma
+ISIC_0029909,HAM_0001266,mel,histo,Melanoma
+ISIC_0029914,HAM_0006626,mel,histo,Melanoma
+ISIC_0030060,HAM_0004126,mel,histo,Melanoma
+ISIC_0030080,HAM_0006900,mel,histo,Melanoma
+ISIC_0030183,HAM_0005532,mel,histo,Melanoma
+ISIC_0030246,HAM_0003149,mel,histo,Melanoma
+ISIC_0030417,HAM_0004476,mel,histo,Melanoma
+ISIC_0030575,HAM_0002032,mel,histo,Melanoma
+ISIC_0030695,HAM_0004164,mel,histo,Melanoma
+ISIC_0030929,HAM_0003530,mel,histo,Melanoma
+ISIC_0031077,HAM_0005826,mel,histo,Melanoma
+ISIC_0031784,HAM_0002051,mel,histo,Melanoma
+ISIC_0031977,HAM_0006828,mel,histo,Melanoma
+ISIC_0032187,HAM_0000006,mel,histo,Melanoma
+ISIC_0032517,HAM_0004240,mel,histo,Melanoma
+ISIC_0032522,HAM_0005303,mel,histo,Melanoma
+ISIC_0032544,HAM_0000388,mel,histo,Melanoma
+ISIC_0032586,HAM_0005758,mel,histo,Melanoma
+ISIC_0032603,HAM_0000064,mel,histo,Melanoma
+ISIC_0032604,HAM_0003083,mel,histo,Melanoma
+ISIC_0032622,HAM_0000002,mel,histo,Melanoma
+ISIC_0032624,HAM_0004129,mel,histo,Melanoma
+ISIC_0032653,HAM_0002841,mel,histo,Melanoma
+ISIC_0032672,HAM_0006517,mel,histo,Melanoma
+ISIC_0032687,HAM_0001344,mel,histo,Melanoma
+ISIC_0032698,HAM_0001686,mel,histo,Melanoma
+ISIC_0032709,HAM_0004284,mel,histo,Melanoma
+ISIC_0032726,HAM_0007180,mel,histo,Melanoma
+ISIC_0032766,HAM_0005274,mel,histo,Melanoma
+ISIC_0032833,HAM_0005893,mel,histo,Melanoma
+ISIC_0032875,HAM_0003625,mel,histo,Melanoma
+ISIC_0032888,HAM_0002939,mel,histo,Melanoma
+ISIC_0033017,HAM_0002732,mel,histo,Melanoma
+ISIC_0033034,HAM_0007032,mel,histo,Melanoma
+ISIC_0033217,HAM_0005141,mel,histo,Melanoma
+ISIC_0033267,HAM_0007086,mel,histo,Melanoma
+ISIC_0033269,HAM_0006189,mel,histo,Melanoma
+ISIC_0033324,HAM_0004304,mel,histo,Melanoma
+ISIC_0033431,HAM_0000206,mel,histo,Melanoma
+ISIC_0033518,HAM_0002952,mel,histo,Melanoma
+ISIC_0033533,HAM_0001974,mel,histo,Melanoma
+ISIC_0033678,HAM_0001412,mel,histo,Melanoma
+ISIC_0033814,HAM_0002086,mel,histo,Melanoma
+ISIC_0034050,HAM_0002723,mel,histo,Melanoma

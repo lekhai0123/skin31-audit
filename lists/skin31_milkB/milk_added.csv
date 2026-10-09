@@ -1,0 +1,428 @@
+lesion_id,isic_id,dx,image_type,target_class
+IL_0019655,ISIC_1660154,MEL,clinical: close-up,Melanoma
+IL_0030541,ISIC_2944762,BCC,clinical: close-up,Basal Cell Carcinoma
+IL_0044468,ISIC_5047383,MEL,clinical: close-up,Melanoma
+IL_0063537,ISIC_9191957,BCC,clinical: close-up,Basal Cell Carcinoma
+IL_0080398,ISIC_5100065,MEL,clinical: close-up,Melanoma
+IL_0113118,ISIC_5683123,BCC,clinical: close-up,Basal Cell Carcinoma
+IL_0125566,ISIC_1090102,BCC,clinical: close-up,Basal Cell Carcinoma
+IL_0149726,ISIC_3701587,MEL,clinical: close-up,Melanoma
+IL_0159486,ISIC_4961582,MEL,clinical: close-up,Melanoma
+IL_0177781,ISIC_2019971,BCC,clinical: close-up,Basal Cell Carcinoma
+IL_0179071,ISIC_5748990,BCC,clinical: close-up,Basal Cell Carcinoma
+IL_0192026,ISIC_1666674,MEL,clinical: close-up,Melanoma
+IL_0218048,ISIC_3843458,MEL,clinical: close-up,Melanoma
+IL_0266844,ISIC_6315101,BCC,clinical: close-up,Basal Cell Carcinoma
+IL_0314873,ISIC_4885518,BCC,clinical: close-up,Basal Cell Carcinoma
+IL_0317976,ISIC_3061267,BCC,clinical: close-up,Basal Cell Carcinoma
+IL_0328020,ISIC_0473678,MEL,clinical: close-up,Melanoma
+IL_0335647,ISIC_1058937,MEL,clinical: close-up,Melanoma
+IL_0363698,ISIC_5933605,BCC,clinical: close-up,Basal Cell Carcinoma
+IL_0387029,ISIC_3966507,MEL,clinical: close-up,Melanoma
+IL_0399009,ISIC_3774739,BCC,clinical: close-up,Basal Cell Carcinoma
+IL_0406808,ISIC_1154207,MEL,clinical: close-up,Melanoma
+IL_0410887,ISIC_7697023,BCC,clinical: close-up,Basal Cell Carcinoma
+IL_0433789,ISIC_6343807,MEL,clinical: close-up,Melanoma
+IL_0436411,ISIC_8463692,MEL,clinical: close-up,Melanoma
+IL_0468810,ISIC_1537920,BCC,clinical: close-up,Basal Cell Carcinoma
+IL_0549977,ISIC_7273851,BCC,clinical: close-up,Basal Cell Carcinoma
+IL_0552883,ISIC_5218432,BCC,clinical: close-up,Basal Cell Carcinoma
+IL_0564162,ISIC_4896772,BCC,clinical: close-up,Basal Cell Carcinoma
+IL_0572339,ISIC_4685270,BCC,clinical: close-up,Basal Cell Carcinoma
+IL_0604713,ISIC_2445691,MEL,clinical: close-up,Melanoma
+IL_0607268,ISIC_8895973,BCC,clinical: close-up,Basal Cell Carcinoma
+IL_0624945,ISIC_4194491,MEL,clinical: close-up,Melanoma
+IL_0700053,ISIC_9320577,BCC,clinical: close-up,Basal Cell Carcinoma
+IL_0705529,ISIC_2415100,BCC,clinical: close-up,Basal Cell Carcinoma
+IL_0712386,ISIC_0385678,BCC,clinical: close-up,Basal Cell Carcinoma
+IL_0718275,ISIC_5341584,MEL,clinical: close-up,Melanoma
+IL_0720160,ISIC_7846682,BCC,clinical: close-up,Basal Cell Carcinoma
+IL_0762658,ISIC_4637590,BCC,clinical: close-up,Basal Cell Carcinoma
+IL_0765772,ISIC_3959224,BCC,clinical: close-up,Basal Cell Carcinoma
+IL_0778720,ISIC_9116920,BCC,clinical: close-up,Basal Cell Carcinoma
+IL_0809761,ISIC_2028614,BCC,clinical: close-up,Basal Cell Carcinoma
+IL_0816967,ISIC_5985397,BCC,clinical: close-up,Basal Cell Carcinoma
+IL_0834716,ISIC_8645743,BCC,clinical: close-up,Basal Cell Carcinoma
+IL_0836761,ISIC_3323980,BCC,clinical: close-up,Basal Cell Carcinoma
+IL_0848676,ISIC_2395293,MEL,clinical: close-up,Melanoma
+IL_0853673,ISIC_1677408,BCC,clinical: close-up,Basal Cell Carcinoma
+IL_0855898,ISIC_2397388,MEL,clinical: close-up,Melanoma
+IL_0894322,ISIC_4484543,BCC,clinical: close-up,Basal Cell Carcinoma
+IL_0921105,ISIC_0275196,BCC,clinical: close-up,Basal Cell Carcinoma
+IL_0937448,ISIC_4873477,BCC,clinical: close-up,Basal Cell Carcinoma
+IL_0962219,ISIC_3574989,BCC,clinical: close-up,Basal Cell Carcinoma
+IL_0963446,ISIC_2878962,BCC,clinical: close-up,Basal Cell Carcinoma
+IL_1027638,ISIC_3225587,MEL,clinical: close-up,Melanoma
+IL_1036024,ISIC_1610798,BCC,clinical: close-up,Basal Cell Carcinoma
+IL_1060778,ISIC_0240393,BCC,clinical: close-up,Basal Cell Carcinoma
+IL_1062117,ISIC_5494808,MEL,clinical: close-up,Melanoma
+IL_1066586,ISIC_2952159,BCC,clinical: close-up,Basal Cell Carcinoma
+IL_1088813,ISIC_7500706,BCC,clinical: close-up,Basal Cell Carcinoma
+IL_1093822,ISIC_5662432,BCC,clinical: close-up,Basal Cell Carcinoma
+IL_1122341,ISIC_0719228,BCC,clinical: close-up,Basal Cell Carcinoma
+IL_1128310,ISIC_2579863,BCC,clinical: close-up,Basal Cell Carcinoma
+IL_1131415,ISIC_5349344,BCC,clinical: close-up,Basal Cell Carcinoma
+IL_1159424,ISIC_9486029,MEL,clinical: close-up,Melanoma
+IL_1166072,ISIC_3491198,BCC,clinical: close-up,Basal Cell Carcinoma
+IL_1283249,ISIC_0612793,BCC,clinical: close-up,Basal Cell Carcinoma
+IL_1288672,ISIC_6359039,BCC,clinical: close-up,Basal Cell Carcinoma
+IL_1300499,ISIC_9544557,MEL,clinical: close-up,Melanoma
+IL_1303773,ISIC_6893384,BCC,clinical: close-up,Basal Cell Carcinoma
+IL_1311157,ISIC_7390604,BCC,clinical: close-up,Basal Cell Carcinoma
+IL_1392309,ISIC_3657842,BCC,clinical: close-up,Basal Cell Carcinoma
+IL_1393794,ISIC_4066448,BCC,clinical: close-up,Basal Cell Carcinoma
+IL_1397250,ISIC_1539068,BCC,clinical: close-up,Basal Cell Carcinoma
+IL_1397522,ISIC_6336649,BCC,clinical: close-up,Basal Cell Carcinoma
+IL_1409066,ISIC_2546414,BCC,clinical: close-up,Basal Cell Carcinoma
+IL_1438394,ISIC_8695319,BCC,clinical: close-up,Basal Cell Carcinoma
+IL_1439879,ISIC_0823916,BCC,clinical: close-up,Basal Cell Carcinoma
+IL_1445099,ISIC_2396618,MEL,clinical: close-up,Melanoma
+IL_1546321,ISIC_2616510,MEL,clinical: close-up,Melanoma
+IL_1567374,ISIC_9011999,BCC,clinical: close-up,Basal Cell Carcinoma
+IL_1576423,ISIC_6421198,MEL,clinical: close-up,Melanoma
+IL_1618148,ISIC_6705726,BCC,clinical: close-up,Basal Cell Carcinoma
+IL_1623260,ISIC_7076572,BCC,clinical: close-up,Basal Cell Carcinoma
+IL_1623659,ISIC_9673021,BCC,clinical: close-up,Basal Cell Carcinoma
+IL_1627026,ISIC_5205572,MEL,clinical: close-up,Melanoma
+IL_1641908,ISIC_4722161,BCC,clinical: close-up,Basal Cell Carcinoma
+IL_1711238,ISIC_7115215,MEL,clinical: close-up,Melanoma
+IL_1749163,ISIC_1353980,BCC,clinical: close-up,Basal Cell Carcinoma
+IL_1773483,ISIC_6196224,BCC,clinical: close-up,Basal Cell Carcinoma
+IL_1782345,ISIC_7729398,MEL,clinical: close-up,Melanoma
+IL_1794572,ISIC_7627853,BCC,clinical: close-up,Basal Cell Carcinoma
+IL_1817922,ISIC_9467067,MEL,clinical: close-up,Melanoma
+IL_1839563,ISIC_0605402,BCC,clinical: close-up,Basal Cell Carcinoma
+IL_1861078,ISIC_5642029,BCC,clinical: close-up,Basal Cell Carcinoma
+IL_1861400,ISIC_6241776,BCC,clinical: close-up,Basal Cell Carcinoma
+IL_1880052,ISIC_3897642,BCC,clinical: close-up,Basal Cell Carcinoma
+IL_1886112,ISIC_3890513,MEL,clinical: close-up,Melanoma
+IL_1981700,ISIC_6733219,BCC,clinical: close-up,Basal Cell Carcinoma
+IL_2004753,ISIC_9780121,BCC,clinical: close-up,Basal Cell Carcinoma
+IL_2006449,ISIC_2199778,BCC,clinical: close-up,Basal Cell Carcinoma
+IL_2040419,ISIC_8669887,BCC,clinical: close-up,Basal Cell Carcinoma
+IL_2111173,ISIC_9850356,BCC,clinical: close-up,Basal Cell Carcinoma
+IL_2141966,ISIC_9024518,BCC,clinical: close-up,Basal Cell Carcinoma
+IL_2154531,ISIC_4714408,MEL,clinical: close-up,Melanoma
+IL_2176807,ISIC_2260950,BCC,clinical: close-up,Basal Cell Carcinoma
+IL_2178122,ISIC_7731176,BCC,clinical: close-up,Basal Cell Carcinoma
+IL_2201530,ISIC_7035620,MEL,clinical: close-up,Melanoma
+IL_2208727,ISIC_9650776,BCC,clinical: close-up,Basal Cell Carcinoma
+IL_2218575,ISIC_6921970,BCC,clinical: close-up,Basal Cell Carcinoma
+IL_2248965,ISIC_1112216,BCC,clinical: close-up,Basal Cell Carcinoma
+IL_2307206,ISIC_3261212,BCC,clinical: close-up,Basal Cell Carcinoma
+IL_2405400,ISIC_0169805,BCC,clinical: close-up,Basal Cell Carcinoma
+IL_2451092,ISIC_8069305,BCC,clinical: close-up,Basal Cell Carcinoma
+IL_2477407,ISIC_1431910,BCC,clinical: close-up,Basal Cell Carcinoma
+IL_2504113,ISIC_5403535,BCC,clinical: close-up,Basal Cell Carcinoma
+IL_2517543,ISIC_1933691,MEL,clinical: close-up,Melanoma
+IL_2522650,ISIC_4179264,BCC,clinical: close-up,Basal Cell Carcinoma
+IL_2543533,ISIC_5866382,MEL,clinical: close-up,Melanoma
+IL_2553098,ISIC_7485100,BCC,clinical: close-up,Basal Cell Carcinoma
+IL_2643688,ISIC_9125091,BCC,clinical: close-up,Basal Cell Carcinoma
+IL_2659393,ISIC_8032730,BCC,clinical: close-up,Basal Cell Carcinoma
+IL_2664581,ISIC_7354709,BCC,clinical: close-up,Basal Cell Carcinoma
+IL_2671860,ISIC_5287888,BCC,clinical: close-up,Basal Cell Carcinoma
+IL_2718328,ISIC_1181436,BCC,clinical: close-up,Basal Cell Carcinoma
+IL_2719236,ISIC_2801800,BCC,clinical: close-up,Basal Cell Carcinoma
+IL_2720879,ISIC_1379718,BCC,clinical: close-up,Basal Cell Carcinoma
+IL_2722741,ISIC_4836899,BCC,clinical: close-up,Basal Cell Carcinoma
+IL_2734899,ISIC_9144494,BCC,clinical: close-up,Basal Cell Carcinoma
+IL_2739808,ISIC_2920382,MEL,clinical: close-up,Melanoma
+IL_2740967,ISIC_0583040,MEL,clinical: close-up,Melanoma
+IL_2748244,ISIC_0590401,BCC,clinical: close-up,Basal Cell Carcinoma
+IL_2752948,ISIC_3334508,BCC,clinical: close-up,Basal Cell Carcinoma
+IL_2760690,ISIC_8245171,BCC,clinical: close-up,Basal Cell Carcinoma
+IL_2779064,ISIC_2241043,BCC,clinical: close-up,Basal Cell Carcinoma
+IL_2867550,ISIC_4176839,MEL,clinical: close-up,Melanoma
+IL_2880261,ISIC_2299814,BCC,clinical: close-up,Basal Cell Carcinoma
+IL_2881037,ISIC_4122632,BCC,clinical: close-up,Basal Cell Carcinoma
+IL_2897531,ISIC_7323450,BCC,clinical: close-up,Basal Cell Carcinoma
+IL_2918897,ISIC_5082399,BCC,clinical: close-up,Basal Cell Carcinoma
+IL_2926353,ISIC_4700136,BCC,clinical: close-up,Basal Cell Carcinoma
+IL_2965012,ISIC_9338271,BCC,clinical: close-up,Basal Cell Carcinoma
+IL_2987017,ISIC_6130175,BCC,clinical: close-up,Basal Cell Carcinoma
+IL_2989326,ISIC_2118149,MEL,clinical: close-up,Melanoma
+IL_2994581,ISIC_1958975,BCC,clinical: close-up,Basal Cell Carcinoma
+IL_3023010,ISIC_5097850,MEL,clinical: close-up,Melanoma
+IL_3061699,ISIC_2314639,MEL,clinical: close-up,Melanoma
+IL_3070568,ISIC_7344118,BCC,clinical: close-up,Basal Cell Carcinoma
+IL_3151519,ISIC_2845349,MEL,clinical: close-up,Melanoma
+IL_3154962,ISIC_2005096,MEL,clinical: close-up,Melanoma
+IL_3157584,ISIC_5498605,MEL,clinical: close-up,Melanoma
+IL_3176703,ISIC_3525463,BCC,clinical: close-up,Basal Cell Carcinoma
+IL_3203349,ISIC_1177346,BCC,clinical: close-up,Basal Cell Carcinoma
+IL_3226127,ISIC_3004974,BCC,clinical: close-up,Basal Cell Carcinoma
+IL_3256681,ISIC_9774070,BCC,clinical: close-up,Basal Cell Carcinoma
+IL_3293897,ISIC_9285148,BCC,clinical: close-up,Basal Cell Carcinoma
+IL_3301980,ISIC_5004150,BCC,clinical: close-up,Basal Cell Carcinoma
+IL_3316669,ISIC_9682195,BCC,clinical: close-up,Basal Cell Carcinoma
+IL_3355699,ISIC_4727154,MEL,clinical: close-up,Melanoma
+IL_3405101,ISIC_5930904,BCC,clinical: close-up,Basal Cell Carcinoma
+IL_3406268,ISIC_7522141,BCC,clinical: close-up,Basal Cell Carcinoma
+IL_3453159,ISIC_1841990,BCC,clinical: close-up,Basal Cell Carcinoma
+IL_3457214,ISIC_7137132,BCC,clinical: close-up,Basal Cell Carcinoma
+IL_3464725,ISIC_3577401,BCC,clinical: close-up,Basal Cell Carcinoma
+IL_3492257,ISIC_0760456,BCC,clinical: close-up,Basal Cell Carcinoma
+IL_3553236,ISIC_4967282,MEL,clinical: close-up,Melanoma
+IL_3593034,ISIC_1110074,BCC,clinical: close-up,Basal Cell Carcinoma
+IL_3634030,ISIC_8768212,BCC,clinical: close-up,Basal Cell Carcinoma
+IL_3660517,ISIC_3297304,BCC,clinical: close-up,Basal Cell Carcinoma
+IL_3705242,ISIC_8615408,BCC,clinical: close-up,Basal Cell Carcinoma
+IL_3711710,ISIC_3114974,BCC,clinical: close-up,Basal Cell Carcinoma
+IL_3720458,ISIC_4682172,MEL,clinical: close-up,Melanoma
+IL_3730515,ISIC_7522059,BCC,clinical: close-up,Basal Cell Carcinoma
+IL_3745397,ISIC_7894539,BCC,clinical: close-up,Basal Cell Carcinoma
+IL_3787537,ISIC_1710948,BCC,clinical: close-up,Basal Cell Carcinoma
+IL_3790645,ISIC_7005808,MEL,clinical: close-up,Melanoma
+IL_3906452,ISIC_6824445,MEL,clinical: close-up,Melanoma
+IL_3930642,ISIC_1932860,BCC,clinical: close-up,Basal Cell Carcinoma
+IL_4028485,ISIC_3044377,MEL,clinical: close-up,Melanoma
+IL_4042622,ISIC_8374389,BCC,clinical: close-up,Basal Cell Carcinoma
+IL_4064310,ISIC_5984979,BCC,clinical: close-up,Basal Cell Carcinoma
+IL_4068514,ISIC_1741885,BCC,clinical: close-up,Basal Cell Carcinoma
+IL_4073740,ISIC_9818689,MEL,clinical: close-up,Melanoma
+IL_4094223,ISIC_0187127,BCC,clinical: close-up,Basal Cell Carcinoma
+IL_4107565,ISIC_8644033,BCC,clinical: close-up,Basal Cell Carcinoma
+IL_4156451,ISIC_5233869,BCC,clinical: close-up,Basal Cell Carcinoma
+IL_4164624,ISIC_5626843,BCC,clinical: close-up,Basal Cell Carcinoma
+IL_4212984,ISIC_9524858,BCC,clinical: close-up,Basal Cell Carcinoma
+IL_4240733,ISIC_5291256,BCC,clinical: close-up,Basal Cell Carcinoma
+IL_4245376,ISIC_2968300,BCC,clinical: close-up,Basal Cell Carcinoma
+IL_4250777,ISIC_2705888,BCC,clinical: close-up,Basal Cell Carcinoma
+IL_4263582,ISIC_3148432,BCC,clinical: close-up,Basal Cell Carcinoma
+IL_4305250,ISIC_3336579,BCC,clinical: close-up,Basal Cell Carcinoma
+IL_4326191,ISIC_9702862,BCC,clinical: close-up,Basal Cell Carcinoma
+IL_4340050,ISIC_6588483,MEL,clinical: close-up,Melanoma
+IL_4340188,ISIC_0938409,BCC,clinical: close-up,Basal Cell Carcinoma
+IL_4371981,ISIC_1291218,BCC,clinical: close-up,Basal Cell Carcinoma
+IL_4403121,ISIC_0361366,BCC,clinical: close-up,Basal Cell Carcinoma
+IL_4419075,ISIC_4797048,BCC,clinical: close-up,Basal Cell Carcinoma
+IL_4498199,ISIC_6428825,MEL,clinical: close-up,Melanoma
+IL_4522594,ISIC_9039736,MEL,clinical: close-up,Melanoma
+IL_4524955,ISIC_6106457,BCC,clinical: close-up,Basal Cell Carcinoma
+IL_4547617,ISIC_4198936,MEL,clinical: close-up,Melanoma
+IL_4642532,ISIC_7512177,BCC,clinical: close-up,Basal Cell Carcinoma
+IL_4668896,ISIC_1994938,BCC,clinical: close-up,Basal Cell Carcinoma
+IL_4687032,ISIC_2772004,BCC,clinical: close-up,Basal Cell Carcinoma
+IL_4765483,ISIC_4950049,BCC,clinical: close-up,Basal Cell Carcinoma
+IL_4781564,ISIC_6123621,BCC,clinical: close-up,Basal Cell Carcinoma
+IL_4791300,ISIC_7100195,MEL,clinical: close-up,Melanoma
+IL_4829953,ISIC_5030554,MEL,clinical: close-up,Melanoma
+IL_4907068,ISIC_1798918,BCC,clinical: close-up,Basal Cell Carcinoma
+IL_4921939,ISIC_0715312,BCC,clinical: close-up,Basal Cell Carcinoma
+IL_4928087,ISIC_5874977,MEL,clinical: close-up,Melanoma
+IL_4941375,ISIC_5542664,BCC,clinical: close-up,Basal Cell Carcinoma
+IL_4970888,ISIC_1867477,BCC,clinical: close-up,Basal Cell Carcinoma
+IL_4988250,ISIC_3942749,BCC,clinical: close-up,Basal Cell Carcinoma
+IL_4997932,ISIC_3418625,BCC,clinical: close-up,Basal Cell Carcinoma
+IL_5055807,ISIC_1090794,BCC,clinical: close-up,Basal Cell Carcinoma
+IL_5100758,ISIC_8740405,MEL,clinical: close-up,Melanoma
+IL_5153554,ISIC_0373667,BCC,clinical: close-up,Basal Cell Carcinoma
+IL_5173461,ISIC_5993711,BCC,clinical: close-up,Basal Cell Carcinoma
+IL_5251059,ISIC_0944241,MEL,clinical: close-up,Melanoma
+IL_5267029,ISIC_9497071,MEL,clinical: close-up,Melanoma
+IL_5277134,ISIC_6289625,MEL,clinical: close-up,Melanoma
+IL_5281501,ISIC_0468332,BCC,clinical: close-up,Basal Cell Carcinoma
+IL_5328329,ISIC_3924227,BCC,clinical: close-up,Basal Cell Carcinoma
+IL_5357233,ISIC_6788918,BCC,clinical: close-up,Basal Cell Carcinoma
+IL_5361912,ISIC_9488866,BCC,clinical: close-up,Basal Cell Carcinoma
+IL_5384329,ISIC_1990401,BCC,clinical: close-up,Basal Cell Carcinoma
+IL_5386138,ISIC_7608693,BCC,clinical: close-up,Basal Cell Carcinoma
+IL_5411298,ISIC_9030298,BCC,clinical: close-up,Basal Cell Carcinoma
+IL_5415624,ISIC_4489370,MEL,clinical: close-up,Melanoma
+IL_5417384,ISIC_4210592,BCC,clinical: close-up,Basal Cell Carcinoma
+IL_5420018,ISIC_2504068,BCC,clinical: close-up,Basal Cell Carcinoma
+IL_5441408,ISIC_1721377,BCC,clinical: close-up,Basal Cell Carcinoma
+IL_5466158,ISIC_6252155,BCC,clinical: close-up,Basal Cell Carcinoma
+IL_5466304,ISIC_2150126,BCC,clinical: close-up,Basal Cell Carcinoma
+IL_5469172,ISIC_5420985,BCC,clinical: close-up,Basal Cell Carcinoma
+IL_5496114,ISIC_0833402,MEL,clinical: close-up,Melanoma
+IL_5504349,ISIC_3744785,BCC,clinical: close-up,Basal Cell Carcinoma
+IL_5518223,ISIC_6513947,BCC,clinical: close-up,Basal Cell Carcinoma
+IL_5535772,ISIC_2900527,BCC,clinical: close-up,Basal Cell Carcinoma
+IL_5564093,ISIC_8545769,BCC,clinical: close-up,Basal Cell Carcinoma
+IL_5569670,ISIC_4691032,BCC,clinical: close-up,Basal Cell Carcinoma
+IL_5601227,ISIC_5178054,BCC,clinical: close-up,Basal Cell Carcinoma
+IL_5625000,ISIC_3776498,BCC,clinical: close-up,Basal Cell Carcinoma
+IL_5762747,ISIC_2968192,BCC,clinical: close-up,Basal Cell Carcinoma
+IL_5766493,ISIC_5660758,BCC,clinical: close-up,Basal Cell Carcinoma
+IL_5797843,ISIC_3566394,BCC,clinical: close-up,Basal Cell Carcinoma
+IL_5809538,ISIC_1085320,MEL,clinical: close-up,Melanoma
+IL_5812139,ISIC_8646764,MEL,clinical: close-up,Melanoma
+IL_5818168,ISIC_2531173,BCC,clinical: close-up,Basal Cell Carcinoma
+IL_5834228,ISIC_0885646,BCC,clinical: close-up,Basal Cell Carcinoma
+IL_5836381,ISIC_2738967,BCC,clinical: close-up,Basal Cell Carcinoma
+IL_5844694,ISIC_3679455,BCC,clinical: close-up,Basal Cell Carcinoma
+IL_5844745,ISIC_1849076,MEL,clinical: close-up,Melanoma
+IL_5865217,ISIC_0325706,BCC,clinical: close-up,Basal Cell Carcinoma
+IL_5880830,ISIC_3298769,BCC,clinical: close-up,Basal Cell Carcinoma
+IL_5890474,ISIC_5552185,BCC,clinical: close-up,Basal Cell Carcinoma
+IL_5987346,ISIC_6008036,BCC,clinical: close-up,Basal Cell Carcinoma
+IL_5997841,ISIC_7816290,BCC,clinical: close-up,Basal Cell Carcinoma
+IL_6004651,ISIC_1828118,BCC,clinical: close-up,Basal Cell Carcinoma
+IL_6024093,ISIC_0398312,BCC,clinical: close-up,Basal Cell Carcinoma
+IL_6050524,ISIC_6605295,BCC,clinical: close-up,Basal Cell Carcinoma
+IL_6122240,ISIC_4502259,MEL,clinical: close-up,Melanoma
+IL_6124707,ISIC_6593095,BCC,clinical: close-up,Basal Cell Carcinoma
+IL_6157998,ISIC_7507320,BCC,clinical: close-up,Basal Cell Carcinoma
+IL_6195057,ISIC_6345022,BCC,clinical: close-up,Basal Cell Carcinoma
+IL_6220664,ISIC_5609956,MEL,clinical: close-up,Melanoma
+IL_6256539,ISIC_5449503,MEL,clinical: close-up,Melanoma
+IL_6292784,ISIC_1052154,MEL,clinical: close-up,Melanoma
+IL_6296094,ISIC_9314612,BCC,clinical: close-up,Basal Cell Carcinoma
+IL_6296418,ISIC_4692254,BCC,clinical: close-up,Basal Cell Carcinoma
+IL_6317075,ISIC_0806039,BCC,clinical: close-up,Basal Cell Carcinoma
+IL_6352600,ISIC_1189166,BCC,clinical: close-up,Basal Cell Carcinoma
+IL_6369359,ISIC_7231430,MEL,clinical: close-up,Melanoma
+IL_6427122,ISIC_0488771,MEL,clinical: close-up,Melanoma
+IL_6442141,ISIC_4530809,BCC,clinical: close-up,Basal Cell Carcinoma
+IL_6451411,ISIC_5527533,BCC,clinical: close-up,Basal Cell Carcinoma
+IL_6478777,ISIC_9589958,BCC,clinical: close-up,Basal Cell Carcinoma
+IL_6484840,ISIC_6182960,BCC,clinical: close-up,Basal Cell Carcinoma
+IL_6505724,ISIC_2689111,BCC,clinical: close-up,Basal Cell Carcinoma
+IL_6518522,ISIC_4991395,BCC,clinical: close-up,Basal Cell Carcinoma
+IL_6520783,ISIC_0888116,BCC,clinical: close-up,Basal Cell Carcinoma
+IL_6536248,ISIC_8358859,BCC,clinical: close-up,Basal Cell Carcinoma
+IL_6559871,ISIC_2481693,BCC,clinical: close-up,Basal Cell Carcinoma
+IL_6578198,ISIC_7148211,BCC,clinical: close-up,Basal Cell Carcinoma
+IL_6581276,ISIC_9258545,MEL,clinical: close-up,Melanoma
+IL_6591521,ISIC_9441092,BCC,clinical: close-up,Basal Cell Carcinoma
+IL_6607832,ISIC_8680621,MEL,clinical: close-up,Melanoma
+IL_6638180,ISIC_8171205,BCC,clinical: close-up,Basal Cell Carcinoma
+IL_6686200,ISIC_7335684,BCC,clinical: close-up,Basal Cell Carcinoma
+IL_6705491,ISIC_5176734,MEL,clinical: close-up,Melanoma
+IL_6765370,ISIC_5260184,BCC,clinical: close-up,Basal Cell Carcinoma
+IL_6780891,ISIC_8171954,BCC,clinical: close-up,Basal Cell Carcinoma
+IL_6834280,ISIC_1942943,BCC,clinical: close-up,Basal Cell Carcinoma
+IL_6834343,ISIC_2508300,BCC,clinical: close-up,Basal Cell Carcinoma
+IL_6873122,ISIC_4082323,BCC,clinical: close-up,Basal Cell Carcinoma
+IL_6891715,ISIC_0441765,BCC,clinical: close-up,Basal Cell Carcinoma
+IL_6893390,ISIC_5688333,BCC,clinical: close-up,Basal Cell Carcinoma
+IL_6934051,ISIC_9339729,BCC,clinical: close-up,Basal Cell Carcinoma
+IL_6943395,ISIC_2538950,BCC,clinical: close-up,Basal Cell Carcinoma
+IL_6995611,ISIC_9690596,BCC,clinical: close-up,Basal Cell Carcinoma
+IL_7021252,ISIC_2260553,BCC,clinical: close-up,Basal Cell Carcinoma
+IL_7070259,ISIC_1577177,BCC,clinical: close-up,Basal Cell Carcinoma
+IL_7084309,ISIC_8764700,BCC,clinical: close-up,Basal Cell Carcinoma
+IL_7096412,ISIC_0217174,BCC,clinical: close-up,Basal Cell Carcinoma
+IL_7101016,ISIC_9072692,BCC,clinical: close-up,Basal Cell Carcinoma
+IL_7110419,ISIC_5648712,BCC,clinical: close-up,Basal Cell Carcinoma
+IL_7144691,ISIC_5992256,BCC,clinical: close-up,Basal Cell Carcinoma
+IL_7244270,ISIC_7032433,BCC,clinical: close-up,Basal Cell Carcinoma
+IL_7270407,ISIC_2006791,BCC,clinical: close-up,Basal Cell Carcinoma
+IL_7291887,ISIC_7616494,BCC,clinical: close-up,Basal Cell Carcinoma
+IL_7297013,ISIC_0557709,MEL,clinical: close-up,Melanoma
+IL_7337548,ISIC_1389612,MEL,clinical: close-up,Melanoma
+IL_7343687,ISIC_0391153,MEL,clinical: close-up,Melanoma
+IL_7363364,ISIC_4958487,BCC,clinical: close-up,Basal Cell Carcinoma
+IL_7402756,ISIC_1506683,BCC,clinical: close-up,Basal Cell Carcinoma
+IL_7417538,ISIC_3973393,MEL,clinical: close-up,Melanoma
+IL_7423062,ISIC_7808824,BCC,clinical: close-up,Basal Cell Carcinoma
+IL_7443834,ISIC_4042084,BCC,clinical: close-up,Basal Cell Carcinoma
+IL_7466506,ISIC_1500076,BCC,clinical: close-up,Basal Cell Carcinoma
+IL_7481126,ISIC_9225499,MEL,clinical: close-up,Melanoma
+IL_7487058,ISIC_1700566,BCC,clinical: close-up,Basal Cell Carcinoma
+IL_7494236,ISIC_0807781,BCC,clinical: close-up,Basal Cell Carcinoma
+IL_7503105,ISIC_3097252,BCC,clinical: close-up,Basal Cell Carcinoma
+IL_7509121,ISIC_4103277,BCC,clinical: close-up,Basal Cell Carcinoma
+IL_7534180,ISIC_7248341,BCC,clinical: close-up,Basal Cell Carcinoma
+IL_7571308,ISIC_0820547,BCC,clinical: close-up,Basal Cell Carcinoma
+IL_7573989,ISIC_1290781,BCC,clinical: close-up,Basal Cell Carcinoma
+IL_7631753,ISIC_3961758,BCC,clinical: close-up,Basal Cell Carcinoma
+IL_7719893,ISIC_2005939,BCC,clinical: close-up,Basal Cell Carcinoma
+IL_7728515,ISIC_7406916,MEL,clinical: close-up,Melanoma
+IL_7741201,ISIC_8376392,BCC,clinical: close-up,Basal Cell Carcinoma
+IL_7743686,ISIC_9577015,BCC,clinical: close-up,Basal Cell Carcinoma
+IL_7744965,ISIC_3203845,BCC,clinical: close-up,Basal Cell Carcinoma
+IL_7759035,ISIC_3719395,BCC,clinical: close-up,Basal Cell Carcinoma
+IL_7760285,ISIC_6914336,BCC,clinical: close-up,Basal Cell Carcinoma
+IL_7789479,ISIC_1330675,BCC,clinical: close-up,Basal Cell Carcinoma
+IL_7871814,ISIC_8669932,BCC,clinical: close-up,Basal Cell Carcinoma
+IL_7912330,ISIC_5620717,BCC,clinical: close-up,Basal Cell Carcinoma
+IL_7925495,ISIC_2887419,BCC,clinical: close-up,Basal Cell Carcinoma
+IL_7965758,ISIC_2134793,BCC,clinical: close-up,Basal Cell Carcinoma
+IL_7980891,ISIC_2533190,BCC,clinical: close-up,Basal Cell Carcinoma
+IL_7985046,ISIC_9890732,BCC,clinical: close-up,Basal Cell Carcinoma
+IL_7996799,ISIC_4371078,BCC,clinical: close-up,Basal Cell Carcinoma
+IL_8012177,ISIC_6319452,BCC,clinical: close-up,Basal Cell Carcinoma
+IL_8028208,ISIC_8012183,BCC,clinical: close-up,Basal Cell Carcinoma
+IL_8074133,ISIC_6598962,BCC,clinical: close-up,Basal Cell Carcinoma
+IL_8083531,ISIC_3083566,BCC,clinical: close-up,Basal Cell Carcinoma
+IL_8106703,ISIC_0333650,MEL,clinical: close-up,Melanoma
+IL_8114949,ISIC_9951312,MEL,clinical: close-up,Melanoma
+IL_8158343,ISIC_8350291,BCC,clinical: close-up,Basal Cell Carcinoma
+IL_8168935,ISIC_3284065,BCC,clinical: close-up,Basal Cell Carcinoma
+IL_8193590,ISIC_4254329,MEL,clinical: close-up,Melanoma
+IL_8240105,ISIC_6391608,BCC,clinical: close-up,Basal Cell Carcinoma
+IL_8259171,ISIC_0388843,BCC,clinical: close-up,Basal Cell Carcinoma
+IL_8275439,ISIC_2213095,BCC,clinical: close-up,Basal Cell Carcinoma
+IL_8280517,ISIC_1659815,BCC,clinical: close-up,Basal Cell Carcinoma
+IL_8339117,ISIC_2547869,BCC,clinical: close-up,Basal Cell Carcinoma
+IL_8364526,ISIC_9074196,BCC,clinical: close-up,Basal Cell Carcinoma
+IL_8375905,ISIC_0438775,BCC,clinical: close-up,Basal Cell Carcinoma
+IL_8387787,ISIC_4898312,BCC,clinical: close-up,Basal Cell Carcinoma
+IL_8572700,ISIC_4730750,BCC,clinical: close-up,Basal Cell Carcinoma
+IL_8583674,ISIC_8570261,MEL,clinical: close-up,Melanoma
+IL_8613876,ISIC_2655630,BCC,clinical: close-up,Basal Cell Carcinoma
+IL_8637878,ISIC_8769148,BCC,clinical: close-up,Basal Cell Carcinoma
+IL_8675438,ISIC_2121573,BCC,clinical: close-up,Basal Cell Carcinoma
+IL_8679455,ISIC_4504390,BCC,clinical: close-up,Basal Cell Carcinoma
+IL_8692782,ISIC_4952289,BCC,clinical: close-up,Basal Cell Carcinoma
+IL_8702117,ISIC_2941016,BCC,clinical: close-up,Basal Cell Carcinoma
+IL_8732835,ISIC_7708206,BCC,clinical: close-up,Basal Cell Carcinoma
+IL_8819924,ISIC_0250211,BCC,clinical: close-up,Basal Cell Carcinoma
+IL_8850331,ISIC_5201104,MEL,clinical: close-up,Melanoma
+IL_8854625,ISIC_0093389,BCC,clinical: close-up,Basal Cell Carcinoma
+IL_8861890,ISIC_2598676,BCC,clinical: close-up,Basal Cell Carcinoma
+IL_8869831,ISIC_5691487,MEL,clinical: close-up,Melanoma
+IL_8876914,ISIC_2212859,BCC,clinical: close-up,Basal Cell Carcinoma
+IL_8908533,ISIC_8113702,BCC,clinical: close-up,Basal Cell Carcinoma
+IL_8908582,ISIC_4560708,BCC,clinical: close-up,Basal Cell Carcinoma
+IL_8927794,ISIC_3567810,BCC,clinical: close-up,Basal Cell Carcinoma
+IL_8970458,ISIC_5101018,MEL,clinical: close-up,Melanoma
+IL_8984570,ISIC_9541260,MEL,clinical: close-up,Melanoma
+IL_8991149,ISIC_6717021,BCC,clinical: close-up,Basal Cell Carcinoma
+IL_8994291,ISIC_8436161,BCC,clinical: close-up,Basal Cell Carcinoma
+IL_9091693,ISIC_6111856,BCC,clinical: close-up,Basal Cell Carcinoma
+IL_9092829,ISIC_3070709,BCC,clinical: close-up,Basal Cell Carcinoma
+IL_9094394,ISIC_8547720,BCC,clinical: close-up,Basal Cell Carcinoma
+IL_9126795,ISIC_3573447,BCC,clinical: close-up,Basal Cell Carcinoma
+IL_9145163,ISIC_4141354,BCC,clinical: close-up,Basal Cell Carcinoma
+IL_9147878,ISIC_5746261,BCC,clinical: close-up,Basal Cell Carcinoma
+IL_9156080,ISIC_1232023,BCC,clinical: close-up,Basal Cell Carcinoma
+IL_9194841,ISIC_9236022,BCC,clinical: close-up,Basal Cell Carcinoma
+IL_9231229,ISIC_5790117,MEL,clinical: close-up,Melanoma
+IL_9232367,ISIC_7430526,BCC,clinical: close-up,Basal Cell Carcinoma
+IL_9233957,ISIC_8293339,BCC,clinical: close-up,Basal Cell Carcinoma
+IL_9271885,ISIC_9114285,BCC,clinical: close-up,Basal Cell Carcinoma
+IL_9276974,ISIC_4472727,BCC,clinical: close-up,Basal Cell Carcinoma
+IL_9300549,ISIC_2665761,MEL,clinical: close-up,Melanoma
+IL_9324964,ISIC_4985100,BCC,clinical: close-up,Basal Cell Carcinoma
+IL_9364222,ISIC_1979828,BCC,clinical: close-up,Basal Cell Carcinoma
+IL_9395505,ISIC_0841169,BCC,clinical: close-up,Basal Cell Carcinoma
+IL_9409547,ISIC_4741194,MEL,clinical: close-up,Melanoma
+IL_9421860,ISIC_9826365,BCC,clinical: close-up,Basal Cell Carcinoma
+IL_9439154,ISIC_6886017,MEL,clinical: close-up,Melanoma
+IL_9441829,ISIC_9668453,BCC,clinical: close-up,Basal Cell Carcinoma
+IL_9509148,ISIC_6995669,BCC,clinical: close-up,Basal Cell Carcinoma
+IL_9549484,ISIC_8970659,BCC,clinical: close-up,Basal Cell Carcinoma
+IL_9572527,ISIC_4740743,MEL,clinical: close-up,Melanoma
+IL_9588958,ISIC_5333979,MEL,clinical: close-up,Melanoma
+IL_9632950,ISIC_8550133,BCC,clinical: close-up,Basal Cell Carcinoma
+IL_9680907,ISIC_8467445,MEL,clinical: close-up,Melanoma
+IL_9682787,ISIC_5410210,BCC,clinical: close-up,Basal Cell Carcinoma
+IL_9730160,ISIC_7745161,BCC,clinical: close-up,Basal Cell Carcinoma
+IL_9734938,ISIC_2917647,BCC,clinical: close-up,Basal Cell Carcinoma
+IL_9746868,ISIC_7096292,BCC,clinical: close-up,Basal Cell Carcinoma
+IL_9758278,ISIC_4544829,BCC,clinical: close-up,Basal Cell Carcinoma
+IL_9773637,ISIC_4900556,BCC,clinical: close-up,Basal Cell Carcinoma
+IL_9803330,ISIC_1877271,MEL,clinical: close-up,Melanoma
+IL_9917047,ISIC_2392847,BCC,clinical: close-up,Basal Cell Carcinoma
+IL_9942096,ISIC_2668584,MEL,clinical: close-up,Melanoma
+IL_9962218,ISIC_9492806,BCC,clinical: close-up,Basal Cell Carcinoma
+IL_9974051,ISIC_2896896,BCC,clinical: close-up,Basal Cell Carcinoma
+IL_9984501,ISIC_7931991,BCC,clinical: close-up,Basal Cell Carcinoma
+IL_9984758,ISIC_3908025,BCC,clinical: close-up,Basal Cell Carcinoma
+IL_9992890,ISIC_6708834,BCC,clinical: close-up,Basal Cell Carcinoma
+IL_9993432,ISIC_1597370,MEL,clinical: close-up,Melanoma
+IL_9995614,ISIC_9832572,MEL,clinical: close-up,Melanoma

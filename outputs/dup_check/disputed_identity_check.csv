@@ -1,0 +1,160 @@
+id,folder,dx,archive_size,local_size,phash_dist
+ISIC_0000246,nevus,,"(1024, 768)","(1024, 768)",0
+ISIC_0010889,nevus,Solar or actinic keratosis,"(1024, 768)","(1024, 768)",0
+ISIC_0024468,nevus,Solar or actinic keratosis,"(600, 450)","(600, 450)",0
+ISIC_0024470,nevus,Solar or actinic keratosis,"(600, 450)","(600, 450)",0
+ISIC_0024646,nevus,Solar or actinic keratosis,"(600, 450)","(600, 450)",0
+ISIC_0024707,nevus,Solar or actinic keratosis,"(600, 450)","(600, 450)",2
+ISIC_0024763,nevus,Solar or actinic keratosis,"(600, 450)","(600, 450)",0
+ISIC_0024771,nevus,Solar or actinic keratosis,"(600, 450)","(600, 450)",0
+ISIC_0024913,nevus,Solar or actinic keratosis,"(600, 450)","(600, 450)",0
+ISIC_0024948,nevus,Solar or actinic keratosis,"(600, 450)","(600, 450)",0
+ISIC_0025368,nevus,Solar or actinic keratosis,"(600, 450)","(600, 450)",0
+ISIC_0025780,nevus,Solar or actinic keratosis,"(600, 450)","(600, 450)",0
+ISIC_0025803,nevus,Solar or actinic keratosis,"(600, 450)","(600, 450)",0
+ISIC_0025825,nevus,Solar or actinic keratosis,"(600, 450)","(600, 450)",0
+ISIC_0025953,nevus,Solar or actinic keratosis,"(600, 450)","(600, 450)",0
+ISIC_0025957,nevus,Solar or actinic keratosis,"(600, 450)","(600, 450)",0
+ISIC_0025992,nevus,Solar or actinic keratosis,"(600, 450)","(600, 450)",2
+ISIC_0026194,nevus,Solar or actinic keratosis,"(600, 450)","(600, 450)",0
+ISIC_0026212,nevus,Solar or actinic keratosis,"(600, 450)","(600, 450)",0
+ISIC_0026468,nevus,Solar or actinic keratosis,"(600, 450)","(600, 450)",2
+ISIC_0026525,nevus,Solar or actinic keratosis,"(600, 450)","(600, 450)",0
+ISIC_0026575,nevus,Solar or actinic keratosis,"(600, 450)","(600, 450)",0
+ISIC_0026702,nevus,Solar or actinic keratosis,"(600, 450)","(600, 450)",0
+ISIC_0026709,nevus,Solar or actinic keratosis,"(600, 450)","(600, 450)",0
+ISIC_0026729,nevus,Solar or actinic keratosis,"(600, 450)","(600, 450)",0
+ISIC_0026765,nevus,Solar or actinic keratosis,"(600, 450)","(600, 450)",0
+ISIC_0026848,nevus,Solar or actinic keratosis,"(600, 450)","(600, 450)",0
+ISIC_0026857,nevus,Solar or actinic keratosis,"(600, 450)","(600, 450)",0
+ISIC_0026905,nevus,Solar or actinic keratosis,"(600, 450)","(600, 450)",0
+ISIC_0026984,nevus,Solar or actinic keratosis,"(600, 450)","(600, 450)",0
+ISIC_0027254,nevus,Solar or actinic keratosis,"(600, 450)","(600, 450)",0
+ISIC_0027334,nevus,Solar or actinic keratosis,"(600, 450)","(600, 450)",0
+ISIC_0027452,nevus,Solar or actinic keratosis,"(600, 450)","(600, 450)",0
+ISIC_0027536,nevus,Solar or actinic keratosis,"(600, 450)","(600, 450)",0
+ISIC_0027580,nevus,Solar or actinic keratosis,"(600, 450)","(600, 450)",2
+ISIC_0027615,nevus,Solar or actinic keratosis,"(600, 450)","(600, 450)",0
+ISIC_0027650,nevus,Solar or actinic keratosis,"(600, 450)","(600, 450)",2
+ISIC_0027668,nevus,Solar or actinic keratosis,"(600, 450)","(600, 450)",0
+ISIC_0027829,nevus,Solar or actinic keratosis,"(600, 450)","(600, 450)",2
+ISIC_0027884,nevus,Solar or actinic keratosis,"(600, 450)","(600, 450)",0
+ISIC_0027896,nevus,Solar or actinic keratosis,"(600, 450)","(600, 450)",0
+ISIC_0027950,nevus,Solar or actinic keratosis,"(600, 450)","(600, 450)",0
+ISIC_0027958,nevus,Solar or actinic keratosis,"(600, 450)","(600, 450)",0
+ISIC_0028063,nevus,Solar or actinic keratosis,"(600, 450)","(600, 450)",0
+ISIC_0028076,nevus,Solar or actinic keratosis,"(600, 450)","(600, 450)",0
+ISIC_0028190,nevus,Solar or actinic keratosis,"(600, 450)","(600, 450)",0
+ISIC_0028393,nevus,Solar or actinic keratosis,"(600, 450)","(600, 450)",0
+ISIC_0028517,nevus,Solar or actinic keratosis,"(600, 450)","(600, 450)",0
+ISIC_0028558,nevus,Solar or actinic keratosis,"(600, 450)","(600, 450)",0
+ISIC_0028820,nevus,Solar or actinic keratosis,"(600, 450)","(600, 450)",0
+ISIC_0028941,nevus,Solar or actinic keratosis,"(600, 450)","(600, 450)",0
+ISIC_0029025,nevus,Solar or actinic keratosis,"(600, 450)","(600, 450)",0
+ISIC_0029041,nevus,Solar or actinic keratosis,"(600, 450)","(600, 450)",0
+ISIC_0029141,nevus,Solar or actinic keratosis,"(600, 450)","(600, 450)",0
+ISIC_0029309,nevus,Solar or actinic keratosis,"(600, 450)","(600, 450)",2
+ISIC_0010803,seborrheic keratosis,Melanoma in situ,"(1024, 768)","(1024, 768)",2
+ISIC_0010808,seborrheic keratosis,Melanoma in situ,"(1024, 768)","(1024, 768)",0
+ISIC_0010809,seborrheic keratosis,Melanoma Invasive,"(1024, 768)","(1024, 768)",0
+ISIC_0010810,seborrheic keratosis,Melanoma in situ,"(1024, 768)","(1024, 768)",0
+ISIC_0010812,seborrheic keratosis,Melanoma in situ,"(1024, 768)","(1024, 768)",0
+ISIC_0010834,seborrheic keratosis,Melanoma Invasive,"(1024, 768)","(1024, 768)",2
+ISIC_0010852,seborrheic keratosis,Melanoma in situ,"(1024, 768)","(1024, 768)",0
+ISIC_0010860,seborrheic keratosis,Melanoma in situ,"(1024, 768)","(1024, 768)",0
+ISIC_0010862,seborrheic keratosis,Melanoma Invasive,"(1024, 768)","(1024, 768)",0
+ISIC_0010863,seborrheic keratosis,Melanoma in situ,"(1024, 768)","(1024, 768)",2
+ISIC_0010866,seborrheic keratosis,Melanoma in situ,"(1024, 768)","(1024, 768)",0
+ISIC_0010872,seborrheic keratosis,Melanoma in situ,"(1024, 768)","(1024, 768)",2
+ISIC_0010876,seborrheic keratosis,Melanoma in situ,"(1024, 768)","(1024, 768)",0
+ISIC_0010883,seborrheic keratosis,Melanoma Invasive,"(1024, 768)","(1024, 768)",2
+ISIC_0010890,seborrheic keratosis,Melanoma in situ,"(1024, 768)","(1024, 768)",0
+ISIC_0010898,seborrheic keratosis,Melanoma Invasive,"(1024, 768)","(1024, 768)",0
+ISIC_0010900,seborrheic keratosis,Melanoma Invasive,"(1024, 768)","(1024, 768)",0
+ISIC_0010909,seborrheic keratosis,Melanoma Invasive,"(1024, 768)","(1024, 768)",0
+ISIC_0010912,seborrheic keratosis,Melanoma in situ,"(1024, 768)","(1024, 768)",0
+ISIC_0010917,seborrheic keratosis,Melanoma Invasive,"(1024, 768)","(1024, 768)",0
+ISIC_0010925,seborrheic keratosis,Melanoma in situ,"(1024, 768)","(1024, 768)",0
+ISIC_0010934,seborrheic keratosis,Melanoma in situ,"(1024, 768)","(1024, 768)",0
+ISIC_0010938,seborrheic keratosis,Melanoma Invasive,"(1024, 768)","(1024, 768)",0
+ISIC_0010942,seborrheic keratosis,Melanoma in situ,"(1024, 768)","(1024, 768)",0
+ISIC_0010971,seborrheic keratosis,Melanoma in situ,"(1024, 768)","(1024, 768)",0
+ISIC_0010977,seborrheic keratosis,Melanoma Invasive,"(1024, 768)","(1024, 768)",0
+ISIC_0010978,seborrheic keratosis,Melanoma Invasive,"(1024, 768)","(1024, 768)",0
+ISIC_0010979,seborrheic keratosis,Melanoma in situ,"(1024, 768)","(1024, 768)",2
+ISIC_0010982,seborrheic keratosis,Melanoma in situ,"(1024, 768)","(1024, 768)",0
+ISIC_0010990,seborrheic keratosis,Melanoma Invasive,"(1024, 768)","(1024, 768)",0
+ISIC_0010993,seborrheic keratosis,Melanoma in situ,"(1024, 768)","(1024, 768)",0
+ISIC_0010995,seborrheic keratosis,Melanoma Invasive,"(1024, 768)","(1024, 768)",0
+ISIC_0011007,seborrheic keratosis,Melanoma in situ,"(1024, 768)","(1024, 768)",0
+ISIC_0011012,seborrheic keratosis,Melanoma Invasive,"(1024, 768)","(1024, 768)",0
+ISIC_0011013,seborrheic keratosis,Melanoma Invasive,"(1024, 768)","(1024, 768)",0
+ISIC_0011030,seborrheic keratosis,Melanoma Invasive,"(1024, 768)","(1024, 768)",0
+ISIC_0011032,seborrheic keratosis,Melanoma in situ,"(1024, 768)","(1024, 768)",0
+ISIC_0011039,seborrheic keratosis,Melanoma in situ,"(1024, 768)","(1024, 768)",0
+ISIC_0011042,seborrheic keratosis,Melanoma Invasive,"(1024, 768)","(1024, 768)",0
+ISIC_0011043,seborrheic keratosis,Melanoma Invasive,"(1024, 768)","(1024, 768)",0
+ISIC_0011045,seborrheic keratosis,Melanoma in situ,"(1024, 768)","(1024, 768)",0
+ISIC_0011056,seborrheic keratosis,Melanoma in situ,"(1024, 768)","(1024, 768)",0
+ISIC_0011057,seborrheic keratosis,Melanoma Invasive,"(1024, 768)","(1024, 768)",0
+ISIC_0011099,seborrheic keratosis,Melanoma Invasive,"(1024, 768)","(1024, 768)",0
+ISIC_0011112,seborrheic keratosis,Melanoma Invasive,"(1024, 768)","(1024, 768)",2
+ISIC_0011121,seborrheic keratosis,Melanoma in situ,"(1024, 768)","(1024, 768)",0
+ISIC_0011125,seborrheic keratosis,Melanoma Invasive,"(1024, 768)","(1024, 768)",2
+ISIC_0011126,seborrheic keratosis,Melanoma Invasive,"(1024, 768)","(1024, 768)",0
+ISIC_0011128,seborrheic keratosis,Melanoma in situ,"(1024, 768)","(1024, 768)",0
+ISIC_0011130,seborrheic keratosis,Melanoma in situ,"(1024, 768)","(1024, 768)",0
+ISIC_0011132,seborrheic keratosis,Melanoma Invasive,"(1024, 768)","(1024, 768)",0
+ISIC_0011135,seborrheic keratosis,Melanoma in situ,"(1024, 768)","(1024, 768)",0
+ISIC_0011136,seborrheic keratosis,Melanoma in situ,"(1024, 768)","(1024, 768)",0
+ISIC_0011137,seborrheic keratosis,Melanoma in situ,"(1024, 768)","(1024, 768)",0
+ISIC_0011138,seborrheic keratosis,Melanoma in situ,"(1024, 768)","(1024, 768)",0
+ISIC_0011139,seborrheic keratosis,Melanoma in situ,"(1024, 768)","(1024, 768)",0
+ISIC_0011140,seborrheic keratosis,Melanoma in situ,"(1024, 768)","(1024, 768)",0
+ISIC_0011151,seborrheic keratosis,Melanoma Invasive,"(1024, 768)","(1024, 768)",0
+ISIC_0011161,seborrheic keratosis,Melanoma Invasive,"(1024, 768)","(1024, 768)",0
+ISIC_0011163,seborrheic keratosis,Melanoma Invasive,"(1024, 768)","(1024, 768)",0
+ISIC_0011169,seborrheic keratosis,Melanoma Invasive,"(1024, 768)","(1024, 768)",0
+ISIC_0011178,seborrheic keratosis,Melanoma Invasive,"(1024, 768)","(1024, 768)",0
+ISIC_0011181,seborrheic keratosis,Melanoma in situ,"(1024, 768)","(1024, 768)",0
+ISIC_0011187,seborrheic keratosis,Melanoma in situ,"(1024, 768)","(1024, 768)",0
+ISIC_0010512,nevus,Solar or actinic keratosis,"(1024, 768)","(1024, 768)",0
+ISIC_0024511,nevus,Solar or actinic keratosis,"(600, 450)","(600, 450)",0
+ISIC_0024800,nevus,Solar or actinic keratosis,"(600, 450)","(600, 450)",0
+ISIC_0025427,nevus,Solar or actinic keratosis,"(600, 450)","(600, 450)",0
+ISIC_0025605,nevus,Solar or actinic keratosis,"(600, 450)","(600, 450)",0
+ISIC_0026040,nevus,Solar or actinic keratosis,"(600, 450)","(600, 450)",0
+ISIC_0026149,nevus,Solar or actinic keratosis,"(600, 450)","(600, 450)",0
+ISIC_0026171,nevus,Solar or actinic keratosis,"(600, 450)","(600, 450)",0
+ISIC_0026457,nevus,Solar or actinic keratosis,"(600, 450)","(600, 450)",0
+ISIC_0026625,nevus,Solar or actinic keratosis,"(600, 450)","(600, 450)",0
+ISIC_0026626,nevus,Solar or actinic keratosis,"(600, 450)","(600, 450)",2
+ISIC_0026650,nevus,Solar or actinic keratosis,"(600, 450)","(600, 450)",0
+ISIC_0027172,nevus,Solar or actinic keratosis,"(600, 450)","(600, 450)",0
+ISIC_0027447,nevus,Solar or actinic keratosis,"(600, 450)","(600, 450)",0
+ISIC_0027562,nevus,Solar or actinic keratosis,"(600, 450)","(600, 450)",0
+ISIC_0027802,nevus,Solar or actinic keratosis,"(600, 450)","(600, 450)",0
+ISIC_0028314,nevus,Solar or actinic keratosis,"(600, 450)","(600, 450)",0
+ISIC_0028370,nevus,Solar or actinic keratosis,"(600, 450)","(600, 450)",0
+ISIC_0028619,nevus,Solar or actinic keratosis,"(600, 450)","(600, 450)",0
+ISIC_0028854,nevus,Solar or actinic keratosis,"(600, 450)","(600, 450)",0
+ISIC_0028990,nevus,Solar or actinic keratosis,"(600, 450)","(600, 450)",0
+ISIC_0029133,nevus,Solar or actinic keratosis,"(600, 450)","(600, 450)",0
+ISIC_0029210,nevus,Solar or actinic keratosis,"(600, 450)","(600, 450)",0
+ISIC_0029460,nevus,Solar or actinic keratosis,"(600, 450)","(600, 450)",0
+ISIC_0010878,seborrheic keratosis,Melanoma in situ,"(1024, 768)","(1024, 768)",2
+ISIC_0010923,seborrheic keratosis,Melanoma Invasive,"(1024, 768)","(1024, 768)",0
+ISIC_0010965,seborrheic keratosis,Melanoma in situ,"(1024, 768)","(1024, 768)",0
+ISIC_0011031,seborrheic keratosis,Melanoma Invasive,"(1024, 768)","(1024, 768)",0
+ISIC_0011040,seborrheic keratosis,Melanoma Invasive,"(1024, 768)","(1024, 768)",0
+ISIC_0011052,seborrheic keratosis,Melanoma in situ,"(1024, 768)","(1024, 768)",2
+ISIC_0011077,seborrheic keratosis,Melanoma in situ,"(1024, 768)","(1024, 768)",0
+ISIC_0011094,seborrheic keratosis,Melanoma Invasive,"(1024, 768)","(1024, 768)",0
+ISIC_0011095,seborrheic keratosis,Melanoma in situ,"(1024, 768)","(1024, 768)",0
+ISIC_0011118,seborrheic keratosis,Melanoma in situ,"(1024, 768)","(1024, 768)",0
+ISIC_0011158,seborrheic keratosis,Melanoma Invasive,"(1024, 768)","(1024, 768)",0
+ISIC_0011166,seborrheic keratosis,Melanoma in situ,"(1024, 768)","(1024, 768)",0
+ISIC_0011174,seborrheic keratosis,Melanoma in situ,"(1024, 768)","(1024, 768)",0
+ISIC_0011176,seborrheic keratosis,Melanoma Invasive,"(1024, 768)","(1024, 768)",0
+ISIC_0011185,seborrheic keratosis,Melanoma in situ,"(1024, 768)","(1024, 768)",0
+ISIC_0011193,seborrheic keratosis,Melanoma in situ,"(1024, 768)","(1024, 768)",0

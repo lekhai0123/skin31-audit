@@ -1,0 +1,11 @@
+model,split,acc_pct_mean,acc_pct_per_seed
+1_b2_baseline,test (994),84.037558685446,"[np.float64(83.9), np.float64(83.6), np.float64(84.61)]"
+2_b2_trainopt,test (994),89.60429242119385,"[np.float64(89.64), np.float64(89.03), np.float64(90.14)]"
+3_b2_fusion_teacher,test (994),89.36955063715627,"[np.float64(89.54), np.float64(88.83), np.float64(89.74)]"
+4_b0_baseline,test (994),85.71428571428571,"[np.float64(85.31), np.float64(86.22), np.float64(85.61)]"
+5_b0_trainopt,test (994),88.96713615023474,"[np.float64(88.83), np.float64(88.13), np.float64(89.94)]"
+6_b0_kd_nonfusion,test (994),89.43661971830986,"[np.float64(89.13), np.float64(89.64), np.float64(89.54)]"
+7_b0_kd_fusion,test (994),89.60429242119382,"[np.float64(89.44), np.float64(89.64), np.float64(89.74)]"
+vit_s16,test (994),86.04963112005365,"[np.float64(85.81), np.float64(85.61), np.float64(86.72)]"
+authors,test (994),88.22937625754527,
+authors,train (3915),97.3690932311622,

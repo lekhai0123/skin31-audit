@@ -1,0 +1,32 @@
+class,train_before,train_after,d_train,test_before,test_after,d_test
+actinic keratosis,104,115,11,26,7,-19
+basal cell carcinoma,334,334,0,84,84,0
+darier_s disease,76,76,0,20,20,0
+dermatofibroma,88,88,0,23,14,-9
+epidermolysis bullosa pruriginosa,76,76,0,20,20,0
+hailey-hailey disease,116,115,-1,29,29,0
+herpes simplex,70,70,0,18,18,0
+impetigo,87,87,0,22,22,0
+larva migrans,112,112,0,28,28,0
+leprosy borderline,116,116,0,29,29,0
+leprosy lepromatous,234,234,0,59,59,0
+leprosy tuberculoid,187,187,0,47,46,-1
+lichen planus,105,105,0,27,27,0
+lupus erythematosus chronicus discoides,92,92,0,23,23,0
+melanoma,100,100,0,26,26,0
+molluscum contagiosum,107,107,0,27,27,0
+mycosis fungoides,92,92,0,24,24,0
+neurofibromatosis,68,68,0,18,18,0
+nevus,298,243,-55,75,50,-25
+papilomatosis confluentes and reticulate,72,72,0,18,18,0
+pediculosis capitis,65,65,0,17,17,0
+pigmented benign keratosis,382,382,0,96,71,-25
+pityriasis rosea,103,103,0,26,26,0
+porokeratosis actinic,101,101,0,26,25,-1
+psoriasis,105,105,0,27,27,0
+seborrheic keratosis,64,0,-64,16,0,-16
+squamous cell carcinoma,157,157,0,40,26,-14
+tinea corporis,91,91,0,23,23,0
+tinea nigra,94,94,0,24,24,0
+tungiasis,106,106,0,27,22,-5
+vascular lesion,113,113,0,29,13,-16
