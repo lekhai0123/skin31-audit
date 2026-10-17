@@ -1,4 +1,4 @@
-"""Fig. 4 (drawn at the manuscript text width). Training-data interventions on the corrected 30-class benchmark (Derm7pt, B0 + training opt., 3 seeds).
+"""Fig. 5 of the manuscript (saved as Figure_4 under the repository's earlier numbering; drawn at the manuscript text width). Training-data interventions on the corrected 30-class benchmark (Derm7pt, B0 + training opt., 3 seeds).
 Arms: A corrected; H + HAM10000 dermoscopic BCC/MEL; B + MILK10k clinical; C + MILK10k dermoscopic of the same lesions.
 (a) E1 dermoscopic recall of target classes; (b) E2 modality gap of target classes; (c) E3 modality gap of untreated
 classes; (d) dermoscopic recall of untreated nevi. Brackets: matched contrast C - B."""
@@ -48,7 +48,7 @@ y = np.arange(5)[::-1]
 for ax, (ltr, title, vals, est, ccol) in zip(axs, panels):
     for yi, (code, lab, _, col, hatch), v in zip(y, arms, vals):
         ax.barh(yi, v, height=0.62, color=col, hatch=hatch, edgecolor="white", lw=0.6, zorder=2)
-        ax.text(v + 0.025, yi, f"{v:.2f}", va="center", fontsize=7.5, color=INK2)
+        ax.text(v + 0.025, yi, f"{v:.2f}", va="center", fontsize=8, color=INK2)
     # bracket between B and C, placed just right of the longer bar and its label
     xr = max(vals[3], vals[4]) + 0.25
     ax.plot([xr, xr + 0.03, xr + 0.03, xr], [y[3] + 0.12, y[3] + 0.12, y[4] - 0.12, y[4] - 0.12], color=INK, lw=0.7)
@@ -56,10 +56,10 @@ for ax, (ltr, title, vals, est, ccol) in zip(axs, panels):
         delta = cb.loc[est, "delta"]
     else:  # nevi: report the change of C relative to B as well, descriptively
         delta = vals[4] - vals[3]
-    ax.text(xr + 0.06, (y[3] + y[4]) / 2, f"C−B\n{delta:+.2f}", fontsize=7.5, color=ccol, fontweight="bold",
+    ax.text(xr + 0.06, (y[3] + y[4]) / 2, f"C−B\n{delta:+.2f}".replace("-", chr(0x2212)), fontsize=8, color=ccol, fontweight="bold",
             va="center", linespacing=1.05)
     ax.set_xlim(0, 1.35)
-    ax.set_xticks([0, 0.5, 1], ["0", "0.5", "1"], fontsize=7.5)
+    ax.set_xticks([0, 0.5, 1], ["0", "0.5", "1"], fontsize=8)
     ax.set_ylim(-1.15, 4.55)
     ax.grid(axis="y", visible=False)
     ax.tick_params(axis="y", length=0)
@@ -68,9 +68,9 @@ for ax, (ltr, title, vals, est, ccol) in zip(axs, panels):
     ax.text(0.02, 1.05, title, transform=ax.transAxes, fontweight="bold", fontsize=8, color=INK, ha="left",
             va="bottom", linespacing=1.1)
 for axl in (axs[0], axs[2]):
-    axl.set_yticks(y, [f"{a[0]}   {a[1]}" for a in arms], fontsize=7.5)
+    axl.set_yticks(y, [f"{a[0]}   {a[1]}" for a in arms], fontsize=8)
     for t, a in zip(axl.get_yticklabels(), arms):
         t.set_color(INK2 if a[0] == "A" else a[3])
-fig.text(0.98, 0.015, "↑ higher is better   ↓ lower is better   C − B: same 427 lesions, dermoscopic vs clinical images added",
-         ha="right", fontsize=7, color=INK2)
+fig.text(0.98, 0.015, "↑ higher recall   ↓ smaller modality gap   C − B: same 427 lesions, dermoscopic vs clinical images added",
+         ha="right", fontsize=7.5, color=INK2)
 save(fig, "Figure_4")

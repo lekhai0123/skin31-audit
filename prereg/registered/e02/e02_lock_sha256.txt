@@ -1,0 +1,12 @@
+# SHA-256 of the E-02 plan and the files it locks, computed 2026-10-17 03:16 +0700 before any E-02 model was trained.
+# Recomputed after the run script's registration argument was changed (OSF maintenance); earlier list of 03:10 superseded.
+e09ce1a0f5881914b2674dda25268024fba28bd571f50b01bb2423d2c0ed727a  prereg/e02_balanced_view_plan.md
+91b49892f6c9f7e66ac2d9a99bbfd70379303727c4e9b8c5110d480dbd2950f2  prereg/derm7pt_manifest.csv
+ede47120f754286df8bc5398e3b3446c75b5e9fd4c8498e3d1541bde03138572  prereg/e02_folds.csv
+ea034c6faa816128038897c3e48ab1313cb1245c0ecdd557434700b28419698c  prereg/e02_arm_assignment.csv
+c1eb376b8bb301a62bdacd8e33878d9e83dcbce2b8826866f6c987a957dc34e3  scripts/build_e02_arms.py
+dff4b75a0a842e01087c3b5179c83d1d101dbcd3d31ad6b84dff91c90949010e  scripts/e02_make_runtime.py
+ef38481f028dca7bb31893cbd5d7055f8d41a57ea3ea59093b9614ca594c9a11  outputs/e02/runtime/e02_train.py
+fdde61579587baf00dfdf65dce121d3262243bb65d968a0824a61c72e2dc594a  scripts/e02_run_training.py
+cba0f2f247357b45d119dfa236a7f0c7177af716ad4e3c6f66b38ed4d7c3a4de  scripts/e02_eval.py
+8ce23a595dc48cd842e9d880ee5cb5a9773abf88540ed7c269d870cb4b1af576  final_submission/skin31-audit/notebooks/training_kaggle_portable.ipynb

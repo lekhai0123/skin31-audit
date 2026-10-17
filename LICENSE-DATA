@@ -6,7 +6,7 @@ released under a licence compatible with the dataset it is derived from:
 
 1. Files derived from the 31-class benchmark (Kaggle "31 Classes of Skin Disease",
    CC BY-SA 4.0): lists/skin31_*, outputs/dup_check (benchmark files), outputs/repro,
-   outputs/clean_eval, outputs/embed_leak, outputs/authors_model, outputs/mendeley32.
+   outputs/clean_eval, outputs/embed_leak, outputs/authors_model, outputs/mendeley32, outputs/e01.
    These directory-level examples apply to benchmark-derived files only; external-cohort subsets are assigned in items 2 and 4 below.
    Licence: Creative Commons Attribution-ShareAlike 4.0 International (CC BY-SA 4.0),
    https://creativecommons.org/licenses/by-sa/4.0/
@@ -16,7 +16,7 @@ released under a licence compatible with the dataset it is derived from:
    identifiers, reference-label groupings and author-generated model outputs only:
    prereg/derm7pt_manifest.csv,
    outputs/derm7pt, and the Derm7pt parts of outputs/deconf, outputs/milk_eval,
-   outputs/vit and outputs/sensitivity; the Derm7pt prediction arrays in outputs/relabel_eval and outputs/vit_milk; and the Derm7pt portions of outputs/tradeoffs, outputs/derm7pt_overall, outputs/grouping_check, outputs/e3_decomposition and outputs/seed_sensitivity.
+   outputs/vit and outputs/sensitivity; the Derm7pt prediction arrays in outputs/relabel_eval and outputs/vit_milk; and the Derm7pt portions of outputs/tradeoffs, outputs/derm7pt_overall, outputs/grouping_check, outputs/e3_decomposition and outputs/seed_sensitivity; from version 1.1.0, prereg/e02_folds.csv, prereg/e02_arm_assignment.csv, outputs/e02, outputs/pilot_e02, the Derm7pt arrays in outputs/e03/logits and the Derm7pt-based results in outputs/e03 and outputs/holm.
    Source licence: CC BY-NC-ND 4.0,
    https://creativecommons.org/licenses/by-nc-nd/4.0/
    No permission to reuse or redistribute the images is granted by this release.
@@ -28,7 +28,7 @@ released under a licence compatible with the dataset it is derived from:
    prereg/deconf_excluded_ham.csv, prereg/milk_*.csv, outputs/deconf, outputs/milk.
    Licence: CC BY-NC 4.0, https://creativecommons.org/licenses/by-nc/4.0/
 
-4. Files derived from PAD-UFES-20 (CC BY 4.0): prereg/pad_manifest.csv, outputs/pad, and the PAD prediction arrays in outputs/deconf, outputs/milk_eval, outputs/relabel_eval and outputs/vit_milk.
+4. Files derived from PAD-UFES-20 (CC BY 4.0): prereg/pad_manifest.csv, outputs/pad, and the PAD prediction arrays in outputs/deconf, outputs/milk_eval, outputs/relabel_eval, outputs/vit_milk and outputs/e03/logits.
    Licence: CC BY 4.0, https://creativecommons.org/licenses/by/4.0/
 
 5. The copies in prereg/registered inherit the terms of their corresponding original files above.

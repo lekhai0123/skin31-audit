@@ -10,9 +10,9 @@ authors:
     given-names: Trong Huynh
     affiliation: "Ho Chi Minh City University of Natural Resources and Environment"
 license: MIT
-doi: 10.5281/zenodo.23268495
+doi: 10.5281/zenodo.23440693
 repository-code: "https://github.com/lekhai0123/skin31-audit"
-version: 1.0.0
+version: 1.1.0
 preferred-citation:
   type: article
   title: "Same Lesion, Different Answer: Label Errors and Source–Modality Confounding in a Composite Skin Disease Benchmark"

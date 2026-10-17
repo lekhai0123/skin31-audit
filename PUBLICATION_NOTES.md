@@ -2,6 +2,8 @@
 
 This file records publication choices that cannot be fabricated during an offline preflight.
 
+Status (18 October 2026): version 1.1.0 is a new version of the same Zenodo record (version DOI 10.5281/zenodo.23440693); the plan of the balanced-view reference was registered on OSF (https://osf.io/mx3z9) after training, because OSF was unavailable for scheduled maintenance; its locked files are unchanged.
+
 Status (10 October 2026): items 1-2 done (GitHub https://github.com/lekhai0123/skin31-audit; reserved Zenodo DOI 10.5281/zenodo.23268495, version 1.0.0). Item 6: osf.io/hn7yk, pe8q6 and 5ksja are public; osf.io/643ht was withdrawn by mistake and replaced by osf.io/jzsr9 with byte-identical files (checked against prereg/registered/derm7pt).
 
 1. Confirm the public GitHub owner/repository URL and the release version/tag. Add the verified URL as `repository-code` in `CITATION.cff` and as a link in `README.md`.

@@ -8,6 +8,21 @@ Code, image lists and results for:
 
 Reported metrics are computed from archived checkpoints. `scripts/reproduce.py` reproduces internal benchmark inference; the external and intervention scripts evaluate their respective cohorts. The release includes cached logits and checkpoint SHA256 hashes, so core statistical results can also be verified without the original images or model weights.
 
+## Changes in version 1.1.0
+
+Version 1.1.0 adds the analyses of the revised manuscript. All files of version 1.0.0 are unchanged except this README, `CITATION.cff`, `LICENSE-DATA`, `PUBLICATION_NOTES.md`, the bibliography in `paper/` and `scripts/figures/fig5_interventions.py` (footer of Figure 5 as published).
+
+| Addition | Files |
+|---|---|
+| Balanced-view reference on Derm7pt (Supplementary Section S21): plan, SHA-256 lock list, fold and view assignment, training and evaluation code, out-of-fold predictions of the 30 models, results, run logs and checkpoint hashes | `prereg/e02_*`, `scripts/build_e02_arms.py`, `scripts/e02_make_runtime.py`, `scripts/e02_run_training.py`, `scripts/e02_eval.py`, `outputs/e02/`, `checkpoints/checkpoint_manifest_e02.csv` |
+| Group switching in the balanced-view reference (post hoc; Supplementary Section S23) | `scripts/e02_posthoc_switching.py`, `outputs/e02/posthoc/` |
+| Pilot of the balanced-view design with frozen DINOv2 features (disclosed in the plan; not part of the reported evidence) | `scripts/pilot_e02_probe.py`, `outputs/pilot_e02/` |
+| Two further training runs of arms B and C (seeds 1 and 2; exploratory; Supplementary Section S22): plan, SHA-256 lock list, evaluation code, cached logits, five-run results and checkpoint hashes | `prereg/e03_*`, `scripts/e03_eval.py`, `outputs/e03/`, `checkpoints/checkpoint_manifest_extra_seeds.csv` |
+| Holm sensitivity analysis of Table 4 (Supplementary Section S19) | `scripts/holm_table4.py`, `outputs/holm/` |
+| Image type of every ISIC-derived image from the ISIC Archive (retrieved 17 October 2026) | `scripts/isic_image_type.py`, `outputs/e01/isic_image_type.csv` |
+
+The lock lists `prereg/e02_lock_sha256.txt` and `prereg/e03_lock_sha256.txt` record paths relative to the authors' working directory; in this release the locked notebook is `notebooks/training_kaggle_portable.ipynb`, and every other locked file is at its listed path. The training images of the balanced-view reference (hard links to Derm7pt) and all weights are not included. `outputs/e02/results/e02_summary.txt` prints the coupled-arm P1 as 0.962 because of floating-point rounding; its exact value is 0.9625 (2,772/2,880), reported as 0.963.
+
 ## Contents
 
 | Folder | Content |
@@ -18,7 +33,7 @@ Reported metrics are computed from archived checkpoints. `scripts/reproduce.py` 
 | `prereg/` | Analysis plans exactly as registered on OSF, with the manifests and hashes they reference |
 | `lists/` | Corrected benchmark (`skin31_clean`) and intervention datasets (`skin31_deconf` = arm H, `skin31_milkB`, `skin31_milkC`, `skin31_relabel` = arm R): per-image manifest with the reason for every change, class counts before/after, and the added HAM10000/MILK10k images |
 | `outputs/` | Results tables and model outputs (logits) behind every number in the paper |
-| `checkpoints/` | SHA256 hashes of all model checkpoints, including arm R and the ViT-S/16 arms B and C (weights are not included) |
+| `checkpoints/` | SHA256 hashes of all model checkpoints, including arm R, the ViT-S/16 arms B and C, the two further runs of arms B and C and the 30 models of the balanced-view reference (weights are not included) |
 | `graphical_abstract/` | Sources and licences of the ISIC Archive images used in the graphical abstract |
 | `notebooks/` | Archived Kaggle working template and a separately labelled portable adaptation (see `notebooks/README.md`) |
 
@@ -30,8 +45,11 @@ Reported metrics are computed from archived checkpoints. `scripts/reproduce.py` 
 | PAD-UFES-20 external testing | [osf.io/hn7yk](https://osf.io/hn7yk) | `scripts/pad_eval.py` |
 | HAM10000 intervention (arm H) | [osf.io/pe8q6](https://osf.io/pe8q6) | `scripts/deconf_eval.py` |
 | MILK10k matched control (arms B, C) | [osf.io/5ksja](https://osf.io/5ksja) | `scripts/milk_eval.py` |
+| Balanced-view reference on Derm7pt | [osf.io/mx3z9](https://osf.io/mx3z9); plan and locked files fixed by SHA-256 before training, registered after training because OSF was unavailable for scheduled maintenance (16–19 October 2026) | `scripts/e02_eval.py` |
 
 The Derm7pt plan was registered as osf.io/643ht on 30 September 2026. That registration was withdrawn by mistake on 9 October 2026 while its embargo was being ended; the byte-identical files were re-deposited as osf.io/jzsr9 (its description records the replacement). Registered files that predate the replacement, such as the PAD and HAM10000 plans, still cite osf.io/643ht and are left unchanged.
+
+The two further training runs of arms B and C were fixed in a plan locked by SHA-256 before training (`prereg/e03_extra_seeds_plan.md`, `prereg/e03_lock_sha256.txt`); that plan was not registered on OSF, and the analysis is exploratory.
 
 Files in `prereg/` and the evaluation scripts above preserve the registered versions. Complete, unmodified local registration bundles and their original SHA256 lists are also in `prereg/registered/`. PAD was registered after an exploratory evaluation; arm R, ViT, overall diagnostic performance and later sensitivity analyses are exploratory. Deviations and timing are reported in the Supplementary material.
 
@@ -44,6 +62,16 @@ python scripts/verify_cached_results.py --bootstrap --out verification
 ```
 
 This loads the numeric prediction arrays with `allow_pickle=False`, checks their shape and finiteness, validates the unchanged local registration bundles, and recomputes the paired E1/E2/E3 estimates and 2,000 lesion-bootstrap CIs for R−A, H−A and C−B on B0 and ViT. It checks them against the archived result tables. It does not download images, load model weights or retrain models. `lists/class_mapping_clean.json` records the 30-output order independently of an image folder.
+
+The analyses added in version 1.1.0 can be recomputed in the same way, without images or weights:
+
+```bash
+python scripts/e02_eval.py analyze --out-dir verification/e02   # Supplementary Table S21 from the saved predictions
+python scripts/e02_posthoc_switching.py                         # Supplementary Tables S23 and S24
+python scripts/holm_table4.py                                   # Supplementary Table S19
+```
+
+`scripts/e03_eval.py` (Supplementary Table S22) reads the cached logits in `outputs/e03/logits` and `outputs/milk_eval/logits`, but it lists the PAD-UFES-20 images to obtain their labels, so it needs that dataset under `data/archive/`.
 
 ## Reproduce inference or training
 
@@ -84,6 +112,12 @@ The general training helpers in `code/skin_disease/experiment.py` and `datasets.
 | `check_mendeley32.py` | Check of the 2026 derivative dataset |
 | `make_external_review.py`, `make_ham_review.py` | Blind visual review pages for duplicate candidates |
 | `build_bib.py`, `figures/*.py` | Paper references and figures |
+| `build_e02_arms.py`, `e02_make_runtime.py`, `e02_run_training.py`, `e02_eval.py` | Balanced-view reference: folds and view assignment, training runtime, training runs and evaluation (Supplementary Section S21) |
+| `e02_posthoc_switching.py` | Group switching in the balanced-view reference (post hoc; Supplementary Section S23) |
+| `pilot_e02_probe.py` | Pilot of the balanced-view design (frozen DINOv2 features of the Derm7pt images, not included; not part of the reported evidence) |
+| `e03_eval.py` | Two further training runs of arms B and C (exploratory; Supplementary Section S22) |
+| `holm_table4.py` | Holm sensitivity analysis of Table 4 (Supplementary Section S19) |
+| `isic_image_type.py` | Image type of the ISIC-derived images from the ISIC Archive |
 
 ## Visual reviews
 
@@ -117,7 +151,7 @@ Paths in the released CSV files are relative to the project root.
 
 ## Environment
 
-Evaluation: Python 3.12, PyTorch 2.10.0, torchvision 0.25.0, timm 1.0.26, Pillow 11.3.0, NumPy 2.0.2 (see `requirements.txt`). Training: Kaggle notebook in `notebooks/` (NVIDIA T4, PyTorch 2.10.0 + CUDA 12.8). The training set of every model is the concatenation of seven fixed augmented views of each image, sampled with inverse-class-frequency weights (see Supplementary Section S13 of the paper).
+Evaluation: Python 3.12, PyTorch 2.10.0, torchvision 0.25.0, timm 1.0.26, Pillow 11.3.0, NumPy 2.0.2 (see `requirements.txt`). Training: Kaggle notebook in `notebooks/` (NVIDIA T4, PyTorch 2.10.0 + CUDA 12.8). The training set of every model is the concatenation of seven fixed augmented views of each image, sampled with inverse-class-frequency weights (see Supplementary Section S13 of the paper). The balanced-view reference was trained and evaluated locally (NVIDIA GTX 1080 Ti; Python 3.12, PyTorch 2.10.0 with CUDA 12.6, torchvision 0.25.0, timm 1.0.26) with the training functions of the portable notebook (`outputs/e02/runtime/e02_train.py`); the two further runs of arms B and C used the same Kaggle notebook and library versions as the other runs.
 
 ## Licence
 
@@ -125,4 +159,4 @@ Code: MIT (`LICENSE`). Lists, manifests and results: see `LICENSE-DATA`.
 
 ## Citation
 
-Archived release: https://doi.org/10.5281/zenodo.23268495 . Development repository: https://github.com/lekhai0123/skin31-audit . See `CITATION.cff`.
+Archived release (version 1.1.0): https://doi.org/10.5281/zenodo.23440693 . Version 1.0.0: https://doi.org/10.5281/zenodo.23268495 . Development repository: https://github.com/lekhai0123/skin31-audit . See `CITATION.cff`.

@@ -1,0 +1,4 @@
+P1 COUPLED (mean of seeds) = 0.962; P1 BALANCED = 0.006; residual share = 0.006
+primary contrasts supported: True
+wording: In a controlled six-diagnosis experiment on Derm7pt, coupling the training view to the diagnosis was sufficient to produce paired-view routing, and balancing the view within each diagnosis removed most of it.
+scope: models trained and tested on Derm7pt with six diagnoses; this does not establish how much of the routing of the benchmark-trained models is due to coupling.
